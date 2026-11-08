@@ -1,0 +1,360 @@
+{
+  "slug": "bulgari-resort-dubai",
+  "name": "Bulgari Resort Dubai",
+  "operator": "Bvlgari Hotels & Resorts",
+  "brand": "Bvlgari",
+  "country": "United Arab Emirates",
+  "region": "Middle East",
+  "city": "Dubai",
+  "area": "Jumeira Bay Island",
+  "type": "resort",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "Jumeira Bay Island, Jumeira 2, Dubai, United Arab Emirates",
+  "lat": 25.21104,
+  "lng": 55.23467,
+  "officialSite": "https://www.bulgarihotels.com/en_US/dubai",
+  "rooms": 101,
+  "suites": null,
+  "villas": 20,
+  "opened": null,
+  "airport": {
+    "code": "DXB",
+    "minutes": 25
+  },
+  "tagline": "One hundred and one rooms and twenty villas on a seahorse-shaped island in Jumeira Bay.",
+  "description": "Bvlgari Resort Dubai stands on Jumeira Bay Island, an island shaped like a seahorse, with 101 rooms and suites and 20 villas. It is a two-minute ride from the mainland over a 300-metre bridge, 25 minutes by car from Dubai International Airport, and has its own beach, marina and yacht club.\n\nThe Italian firm Antonio Citterio Patricia Viel designed the resort in the manner of the Italian Riviera, with a coral-like sunshade wrapped around the facade, oak planks recalling a ship's deck, and black granite, travertine and Bvlgari marble inside. The property faces the Arabian Gulf, with the Dubai skyline across the bay.\n\nEvery room and suite has a private balcony. Guestrooms measure 53 square metres, the Deluxe Beach View Room 55, and Junior Suites 80, with views of the skyline or the Gulf. The Executive Suite is 105 square metres, and the Bvlgari Suite 120, with a 60-square-metre terrace and a two-person hydromassage. The 20 villas stand in two rows facing the beach or the skyline, each with its own pool. They have one, two or three bedrooms at 175, 250 and 315 square metres, and the Bvlgari Villa, the largest, covers 540 square metres.\n\nIl Ristorante, Niko Romito, has held two Michelin stars in the Michelin Guide Dubai since 2022, and is the Italian restaurant of the chef whose Reale in Italy held three. The Yacht Clvb Restaurant overlooks a 46-boat harbour and serves Italian fish, with a house band on Friday and Saturday evenings and Sunday afternoons. At the Serpenti Beach Clvb, La Spiaggia serves food by day and by lantern light at night, and Il Caffè has an outdoor terrace and an open pizza oven. Dario Abbate is Executive Chef.\n\nThe Bvlgari Spa and Gymnasivm cover 1,700 square metres on the ground floor, with seven treatment rooms, a couple suite, a hammam, a 25-metre indoor pool and a vitality pool inspired by the Roman baths of Caracalla. The gym is open 24 hours. Children have the Little Gems Clvb and a pool of their own.\n\nThe resort suits travellers who want a private villa or a beach room within reach of the Burj Khalifa and the Dubai Mall.",
+  "highlights": [
+    {
+      "label": "Setting",
+      "value": "A seahorse-shaped island in Jumeira Bay, 25 minutes by car from Dubai International Airport.",
+      "sourceUrl": "https://www.bulgarihotels.com/en_US/dubai/location",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Villas",
+      "value": "20 villas with one to three bedrooms and private pools, plus the 540 square metre Bvlgari Villa.",
+      "sourceUrl": "https://www.bulgarihotels.com/en_US/dubai/accommodation/villas",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Bvlgari Suite",
+      "value": "120 square metres with a 60-square-metre terrace and a two-person hydromassage.",
+      "sourceUrl": "https://www.bulgarihotels.com/en_US/dubai/accommodation/rooms-and-suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Il Ristorante",
+      "value": "Two Michelin stars in the Michelin Guide Dubai since 2022, with menus by Niko Romito.",
+      "sourceUrl": "https://www.bulgarihotels.com/en_US/dubai/dining/il-ristorante-niko-romito",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Marina and Yacht Clvb",
+      "value": "Bvlgari's first marina and yacht club, overlooking a 46-boat harbour.",
+      "sourceUrl": "https://www.bulgarihotels.com/en_US/dubai/dining/yacht-club-restaurant",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Spa",
+      "value": "1,700 square metres with a 25-metre indoor pool and a vitality pool inspired by the Baths of Caracalla.",
+      "sourceUrl": "https://www.bulgarihotels.com/en_US/dubai/spa-and-fitness/the-bulgari-spa",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Rooms and suites",
+      "value": "101",
+      "sourceUrl": "https://www.bulgarihotels.com/en_US/dubai/the-resort/overview",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Villas",
+      "value": "20, in two rows facing the beach or the skyline, each with its own pool",
+      "sourceUrl": "https://www.bulgarihotels.com/en_US/dubai/accommodation/villas",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Address",
+      "value": "Jumeira Bay Island, Jumeira 2, Dubai, UAE",
+      "sourceUrl": "https://www.bulgarihotels.com/en_US/dubai/location",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Dubai International Airport",
+      "value": "25 minutes by car; Al Maktoum International Airport 45 minutes by car",
+      "sourceUrl": "https://www.bulgarihotels.com/en_US/dubai/location",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Access",
+      "value": "Two minutes from the mainland over a 300-metre bridge",
+      "sourceUrl": "https://www.bulgarihotels.com/en_US/dubai/the-resort/destination",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Architects",
+      "value": "ACPV Architects, Antonio Citterio Patricia Viel",
+      "sourceUrl": "https://www.bulgarihotels.com/en_US/dubai/the-resort/the-design",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Guestrooms",
+      "value": "53 square metres with a 15 square metre terrace",
+      "sourceUrl": "https://www.bulgarihotels.com/en_US/dubai/accommodation/rooms-and-suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Junior Suites",
+      "value": "80 square metres with a 25 square metre terrace",
+      "sourceUrl": "https://www.bulgarihotels.com/en_US/dubai/accommodation/rooms-and-suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Executive Suites",
+      "value": "105 square metres with a 30 square metre terrace",
+      "sourceUrl": "https://www.bulgarihotels.com/en_US/dubai/accommodation/rooms-and-suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Bvlgari Suite",
+      "value": "120 square metres with a 60 square metre terrace",
+      "sourceUrl": "https://www.bulgarihotels.com/en_US/dubai/accommodation/rooms-and-suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Deluxe Beach View Room",
+      "value": "55 square metres, private balcony",
+      "sourceUrl": "https://www.bulgarihotels.com/en_US/dubai/the-resort/overview",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Villas by size",
+      "value": "One bedroom 175 square metres; two bedrooms 250; three bedrooms 315; Bvlgari Villa 540",
+      "sourceUrl": "https://www.bulgarihotels.com/en_US/dubai/accommodation/villas",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Il Ristorante - Niko Romito",
+      "value": "Two Michelin stars in the Michelin Guide Dubai since 2022",
+      "sourceUrl": "https://www.bulgarihotels.com/en_US/dubai/dining/il-ristorante-niko-romito",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Yacht Clvb Restaurant",
+      "value": "Italian fish restaurant overlooking a 46-boat harbour; live music by the house band Étoile Friday and Saturday 7:30 pm to 10:30 pm, Sunday 1 pm to 4 pm",
+      "sourceUrl": "https://www.bulgarihotels.com/en_US/dubai/dining/yacht-club-restaurant",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Executive Chef",
+      "value": "Dario Abbate",
+      "sourceUrl": "https://www.bulgarihotels.com/en_US/dubai/dining/la-spiaggia",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Spa and gymnasium",
+      "value": "1,700 square metres; 7 treatment rooms and a couple suite; hammam; 25-metre indoor pool; vitality pool",
+      "sourceUrl": "https://www.bulgarihotels.com/en_US/dubai/spa-and-fitness/the-bulgari-spa",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Fitness centre",
+      "value": "Open 24 hours",
+      "sourceUrl": "https://www.bulgarihotels.com/en_US/dubai/spa-and-fitness/the-bulgari-spa",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Spa hours",
+      "value": "Spa 8 am to 11 pm; treatments 10 am to 10 pm",
+      "sourceUrl": "https://www.bulgarihotels.com/en_US/dubai/spa-and-fitness/the-bulgari-spa",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Children",
+      "value": "Little Gems Clvb with its own pool",
+      "sourceUrl": "https://www.bulgarihotels.com/en_US/dubai/dining/la-spiaggia",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "stay22Id": "39639947",
+  "rating": {
+    "score": 9.5,
+    "reviews": 399,
+    "source": "booking",
+    "date": "2026-11-08"
+  },
+  "price": {
+    "from": 1956,
+    "date": "2026-11-08"
+  },
+  "booking": {
+    "supplier": "booking"
+  },
+  "photos": [
+    {
+      "src": "/photos/bulgari-resort-dubai/1.jpg",
+      "srcSmall": "/photos/bulgari-resort-dubai/1-640.jpg",
+      "srcMid": "/photos/bulgari-resort-dubai/1-1000.jpg",
+      "srcHero": "/photos/bulgari-resort-dubai/1-2400.jpg",
+      "width": 1600,
+      "height": 869,
+      "credit": "Bvlgari Resort Dubai",
+      "creditUrl": "https://www.bulgarihotels.com/en_US/dubai/yacht-club/yacht-club",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.bulgarihotels.com/dam/DUBAI/Yacht-Club/0098_T.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/bulgari-resort-dubai/2.jpg",
+      "srcSmall": "/photos/bulgari-resort-dubai/2-640.jpg",
+      "srcMid": "/photos/bulgari-resort-dubai/2-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "Bvlgari Resort Dubai",
+      "creditUrl": "https://www.bulgarihotels.com/en_US/dubai/the-resort/overview",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.bulgarihotels.com/dam/DUBAI/Image-Gallery/The-Resort/bvlgari-resort-dubai-the-resort2.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/bulgari-resort-dubai/3.jpg",
+      "srcSmall": "/photos/bulgari-resort-dubai/3-640.jpg",
+      "srcMid": "/photos/bulgari-resort-dubai/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Bvlgari Resort Dubai",
+      "creditUrl": "https://www.bulgarihotels.com/en_US/dubai/the-resort/overview",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.bulgarihotels.com/dam/DUBAI/WhatsOn/Serpenti-Beach-Club/bvlgari-resort-dubai-serpenti-beach-club-5.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/bulgari-resort-dubai/4.jpg",
+      "srcSmall": "/photos/bulgari-resort-dubai/4-640.jpg",
+      "srcMid": "/photos/bulgari-resort-dubai/4-1000.jpg",
+      "srcHero": "/photos/bulgari-resort-dubai/4-2400.jpg",
+      "width": 1600,
+      "height": 1089,
+      "credit": "Bvlgari Resort Dubai",
+      "creditUrl": "https://www.bulgarihotels.com/en_US/dubai/accommodation/villas",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.bulgarihotels.com/dam/DUBAI/villas-and-rooms/BHR-DXB---3-Bedroom-Skyline-Villa-Exterior-2.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/bulgari-resort-dubai/5.jpg",
+      "srcSmall": "/photos/bulgari-resort-dubai/5-640.jpg",
+      "srcMid": "/photos/bulgari-resort-dubai/5-1000.jpg",
+      "srcHero": "/photos/bulgari-resort-dubai/5-2400.jpg",
+      "width": 1600,
+      "height": 990,
+      "credit": "Bvlgari Resort Dubai",
+      "creditUrl": "https://www.bulgarihotels.com/en_US/dubai/accommodation/garden-rooms-and-suites",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.bulgarihotels.com/dam/DUBAI/villas-and-rooms/Garden-Rooms-and-Suites/Bulgari-Garden-Deluxe-Suite-Living-Room_0002.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/bulgari-resort-dubai/6.jpg",
+      "srcSmall": "/photos/bulgari-resort-dubai/6-640.jpg",
+      "srcMid": "/photos/bulgari-resort-dubai/6-1000.jpg",
+      "srcHero": "/photos/bulgari-resort-dubai/6-2400.jpg",
+      "width": 1600,
+      "height": 884,
+      "credit": "Bvlgari Resort Dubai",
+      "creditUrl": "https://www.bulgarihotels.com/en_US/dubai/the-resort/overview",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.bulgarihotels.com/dam/DUBAI/ARCHIVIO/Lobbies.zip/Bvlgari-Resort-Dubai-Lobby2.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/bulgari-resort-dubai/7.jpg",
+      "srcSmall": "/photos/bulgari-resort-dubai/7-640.jpg",
+      "srcMid": "/photos/bulgari-resort-dubai/7-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "Bvlgari Resort Dubai",
+      "creditUrl": "https://www.bulgarihotels.com/en_US/dubai/dining/il-ristorante-niko-romito",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.bulgarihotels.com/dam/DUBAI/Bar-and-Restaurant/ILRISTORANTENIKOROMITO/bvlgari-resort-dubai-il-ristorante-niko-romito1.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/bulgari-resort-dubai/8.jpg",
+      "srcSmall": "/photos/bulgari-resort-dubai/8-640.jpg",
+      "srcMid": "/photos/bulgari-resort-dubai/8-1000.jpg",
+      "srcHero": "/photos/bulgari-resort-dubai/8-2400.jpg",
+      "width": 1600,
+      "height": 1061,
+      "credit": "Bvlgari Resort Dubai",
+      "creditUrl": "https://www.bulgarihotels.com/en_US/dubai/dining/la-spiaggia",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.bulgarihotels.com/dam/DUBAI/Bar-and-Restaurant/LASPIAGGIA/la-spiaggia-slider.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/bulgari-resort-dubai/9.jpg",
+      "srcSmall": "/photos/bulgari-resort-dubai/9-640.jpg",
+      "srcMid": "/photos/bulgari-resort-dubai/9-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 667,
+      "credit": "Bvlgari Resort Dubai",
+      "creditUrl": "https://www.bulgarihotels.com/en_US/dubai/the-resort/overview",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.bulgarihotels.com/dam/DUBAI/The-Resort/bvlgari-resort-dubai-overview.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "lastVerified": "2026-11-09"
+}

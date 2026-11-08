@@ -1,0 +1,354 @@
+{
+  "slug": "ritz-paris",
+  "name": "Ritz Paris",
+  "operator": "Ritz Paris",
+  "brand": "",
+  "country": "France",
+  "region": "Europe",
+  "city": "Paris",
+  "area": "Place Vendôme",
+  "type": "city",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "15 Place Vendôme, 75001 Paris, France",
+  "lat": 48.86797,
+  "lng": 2.32884,
+  "officialSite": "https://www.ritzparis.com/",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": 1898,
+  "airport": null,
+  "tagline": "One hundred and forty-two rooms and suites at 15 Place Vendôme, open since 1898.",
+  "description": "The Ritz Paris is a hotel of 142 rooms and suites at 15 Place Vendôme, in the first arrondissement. César Ritz opened it on 1 June 1898 as the first hotel to bear his name, and it keeps a garden, a pool, a Michelin-starred restaurant and 16 named Prestige Suites.\n\nThe hotel stands on the royal square, a short walk from the Opéra Garnier and the Louvre. Coco Chanel, Ernest Hemingway and Marcel Proust were among its guests, and several of the suites carry their names. The Grand Jardin lies at the centre of the house, with the Espadon restaurant across from it.\n\nThe 142 rooms and suites are each different. The Superior Room measures 35 square metres and the Grand Deluxe Room 55. The Prestige Suites include the Suite Ernest Hemingway at 79 square metres over the Grand Jardin, the Suite Opéra at 87 square metres, and the Suite Mansart at 85 square metres, with a terrace and a view of the Eiffel Tower. The Suite Vendôme covers 163 square metres, L'Appartement Ritz takes the whole seventh floor at 169 square metres, and the Suite F. Scott Fitzgerald has two bedrooms and a hammam over 185 square metres. The Suite Coco Chanel measures 188 square metres, and the Suite Impériale, at 218 square metres, has a private dining room and a view of Place Vendôme.\n\nEspadon holds a Michelin star under Eugénie Béziat and serves dinner from Tuesday to Saturday. The Bar Vendôme is open every day from 9 am to midnight, with a terrace, and the Ritz Bar is run by Romain de Courcy. Tea is served in the Salon Proust by the head pastry chef Olivier Lainé, and breakfast in the Salon Marie-Louise. The hotel also has the Ecole Ritz Escoffier for cooking courses.\n\nThe Ritz Club & Spa, at 17 Place Vendôme, has an indoor pool, three fitness rooms and treatment rooms, and a hair salon by David Mallett. Treatments are given every day from 9 am to 8 pm, and the hotel's fitness centre is open to guests at all hours.\n\nThe house suits those who want a historic address on Place Vendôme, with the Louvre and the Opéra within walking distance.",
+  "highlights": [
+    {
+      "label": "History",
+      "value": "Opened on 1 June 1898 by César Ritz, the first hotel to bear his name.",
+      "sourceUrl": "https://www.ritzparis.com/hotel/paris/faq",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Rooms",
+      "value": "142 rooms and suites, 16 of them named Prestige Suites.",
+      "sourceUrl": "https://www.ritzparis.com/hotel/paris/faq",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Suite Impériale",
+      "value": "218 square metres, with a private dining room and a view of Place Vendôme.",
+      "sourceUrl": "https://www.ritzparis.com/hotel/paris",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "L'Appartement Ritz",
+      "value": "The whole seventh floor, 169 square metres, with a private kitchen and two terraces over the Grand Jardin.",
+      "sourceUrl": "https://www.ritzparis.com/hotel/paris",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Espadon",
+      "value": "One Michelin star since March 2024, with Cheffe Eugénie Béziat, opening onto the Grand Jardin.",
+      "sourceUrl": "https://www.ritzparis.com/hotel/paris/faq",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Ritz Club & Spa",
+      "value": "Indoor pool, three fitness rooms and a David Mallett hair salon at 17 Place Vendôme.",
+      "sourceUrl": "https://www.ritzparis.com/hotel/paris/ritz-club-spa",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Rooms and suites",
+      "value": "142, of which 16 are Prestige Suites",
+      "sourceUrl": "https://www.ritzparis.com/hotel/paris/faq",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Founded",
+      "value": "1 June 1898, on Place Vendôme, by César Ritz",
+      "sourceUrl": "https://www.ritzparis.com/hotel/paris/faq",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Address",
+      "value": "15 Place Vendôme, 75001 Paris",
+      "sourceUrl": "https://www.ritzparis.com/hotel/paris/faq",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Superior Room",
+      "value": "35 square metres",
+      "sourceUrl": "https://www.ritzparis.com/hotel/paris",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Grand Deluxe Room",
+      "value": "55 square metres",
+      "sourceUrl": "https://www.ritzparis.com/hotel/paris",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Suite Ernest Hemingway",
+      "value": "79 square metres, Grand Jardin view, two bathrooms, terrace",
+      "sourceUrl": "https://www.ritzparis.com/hotel/paris",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Suite Opéra",
+      "value": "87 square metres, view of the Opéra Garnier",
+      "sourceUrl": "https://www.ritzparis.com/hotel/paris",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Suite Mansart",
+      "value": "85 square metres, Eiffel Tower view, private rooftop terrace, sixth floor",
+      "sourceUrl": "https://www.ritzparis.com/hotel/paris",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Suite Vendôme",
+      "value": "163 square metres, two bedrooms",
+      "sourceUrl": "https://www.ritzparis.com/hotel/paris",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "L'Appartement Ritz",
+      "value": "169 square metres, the entire seventh floor, private kitchen, two terraces",
+      "sourceUrl": "https://www.ritzparis.com/hotel/paris",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Suite F. Scott Fitzgerald",
+      "value": "185 square metres, 2 bedrooms, hammam, view of Place Vendôme",
+      "sourceUrl": "https://www.ritzparis.com/hotel/paris",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Suite Coco Chanel",
+      "value": "188 square metres",
+      "sourceUrl": "https://www.ritzparis.com/hotel/paris",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Suite Impériale",
+      "value": "218 square metres, private dining room",
+      "sourceUrl": "https://www.ritzparis.com/hotel/paris",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Espadon",
+      "value": "Michelin star since March 2024; Cheffe Eugénie Béziat; dinner Tuesday to Saturday 6:30 pm to 9:30 pm",
+      "sourceUrl": "https://www.ritzparis.com/hotel/paris/bars-restaurants",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Bar Vendôme",
+      "value": "Open every day 9 am to midnight; terrace open 12 pm to 10 pm",
+      "sourceUrl": "https://www.ritzparis.com/hotel/paris/bars-restaurants",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Ritz Bar",
+      "value": "Director of Mixology Romain de Courcy",
+      "sourceUrl": "https://www.ritzparis.com/hotel/paris/faq",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Tea time",
+      "value": "Every day 1 pm to 7 pm, by Head Pastry Chef Olivier Lainé",
+      "sourceUrl": "https://www.ritzparis.com/hotel/paris/bars-restaurants",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Ritz Club & Spa",
+      "value": "17 Place Vendôme; treatments every day 9 am to 8 pm by reservation; indoor pool; three fitness rooms; David Mallett salon",
+      "sourceUrl": "https://www.ritzparis.com/hotel/paris/ritz-club-spa",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Fitness centre",
+      "value": "24-hour access for hotel guests",
+      "sourceUrl": "https://www.ritzparis.com/hotel/paris/ritz-club-spa",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Executive Chef",
+      "value": "Jérôme Legras",
+      "sourceUrl": "https://www.ritzparis.com/hotel/paris/faq",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Check-in and check-out",
+      "value": "Check-in before 3:00 pm, check-out before 4:00 pm, subject to availability",
+      "sourceUrl": "https://www.ritzparis.com/hotel/paris/faq",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/ritz-paris/1.jpg",
+      "srcSmall": "/photos/ritz-paris/1-640.jpg",
+      "srcMid": "/photos/ritz-paris/1-1000.jpg",
+      "srcHero": "/photos/ritz-paris/1-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Ritz Paris",
+      "creditUrl": "https://www.ritzparis.com/hotel/paris",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://media.ritzparis.com/medias/domain12964/media100002/633-yovlw50uop-web4k.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/ritz-paris/2.jpg",
+      "srcSmall": "/photos/ritz-paris/2-640.jpg",
+      "srcMid": "/photos/ritz-paris/2-1000.jpg",
+      "srcHero": "/photos/ritz-paris/2-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Ritz Paris",
+      "creditUrl": "https://www.ritzparis.com/hotel/paris",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://media.ritzparis.com/medias/domain12964/media100002/744-kbj3mjig9v-web4k.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/ritz-paris/3.jpg",
+      "srcSmall": "/photos/ritz-paris/3-640.jpg",
+      "srcMid": "/photos/ritz-paris/3-1000.jpg",
+      "srcHero": "/photos/ritz-paris/3-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Ritz Paris",
+      "creditUrl": "https://www.ritzparis.com/hotel/paris/ritz-club-spa",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://media.ritzparis.com/medias/domain12964/media100003/1047-5ykh451uyk-web4k.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/ritz-paris/4.jpg",
+      "srcSmall": "/photos/ritz-paris/4-640.jpg",
+      "srcMid": "/photos/ritz-paris/4-1000.jpg",
+      "srcHero": "/photos/ritz-paris/4-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Ritz Paris",
+      "creditUrl": "https://www.ritzparis.com/hotel/paris/bars-restaurants",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://media.ritzparis.com/medias/domain12964/media100002/885-vc2s5fj6ji-web4k.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/ritz-paris/5.jpg",
+      "srcSmall": "/photos/ritz-paris/5-640.jpg",
+      "srcMid": "/photos/ritz-paris/5-1000.jpg",
+      "srcHero": "/photos/ritz-paris/5-2400.jpg",
+      "width": 1600,
+      "height": 1065,
+      "credit": "Ritz Paris",
+      "creditUrl": "https://www.ritzparis.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://media.ritzparis.com/medias/domain12964/media100007/2187-6i8dguh8uc-web4k.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/ritz-paris/6.jpg",
+      "srcSmall": "/photos/ritz-paris/6-640.jpg",
+      "srcMid": "/photos/ritz-paris/6-1000.jpg",
+      "srcHero": "/photos/ritz-paris/6-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Ritz Paris",
+      "creditUrl": "https://www.ritzparis.com/hotel/paris/bars-restaurants",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://media.ritzparis.com/medias/domain12964/media100004/1401-al486msvkj-web4k.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/ritz-paris/7.jpg",
+      "srcSmall": "/photos/ritz-paris/7-640.jpg",
+      "srcMid": "/photos/ritz-paris/7-1000.jpg",
+      "srcHero": "/photos/ritz-paris/7-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Ritz Paris",
+      "creditUrl": "https://www.ritzparis.com/hotel/paris/bars-restaurants",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://media.ritzparis.com/medias/domain12964/media100190/57291-t0hklw2pam-web4k.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/ritz-paris/8.jpg",
+      "srcSmall": "/photos/ritz-paris/8-640.jpg",
+      "srcMid": "/photos/ritz-paris/8-1000.jpg",
+      "srcHero": "/photos/ritz-paris/8-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Ritz Paris",
+      "creditUrl": "https://www.ritzparis.com/hotel/paris/ritz-club-spa",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://media.ritzparis.com/medias/domain12964/media100003/1134-uh2eorvg19-web4k.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/ritz-paris/9.jpg",
+      "srcSmall": "/photos/ritz-paris/9-640.jpg",
+      "srcMid": "/photos/ritz-paris/9-1000.jpg",
+      "srcHero": "/photos/ritz-paris/9-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Ritz Paris",
+      "creditUrl": "https://www.ritzparis.com/hotel/paris",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://media.ritzparis.com/medias/domain12964/media100003/960-pxgj0lwvs1-web4k.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "lastVerified": "2026-11-09"
+}
