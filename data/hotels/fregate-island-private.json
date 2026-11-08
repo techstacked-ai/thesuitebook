@@ -215,5 +215,6 @@
   "booking": {
     "supplier": "direct"
   },
-  "lastVerified": "2026-11-08"
+  "lastVerified": "2026-11-08",
+  "closedUntil": "Closed for a construction programme; the island says bookings reopen soon (no date), checked 8 Nov 2026"
 }

@@ -58,3 +58,5 @@ Every fact comes from the hotel's or its operator's own pages (the hotel site, t
 - `lastVerified`: the date the file was last checked as a whole.
 
 A hotel is published when it has a name, region, officialSite, a description and five or more photos.
+
+- `closedUntil` (optional string): a note while the hotel is closed (renovation, rebuilding). The hotel is not published while it is set. Remove it when the hotel reopens.

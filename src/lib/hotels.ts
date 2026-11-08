@@ -21,7 +21,8 @@ export const regionPath = (r: string) => `/region/${slugify(r)}/`;
 
 const files = import.meta.glob('../../data/hotels/*.json', { eager: true, import: 'default' }) as Record<string, Hotel>;
 const all = Object.values(files);
-export const isPublished = (h: Hotel) => !!(h.name && REGIONS.includes(h.region) && h.officialSite && h.description && (h.photos || []).length >= MIN_PHOTOS);
+/* closedUntil (a note, e.g. "reopening, date not announced") holds a hotel back while it is closed. */
+export const isPublished = (h: Hotel) => !(h as any).closedUntil && !!(h.name && REGIONS.includes(h.region) && h.officialSite && h.description && (h.photos || []).length >= MIN_PHOTOS);
 export const hotels: Hotel[] = all.filter(isPublished).sort((a, b) => REGIONS.indexOf(a.region) - REGIONS.indexOf(b.region) || a.country.localeCompare(b.country) || a.name.localeCompare(b.name));
 export const hotelPath = (h: Hotel) => `/hotels/${h.slug}/`;
 
