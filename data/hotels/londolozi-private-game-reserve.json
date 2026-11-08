@@ -1,0 +1,236 @@
+{
+  "slug": "londolozi-private-game-reserve",
+  "name": "Londolozi Private Game Reserve",
+  "operator": "Londolozi",
+  "brand": "",
+  "country": "South Africa",
+  "region": "Africa",
+  "city": "Sabi Sand Game Reserve",
+  "area": "Sabi Sand Reserve",
+  "type": "safari",
+  "themes": [
+    "safari"
+  ],
+  "adultsOnly": false,
+  "address": "Sabi Sand Game Reserve, Greater Kruger, South Africa",
+  "lat": null,
+  "lng": null,
+  "officialSite": "https://www.londolozi.com/",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": {},
+  "tagline": "Five family-run camps on the Sand River, known for its leopards since 1926.",
+  "description": "Londolozi is a family-owned game reserve on the Sand River in the Sabi Sand Game Reserve, South Africa, with five camps and a leopard-viewing record of more than four decades. The Varty family has run it since 1926, and in 1993 it became the first game reserve in the world to receive Relais and Châteaux status.\n\nThe Sabi Sand reserve forms part of the Greater Limpopo Transfrontier Park, six million acres that include Kruger National Park, and animals move freely across it. Breeding herds of elephant and buffalo roam through Londolozi, and white rhino and lion concentrations are among the highest recorded in Africa. The leopards are what the reserve is known for, tracked by rangers and trackers who have followed them across generations.\n\nEach camp has its own character. Interiors in all of them were styled by Yvonne O'Brien, in what the family calls elegant simplicity. Tree Camp has six suites in the leadwood canopy above the river, with swimming pools and contemplation decks, and does not take children under 16 unless booked exclusively. The Private Granite Suites sit among granite rocks, each with an outdoor bath and a heated private pool, and are booked individually or as a private camp for six guests. Pioneer Camp has three luxury suites under 500-year-old ebony trees, and can become a bush homestead for six to twelve guests. Varty Camp, the oldest, has rooms with their own pools, outdoor showers and dining salas, and takes children over six. Founders Camp has ten superior chalets along the river bank.\n\nDining follows the camps' decks and rooms, with a sunset river bar and a sunken cocktail lounge at the Granite Suites. A Healing House at Varty Camp offers bodywork and wellness treatments, and guests of every camp can use the guest gym, the photographic studio, the Living Boutique and the Yoga Deck beside Founders Camp.\n\nGame drives and walks follow the trackers and guides through the reserve. Guests reach the lodge by private charter to the Londolozi airstrip, or by SA Airlink to Skukuza, about an hour's drive away.\n\nIt suits families, who can choose camps by the age of their children, and couples who want leopards and a private pool.",
+  "highlights": [
+    {
+      "label": "Camps",
+      "value": "Tree Camp, Private Granite Suites, Pioneer Camp, Varty Camp and Founders Camp",
+      "sourceUrl": "https://www.londolozi.com/en/accommodation",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Tree Camp",
+      "value": "Six suites in the leadwood canopy, with swimming pools and contemplation decks",
+      "sourceUrl": "https://www.londolozi.com/en/accommodation/tree-camp",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Private Granite Suites",
+      "value": "Outdoor bath and heated pool in every suite, booked singly or as a camp for six",
+      "sourceUrl": "https://www.londolozi.com/en/accommodation/private-granite-suites",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Founders Camp",
+      "value": "Ten superior chalets along the Sand River",
+      "sourceUrl": "https://www.londolozi.com/en/accommodation/founders-camp",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Wellness",
+      "value": "The Healing House at Varty Camp, a guest gym and a yoga deck",
+      "sourceUrl": "https://www.londolozi.com/en/accommodation/varty-camp",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Relais and Châteaux",
+      "value": "The first game reserve in the world to receive the status, in 1993",
+      "sourceUrl": "https://www.londolozi.com/en/about",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Family run since",
+      "value": "1926",
+      "sourceUrl": "https://www.londolozi.com/en/experience",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Tree Camp",
+      "value": "6 suites; no children under 16 unless booked exclusively",
+      "sourceUrl": "https://www.londolozi.com/en/accommodation",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Pioneer Camp",
+      "value": "3 luxury suites, convertible to a homestead for 6 to 12 guests",
+      "sourceUrl": "https://www.londolozi.com/en/accommodation/pioneer-camp",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Founders Camp",
+      "value": "10 superior chalets",
+      "sourceUrl": "https://www.londolozi.com/en/accommodation/founders-camp",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Varty Camp",
+      "value": "Children over six welcome; each room has a private pool",
+      "sourceUrl": "https://www.londolozi.com/en/accommodation/varty-camp",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Private Granite Suites",
+      "value": "Private camp for six guests; no children under 16",
+      "sourceUrl": "https://www.londolozi.com/en/accommodation/private-granite-suites",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Access",
+      "value": "Londolozi airstrip, or SA Airlink to Skukuza and about 60 minutes by road",
+      "sourceUrl": "https://www.londolozi.com/en/accommodation",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/londolozi-private-game-reserve/1.jpg",
+      "srcSmall": "/photos/londolozi-private-game-reserve/1-640.jpg",
+      "srcMid": "/photos/londolozi-private-game-reserve/1-1000.jpg",
+      "srcHero": "/photos/londolozi-private-game-reserve/1-2400.jpg",
+      "width": 1600,
+      "height": 1022,
+      "credit": "Londolozi",
+      "creditUrl": "https://www.londolozi.com/en/accommodation",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://cdn.londolozi.com/wp-content/uploads/2020/07/deck4.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/londolozi-private-game-reserve/2.jpg",
+      "srcSmall": "/photos/londolozi-private-game-reserve/2-640.jpg",
+      "srcMid": "/photos/londolozi-private-game-reserve/2-1000.jpg",
+      "srcHero": "/photos/londolozi-private-game-reserve/2-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Londolozi",
+      "creditUrl": "https://www.londolozi.com/en/accommodation",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://cdn.londolozi.com/wp-content/uploads/2020/07/may16_founders15.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/londolozi-private-game-reserve/3.jpg",
+      "srcSmall": "/photos/londolozi-private-game-reserve/3-640.jpg",
+      "srcMid": "/photos/londolozi-private-game-reserve/3-1000.jpg",
+      "srcHero": "/photos/londolozi-private-game-reserve/3-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Londolozi",
+      "creditUrl": "https://www.londolozi.com/en/accommodation",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://cdn.londolozi.com/wp-content/uploads/2020/06/londoz_founders_0523_02_high.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/londolozi-private-game-reserve/4.jpg",
+      "srcSmall": "/photos/londolozi-private-game-reserve/4-640.jpg",
+      "srcMid": "/photos/londolozi-private-game-reserve/4-1000.jpg",
+      "srcHero": "/photos/londolozi-private-game-reserve/4-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Londolozi",
+      "creditUrl": "https://www.londolozi.com/en/accommodation",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://cdn.londolozi.com/wp-content/uploads/2020/06/londoz_founders_0523_37_high.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/londolozi-private-game-reserve/5.jpg",
+      "srcSmall": "/photos/londolozi-private-game-reserve/5-640.jpg",
+      "srcMid": "/photos/londolozi-private-game-reserve/5-1000.jpg",
+      "srcHero": "/photos/londolozi-private-game-reserve/5-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Londolozi",
+      "creditUrl": "https://www.londolozi.com/en/accommodation",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://cdn.londolozi.com/wp-content/uploads/2020/06/londoz_founders_0523_91_high.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/londolozi-private-game-reserve/6.jpg",
+      "srcSmall": "/photos/londolozi-private-game-reserve/6-640.jpg",
+      "srcMid": "/photos/londolozi-private-game-reserve/6-1000.jpg",
+      "srcHero": "/photos/londolozi-private-game-reserve/6-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Londolozi",
+      "creditUrl": "https://www.londolozi.com/en/accommodation",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://cdn.londolozi.com/wp-content/uploads/2020/07/londo_treecamp9.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/londolozi-private-game-reserve/7.jpg",
+      "srcSmall": "/photos/londolozi-private-game-reserve/7-640.jpg",
+      "srcMid": "/photos/londolozi-private-game-reserve/7-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Londolozi",
+      "creditUrl": "https://www.londolozi.com/en/accommodation",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://cdn.londolozi.com/wp-content/uploads/2020/06/londoz_founders_0523_54_low.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "direct"
+  },
+  "lastVerified": "2026-11-08"
+}

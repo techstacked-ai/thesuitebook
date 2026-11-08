@@ -1,0 +1,245 @@
+{
+  "slug": "the-silo-hotel",
+  "name": "The Silo Hotel",
+  "operator": "The Royal Portfolio",
+  "brand": "The Royal Portfolio",
+  "country": "South Africa",
+  "region": "Africa",
+  "city": "Cape Town",
+  "area": "V&A Waterfront",
+  "type": "city",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "V&A Waterfront, Cape Town, South Africa",
+  "lat": -33.90825,
+  "lng": 18.42226,
+  "officialSite": "https://www.theroyalportfolio.com/the-silo-hotel/",
+  "rooms": 28,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": {},
+  "tagline": "Twenty-eight rooms in a grain silo above the Zeitz MOCAA, in Cape Town.",
+  "description": "The Silo Hotel is 28 rooms and suites on six floors of a converted grain silo above the Zeitz Museum of Contemporary Art Africa, in the V&A Waterfront in Cape Town. Its pillowed-glass windows frame Table Mountain, the harbour and the Atlantic.\n\nThe hotel occupies the upper floors of the silo, which houses the continent's largest collection of contemporary African art below it. The 56-panel windows were forged locally and hoisted into their frames by crane, and they are shaped to suggest the pressure of the grain that once filled the silos. Founder Liz Biden filled the interiors with bright colour schemes and her own collection of contemporary African art.\n\nEvery room carries the pillowed windows, some standing 18 feet tall. The double-storey suites have a balcony and a lounge. The two-bedroom Family Duplex Suites on the seventh floor measure from 111 square metres and have a smaller children's room. The two-bedroom Royal Suites are 132 square metres, with triple aspect views of Table Mountain, the Atlantic and Robben Island. The one-bedroom Penthouse on the top floor has a cinema room, a spa treatment room, two walk-in wardrobes, two marble bathrooms and two private balconies of 24 square metres each.\n\nExecutive Chef Veronica Canha-Hibbert leads the kitchen, and the menu draws on the art, food and culture of the city. The Silo Rooftop is open daily from noon until sunset, weather permitting, with light meals, wine and cocktails above the waterfront. There is also the Granary Cafe, The Willaston Bar and The Wisdom Room.\n\nThe spa has a double-treatment room, a fitness centre, a sauna and a manicure and pedicure area, using Ling and Black Pearl products. A rooftop pool sits at the top of the building.\n\nIt suits travellers who want a design-led hotel at the water's edge and a room that doubles as a view of Table Mountain, and families, given the duplex suites.",
+  "highlights": [
+    {
+      "label": "Windows",
+      "value": "Pillowed-glass windows, some 18 feet tall, with views of Table Mountain and the harbour",
+      "sourceUrl": "https://www.theroyalportfolio.com/the-silo-hotel/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Penthouse",
+      "value": "One bedroom, a cinema room, a spa treatment room and two 24 square metre balconies",
+      "sourceUrl": "https://www.theroyalportfolio.com/the-silo-hotel/accommodation/rooms/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Royal Suites",
+      "value": "Two bedrooms, 132 square metres, facing the Atlantic and Robben Island",
+      "sourceUrl": "https://www.theroyalportfolio.com/the-silo-hotel/accommodation/rooms/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Rooftop",
+      "value": "The Silo Rooftop, open daily from noon until sunset, weather permitting",
+      "sourceUrl": "https://www.theroyalportfolio.com/the-silo-hotel/dining/the-silo-rooftop/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Art",
+      "value": "Above the Zeitz MOCAA, with contemporary African art through the interiors",
+      "sourceUrl": "https://www.theroyalportfolio.com/the-silo-hotel/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "Double-treatment room, fitness centre and sauna",
+      "sourceUrl": "https://www.theroyalportfolio.com/the-silo-hotel/spa/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Rooms and suites",
+      "value": "28 across six floors",
+      "sourceUrl": "https://www.theroyalportfolio.com/the-silo-hotel/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Family Duplex Suites",
+      "value": "Two bedrooms, from 111 square metres, on the seventh floor",
+      "sourceUrl": "https://www.theroyalportfolio.com/the-silo-hotel/accommodation/rooms/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Royal Suites",
+      "value": "Two bedrooms, 132 square metres each",
+      "sourceUrl": "https://www.theroyalportfolio.com/the-silo-hotel/accommodation/rooms/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Windows",
+      "value": "56 panels, forged locally",
+      "sourceUrl": "https://www.theroyalportfolio.com/the-silo-hotel/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Executive Chef",
+      "value": "Veronica Canha-Hibbert",
+      "sourceUrl": "https://www.theroyalportfolio.com/the-silo-hotel/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Rooftop hours",
+      "value": "Daily from 12:00 until sunset, weather permitting",
+      "sourceUrl": "https://www.theroyalportfolio.com/the-silo-hotel/dining/the-silo-rooftop/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/the-silo-hotel/1.jpg",
+      "srcSmall": "/photos/the-silo-hotel/1-640.jpg",
+      "srcMid": "/photos/the-silo-hotel/1-1000.jpg",
+      "srcHero": "/photos/the-silo-hotel/1-2400.jpg",
+      "width": 1600,
+      "height": 1068,
+      "credit": "The Royal Portfolio",
+      "creditUrl": "https://www.theroyalportfolio.com/the-silo-hotel/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://wp.theroyalportfolio.com/app/uploads/2022/07/TheSilo-HighRes-NkimaPhotography2019-99-scaled.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-silo-hotel/2.jpg",
+      "srcSmall": "/photos/the-silo-hotel/2-640.jpg",
+      "srcMid": "/photos/the-silo-hotel/2-1000.jpg",
+      "srcHero": "/photos/the-silo-hotel/2-2400.jpg",
+      "width": 1600,
+      "height": 1068,
+      "credit": "The Royal Portfolio",
+      "creditUrl": "https://www.theroyalportfolio.com/the-silo-hotel/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://wp.theroyalportfolio.com/app/uploads/2022/07/TheSilo-HighRes-NkimaPhotography2019-118-scaled.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-silo-hotel/3.jpg",
+      "srcSmall": "/photos/the-silo-hotel/3-640.jpg",
+      "srcMid": "/photos/the-silo-hotel/3-1000.jpg",
+      "srcHero": "/photos/the-silo-hotel/3-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "The Royal Portfolio",
+      "creditUrl": "https://www.theroyalportfolio.com/the-silo-hotel/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://wp.theroyalportfolio.com/app/uploads/2022/06/The-Silo_Rooftop_1-scaled.jpeg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-silo-hotel/4.jpg",
+      "srcSmall": "/photos/the-silo-hotel/4-640.jpg",
+      "srcMid": "/photos/the-silo-hotel/4-1000.jpg",
+      "srcHero": "/photos/the-silo-hotel/4-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "The Royal Portfolio",
+      "creditUrl": "https://www.theroyalportfolio.com/the-silo-hotel/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://wp.theroyalportfolio.com/app/uploads/2022/06/The-Silo_Rooftop_14.jpeg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-silo-hotel/5.jpg",
+      "srcSmall": "/photos/the-silo-hotel/5-640.jpg",
+      "srcMid": "/photos/the-silo-hotel/5-1000.jpg",
+      "srcHero": "/photos/the-silo-hotel/5-2400.jpg",
+      "width": 1600,
+      "height": 1066,
+      "credit": "The Royal Portfolio",
+      "creditUrl": "https://www.theroyalportfolio.com/the-silo-hotel/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://wp.theroyalportfolio.com/app/uploads/2022/07/Wisdom-Room-3-scaled.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-silo-hotel/6.jpg",
+      "srcSmall": "/photos/the-silo-hotel/6-640.jpg",
+      "srcMid": "/photos/the-silo-hotel/6-1000.jpg",
+      "srcHero": "/photos/the-silo-hotel/6-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "The Royal Portfolio",
+      "creditUrl": "https://www.theroyalportfolio.com/the-silo-hotel/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://wp.theroyalportfolio.com/app/uploads/2023/09/The-Silo_Granary-Cafe_17-scaled.jpeg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-silo-hotel/7.jpg",
+      "srcSmall": "/photos/the-silo-hotel/7-640.jpg",
+      "srcMid": "/photos/the-silo-hotel/7-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1068,
+      "credit": "The Royal Portfolio",
+      "creditUrl": "https://www.theroyalportfolio.com/the-silo-hotel/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://wp.theroyalportfolio.com/app/uploads/2022/07/ts-rooms-royal-suite-bedroom-2.2.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-silo-hotel/8.jpg",
+      "srcSmall": "/photos/the-silo-hotel/8-640.jpg",
+      "srcMid": "/photos/the-silo-hotel/8-1000.jpg",
+      "srcHero": "/photos/the-silo-hotel/8-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "The Royal Portfolio",
+      "creditUrl": "https://www.theroyalportfolio.com/the-silo-hotel/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://wp.theroyalportfolio.com/app/uploads/2022/06/The-Silo_Rooftop_12.jpeg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "direct"
+  },
+  "lastVerified": "2026-11-08"
+}

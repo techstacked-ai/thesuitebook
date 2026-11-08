@@ -1,0 +1,273 @@
+{
+  "slug": "royal-malewane",
+  "name": "Royal Malewane",
+  "operator": "Royal Portfolio",
+  "brand": "The Royal Portfolio",
+  "country": "South Africa",
+  "region": "Africa",
+  "city": "Greater Kruger National Park",
+  "area": "Thornybush Reserve",
+  "type": "safari",
+  "themes": [
+    "safari"
+  ],
+  "adultsOnly": false,
+  "address": "Greater Kruger National Park, Limpopo, South Africa",
+  "lat": -24.51784,
+  "lng": 31.16424,
+  "officialSite": "https://www.theroyalportfolio.com/royal-malewane/",
+  "rooms": null,
+  "suites": 24,
+  "villas": 3,
+  "opened": null,
+  "airport": {},
+  "tagline": "Four lodges and three villas on an unfenced 14,000-hectare reserve in Greater Kruger.",
+  "description": "Royal Malewane is a safari retreat of four lodges on an unfenced reserve of 14,000 hectares in the Greater Kruger National Park, in Limpopo, South Africa. Malewane Lodge, Waterside, Farmstead and Masiya's Camp hold 24 suites between them, and three private villas can be taken for exclusive use.\n\nThe reserve forms part of the Greater Kruger ecosystem, with Big Five game viewing and a guiding team led by trackers who work with generations of local knowledge. The nearest airport is Hoedspruit Eastgate, about 45 minutes away, and guests arrive by road or by charter flight.\n\nMalewane Lodge is the traditional lodge. Its six Luxury Suites of about 155 square metres, deck included, each have a heated private pool, a thatched sala and indoor and outdoor showers. Its two Royal Suites have two bedrooms either side of a living and dining area, a private chef, a host and a private safari vehicle with a field guide and a tracker, on about 560 square metres. Farmstead is a contemporary lodge for six guests in three Luxury Farm Suites, each with a deck and a heated pool. Waterside has four Luxury Suites, two Aloe Rooms and the two-bedroom Baobab Suite, and takes up to sixteen guests, children of all ages included. Masiya's Camp, named for the Master Tracker Wilson Masiya, has six canvas suites with floor-to-ceiling windows, decks and heated pools. The villas are Africa House, Waterside House and the Farmhouse.\n\nThe main dining area of each lodge overlooks a waterhole, and all meals, local beverages and house wines are included in the rate. The kitchens write personalised menus, and dinners are served in the Bush Tent, under the stars beside a fire. The sommelier keeps a wine list of South African producers.\n\nThe Royal Waters Spa has a courtyard with a 25 metre heated lap pool, three treatment rooms, a hammam, a sauna, a cold plunge, outdoor baths, a fitness centre and a hair salon. Twice-daily game drives, bush walks and a visit to the Conservation and Research Centre fill the days.\n\nIt suits couples, families who want a lodge with children welcome and groups taking a villa.",
+  "highlights": [
+    {
+      "label": "Royal Suites",
+      "value": "Two bedrooms on about 560 square metres, with a private chef, host and safari vehicle",
+      "sourceUrl": "https://www.theroyalportfolio.com/royal-malewane/accommodation/malewane-lodge/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Lodges",
+      "value": "Malewane Lodge, Waterside, Farmstead and Masiya's Camp",
+      "sourceUrl": "https://www.theroyalportfolio.com/royal-malewane/accommodation/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Villas",
+      "value": "Africa House, Waterside House and Farmhouse, for exclusive use",
+      "sourceUrl": "https://www.theroyalportfolio.com/royal-malewane/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Dining",
+      "value": "Each lodge's main dining area overlooks a waterhole; Bush Tent dinners by the fire",
+      "sourceUrl": "https://www.theroyalportfolio.com/royal-malewane/dining/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "Royal Waters Spa with a 25 metre heated lap pool, hammam and sauna",
+      "sourceUrl": "https://www.theroyalportfolio.com/royal-malewane/wellness/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Reserve",
+      "value": "An unfenced reserve of 14,000 hectares",
+      "sourceUrl": "https://www.theroyalportfolio.com/royal-malewane/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Malewane Lodge",
+      "value": "6 Luxury Suites and 2 Royal Suites",
+      "sourceUrl": "https://www.theroyalportfolio.com/royal-malewane/accommodation/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Farmstead",
+      "value": "3 Luxury Farm Suites, sleeping six guests",
+      "sourceUrl": "https://www.theroyalportfolio.com/royal-malewane/accommodation/farmstead-lodge/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Waterside",
+      "value": "4 Luxury Suites, 2 Aloe Rooms and 1 Baobab Suite, up to 16 guests",
+      "sourceUrl": "https://www.theroyalportfolio.com/royal-malewane/accommodation/waterside-lodge/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Masiya's Camp",
+      "value": "6 suites",
+      "sourceUrl": "https://www.theroyalportfolio.com/royal-malewane/accommodation/masiyas-camp/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Villas",
+      "value": "3 private villas",
+      "sourceUrl": "https://www.theroyalportfolio.com/royal-malewane/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Luxury Suite size",
+      "value": "About 155 square metres, including the deck",
+      "sourceUrl": "https://www.theroyalportfolio.com/royal-malewane/accommodation/malewane-lodge/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Royal Suite size",
+      "value": "About 560 square metres, including the deck",
+      "sourceUrl": "https://www.theroyalportfolio.com/royal-malewane/accommodation/malewane-lodge/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Reserve size",
+      "value": "14,000 hectares",
+      "sourceUrl": "https://www.theroyalportfolio.com/royal-malewane/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Airport",
+      "value": "Hoedspruit Eastgate, about 45 minutes",
+      "sourceUrl": "https://www.theroyalportfolio.com/royal-malewane/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/royal-malewane/1.jpg",
+      "srcSmall": "/photos/royal-malewane/1-640.jpg",
+      "srcMid": "/photos/royal-malewane/1-1000.jpg",
+      "srcHero": "/photos/royal-malewane/1-2400.jpg",
+      "width": 1600,
+      "height": 1070,
+      "credit": "The Royal Portfolio",
+      "creditUrl": "https://www.theroyalportfolio.com/royal-malewane/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://wp.theroyalportfolio.com/app/uploads/2022/07/Malewane-Lodge-Royal-Suite_1.jpeg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/royal-malewane/2.jpg",
+      "srcSmall": "/photos/royal-malewane/2-640.jpg",
+      "srcMid": "/photos/royal-malewane/2-1000.jpg",
+      "srcHero": "/photos/royal-malewane/2-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "The Royal Portfolio",
+      "creditUrl": "https://www.theroyalportfolio.com/royal-malewane/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://wp.theroyalportfolio.com/app/uploads/2025/05/Masiyas-Camp-at-Royal-Malewane_Exterior-Entrance_Greg-Cox-5-scaled.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/royal-malewane/3.jpg",
+      "srcSmall": "/photos/royal-malewane/3-640.jpg",
+      "srcMid": "/photos/royal-malewane/3-1000.jpg",
+      "srcHero": "/photos/royal-malewane/3-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "The Royal Portfolio",
+      "creditUrl": "https://www.theroyalportfolio.com/royal-malewane/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://wp.theroyalportfolio.com/app/uploads/2022/07/Waterside-Pool.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/royal-malewane/4.jpg",
+      "srcSmall": "/photos/royal-malewane/4-640.jpg",
+      "srcMid": "/photos/royal-malewane/4-1000.jpg",
+      "srcHero": "/photos/royal-malewane/4-2400.jpg",
+      "width": 1600,
+      "height": 978,
+      "credit": "The Royal Portfolio",
+      "creditUrl": "https://www.theroyalportfolio.com/royal-malewane/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://wp.theroyalportfolio.com/app/uploads/2025/05/Royal-Malewane_Masiyas-Camp_05-scaled.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/royal-malewane/5.jpg",
+      "srcSmall": "/photos/royal-malewane/5-640.jpg",
+      "srcMid": "/photos/royal-malewane/5-1000.jpg",
+      "srcHero": "/photos/royal-malewane/5-2400.jpg",
+      "width": 1600,
+      "height": 978,
+      "credit": "The Royal Portfolio",
+      "creditUrl": "https://www.theroyalportfolio.com/royal-malewane/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://wp.theroyalportfolio.com/app/uploads/2025/05/Royal-Malewane_Masiyas-Camp_09-scaled.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/royal-malewane/6.jpg",
+      "srcSmall": "/photos/royal-malewane/6-640.jpg",
+      "srcMid": "/photos/royal-malewane/6-1000.jpg",
+      "srcHero": "/photos/royal-malewane/6-2400.jpg",
+      "width": 1600,
+      "height": 978,
+      "credit": "The Royal Portfolio",
+      "creditUrl": "https://www.theroyalportfolio.com/royal-malewane/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://wp.theroyalportfolio.com/app/uploads/2025/05/Royal-Malewane_Masiyas-Camp_04-scaled.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/royal-malewane/7.jpg",
+      "srcSmall": "/photos/royal-malewane/7-640.jpg",
+      "srcMid": "/photos/royal-malewane/7-1000.jpg",
+      "srcHero": "/photos/royal-malewane/7-2400.jpg",
+      "width": 1600,
+      "height": 1068,
+      "credit": "The Royal Portfolio",
+      "creditUrl": "https://www.theroyalportfolio.com/royal-malewane/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://wp.theroyalportfolio.com/app/uploads/2022/07/Farmstead_Luxury-Farm-Suite_1-scaled.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/royal-malewane/8.jpg",
+      "srcSmall": "/photos/royal-malewane/8-640.jpg",
+      "srcMid": "/photos/royal-malewane/8-1000.jpg",
+      "srcHero": "/photos/royal-malewane/8-2400.jpg",
+      "width": 1600,
+      "height": 1068,
+      "credit": "The Royal Portfolio",
+      "creditUrl": "https://www.theroyalportfolio.com/royal-malewane/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://wp.theroyalportfolio.com/app/uploads/2022/07/MW190423royalmalewane_13_092-edited-scaled.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": "16138316.0000",
+  "rating": {
+    "score": 10,
+    "reviews": 4,
+    "source": "booking",
+    "date": "2026-11-08"
+  },
+  "price": {
+    "from": 7848,
+    "date": "2026-11-08"
+  },
+  "booking": {
+    "supplier": "booking"
+  },
+  "lastVerified": "2026-11-08"
+}

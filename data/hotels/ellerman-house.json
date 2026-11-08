@@ -1,0 +1,256 @@
+{
+  "slug": "ellerman-house",
+  "name": "Ellerman House",
+  "operator": "Ellerman House",
+  "brand": "",
+  "country": "South Africa",
+  "region": "Africa",
+  "city": "Cape Town",
+  "area": "Bantry Bay",
+  "type": "city",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "180 Kloof Road, Bantry Bay, Cape Town, South Africa",
+  "lat": -33.92907,
+  "lng": 18.37746,
+  "officialSite": "https://www.ellerman.co.za/",
+  "rooms": null,
+  "suites": null,
+  "villas": 2,
+  "opened": null,
+  "airport": {},
+  "tagline": "An Edwardian house on Bantry Bay, with a private art collection and a wine gallery.",
+  "description": "Ellerman House is an Edwardian seaside house above Bantry Bay in Cape Town, built in 1906 and run as a private retreat since 1988. It holds one of South Africa's most significant private art collections and a wine gallery, and it has rooms, suites and two private villas.\n\nThe house stands on the slopes of Lion's Head with the Atlantic below. Gardens replanted with species native to the coast, inspired by Kirstenbosch, wind past proteas and aloes to open balconies and a pool terrace facing the ocean. Inside are a library, a wine gallery, lounges and a guest pantry that stays open late.\n\nThe rooms in the manor are each designed individually, with original South African art and ocean views, and they come as Classic, Superior, Deluxe and Deluxe Spa House Rooms. The Ellerman House Suites add separate living, dining and sleeping areas and a terrace over the Atlantic, with underfloor heating, a complimentary minibar and entry to the Zeitz Museum of Contemporary Art Africa. Two villas stand apart from the main house. Villa One has five en-suite bedrooms across three levels, a private infinity pool, a study, several lounges, a kitchen and spa access. Villa Two is a contemporary residence over two levels. Each villa has a private chef and a dedicated hospitality team.\n\nArt, wine and cuisine are the three pillars of the house. The art collection spans more than two centuries and hangs through the rooms rather than in a gallery. The Wine Gallery centres on a corkscrew installation that spirals up through thousands of bottles, beside a wall of soils collected from Cape wine farms, and the cellar behind it keeps one of the country's significant private wine collections. Menus follow the seasons and use local ingredients.\n\nThe pool terrace, the gardens and the library fill the days, and the V&A Waterfront and the city centre are a short drive away. Guests aged twelve and over are welcome in the house, and families with younger children stay in the villas.\n\nIt suits travellers who prefer a house with art on the walls and a cellar below to a large hotel, and groups who want a villa with a chef.",
+  "highlights": [
+    {
+      "label": "Villas",
+      "value": "Two private villas, each with a private chef and a dedicated hospitality team",
+      "sourceUrl": "https://www.ellerman.co.za/the-villas",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Villa One",
+      "value": "Five en-suite bedrooms on three levels, with a private infinity pool",
+      "sourceUrl": "https://www.ellerman.co.za/the-villas/villa-one",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Art",
+      "value": "One of South Africa's most significant private art collections, spanning more than two centuries",
+      "sourceUrl": "https://www.ellerman.co.za/the-house",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Wine Gallery",
+      "value": "A corkscrew installation spiralling through thousands of bottles, and a temperature-controlled cellar",
+      "sourceUrl": "https://www.ellerman.co.za/the-cultural-heart/wine",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Gardens",
+      "value": "Indigenous gardens inspired by Kirstenbosch",
+      "sourceUrl": "https://www.ellerman.co.za/the-space",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Suites",
+      "value": "Separate living, dining and sleeping areas, a terrace and entry to Zeitz MOCAA",
+      "sourceUrl": "https://www.ellerman.co.za/the-house/ellerman-house-suites",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Built",
+      "value": "1906, as a seaside home",
+      "sourceUrl": "https://www.ellerman.co.za/the-house",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Hotel since",
+      "value": "1988",
+      "sourceUrl": "https://www.ellerman.co.za/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Villas",
+      "value": "2: Villa One and Villa Two",
+      "sourceUrl": "https://www.ellerman.co.za/the-villas",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Villa One",
+      "value": "Five en-suite bedrooms across three levels",
+      "sourceUrl": "https://www.ellerman.co.za/the-villas/villa-one",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Minimum age",
+      "value": "12 years in the house; younger children in the villas",
+      "sourceUrl": "https://www.ellerman.co.za/faqs",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Room types",
+      "value": "Classic, Superior, Deluxe and Deluxe Spa House Rooms, and Ellerman House Suites",
+      "sourceUrl": "https://www.ellerman.co.za/the-house",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Address",
+      "value": "180 Kloof Road, Bantry Bay",
+      "sourceUrl": "https://www.ellerman.co.za/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/ellerman-house/1.jpg",
+      "srcSmall": "/photos/ellerman-house/1-640.jpg",
+      "srcMid": "/photos/ellerman-house/1-1000.jpg",
+      "srcHero": "/photos/ellerman-house/1-2400.jpg",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Ellerman House",
+      "creditUrl": "https://www.ellerman.co.za/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://api.ellerman.co.za/assets/b4f10e60-124c-49cf-8313-efa73bdbf08e?width=2400&quality=85",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/ellerman-house/2.jpg",
+      "srcSmall": "/photos/ellerman-house/2-640.jpg",
+      "srcMid": "/photos/ellerman-house/2-1000.jpg",
+      "srcHero": "/photos/ellerman-house/2-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Ellerman House",
+      "creditUrl": "https://www.ellerman.co.za/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://api.ellerman.co.za/assets/299e3276-5841-4763-b265-b9a669955444?width=2400&quality=85",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/ellerman-house/3.jpg",
+      "srcSmall": "/photos/ellerman-house/3-640.jpg",
+      "srcMid": "/photos/ellerman-house/3-1000.jpg",
+      "srcHero": "/photos/ellerman-house/3-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Ellerman House",
+      "creditUrl": "https://www.ellerman.co.za/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://api.ellerman.co.za/assets/73542ac2-f57d-4caa-9ba0-307c88812f6b?width=2400&quality=85",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/ellerman-house/4.jpg",
+      "srcSmall": "/photos/ellerman-house/4-640.jpg",
+      "srcMid": "/photos/ellerman-house/4-1000.jpg",
+      "srcHero": "/photos/ellerman-house/4-2400.jpg",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Ellerman House",
+      "creditUrl": "https://www.ellerman.co.za/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://api.ellerman.co.za/assets/90708e8a-fd6d-4cf4-ab0d-f4e44a4f8073?width=2400&quality=85",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/ellerman-house/5.jpg",
+      "srcSmall": "/photos/ellerman-house/5-640.jpg",
+      "srcMid": "/photos/ellerman-house/5-1000.jpg",
+      "srcHero": "/photos/ellerman-house/5-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Ellerman House",
+      "creditUrl": "https://www.ellerman.co.za/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://api.ellerman.co.za/assets/254224ad-c0c7-4810-8eb1-7641239e57fb?width=2400&quality=85",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/ellerman-house/6.jpg",
+      "srcSmall": "/photos/ellerman-house/6-640.jpg",
+      "srcMid": "/photos/ellerman-house/6-1000.jpg",
+      "srcHero": "/photos/ellerman-house/6-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Ellerman House",
+      "creditUrl": "https://www.ellerman.co.za/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://api.ellerman.co.za/assets/391bfa7e-84ca-4472-a943-b23cc2afff6c?width=2400&quality=85",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/ellerman-house/7.jpg",
+      "srcSmall": "/photos/ellerman-house/7-640.jpg",
+      "srcMid": "/photos/ellerman-house/7-1000.jpg",
+      "srcHero": "/photos/ellerman-house/7-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Ellerman House",
+      "creditUrl": "https://www.ellerman.co.za/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://api.ellerman.co.za/assets/af848ecf-87da-4344-bd73-06808ad38859?width=2400&quality=85",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/ellerman-house/8.jpg",
+      "srcSmall": "/photos/ellerman-house/8-640.jpg",
+      "srcMid": "/photos/ellerman-house/8-1000.jpg",
+      "srcHero": "/photos/ellerman-house/8-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Ellerman House",
+      "creditUrl": "https://www.ellerman.co.za/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://api.ellerman.co.za/assets/97a909db-82a6-4fa3-b986-606cc00fc414?width=2400&quality=85",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": "39662694.0000",
+  "rating": {
+    "score": 9.7,
+    "reviews": 35,
+    "source": "booking",
+    "date": "2026-11-08"
+  },
+  "price": null,
+  "booking": {
+    "supplier": "booking"
+  },
+  "lastVerified": "2026-11-08"
+}
