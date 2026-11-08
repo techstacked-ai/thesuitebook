@@ -223,15 +223,21 @@
   "rating": {
     "score": 9.6,
     "reviews": 25,
-    "source": "booking",
-    "date": "2026-11-08"
+    "stars": 5,
+    "source": "Booking.com guest rating, via Stay22",
+    "lastVerified": "2026-11-08"
   },
   "price": {
     "from": 1562,
-    "date": "2026-11-08"
+    "date": "2026-11-08",
+    "typical": 2797,
+    "currency": "USD",
+    "source": "Booking.com price for two adults, via Stay22",
+    "lastChecked": "2026-11-08"
   },
   "booking": {
     "supplier": "booking"
   },
-  "lastVerified": "2026-11-08"
+  "lastVerified": "2026-11-08",
+  "stay22Name": "Huka Lodge"
 }

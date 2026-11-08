@@ -224,11 +224,24 @@
       "lastVerified": "2026-11-08"
     }
   ],
-  "stay22Id": null,
-  "rating": null,
-  "price": null,
-  "booking": {
-    "supplier": "expedia"
+  "stay22Id": "39766196.0000",
+  "rating": {
+    "score": 9.6,
+    "reviews": 242,
+    "stars": 5,
+    "source": "Booking.com guest rating, via Stay22",
+    "lastVerified": "2026-11-08"
   },
-  "lastVerified": "2026-11-08"
+  "price": {
+    "typical": 2590,
+    "currency": "USD",
+    "source": "Booking.com price for two adults, via Stay22",
+    "lastChecked": "2026-11-08",
+    "from": 2590
+  },
+  "booking": {
+    "supplier": "booking"
+  },
+  "lastVerified": "2026-11-08",
+  "stay22Name": "Four Seasons Hotel George V"
 }

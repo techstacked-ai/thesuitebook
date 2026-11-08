@@ -244,11 +244,24 @@
       "lastVerified": "2026-11-08"
     }
   ],
-  "stay22Id": null,
-  "rating": null,
-  "price": null,
-  "booking": {
-    "supplier": "expedia"
+  "stay22Id": "15442481.0000",
+  "rating": {
+    "score": 8.4,
+    "reviews": 5,
+    "stars": 5,
+    "source": "Booking.com guest rating, via Stay22",
+    "lastVerified": "2026-11-08"
   },
-  "lastVerified": "2026-11-08"
+  "price": {
+    "typical": 3664,
+    "currency": "USD",
+    "source": "Booking.com price for two adults, via Stay22",
+    "lastChecked": "2026-11-08",
+    "from": 3664
+  },
+  "booking": {
+    "supplier": "booking"
+  },
+  "lastVerified": "2026-11-08",
+  "stay22Name": "Rosewood Little Dix Bay"
 }

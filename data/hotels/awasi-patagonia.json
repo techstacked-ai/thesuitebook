@@ -245,11 +245,18 @@
       "lastVerified": "2026-11-08"
     }
   ],
-  "stay22Id": null,
+  "stay22Id": "21214270.0000",
   "rating": null,
-  "price": null,
-  "booking": {
-    "supplier": "expedia"
+  "price": {
+    "typical": 3950,
+    "currency": "USD",
+    "source": "Booking.com price for two adults, via Stay22",
+    "lastChecked": "2026-11-08",
+    "from": 3950
   },
-  "lastVerified": "2026-11-08"
+  "booking": {
+    "supplier": "booking"
+  },
+  "lastVerified": "2026-11-08",
+  "stay22Name": "Awasi Patagonia"
 }

@@ -212,11 +212,24 @@
       "lastVerified": "2026-11-08"
     }
   ],
-  "stay22Id": null,
-  "rating": null,
-  "price": null,
-  "booking": {
-    "supplier": "expedia"
+  "stay22Id": "38620475.0000",
+  "rating": {
+    "score": 9.2,
+    "reviews": 97,
+    "stars": 5,
+    "source": "Booking.com guest rating, via Stay22",
+    "lastVerified": "2026-11-08"
   },
-  "lastVerified": "2026-11-08"
+  "price": {
+    "typical": 3101,
+    "currency": "USD",
+    "source": "Booking.com price for two adults, via Stay22",
+    "lastChecked": "2026-11-08",
+    "from": 3101
+  },
+  "booking": {
+    "supplier": "booking"
+  },
+  "lastVerified": "2026-11-08",
+  "stay22Name": "Hotel De Crillon"
 }

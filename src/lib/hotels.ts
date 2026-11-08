@@ -79,12 +79,14 @@ export function places(min = 3): Place[] {
 export interface Booking { url: string; label: string; affiliate: boolean; supplier: 'booking' | 'expedia' | 'direct' }
 export function booking(h: Hotel): Booking {
   const sup = h.booking?.supplier;
-  if (h.stay22Id && sup !== 'direct') return { url: `https://www.stay22.com/allez/booking/usds_${h.stay22Id}?aid=roamcitymaps&checkin&checkout&adults`, label: 'Check availability', affiliate: true, supplier: 'booking' };
+  if (h.stay22Id && sup !== 'direct') return { url: `https://www.stay22.com/allez/booking/usds_${h.stay22Id}?aid=roamcitymaps`, label: 'Check availability', affiliate: true, supplier: 'booking' };
   if (sup !== 'direct' && (h.address || h.city)) {
-    const addr = h.address || [h.name, h.city, h.country].filter(Boolean).join(', ');
-    return { url: `https://www.stay22.com/allez/expedia?address=${encodeURIComponent(addr)}&aid=roamcitymaps`, label: 'Check availability', affiliate: true, supplier: 'expedia' };
+    /* The hotel's name with its place: Expedia resolves it to the hotel itself far more often than an address alone
+       (owner, 8 Nov 2026: the address search often missed hotels Expedia lists). */
+    const place = [h.city || h.area, h.country].filter(Boolean).join(', ');
+    return { url: `https://www.stay22.com/allez/expedia?hotelname=${encodeURIComponent(h.name)}&address=${encodeURIComponent(place || h.address || '')}&aid=roamcitymaps`, label: 'Check availability', affiliate: true, supplier: 'expedia' };
   }
-  return { url: h.officialSite, label: 'Reserve with the hotel', affiliate: false, supplier: 'direct' };
+  return { url: h.officialSite, label: 'Check availability', affiliate: false, supplier: 'direct' };
 }
 export const SPONSORED = 'sponsored nofollow noopener';
 

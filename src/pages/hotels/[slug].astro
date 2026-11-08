@@ -93,8 +93,6 @@ const description = (h.tagline ? `${h.tagline} ` : '') + (answer || '').slice(0,
 
   <section class="book measure" aria-label="Booking">
     <a class="button" href={book.url} rel={book.affiliate ? SPONSORED : 'noopener'} target="_blank">{book.label}</a>
-    {book.affiliate ? <p class="label">Through Stay22 on {book.supplier === 'booking' ? 'Booking.com' : 'Expedia'}. Or <a class="quiet-link" href={h.officialSite} rel="noopener" target="_blank">reserve on the hotel's own site</a>.</p>
-      : <p class="label">On {host(h.officialSite)}, the hotel's own site.</p>}
   </section>
 
   {faq.length > 1 ? (

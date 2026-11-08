@@ -237,11 +237,24 @@
       "lastVerified": "2026-11-08"
     }
   ],
-  "stay22Id": null,
-  "rating": null,
-  "price": null,
-  "booking": {
-    "supplier": "expedia"
+  "stay22Id": "38747430.0000",
+  "rating": {
+    "score": 10,
+    "reviews": 11,
+    "stars": 5,
+    "source": "Booking.com guest rating, via Stay22",
+    "lastVerified": "2026-11-08"
   },
-  "lastVerified": "2026-11-08"
+  "price": {
+    "typical": 2646,
+    "currency": "USD",
+    "source": "Booking.com price for two adults, via Stay22",
+    "lastChecked": "2026-11-08",
+    "from": 2646
+  },
+  "booking": {
+    "supplier": "booking"
+  },
+  "lastVerified": "2026-11-08",
+  "stay22Name": "Jade Mountain Resort"
 }

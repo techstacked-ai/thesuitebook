@@ -230,19 +230,25 @@
       "lastVerified": "2026-11-08"
     }
   ],
-  "stay22Id": "39755803",
+  "stay22Id": "39755803.0000",
   "rating": {
     "score": 9.3,
     "reviews": 237,
-    "source": "booking",
-    "date": "2026-11-08"
+    "stars": 5,
+    "source": "Booking.com guest rating, via Stay22",
+    "lastVerified": "2026-11-08"
   },
   "price": {
     "from": 1621,
-    "date": "2026-11-08"
+    "date": "2026-11-08",
+    "typical": 1756,
+    "currency": "USD",
+    "source": "Booking.com price for two adults, via Stay22",
+    "lastChecked": "2026-11-08"
   },
   "booking": {
     "supplier": "booking"
   },
-  "lastVerified": "2026-11-08"
+  "lastVerified": "2026-11-08",
+  "stay22Name": "Mandarin Oriental Ritz, Madrid"
 }

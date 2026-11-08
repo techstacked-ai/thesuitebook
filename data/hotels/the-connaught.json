@@ -248,19 +248,25 @@
       "lastVerified": "2026-11-08"
     }
   ],
-  "stay22Id": "39676206",
+  "stay22Id": "39676206.0000",
   "rating": {
     "score": 9.7,
     "reviews": 186,
-    "source": "booking",
-    "date": "2026-11-08"
+    "stars": 5,
+    "source": "Booking.com guest rating, via Stay22",
+    "lastVerified": "2026-11-08"
   },
   "price": {
     "from": 1470,
-    "date": "2026-11-08"
+    "date": "2026-11-08",
+    "typical": 1056,
+    "currency": "USD",
+    "source": "Booking.com price for two adults, via Stay22",
+    "lastChecked": "2026-11-08"
   },
   "booking": {
     "supplier": "booking"
   },
-  "lastVerified": "2026-11-08"
+  "lastVerified": "2026-11-08",
+  "stay22Name": "The Connaught, Maybourne Hotel Collection"
 }

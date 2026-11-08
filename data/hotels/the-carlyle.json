@@ -237,11 +237,24 @@
       "lastVerified": "2026-11-08"
     }
   ],
-  "stay22Id": null,
-  "rating": null,
-  "price": null,
-  "booking": {
-    "supplier": "expedia"
+  "stay22Id": "38952961.0000",
+  "rating": {
+    "score": 7.2,
+    "reviews": 27,
+    "stars": 5,
+    "source": "Booking.com guest rating, via Stay22",
+    "lastVerified": "2026-11-08"
   },
-  "lastVerified": "2026-11-08"
+  "price": {
+    "typical": 1954,
+    "currency": "USD",
+    "source": "Booking.com price for two adults, via Stay22",
+    "lastChecked": "2026-11-08",
+    "from": 1954
+  },
+  "booking": {
+    "supplier": "booking"
+  },
+  "lastVerified": "2026-11-08",
+  "stay22Name": "The Carlyle, A Rosewood Hotel"
 }

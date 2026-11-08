@@ -230,19 +230,25 @@
       "lastVerified": "2026-11-08"
     }
   ],
-  "stay22Id": "41613515",
+  "stay22Id": "41613515.0000",
   "rating": {
     "score": 9.5,
     "reviews": 234,
-    "source": "booking",
-    "date": "2026-11-08"
+    "stars": 5,
+    "source": "Booking.com guest rating, via Stay22",
+    "lastVerified": "2026-11-08"
   },
   "price": {
     "from": 1506,
-    "date": "2026-11-08"
+    "date": "2026-11-08",
+    "typical": 1352,
+    "currency": "USD",
+    "source": "Booking.com price for two adults, via Stay22",
+    "lastChecked": "2026-11-08"
   },
   "booking": {
     "supplier": "booking"
   },
-  "lastVerified": "2026-11-08"
+  "lastVerified": "2026-11-08",
+  "stay22Name": "Raffles London At The Owo"
 }

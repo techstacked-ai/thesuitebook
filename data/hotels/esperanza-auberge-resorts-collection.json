@@ -243,11 +243,18 @@
       "lastVerified": "2026-11-08"
     }
   ],
-  "stay22Id": null,
+  "stay22Id": "39710228.0000",
   "rating": null,
-  "price": null,
-  "booking": {
-    "supplier": "expedia"
+  "price": {
+    "typical": 2673,
+    "currency": "USD",
+    "source": "Booking.com price for two adults, via Stay22",
+    "lastChecked": "2026-11-08",
+    "from": 2673
   },
-  "lastVerified": "2026-11-08"
+  "booking": {
+    "supplier": "booking"
+  },
+  "lastVerified": "2026-11-08",
+  "stay22Name": "Esperanza, Auberge Resorts Collection"
 }
