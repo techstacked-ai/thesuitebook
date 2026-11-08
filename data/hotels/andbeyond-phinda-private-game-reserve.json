@@ -1,0 +1,247 @@
+{
+  "slug": "andbeyond-phinda-private-game-reserve",
+  "name": "&Beyond Phinda Private Game Reserve",
+  "operator": "&Beyond",
+  "brand": "&Beyond",
+  "country": "South Africa",
+  "region": "Africa",
+  "city": "Phinda Private Game Reserve",
+  "area": "KwaZulu-Natal",
+  "type": "safari",
+  "themes": [
+    "safari"
+  ],
+  "adultsOnly": false,
+  "address": "Phinda Private Game Reserve, KwaZulu-Natal, South Africa",
+  "lat": -27.88357,
+  "lng": 32.28302,
+  "officialSite": "https://www.andbeyond.com/lodge-editorial/phinda-mountain/",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": {},
+  "tagline": "A family-minded hilltop lodge in a 29,866-hectare Big Five reserve.",
+  "description": "&Beyond Phinda Mountain Lodge stands on a hilltop in the south of Phinda Private Game Reserve in KwaZulu-Natal, South Africa, with views over the bushveld to the Lebombo foothills. The reserve covers 29,866 hectares of seven habitats, and the lodge is the most family-focused of its six.\n\nPhinda was once farmland and has been restored over decades into a Big Five reserve within the Munywana Conservancy. Cheetah cross the grassland, black rhino browse in the Tamboti thicket, and the reserve is a short drive from the beaches and coral reefs of the Indian Ocean. More than 400 bird species are recorded here.\n\nThe lodge has 16 standalone Suites of 117 square metres, each a retreat for two with an en-suite bathroom, indoor and outdoor showers and a plunge pool. Six Cottages of 65 square metres are semi-detached, with a veranda and a plunge pool. For families there are three interleading Family Cottages of 130 square metres, with a shared deck and a plunge pool, and one 250 square metre Family Suite with two bedrooms, a lounge and direct access to the main pool, which comes with a private vehicle, tracker and guide. Floor-to-ceiling glass and wide verandas face the bush.\n\nEvenings end around a fire on the lodge deck or in the boma, with pan-African dishes. The lodge has a rim-flow swimming pool, a gym and an open-air massage sala that uses Healing Earth products, and a meeting room that seats twelve.\n\nTwice-daily game drives leave in open 4x4 vehicles, and guided walks go out on foot. Guests can track black rhino on foot, help with rhino notching and watch turtles nest on nearby shores, and visit Zulu communities. The WILDchild programme runs supervised nature-based days for children, from bug collecting to baking with the chefs.\n\nIt suits families across several generations, and couples who want a plunge pool on a hill.",
+  "highlights": [
+    {
+      "label": "Suites",
+      "value": "16 Suites of 117 square metres, each with a plunge pool",
+      "sourceUrl": "https://www.andbeyond.com/lodge-editorial/phinda-mountain/accommodation/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Family Suite",
+      "value": "250 square metres, two bedrooms, with a private vehicle, tracker and guide",
+      "sourceUrl": "https://www.andbeyond.com/lodge-editorial/phinda-mountain/accommodation/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Reserve",
+      "value": "29,866 hectares across seven habitats, in the Munywana Conservancy",
+      "sourceUrl": "https://www.andbeyond.com/destinations/africa/south-africa/kwazulu-natal/phinda-private-game-reserve/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Children",
+      "value": "The WILDchild programme and three interleading Family Cottages",
+      "sourceUrl": "https://www.andbeyond.com/lodge-editorial/phinda-mountain/about/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Wellness",
+      "value": "Open-air massage sala, gym and a rim-flow swimming pool",
+      "sourceUrl": "https://www.andbeyond.com/lodge-editorial/phinda-mountain/about/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Wildlife",
+      "value": "Cheetah, black rhino and more than 400 bird species",
+      "sourceUrl": "https://www.andbeyond.com/lodge-editorial/phinda-mountain/experiences/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Suites",
+      "value": "16 standalone Suites, 117 square metres",
+      "sourceUrl": "https://www.andbeyond.com/lodge-editorial/phinda-mountain/accommodation/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Cottages",
+      "value": "6 Cottages, 65 square metres",
+      "sourceUrl": "https://www.andbeyond.com/lodge-editorial/phinda-mountain/accommodation/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Family Cottages",
+      "value": "3, 130 square metres, with interleading doors",
+      "sourceUrl": "https://www.andbeyond.com/lodge-editorial/phinda-mountain/accommodation/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Family Suite",
+      "value": "1, 250 square metres",
+      "sourceUrl": "https://www.andbeyond.com/lodge-editorial/phinda-mountain/accommodation/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Reserve size",
+      "value": "29,866 hectares (73,800 acres)",
+      "sourceUrl": "https://www.andbeyond.com/destinations/africa/south-africa/kwazulu-natal/phinda-private-game-reserve/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Meeting room",
+      "value": "Seats up to 12",
+      "sourceUrl": "https://www.andbeyond.com/lodge-editorial/phinda-mountain/about/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/andbeyond-phinda-private-game-reserve/1.jpg",
+      "srcSmall": "/photos/andbeyond-phinda-private-game-reserve/1-640.jpg",
+      "srcMid": "/photos/andbeyond-phinda-private-game-reserve/1-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "&Beyond",
+      "creditUrl": "https://www.andbeyond.com/lodge-editorial/phinda-mountain/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.andbeyond.com/wp-content/uploads/sites/5/Phinda-Mountain-Pool.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/andbeyond-phinda-private-game-reserve/2.jpg",
+      "srcSmall": "/photos/andbeyond-phinda-private-game-reserve/2-640.jpg",
+      "srcMid": "/photos/andbeyond-phinda-private-game-reserve/2-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "&Beyond",
+      "creditUrl": "https://www.andbeyond.com/lodge-editorial/phinda-mountain/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.andbeyond.com/wp-content/uploads/sites/5/South-Africa-Phinda-Mountain-Aerial-of-the-lodge-2.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/andbeyond-phinda-private-game-reserve/3.jpg",
+      "srcSmall": "/photos/andbeyond-phinda-private-game-reserve/3-640.jpg",
+      "srcMid": "/photos/andbeyond-phinda-private-game-reserve/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "&Beyond",
+      "creditUrl": "https://www.andbeyond.com/lodge-editorial/phinda-mountain/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.andbeyond.com/wp-content/uploads/sites/5/South-Africa-Phinda-Mountain-Guest-Area-boma-6.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/andbeyond-phinda-private-game-reserve/4.jpg",
+      "srcSmall": "/photos/andbeyond-phinda-private-game-reserve/4-640.jpg",
+      "srcMid": "/photos/andbeyond-phinda-private-game-reserve/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "&Beyond",
+      "creditUrl": "https://www.andbeyond.com/lodge-editorial/phinda-mountain/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.andbeyond.com/wp-content/uploads/sites/5/phinda-mountain-outdoor-dining.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/andbeyond-phinda-private-game-reserve/5.jpg",
+      "srcSmall": "/photos/andbeyond-phinda-private-game-reserve/5-640.jpg",
+      "srcMid": "/photos/andbeyond-phinda-private-game-reserve/5-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "&Beyond",
+      "creditUrl": "https://www.andbeyond.com/lodge-editorial/phinda-mountain/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.andbeyond.com/wp-content/uploads/sites/5/Guest-Area-and-Bar.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/andbeyond-phinda-private-game-reserve/6.jpg",
+      "srcSmall": "/photos/andbeyond-phinda-private-game-reserve/6-640.jpg",
+      "srcMid": "/photos/andbeyond-phinda-private-game-reserve/6-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "&Beyond",
+      "creditUrl": "https://www.andbeyond.com/lodge-editorial/phinda-mountain/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.andbeyond.com/wp-content/uploads/sites/5/Phinda-Mountain-Cottage-Bedroom.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/andbeyond-phinda-private-game-reserve/7.jpg",
+      "srcSmall": "/photos/andbeyond-phinda-private-game-reserve/7-640.jpg",
+      "srcMid": "/photos/andbeyond-phinda-private-game-reserve/7-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "&Beyond",
+      "creditUrl": "https://www.andbeyond.com/lodge-editorial/phinda-mountain/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.andbeyond.com/wp-content/uploads/sites/5/South-Africa-Phinda-Mountain-Guest-Area-Conference-dining-room-and-wine-cellar.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/andbeyond-phinda-private-game-reserve/8.jpg",
+      "srcSmall": "/photos/andbeyond-phinda-private-game-reserve/8-640.jpg",
+      "srcMid": "/photos/andbeyond-phinda-private-game-reserve/8-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "&Beyond",
+      "creditUrl": "https://www.andbeyond.com/lodge-editorial/phinda-mountain/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.andbeyond.com/wp-content/uploads/sites/5/Phinda-Mountain-Suite-Bedroom.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "direct"
+  },
+  "lastVerified": "2026-11-08"
+}

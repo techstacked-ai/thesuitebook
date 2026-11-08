@@ -1,0 +1,235 @@
+{
+  "slug": "andbeyond-mnemba-island",
+  "name": "&Beyond Mnemba Island",
+  "operator": "&Beyond",
+  "brand": "&Beyond",
+  "country": "Tanzania",
+  "region": "Indian Ocean",
+  "city": "Zanzibar",
+  "area": "Mnemba Island",
+  "type": "island",
+  "themes": [
+    "private-island"
+  ],
+  "adultsOnly": false,
+  "address": "Mnemba Island, off north-east Zanzibar, Tanzania",
+  "lat": -5.81961,
+  "lng": 39.38372,
+  "officialSite": "https://www.andbeyond.com/lodge-editorial/mnemba-island/",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": {},
+  "tagline": "Twelve open-air bandas on a private island off Zanzibar.",
+  "description": "&Beyond Mnemba Island is twelve open-air bandas on a private island 1.5 kilometres wide, off the north-east coast of Zanzibar, Tanzania. It is shared only with a handful of guests and the team who look after them, and shoes are left at the door.\n\nThe island is ringed by reef and forest, and casuarina trees shade the bandas. Mnemba is a nesting ground for endangered green turtles, monitored daily, and inland it shelters two rare antelope, Aders' duiker and the suni. Time follows the tide, with fresh tropical breakfasts delivered to each banda and sushi in the evening.\n\nThe twelve bandas have no doors and no windows, only sand between the room and the sea. Each is shaped in a soft spiral like a nautilus shell, set so close to the sea that the waves become part of the room, with a day bed, sun loungers, an al fresco shower, a hanging swing chair and a personal foot bath outside. The Family Banda pairs a standard banda with an adjoining en-suite room for children.\n\nThe Beach Bar serves signature cocktails, and the Beach Shop stocks East African beachwear, jewellery and interiors. Dinner can be laid on a private sand spit with the ocean on all sides, and the Discovery Centre introduces the marine biologists and rangers who run the coral nursery and reef restoration programme.\n\nThe Wellness Banda sits among the casuarina trees with two treatment rooms and a raised yoga deck, offering breathwork, meditation, sound therapy and massage with Healing Earth products. Guests snorkel straight from the beach, dive the reefs, walk the reef at low tide or sail at sunset, and can cross to Zanzibar for coral-stone alleys and carved doors.\n\nStays of four nights or more carry preferential long-stay rates. It suits couples and families who want nothing to do for a week except swim, and travellers who care about the reef.",
+  "highlights": [
+    {
+      "label": "Bandas",
+      "value": "Twelve open-air bandas with no doors or windows",
+      "sourceUrl": "https://www.andbeyond.com/lodge-editorial/mnemba-island/accommodation/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Family Banda",
+      "value": "A standard banda joined to an en-suite room for children",
+      "sourceUrl": "https://www.andbeyond.com/lodge-editorial/mnemba-island/accommodation/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Island",
+      "value": "1.5 km wide, shared with a handful of guests",
+      "sourceUrl": "https://www.andbeyond.com/lodge-editorial/mnemba-island/about/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Reef and turtles",
+      "value": "A coral nursery, reef restoration and daily monitoring of green turtle nesting",
+      "sourceUrl": "https://www.andbeyond.com/lodge-editorial/mnemba-island/about/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Wellness Banda",
+      "value": "Two treatment rooms and a raised yoga deck",
+      "sourceUrl": "https://www.andbeyond.com/lodge-editorial/mnemba-island/about/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Dining",
+      "value": "Dinner on a private sand spit",
+      "sourceUrl": "https://www.andbeyond.com/lodge-editorial/mnemba-island/experiences/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Bandas",
+      "value": "12, including a Family Banda",
+      "sourceUrl": "https://www.andbeyond.com/lodge-editorial/mnemba-island/accommodation/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Island width",
+      "value": "1.5 km",
+      "sourceUrl": "https://www.andbeyond.com/lodge-editorial/mnemba-island/about/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Wellness Banda",
+      "value": "Two treatment rooms and a raised yoga deck",
+      "sourceUrl": "https://www.andbeyond.com/lodge-editorial/mnemba-island/about/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Wildlife",
+      "value": "Green turtles, Aders' duiker and suni antelope",
+      "sourceUrl": "https://www.andbeyond.com/lodge-editorial/mnemba-island/about/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/andbeyond-mnemba-island/1.jpg",
+      "srcSmall": "/photos/andbeyond-mnemba-island/1-640.jpg",
+      "srcMid": "/photos/andbeyond-mnemba-island/1-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "&Beyond",
+      "creditUrl": "https://www.andbeyond.com/lodge-editorial/mnemba-island/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.andbeyond.com/wp-content/uploads/sites/5/Zanzibar-Mnemba-Island-Aerial-9_Website.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/andbeyond-mnemba-island/2.jpg",
+      "srcSmall": "/photos/andbeyond-mnemba-island/2-640.jpg",
+      "srcMid": "/photos/andbeyond-mnemba-island/2-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "&Beyond",
+      "creditUrl": "https://www.andbeyond.com/lodge-editorial/mnemba-island/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.andbeyond.com/wp-content/uploads/sites/5/Zanzibar-Mnemba-Island-Aerial-7-Website-1920x1080-fill-gravityauto-Q_AutoBest.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/andbeyond-mnemba-island/3.jpg",
+      "srcSmall": "/photos/andbeyond-mnemba-island/3-640.jpg",
+      "srcMid": "/photos/andbeyond-mnemba-island/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "&Beyond",
+      "creditUrl": "https://www.andbeyond.com/lodge-editorial/mnemba-island/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.andbeyond.com/wp-content/uploads/sites/5/Zanzibar-Mnemba-Island-banda-lounge-1.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/andbeyond-mnemba-island/4.jpg",
+      "srcSmall": "/photos/andbeyond-mnemba-island/4-640.jpg",
+      "srcMid": "/photos/andbeyond-mnemba-island/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "&Beyond",
+      "creditUrl": "https://www.andbeyond.com/lodge-editorial/mnemba-island/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.andbeyond.com/wp-content/uploads/sites/5/Zanzibar-Mnemba-Island-Lodge-Family-Banda-3.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/andbeyond-mnemba-island/5.jpg",
+      "srcSmall": "/photos/andbeyond-mnemba-island/5-640.jpg",
+      "srcMid": "/photos/andbeyond-mnemba-island/5-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "&Beyond",
+      "creditUrl": "https://www.andbeyond.com/lodge-editorial/mnemba-island/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.andbeyond.com/wp-content/uploads/sites/5/Zanzibar-Mnemba-Island-banda-bedroom-2.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/andbeyond-mnemba-island/6.jpg",
+      "srcSmall": "/photos/andbeyond-mnemba-island/6-640.jpg",
+      "srcMid": "/photos/andbeyond-mnemba-island/6-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "&Beyond",
+      "creditUrl": "https://www.andbeyond.com/lodge-editorial/mnemba-island/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.andbeyond.com/wp-content/uploads/sites/5/Zanzibar-Mnemba-Island-Bandas-1.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/andbeyond-mnemba-island/7.jpg",
+      "srcSmall": "/photos/andbeyond-mnemba-island/7-640.jpg",
+      "srcMid": "/photos/andbeyond-mnemba-island/7-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "&Beyond",
+      "creditUrl": "https://www.andbeyond.com/lodge-editorial/mnemba-island/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.andbeyond.com/wp-content/uploads/sites/5/Zanzibar-Mnemba-Island-guest-area-bar-3.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/andbeyond-mnemba-island/8.jpg",
+      "srcSmall": "/photos/andbeyond-mnemba-island/8-640.jpg",
+      "srcMid": "/photos/andbeyond-mnemba-island/8-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "&Beyond",
+      "creditUrl": "https://www.andbeyond.com/lodge-editorial/mnemba-island/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.andbeyond.com/wp-content/uploads/sites/5/Zanzibar-Mnemba-Island-Lodge-Family-Banda-5-1.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "direct"
+  },
+  "lastVerified": "2026-11-08"
+}
