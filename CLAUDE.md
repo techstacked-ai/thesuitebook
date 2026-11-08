@@ -18,3 +18,6 @@ Cloudflare Pages project thesuitebook via .github/workflows/deploy.yml on every 
 ## Key files
 - STATUS.md, docs/data-model.md, docs/voice.md, docs/research-brief.md, planning/
 - data/hotels/<slug>.json, src/lib/hotels.ts (loading, publishing rule, bookUrl), src/layouts/Base.astro
+
+## Anonymity
+Never name the owner or link this site to the Roam network or any other project on the site, in any language, in llms.txt, schema or Markdown copies (owner, 8 Nov 2026: "Remove anything that identifies me"). No founder, author or "made by" lines.
