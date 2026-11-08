@@ -1,0 +1,236 @@
+{
+  "slug": "the-ritz-carlton-kyoto",
+  "name": "The Ritz-Carlton, Kyoto",
+  "operator": "Marriott International",
+  "brand": "The Ritz-Carlton",
+  "country": "Japan",
+  "region": "Asia",
+  "city": "Kyoto",
+  "area": "Kamogawa River",
+  "type": "city",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "Kamogawa Nijo-Ohashi Hotori, Nakagyo-ku, Kyoto 604-0902, Japan",
+  "lat": 35.01378,
+  "lng": 135.77085,
+  "officialSite": "https://www.ritzcarlton.com/en/hotels/ukyrz-the-ritz-carlton-kyoto/overview/",
+  "rooms": 134,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": null,
+  "tagline": "A hundred and thirty-four rooms on the Kamo River, facing the Higashiyama hills.",
+  "description": "The Ritz-Carlton, Kyoto stands on the bank of the Kamogawa River, with a view of the Higashiyama mountains. It has 134 guest rooms and suites, four restaurants and bars, and a La Prairie spa, and the Gion and Teramachi districts are within walking distance.\n\nThe site has been favoured by Japanese nobility since the 17th century. The building is low and long along the water, and inside it is hung with 409 pieces of modern Japanese art. Check-in is conducted over traditional Japanese tea. Rooms and suites carry Japanese motifs, and the Japanese-style suites have tatami floors.\n\nThe rooms average 50 square metres, which the hotel says is the largest in Kyoto. Some have balconies over the river or the mountains, and the Garden Suites open onto a private Japanese garden with a moon-viewing deck, the tsukimidai. At the top is Suite Tsukimi, a one-bedroom penthouse of 140 square metres with a terrace. The Ritz-Carlton Suite and Suite Tsukimi have their own bedrooms, dining rooms and living rooms, and neither is eligible for complimentary upgrades. Linens are Frette and the beds are pillowtop.\n\nKaiseki Mizuki holds a Michelin star, and the Mizuki family of restaurants also includes Sushi Mizuki, with an 11-metre counter set with Wajima lacquerware, Tempura Mizuki under Chef Kojima and Teppan Mizuki. La Locanda serves Italian dishes made from local ingredients among wood panelling and tatami. Chef Katsuhito Inoue hosts a chef's table built around Kyoto's 72 micro-seasons. The Lobby Lounge serves afternoon tea with creations by Pierre Hermé Paris, which also has a boutique in the hotel, and The Bar makes cocktails.\n\nLa Prairie Spa is the first hotel spa for the brand in Asia. It has seven treatment rooms, a private spa suite, a gentle waterfall, a heated indoor pool and a fitness centre. Treatments include the Bamboo Vitality Ritual and the Harmonizing Stone Journey.\n\nThe hotel suits those who want to walk to Gion and the shops of Teramachi and return to a quiet riverside room.",
+  "highlights": [
+    {
+      "label": "Penthouse",
+      "value": "Suite Tsukimi is a one-bedroom penthouse of 140 square metres with a terrace.",
+      "sourceUrl": "https://www.ritzcarlton.com/en/hotels/ukyrz-the-ritz-carlton-kyoto/rooms/signature-suites/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Rooms",
+      "value": "Guest rooms average 50 square metres, which the hotel says is the largest in Kyoto.",
+      "sourceUrl": "https://www.ritzcarlton.com/en/hotels/ukyrz-the-ritz-carlton-kyoto/rooms/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Kaiseki",
+      "value": "Kaiseki Mizuki holds a Michelin star.",
+      "sourceUrl": "https://www.ritzcarlton.com/en/hotels/ukyrz-the-ritz-carlton-kyoto/dining/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "La Prairie Spa has seven treatment rooms, a private spa suite and a heated indoor pool.",
+      "sourceUrl": "https://www.ritzcarlton.com/en/hotels/ukyrz-the-ritz-carlton-kyoto/spa/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Art",
+      "value": "409 pieces of modern Japanese art hang throughout the hotel.",
+      "sourceUrl": "https://www.ritzcarlton.com/en/hotels/ukyrz-the-ritz-carlton-kyoto/overview/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Tea",
+      "value": "Afternoon tea at the Lobby Lounge features creations by Pierre Hermé Paris.",
+      "sourceUrl": "https://www.ritzcarlton.com/en/hotels/ukyrz-the-ritz-carlton-kyoto/dining/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Guest rooms and suites",
+      "value": "134",
+      "sourceUrl": "https://www.ritzcarlton.com/en/hotels/ukyrz-the-ritz-carlton-kyoto/overview/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Average room size",
+      "value": "50 square metres",
+      "sourceUrl": "https://www.ritzcarlton.com/en/hotels/ukyrz-the-ritz-carlton-kyoto/rooms/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Suite Tsukimi",
+      "value": "140 square metres, one bedroom, terrace",
+      "sourceUrl": "https://www.ritzcarlton.com/en/hotels/ukyrz-the-ritz-carlton-kyoto/rooms/signature-suites/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "La Prairie Spa, seven treatment rooms",
+      "sourceUrl": "https://www.ritzcarlton.com/en/hotels/ukyrz-the-ritz-carlton-kyoto/spa/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Artworks",
+      "value": "409 pieces of modern Japanese art",
+      "sourceUrl": "https://www.ritzcarlton.com/en/hotels/ukyrz-the-ritz-carlton-kyoto/overview/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Site",
+      "value": "On the Kamogawa River, favoured by Japanese nobility since the 17th century",
+      "sourceUrl": "https://www.ritzcarlton.com/en/hotels/ukyrz-the-ritz-carlton-kyoto/overview/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/the-ritz-carlton-kyoto/1.jpg",
+      "srcSmall": "/photos/the-ritz-carlton-kyoto/1-640.jpg",
+      "srcMid": "/photos/the-ritz-carlton-kyoto/1-1000.jpg",
+      "srcHero": "/photos/the-ritz-carlton-kyoto/1-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "The Ritz-Carlton, Kyoto",
+      "creditUrl": "https://www.ritzcarlton.com/en/hotels/ukyrz-the-ritz-carlton-kyoto/photos/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://cache.marriott.com/is/image/marriotts7prod/rz-ukyrz-exterior-31629?wid=2400",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-ritz-carlton-kyoto/2.jpg",
+      "srcSmall": "/photos/the-ritz-carlton-kyoto/2-640.jpg",
+      "srcMid": "/photos/the-ritz-carlton-kyoto/2-1000.jpg",
+      "srcHero": "/photos/the-ritz-carlton-kyoto/2-2400.jpg",
+      "width": 1600,
+      "height": 1068,
+      "credit": "The Ritz-Carlton, Kyoto",
+      "creditUrl": "https://www.ritzcarlton.com/en/hotels/ukyrz-the-ritz-carlton-kyoto/photos/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://cache.marriott.com/is/image/marriotts7prod/rz-ukyrz-atrium-40631?wid=2400",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-ritz-carlton-kyoto/3.jpg",
+      "srcSmall": "/photos/the-ritz-carlton-kyoto/3-640.jpg",
+      "srcMid": "/photos/the-ritz-carlton-kyoto/3-1000.jpg",
+      "srcHero": "/photos/the-ritz-carlton-kyoto/3-2400.jpg",
+      "width": 1600,
+      "height": 900,
+      "credit": "The Ritz-Carlton, Kyoto",
+      "creditUrl": "https://www.ritzcarlton.com/en/hotels/ukyrz-the-ritz-carlton-kyoto/photos/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://cache.marriott.com/is/image/marriotts7prod/rz-ukyrz-ritz-carlton-suite-living-31855?wid=2400",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-ritz-carlton-kyoto/4.jpg",
+      "srcSmall": "/photos/the-ritz-carlton-kyoto/4-640.jpg",
+      "srcMid": "/photos/the-ritz-carlton-kyoto/4-1000.jpg",
+      "srcHero": "/photos/the-ritz-carlton-kyoto/4-2400.jpg",
+      "width": 1600,
+      "height": 900,
+      "credit": "The Ritz-Carlton, Kyoto",
+      "creditUrl": "https://www.ritzcarlton.com/en/hotels/ukyrz-the-ritz-carlton-kyoto/photos/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://cache.marriott.com/is/image/marriotts7prod/rz-ukyrz-suite-tsukimi-bedroom-31186?wid=2400",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-ritz-carlton-kyoto/5.jpg",
+      "srcSmall": "/photos/the-ritz-carlton-kyoto/5-640.jpg",
+      "srcMid": "/photos/the-ritz-carlton-kyoto/5-1000.jpg",
+      "srcHero": "/photos/the-ritz-carlton-kyoto/5-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "The Ritz-Carlton, Kyoto",
+      "creditUrl": "https://www.ritzcarlton.com/en/hotels/ukyrz-the-ritz-carlton-kyoto/photos/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://cache.marriott.com/is/image/marriotts7prod/rz-ukyrz-main-dining-garden-25942?wid=2400",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-ritz-carlton-kyoto/6.jpg",
+      "srcSmall": "/photos/the-ritz-carlton-kyoto/6-640.jpg",
+      "srcMid": "/photos/the-ritz-carlton-kyoto/6-1000.jpg",
+      "srcHero": "/photos/the-ritz-carlton-kyoto/6-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "The Ritz-Carlton, Kyoto",
+      "creditUrl": "https://www.ritzcarlton.com/en/hotels/ukyrz-the-ritz-carlton-kyoto/photos/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://cache.marriott.com/is/image/marriotts7prod/rz-ukyrz-lobby-lounge-22108?wid=2400",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-ritz-carlton-kyoto/7.jpg",
+      "srcSmall": "/photos/the-ritz-carlton-kyoto/7-640.jpg",
+      "srcMid": "/photos/the-ritz-carlton-kyoto/7-1000.jpg",
+      "srcHero": "/photos/the-ritz-carlton-kyoto/7-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "The Ritz-Carlton, Kyoto",
+      "creditUrl": "https://www.ritzcarlton.com/en/hotels/ukyrz-the-ritz-carlton-kyoto/photos/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://cache.marriott.com/is/image/marriotts7prod/rz-ukyrz-balcony-terrace-36766?wid=2400",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": "39042142.0000",
+  "rating": {
+    "score": 8.6,
+    "reviews": 49,
+    "source": "booking",
+    "date": "2026-11-08"
+  },
+  "price": {
+    "from": 3260,
+    "date": "2026-11-08"
+  },
+  "booking": {
+    "supplier": "booking"
+  },
+  "lastVerified": "2026-11-08"
+}

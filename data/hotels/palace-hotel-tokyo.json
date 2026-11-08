@@ -1,0 +1,227 @@
+{
+  "slug": "palace-hotel-tokyo",
+  "name": "Palace Hotel Tokyo",
+  "operator": "Palace Hotel Co., Ltd.",
+  "brand": "Palace Hotel",
+  "country": "Japan",
+  "region": "Asia",
+  "city": "Tokyo",
+  "area": "Marunouchi",
+  "type": "city",
+  "themes": [
+    "palace"
+  ],
+  "adultsOnly": false,
+  "address": "1-1-1 Marunouchi, Chiyoda-ku, Tokyo 100-0005, Japan",
+  "lat": 35.6845,
+  "lng": 139.76124,
+  "officialSite": "https://en.palacehoteltokyo.com/",
+  "rooms": 284,
+  "suites": null,
+  "villas": null,
+  "opened": 2012,
+  "airport": null,
+  "tagline": "Moat-side Marunouchi, with the Imperial Palace Gardens outside every window.",
+  "description": "Palace Hotel Tokyo stands at 1-1-1 Marunouchi, beside the moat of the Imperial Palace Gardens. It has 284 guestrooms and suites, ten restaurants and bars, and an evian SPA, in a hotel that is wholly Japanese owned and managed.\n\nThe hotel opened in 2012 after a three-year rebuild from the ground up, as the anchor of a USD 1.2 billion development that includes the adjoining Palace Building. Its main lobby opens onto the moat and the gardens, and the Wadakura Fountain Park lies a short walk away. Every guestroom looks over the gardens or the skyline.\n\nRooms start at 45 square metres, which is the Deluxe Room, and reach 255 square metres in the Palace Suite. Between them sit the Grand Deluxe at 55 square metres, the Executive and Garden Suites at 75, the Chiyoda Suite at 80, the Premier Suite at 90, and the Park and Terrace Suites at 120. Many have balconies or terraces, and the bathrooms are open in style, with separate tubs and showers and amenities by Bamford. Suite and Club guests have a Club Lounge on the southeast corner of the 19th floor.\n\nDining is the hotel's strength. Esterre serves contemporary French haute cuisine in partnership with Alain Ducasse and holds one star in the Michelin Guide Tokyo 2026. Wadakura offers kaiseki, Sushi Kanesaka is the Marunouchi counter of Michelin-starred chef Shinji Kanesaka, and Tatsumi is a six-seat tempura bar. Go cooks on teppanyaki grills, Amber Palace serves Shanghainese and Cantonese dishes, and Grand Kitchen, in the lobby, is the all-day restaurant with a terrace on the moat. The Royal Bar follows the style of the original Royal Bar, and the Palace Lounge has live jazz nightly. In-room dining is available around the clock.\n\nThe evian SPA TOKYO covers 1,200 square metres, with five treatment rooms, a dual-bedded spa suite, heated baths, saunas and a pool. The fitness centre looks over the gardens.\n\nThe hotel suits guests who want Marunouchi and Tokyo Station close by, and a calm, green outlook in the middle of the business district.",
+  "highlights": [
+    {
+      "label": "Largest suite",
+      "value": "The Palace Suite measures 210 to 250 square metres.",
+      "sourceUrl": "https://en.palacehoteltokyo.com/rooms-suites/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "French dining",
+      "value": "Esterre by Alain Ducasse holds one Michelin star in the Michelin Guide Tokyo 2026.",
+      "sourceUrl": "https://en.palacehoteltokyo.com/restaurant/esterre-restaurant/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Sushi",
+      "value": "Sushi Kanesaka is the Marunouchi outpost of Michelin-starred chef Shinji Kanesaka.",
+      "sourceUrl": "https://en.palacehoteltokyo.com/restaurants-bars/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "The evian SPA TOKYO covers 1,200 square metres with five treatment rooms.",
+      "sourceUrl": "https://en.palacehoteltokyo.com/evian-spa-tokyo/spa-facilities/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Music",
+      "value": "Live jazz plays nightly at the Palace Lounge.",
+      "sourceUrl": "https://en.palacehoteltokyo.com/restaurants-bars/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Club Lounge",
+      "value": "The Club Lounge on the 19th floor is for suite and Club guests.",
+      "sourceUrl": "https://en.palacehoteltokyo.com/restaurants-bars/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Guestrooms",
+      "value": "284",
+      "sourceUrl": "https://en.palacehoteltokyo.com/hotel-overview/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Restaurants and bars",
+      "value": "10",
+      "sourceUrl": "https://en.palacehoteltokyo.com/hotel-overview/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Opened",
+      "value": "2012, after a three-year rebuild",
+      "sourceUrl": "https://en.palacehoteltokyo.com/hotel-overview/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Room sizes",
+      "value": "45 to 255 square metres",
+      "sourceUrl": "https://en.palacehoteltokyo.com/rooms-suites/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Palace Suite",
+      "value": "210 to 250 square metres",
+      "sourceUrl": "https://en.palacehoteltokyo.com/rooms-suites/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "1,200 square metres, five treatment rooms",
+      "sourceUrl": "https://en.palacehoteltokyo.com/evian-spa-tokyo/spa-facilities/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Address",
+      "value": "1-1-1 Marunouchi, Chiyoda-ku, Tokyo 100-0005",
+      "sourceUrl": "https://en.palacehoteltokyo.com/hotel-overview/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/palace-hotel-tokyo/1.jpg",
+      "srcSmall": "/photos/palace-hotel-tokyo/1-640.jpg",
+      "srcMid": "/photos/palace-hotel-tokyo/1-1000.jpg",
+      "srcHero": "",
+      "width": 1580,
+      "height": 780,
+      "credit": "Palace Hotel Tokyo",
+      "creditUrl": "https://en.palacehoteltokyo.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://en.palacehoteltokyo.com/wp-content/uploads/Palace-Hotel-Tokyo-F-Exterior-Views.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/palace-hotel-tokyo/2.jpg",
+      "srcSmall": "/photos/palace-hotel-tokyo/2-640.jpg",
+      "srcMid": "/photos/palace-hotel-tokyo/2-1000.jpg",
+      "srcHero": "",
+      "width": 1580,
+      "height": 780,
+      "credit": "Palace Hotel Tokyo",
+      "creditUrl": "https://en.palacehoteltokyo.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://en.palacehoteltokyo.com/wp-content/uploads/Palace-Hotel-Tokyo-Lobby2.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/palace-hotel-tokyo/3.jpg",
+      "srcSmall": "/photos/palace-hotel-tokyo/3-640.jpg",
+      "srcMid": "/photos/palace-hotel-tokyo/3-1000.jpg",
+      "srcHero": "",
+      "width": 1580,
+      "height": 780,
+      "credit": "Palace Hotel Tokyo",
+      "creditUrl": "https://en.palacehoteltokyo.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://en.palacehoteltokyo.com/wp-content/uploads/Palace-Hotel-Tokyo-Esterre-G.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/palace-hotel-tokyo/4.jpg",
+      "srcSmall": "/photos/palace-hotel-tokyo/4-640.jpg",
+      "srcMid": "/photos/palace-hotel-tokyo/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 757,
+      "credit": "Palace Hotel Tokyo",
+      "creditUrl": "https://en.palacehoteltokyo.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://en.palacehoteltokyo.com/wp-content/uploads/Palace-Hotel-Tokyo-Palace-Suite-Living-Room-V-F2.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/palace-hotel-tokyo/5.jpg",
+      "srcSmall": "/photos/palace-hotel-tokyo/5-640.jpg",
+      "srcMid": "/photos/palace-hotel-tokyo/5-1000.jpg",
+      "srcHero": "",
+      "width": 1580,
+      "height": 780,
+      "credit": "Palace Hotel Tokyo",
+      "creditUrl": "https://en.palacehoteltokyo.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://en.palacehoteltokyo.com/wp-content/uploads/Palace-Hotel-Tokyo-Grand-Kitchen-Terrace-Daytime-2023-Gallery.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/palace-hotel-tokyo/6.jpg",
+      "srcSmall": "/photos/palace-hotel-tokyo/6-640.jpg",
+      "srcMid": "/photos/palace-hotel-tokyo/6-1000.jpg",
+      "srcHero": "",
+      "width": 1580,
+      "height": 780,
+      "credit": "Palace Hotel Tokyo",
+      "creditUrl": "https://en.palacehoteltokyo.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://en.palacehoteltokyo.com/wp-content/uploads/Palace-Hotel-Tokyo-evian-Spa-Tokyo-Swimming-Pool-Daytime-G.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": "15279575.0000",
+  "rating": {
+    "score": 9.7,
+    "reviews": 291,
+    "source": "booking",
+    "date": "2026-11-08"
+  },
+  "price": {
+    "from": 1834,
+    "date": "2026-11-08"
+  },
+  "booking": {
+    "supplier": "booking"
+  },
+  "lastVerified": "2026-11-08"
+}

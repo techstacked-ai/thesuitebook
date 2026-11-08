@@ -1,0 +1,232 @@
+{
+  "slug": "aman-tokyo",
+  "name": "Aman Tokyo",
+  "operator": "Aman",
+  "brand": "Aman",
+  "country": "Japan",
+  "region": "Asia",
+  "city": "Tokyo",
+  "area": "Otemachi",
+  "type": "city",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "Otemachi Tower, 1-5-6 Otemachi, Chiyoda-ku, Tokyo 100-0004, Japan",
+  "lat": 35.68559,
+  "lng": 139.76539,
+  "officialSite": "https://www.aman.com/hotels/aman-tokyo/",
+  "rooms": 84,
+  "suites": 84,
+  "villas": null,
+  "opened": null,
+  "airport": {
+    "code": "HND",
+    "minutes": 40
+  },
+  "tagline": "Eighty-four suites at the top of Otemachi Tower, five minutes from Tokyo Station.",
+  "description": "Aman Tokyo occupies the upper floors of the Otemachi Tower, in the business district beside the Imperial Palace Gardens. It has 84 suites and signature suites, a 2,500 square metre spa and a 30-metre indoor pool, all looking over the skyline.\n\nGuests arrive at a lobby that the hotel counts among the largest in Tokyo. Its design follows Japanese tradition, with ikebana displays, washi paper doors and engawa platforms, set against granite and wood. Tokyo Station is a five-minute drive from the tower, and the base of the building opens onto a small forest, the Otemachi Forest, where The Café by Aman sits among the trees.\n\nAll 84 accommodations are suites, laid out like a ryokan with shoji screens, sunken living areas, deep stone furo baths and floor-to-ceiling windows. The Deluxe Suite and the Garden View Suite measure 71 square metres, and the Tokyo Suite 77. Above them are the signature suites: the City Suite at 121 square metres, the Grand Suite at 141, the Panorama Suite at up to 139 on the corners of the building, and the Aman Suite at 157 square metres, the largest in the hotel. On clear days some of the views take in Mount Fuji beyond the Imperial Palace Gardens. Breakfast, in-room refreshments and the wellness facilities are included in every stay.\n\nFour restaurants cover a wide range. Arva serves southern Italian cooking by Masakazu Hiraki, who trained in Venice. Musashi is an intimate counter of hinoki cypress where chef Musashi serves omakase sushi in the Edomae tradition. The Lounge by Aman is open all day for cocktails, seasonal afternoon tea and meals, and La Pâtisserie, on the second basement floor of the tower, is the first Aman patisserie, making breads and pastries.\n\nThe Aman Spa covers 2,500 square metres over two floors and has eight treatment rooms, onsen-style baths, steam rooms, yoga and Pilates studios and a fitness centre open around the clock. Every treatment begins with the Misogi experience, a Shinto purification ritual with water, and the signature journey combines a scrub of camphor, kuromoji and Japanese clay with a 90-minute shiatsu and western massage. Guests can also book zazen meditation led by a monk, or Japanese acupuncture.\n\nThe hotel suits those who want space and quiet in the middle of the city, with Tokyo Station close and Narita and Haneda a car ride away. The Aman team can arrange journeys on to Aman Kyoto and Amanemu.",
+  "highlights": [
+    {
+      "label": "Largest suite",
+      "value": "The Aman Suite measures 157 square metres and overlooks the Tokyo skyline.",
+      "sourceUrl": "https://www.aman.com/hotels/aman-tokyo/accommodation/suites",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "A 2,500 square metre Aman Spa over two floors, with onsen-style baths and a 30-metre pool.",
+      "sourceUrl": "https://www.aman.com/hotels/aman-tokyo/wellness",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Sushi",
+      "value": "Musashi serves omakase sushi in the Edomae tradition at a hinoki cypress counter.",
+      "sourceUrl": "https://www.aman.com/hotels/aman-tokyo/dining",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Italian",
+      "value": "Arva serves southern Italian cooking by Venice-trained chef Masakazu Hiraki.",
+      "sourceUrl": "https://www.aman.com/hotels/aman-tokyo/dining",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Patisserie",
+      "value": "La Pâtisserie, on the B2 floor of the tower, is the first Aman patisserie.",
+      "sourceUrl": "https://www.aman.com/hotels/aman-tokyo/dining",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Included",
+      "value": "Breakfast, in-room refreshments and access to the wellness facilities come with every stay.",
+      "sourceUrl": "https://www.aman.com/hotels/aman-tokyo/accommodation/suites",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Suites and signature suites",
+      "value": "84",
+      "sourceUrl": "https://www.aman.com/hotels/aman-tokyo/accommodation/suites",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Aman Suite",
+      "value": "157 square metres",
+      "sourceUrl": "https://www.aman.com/hotels/aman-tokyo/accommodation/suites",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "City Suite",
+      "value": "121 square metres",
+      "sourceUrl": "https://www.aman.com/hotels/aman-tokyo/accommodation/suites",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Garden View Suite",
+      "value": "71 square metres, on the 38th floor",
+      "sourceUrl": "https://www.aman.com/hotels/aman-tokyo/accommodation/suites",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "2,500 square metres, eight treatment rooms, 30-metre heated indoor pool",
+      "sourceUrl": "https://www.aman.com/hotels/aman-tokyo/wellness",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Haneda airport",
+      "value": "40 minutes by car",
+      "sourceUrl": "https://www.aman.com/hotels/aman-tokyo/getting-here",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Narita airport",
+      "value": "60 minutes by car",
+      "sourceUrl": "https://www.aman.com/hotels/aman-tokyo/getting-here",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Tokyo Station",
+      "value": "five minutes by car",
+      "sourceUrl": "https://www.aman.com/hotels/aman-tokyo/getting-here",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Address",
+      "value": "Otemachi Tower, 1-5-6 Otemachi, Chiyoda-ku, Tokyo 100-0004",
+      "sourceUrl": "https://www.aman.com/hotels/aman-tokyo/getting-here",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/aman-tokyo/1.jpg",
+      "srcSmall": "/photos/aman-tokyo/1-640.jpg",
+      "srcMid": "/photos/aman-tokyo/1-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/hotels/aman-tokyo/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2021-02/Aman-Tokyo_Gallery_26.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/aman-tokyo/2.jpg",
+      "srcSmall": "/photos/aman-tokyo/2-640.jpg",
+      "srcMid": "/photos/aman-tokyo/2-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/hotels/aman-tokyo/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2021-08/aman-tokyo-lounge%20%282%29_0.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/aman-tokyo/3.jpg",
+      "srcSmall": "/photos/aman-tokyo/3-640.jpg",
+      "srcMid": "/photos/aman-tokyo/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/hotels/aman-tokyo/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2023-08/aman_tokyo_tokyo_suite_bedroom_0.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/aman-tokyo/4.jpg",
+      "srcSmall": "/photos/aman-tokyo/4-640.jpg",
+      "srcMid": "/photos/aman-tokyo/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/hotels/aman-tokyo/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2023-11/aman_tokyo_japan_-_interior_-_swimming_pool_1.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/aman-tokyo/5.jpg",
+      "srcSmall": "/photos/aman-tokyo/5-640.jpg",
+      "srcMid": "/photos/aman-tokyo/5-1000.jpg",
+      "srcHero": "/photos/aman-tokyo/5-2400.jpg",
+      "width": 1600,
+      "height": 986,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/hotels/aman-tokyo/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2022-06/BR_Aman_Tokyo_Spring_010-3.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/aman-tokyo/6.jpg",
+      "srcSmall": "/photos/aman-tokyo/6-640.jpg",
+      "srcMid": "/photos/aman-tokyo/6-1000.jpg",
+      "srcHero": "/photos/aman-tokyo/6-2400.jpg",
+      "width": 1600,
+      "height": 987,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/hotels/aman-tokyo/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2026-05/Aman-Tokyo--Japan---F-B---The-Cafe-by-Aman---Exterior-2.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-08"
+}

@@ -1,0 +1,237 @@
+{
+  "slug": "aman-kyoto",
+  "name": "Aman Kyoto",
+  "operator": "Aman",
+  "brand": "Aman",
+  "country": "Japan",
+  "region": "Asia",
+  "city": "Kyoto",
+  "area": "Takagamine, Kita-ku",
+  "type": "resort",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "1 Okitayama Washimine-cho, Kita-ku, Kyoto 603-8458, Japan",
+  "lat": 35.05035,
+  "lng": 135.73123,
+  "officialSite": "https://www.aman.com/resorts/aman-kyoto",
+  "rooms": 26,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": {
+    "code": "ITM",
+    "minutes": 60
+  },
+  "tagline": "Twenty-six ryokan-style rooms and pavilions in a forest garden in northern Kyoto.",
+  "description": "Aman Kyoto is a 26-room resort in Kyoto's northern Takagamine district, in a forest garden at the foot of Hidari Daimonji mountain. It is about 30 minutes by car from Kyoto Station and a short distance from Kinkaku-ji, one of 17 UNESCO World Heritage Sites nearby.\n\nThe resort sits in what Aman calls a secret garden, with mature maples, moss and stone paths that guests are guided through on arrival. The rooms and pavilions are dark timber buildings with lattice screens, set in glades so that each frames the forest, and the layout follows the ryokan inn. The Living Pavilion, the Tea House Senkutsu and the spa stand among the trees, with fire pits on the terraces.\n\nAll 26 accommodations are guest rooms, suites or pavilions, starting at 60 square metres. The room types are named for the landscape: Kaede for the maples, Nara for the woodland, and Susuki, with and without terrace, facing east. The Takagamine Suite has one bedroom and a tatami room. The Takagamine Pavilion has two bedrooms and looks over the garden to Mount Hiei, and the Washigamine Pavilion, also with two bedrooms, stands at the highest and most secluded point of the property.\n\nDaily breakfast is a Kyoto breakfast in a wooden box, with a choice of Kuroge Wagyu or grilled fish. The in-room refreshments include alcoholic drinks, and each afternoon matcha is served with seasonal sweets in the tea house. In the evening an aperitif of Champagne, wine or sparkling sake comes with small snacks. At Taka-An the chef serves a seasonal omakase menu, and the Living Pavilion has Kyoto-inspired Western cooking, afternoon teas and more than 20 teas.\n\nThe Aman Spa has indoor and outdoor onsen baths fed by mineral hot springs that rise near the resort, three treatment rooms and a relaxation area. Treatments include shiatsu, a speciality of the house, and acupuncture with moxibustion. There is no gym or pool. Yoga and mindfulness sessions are held in the garden.\n\nThe resort suits travellers who want Kyoto's temples close at hand but a quiet forest to return to. Osaka International Airport is an hour away by car.",
+  "highlights": [
+    {
+      "label": "Setting",
+      "value": "A forest garden at the foot of Hidari Daimonji mountain, 30 minutes from Kyoto Station by car.",
+      "sourceUrl": "https://www.aman.com/resorts/aman-kyoto",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Pavilions",
+      "value": "The Takagamine and Washigamine Pavilions each have two bedrooms.",
+      "sourceUrl": "https://www.aman.com/resorts/aman-kyoto/accommodation",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Onsen",
+      "value": "Indoor and outdoor onsen bathing fed by hot springs near the resort.",
+      "sourceUrl": "https://www.aman.com/resorts/aman-kyoto/wellness",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Dining",
+      "value": "Taka-An serves a seasonal omakase menu, and the Living Pavilion serves Kyoto-inspired Western cuisine.",
+      "sourceUrl": "https://www.aman.com/resorts/aman-kyoto/dining",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Tea",
+      "value": "Afternoon matcha with seasonal sweets is served daily at the Tea House.",
+      "sourceUrl": "https://www.aman.com/resorts/aman-kyoto/accommodation",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Included",
+      "value": "Breakfast, in-room drinks including alcohol, an evening aperitif and a garden tour come with every stay.",
+      "sourceUrl": "https://www.aman.com/resorts/aman-kyoto/accommodation",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Guest rooms, suites and pavilions",
+      "value": "26",
+      "sourceUrl": "https://www.aman.com/resorts/aman-kyoto/accommodation",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Smallest accommodation",
+      "value": "60 square metres",
+      "sourceUrl": "https://www.aman.com/resorts/aman-kyoto/accommodation",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "Onsen baths and three private treatment rooms; no gym or pool",
+      "sourceUrl": "https://www.aman.com/resorts/aman-kyoto/wellness",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Kyoto Station",
+      "value": "about 30 minutes by car",
+      "sourceUrl": "https://www.aman.com/resorts/aman-kyoto",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Osaka International Airport",
+      "value": "one hour by car",
+      "sourceUrl": "https://www.aman.com/resorts/aman-kyoto",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Kansai International Airport",
+      "value": "two hours by car, or 90 minutes by express train to Kyoto Station",
+      "sourceUrl": "https://www.aman.com/resorts/aman-kyoto",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Address",
+      "value": "1 Okitayama Washimine-cho, Kita-ku, Kyoto 603-8458",
+      "sourceUrl": "https://www.aman.com/resorts/aman-kyoto",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/aman-kyoto/1.jpg",
+      "srcSmall": "/photos/aman-kyoto/1-640.jpg",
+      "srcMid": "/photos/aman-kyoto/1-1000.jpg",
+      "srcHero": "/photos/aman-kyoto/1-2400.jpg",
+      "width": 1600,
+      "height": 987,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/aman-kyoto/gallery/explore-aman-kyoto",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2021-09/Aman_Kyoto_Japan_Exterior_Garden_26.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/aman-kyoto/2.jpg",
+      "srcSmall": "/photos/aman-kyoto/2-640.jpg",
+      "srcMid": "/photos/aman-kyoto/2-1000.jpg",
+      "srcHero": "/photos/aman-kyoto/2-2400.jpg",
+      "width": 1600,
+      "height": 987,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/aman-kyoto/gallery/explore-aman-kyoto",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2021-11/Aman_Kyoto_Living_Pavilion.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/aman-kyoto/3.jpg",
+      "srcSmall": "/photos/aman-kyoto/3-640.jpg",
+      "srcMid": "/photos/aman-kyoto/3-1000.jpg",
+      "srcHero": "/photos/aman-kyoto/3-2400.jpg",
+      "width": 1600,
+      "height": 987,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/aman-kyoto/gallery/explore-aman-kyoto",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2021-06/Aman%20Kyoto%2C%20Japan%20-%20Dining%2C%20Taka-An.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/aman-kyoto/4.jpg",
+      "srcSmall": "/photos/aman-kyoto/4-640.jpg",
+      "srcMid": "/photos/aman-kyoto/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/aman-kyoto/gallery/explore-aman-kyoto",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2022-12/Aman%20Kyoto%20-%20Suite.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/aman-kyoto/5.jpg",
+      "srcSmall": "/photos/aman-kyoto/5-640.jpg",
+      "srcMid": "/photos/aman-kyoto/5-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/aman-kyoto/gallery/explore-aman-kyoto",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2024-02/aman-kyoto-nara-room.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/aman-kyoto/6.jpg",
+      "srcSmall": "/photos/aman-kyoto/6-640.jpg",
+      "srcMid": "/photos/aman-kyoto/6-1000.jpg",
+      "srcHero": "/photos/aman-kyoto/6-2400.jpg",
+      "width": 1600,
+      "height": 987,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/aman-kyoto/gallery/explore-aman-kyoto",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2026-03/Aman-Kyoto--Japan---The-Living-Pavilion-by-Aman-Exterior_26475.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/aman-kyoto/7.jpg",
+      "srcSmall": "/photos/aman-kyoto/7-640.jpg",
+      "srcMid": "/photos/aman-kyoto/7-1000.jpg",
+      "srcHero": "/photos/aman-kyoto/7-2400.jpg",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/aman-kyoto/gallery/explore-aman-kyoto",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2024-12/aman_kyoto_japan_-_wellness_spa_treatment_room.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-08"
+}
