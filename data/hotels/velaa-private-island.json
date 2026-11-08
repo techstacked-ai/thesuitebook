@@ -1,0 +1,242 @@
+{
+  "slug": "velaa-private-island",
+  "name": "Velaa Private Island",
+  "operator": "Velaa",
+  "brand": "",
+  "country": "Maldives",
+  "region": "Indian Ocean",
+  "city": "Noonu Atoll",
+  "area": "Noonu Atoll",
+  "type": "island",
+  "themes": [
+    "private-island",
+    "overwater"
+  ],
+  "adultsOnly": false,
+  "address": "Velaa Private Island, Noonu Atoll, Maldives",
+  "lat": 5.83114,
+  "lng": 73.2094,
+  "officialSite": "https://www.velaaprivateisland.com/",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": {},
+  "tagline": "A private island in Noonu Atoll with a 9-hole golf course and a wine cellar tower.",
+  "description": "Velaa Private Island is a private-island resort in the Noonu Atoll of the Maldives, reached by a 45-minute seaplane ride. Its villas range from one bedroom to a residence of 1,300 square metres, and the island has a 9-hole golf course, the Maldives' largest private wine cellar and a spa over the water.\n\nThe resort is built around what it calls majaa, the spirit of joy and adventure. Every villa comes with a personal butler. Materials are chosen to breathe with the island, in sand and sea colours, with natural light and ocean views in each home.\n\nThe one-bedroom villas are suspended over the lagoon. The two-bedroom houses are made for shared days, and the residences are among the largest in the Maldives, with a four-bedroom option as well. Guests who want the whole island can take Velaa for themselves for a celebration or a milestone.\n\nDining is spread across the island. Aragu serves an East-meets-West menu with piano and wine. Tavaru is a teppanyaki restaurant high above the palms, and inside the Tavaru Tower sits the Maldives' largest private wine cellar. Faiy offers balanced seasonal dishes, Athiri is the everyday restaurant with chefs from fourteen nations, Cru is the champagne and wine lounge, and AVI is a poolside lounge with live music. A Beach Bar sits by the water.\n\nThe spa hovers above the lagoon, with personalised facials, Swiss skin treatments, massages, a sauna and steam rooms, plus meditation, yoga, Cloud 9 and Dream Pod experiences. The Velaa Golf Academy is a 9-hole par-3 course designed by José María Olazábal, with PGA coaching, a TrackMan simulator and swing analysis. There are padel and tennis courts and a climbing wall, with water sports and diving on the reef. The Kids Club has its own programme.\n\nMaafaru International Airport is a 7-minute seaplane ride from the island for private jets, or a 35-minute yacht ride. It suits families who want an island with a children's club, golfers and couples who want a quiet overwater villa.",
+  "highlights": [
+    {
+      "label": "Villas",
+      "value": "From one-bedroom overwater villas to residences of 1,300 square metres",
+      "sourceUrl": "https://www.velaaprivateisland.com/villas",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Wine cellar",
+      "value": "The Maldives' largest private wine cellar, inside the Tavaru Tower",
+      "sourceUrl": "https://www.velaaprivateisland.com/dining",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Golf",
+      "value": "A 9-hole par-3 course designed by José María Olazábal",
+      "sourceUrl": "https://www.velaaprivateisland.com/activities",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Dining",
+      "value": "Aragu, Tavaru, Faiy, Athiri, Cru and AVI",
+      "sourceUrl": "https://www.velaaprivateisland.com/dining",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "A spa over the water, with sauna, steam and Swiss facials",
+      "sourceUrl": "https://www.velaaprivateisland.com/spa",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Kids Club",
+      "value": "A children's club with its own programme",
+      "sourceUrl": "https://www.velaaprivateisland.com/kids-club",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Largest residence",
+      "value": "1,300 square metres",
+      "sourceUrl": "https://www.velaaprivateisland.com/villas",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Seaplane transfer",
+      "value": "45 minutes, by private charter or commercial seaplane",
+      "sourceUrl": "https://www.velaaprivateisland.com/contact",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Private jets",
+      "value": "Maafaru International Airport, 7 minutes by seaplane or 35 minutes by yacht",
+      "sourceUrl": "https://www.velaaprivateisland.com/contact",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Golf course",
+      "value": "9 holes, par 3",
+      "sourceUrl": "https://www.velaaprivateisland.com/activities",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Athiri chefs",
+      "value": "Chefs from 14 nations",
+      "sourceUrl": "https://www.velaaprivateisland.com/dining",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/velaa-private-island/1.jpg",
+      "srcSmall": "/photos/velaa-private-island/1-640.jpg",
+      "srcMid": "/photos/velaa-private-island/1-1000.jpg",
+      "srcHero": "/photos/velaa-private-island/1-2400.jpg",
+      "width": 1600,
+      "height": 1089,
+      "credit": "Velaa Private Island",
+      "creditUrl": "https://www.velaaprivateisland.com/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://framerusercontent.com/images/MA9zF2ghAZ3neDqXatiwXHpVg.jpg?width=2400&quality=85",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/velaa-private-island/2.jpg",
+      "srcSmall": "/photos/velaa-private-island/2-640.jpg",
+      "srcMid": "/photos/velaa-private-island/2-1000.jpg",
+      "srcHero": "/photos/velaa-private-island/2-2400.jpg",
+      "width": 1600,
+      "height": 899,
+      "credit": "Velaa Private Island",
+      "creditUrl": "https://www.velaaprivateisland.com/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://framerusercontent.com/images/9pG88ysj2x3RUvVQP8NYR4AvTg.jpg?width=2400&quality=85",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/velaa-private-island/3.jpg",
+      "srcSmall": "/photos/velaa-private-island/3-640.jpg",
+      "srcMid": "/photos/velaa-private-island/3-1000.jpg",
+      "srcHero": "/photos/velaa-private-island/3-2400.jpg",
+      "width": 1600,
+      "height": 900,
+      "credit": "Velaa Private Island",
+      "creditUrl": "https://www.velaaprivateisland.com/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://framerusercontent.com/images/WuFvs2VBLCmnUnC9j8gvZ4Rfzk.webp?width=2400&quality=85",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/velaa-private-island/4.jpg",
+      "srcSmall": "/photos/velaa-private-island/4-640.jpg",
+      "srcMid": "/photos/velaa-private-island/4-1000.jpg",
+      "srcHero": "/photos/velaa-private-island/4-2400.jpg",
+      "width": 1600,
+      "height": 900,
+      "credit": "Velaa Private Island",
+      "creditUrl": "https://www.velaaprivateisland.com/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://framerusercontent.com/images/OkMOO5zDaFOikR1Czj2TOrs.jpg?width=2400&quality=85",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/velaa-private-island/5.jpg",
+      "srcSmall": "/photos/velaa-private-island/5-640.jpg",
+      "srcMid": "/photos/velaa-private-island/5-1000.jpg",
+      "srcHero": "/photos/velaa-private-island/5-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Velaa Private Island",
+      "creditUrl": "https://www.velaaprivateisland.com/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://framerusercontent.com/images/GY70CdEhr7eZjvAdUav5KclSHE.webp?width=2400&quality=85",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/velaa-private-island/6.jpg",
+      "srcSmall": "/photos/velaa-private-island/6-640.jpg",
+      "srcMid": "/photos/velaa-private-island/6-1000.jpg",
+      "srcHero": "/photos/velaa-private-island/6-2400.jpg",
+      "width": 1600,
+      "height": 1065,
+      "credit": "Velaa Private Island",
+      "creditUrl": "https://www.velaaprivateisland.com/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://framerusercontent.com/images/T6S3avloeAebeCQKzaoLKryBwJQ.webp?width=2400&quality=85",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/velaa-private-island/7.jpg",
+      "srcSmall": "/photos/velaa-private-island/7-640.jpg",
+      "srcMid": "/photos/velaa-private-island/7-1000.jpg",
+      "srcHero": "/photos/velaa-private-island/7-2400.jpg",
+      "width": 1600,
+      "height": 899,
+      "credit": "Velaa Private Island",
+      "creditUrl": "https://www.velaaprivateisland.com/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://framerusercontent.com/images/kjdM37P4FpRmlZRO49YyjFYcVEM.webp?width=2400&quality=85",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/velaa-private-island/8.jpg",
+      "srcSmall": "/photos/velaa-private-island/8-640.jpg",
+      "srcMid": "/photos/velaa-private-island/8-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Velaa Private Island",
+      "creditUrl": "https://www.velaaprivateisland.com/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://framerusercontent.com/images/xZout9FSFaEmanCuju5fA3SQZA.webp?width=2400&quality=85",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "direct"
+  },
+  "lastVerified": "2026-11-08"
+}

@@ -1,0 +1,239 @@
+{
+  "slug": "gili-lankanfushi",
+  "name": "Gili Lankanfushi",
+  "operator": "HPL Hotels & Resorts",
+  "brand": "",
+  "country": "Maldives",
+  "region": "Indian Ocean",
+  "city": "North Malé Atoll",
+  "area": "North Malé Atoll",
+  "type": "island",
+  "themes": [
+    "overwater",
+    "private-island"
+  ],
+  "adultsOnly": false,
+  "address": "Gili Lankanfushi, North Malé Atoll, Maldives",
+  "lat": 4.29517,
+  "lng": 73.55839,
+  "officialSite": "https://gili-lankanfushi.com/",
+  "rooms": null,
+  "suites": null,
+  "villas": 45,
+  "opened": null,
+  "airport": {
+    "code": "MLE",
+    "minutes": 30
+  },
+  "tagline": "Forty-five overwater villas and residences, thirty minutes by speedboat from Malé.",
+  "description": "Gili Lankanfushi is a private-island resort of 45 overwater villas and residences in the North Malé Atoll of the Maldives, a 30-minute speedboat ride from Velana International Airport. Its Private Reserve is described as the world's largest stand-alone overwater villa.\n\nThe island is the kind of desert-island setting the resort is named for: thatched roofs, jetties and a reef that is a short swim away. Each villa has distinct areas for lounging, sleeping and bathing. Gili Lankanfushi runs the Gili Veshi environmental initiatives, which include a marine research facility that doubles as a classroom and the first coral lines project in the Maldives.\n\nThe thatched-roof villas have open-air living rooms with direct access to the ocean, in one- and two-bedroom versions with rooftop terraces, infinity pools, private gyms and Maldivian swings. The Residences sit a short boat ride away or at the far end of the jetties, with catamaran nets above the sea, overwater hammocks and infinity pools, and an air-conditioned living room that converts into a second bedroom for families of four. The Private Reserve has four bedrooms across tiers over the Indian Ocean, with a butler, a private spa pavilion with a sauna and steam room, an air-conditioned gym, a cinema, an infinity pool and a water slide into the lagoon.\n\nRestaurants range from European-Maldivian dishes and hand-rolled sushi to a Japanese fine-dining restaurant in the jungle and a panoramic overwater bar. The underground wine cellar holds 10,000 bottles of 500 labels, and sommeliers pair them with food. An organic garden at the centre of the island supplies the kitchens, with nightly themed markets and culinary journeys, and private dinners are set on the sand.\n\nMeera Spa offers treatments and Ayurvedic therapy, and the island has surfing lessons, snorkelling and wine tastings.\n\nIt suits couples and families of four who want a villa with its own pool, and anyone who wants the Private Reserve to themselves.",
+  "highlights": [
+    {
+      "label": "Private Reserve",
+      "value": "The world's largest stand-alone overwater villa: four bedrooms, a private spa pavilion, cinema and slide",
+      "sourceUrl": "https://gili-lankanfushi.com/maldives-luxury-resort/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Villas",
+      "value": "One- and two-bedroom thatched villas with infinity pools and rooftop terraces",
+      "sourceUrl": "https://gili-lankanfushi.com/maldives-luxury-resort/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Residences",
+      "value": "Overwater residences with catamaran nets or hammocks, for couples or families of four",
+      "sourceUrl": "https://gili-lankanfushi.com/maldives-luxury-resort/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Wine cellar",
+      "value": "An underground cellar with 10,000 bottles and 500 labels",
+      "sourceUrl": "https://gili-lankanfushi.com/dine/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "Meera Spa, with Ayurvedic therapy",
+      "sourceUrl": "https://gili-lankanfushi.com/faq/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Reef",
+      "value": "A marine research facility and the first coral lines project in the Maldives",
+      "sourceUrl": "https://gili-lankanfushi.com/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Villas and residences",
+      "value": "45",
+      "sourceUrl": "https://gili-lankanfushi.com/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Private Reserve",
+      "value": "4 bedrooms",
+      "sourceUrl": "https://gili-lankanfushi.com/faq/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Airport transfer",
+      "value": "30 minutes by speedboat from Velana International Airport, about 20 km",
+      "sourceUrl": "https://gili-lankanfushi.com/faq/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Wine cellar",
+      "value": "10,000 bottles, 500 labels",
+      "sourceUrl": "https://gili-lankanfushi.com/dine/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/gili-lankanfushi/1.jpg",
+      "srcSmall": "/photos/gili-lankanfushi/1-640.jpg",
+      "srcMid": "/photos/gili-lankanfushi/1-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Gili Lankanfushi",
+      "creditUrl": "gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://gili-lankanfushi.com/wp-content/uploads/2025/02/glm-2023-10-drone-jetty-3-dji-0933-by-sandro-bruecklmeier-kopie-webres.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/gili-lankanfushi/2.jpg",
+      "srcSmall": "/photos/gili-lankanfushi/2-640.jpg",
+      "srcMid": "/photos/gili-lankanfushi/2-1000.jpg",
+      "srcHero": "/photos/gili-lankanfushi/2-2400.jpg",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Gili Lankanfushi",
+      "creditUrl": "gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://gili-lankanfushi.com/wp-content/uploads/2023/05/GLM_Aerial-View-of-Gili-Lagoon-Villas-2.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/gili-lankanfushi/3.jpg",
+      "srcSmall": "/photos/gili-lankanfushi/3-640.jpg",
+      "srcMid": "/photos/gili-lankanfushi/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Gili Lankanfushi",
+      "creditUrl": "gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://gili-lankanfushi.com/wp-content/uploads/2024/05/glm-villa-39-dji-0483-by-sandro-bruecklmeier-kopie-webres.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/gili-lankanfushi/4.jpg",
+      "srcSmall": "/photos/gili-lankanfushi/4-640.jpg",
+      "srcMid": "/photos/gili-lankanfushi/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Gili Lankanfushi",
+      "creditUrl": "gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://gili-lankanfushi.com/wp-content/uploads/2023/05/GLM_Aerial-of-Private-Reserve-2.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/gili-lankanfushi/5.jpg",
+      "srcSmall": "/photos/gili-lankanfushi/5-640.jpg",
+      "srcMid": "/photos/gili-lankanfushi/5-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1068,
+      "credit": "Gili Lankanfushi",
+      "creditUrl": "gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://gili-lankanfushi.com/wp-content/uploads/2023/04/DSC6946.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/gili-lankanfushi/6.jpg",
+      "srcSmall": "/photos/gili-lankanfushi/6-640.jpg",
+      "srcMid": "/photos/gili-lankanfushi/6-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Gili Lankanfushi",
+      "creditUrl": "gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://gili-lankanfushi.com/wp-content/uploads/2023/05/GLM_Crusoe-Residence-at-Sunset.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/gili-lankanfushi/7.jpg",
+      "srcSmall": "/photos/gili-lankanfushi/7-640.jpg",
+      "srcMid": "/photos/gili-lankanfushi/7-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Gili Lankanfushi",
+      "creditUrl": "gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://gili-lankanfushi.com/wp-content/uploads/2025/02/glm-v12-living-img-18221-by-sandro-bruecklmeier-webres.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/gili-lankanfushi/8.jpg",
+      "srcSmall": "/photos/gili-lankanfushi/8-640.jpg",
+      "srcMid": "/photos/gili-lankanfushi/8-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Gili Lankanfushi",
+      "creditUrl": "gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://gili-lankanfushi.com/wp-content/uploads/2025/02/glm-v17-pool-img-1714-by-sandro-bruecklmeier-webres.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "direct"
+  },
+  "lastVerified": "2026-11-08"
+}
