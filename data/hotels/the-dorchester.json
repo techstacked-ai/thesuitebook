@@ -1,0 +1,336 @@
+{
+  "slug": "the-dorchester",
+  "name": "The Dorchester",
+  "operator": "Dorchester Collection",
+  "brand": "Dorchester Collection",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "London",
+  "area": "Mayfair",
+  "type": "city",
+  "themes": [
+    "palace"
+  ],
+  "adultsOnly": false,
+  "address": "Park Lane, London W1K 1QA, United Kingdom",
+  "lat": 51.5073,
+  "lng": -0.15236,
+  "officialSite": "https://www.dorchestercollection.com/london/the-dorchester",
+  "rooms": 173,
+  "suites": 68,
+  "villas": null,
+  "opened": 1931,
+  "airport": {
+    "code": "LHR",
+    "minutes": 45
+  },
+  "tagline": "A Park Lane landmark of 1931, with three Michelin stars and Hyde Park opposite.",
+  "description": "The Dorchester is a Dorchester Collection hotel on Park Lane in Mayfair, directly opposite Hyde Park. It has 173 rooms and 68 suites, a three-Michelin-star restaurant, and a spa with a gym and steam room. A four-year renovation of the rooms, suites and public spaces was completed in 2026.\n\nThe hotel opened on 20 April 1931, on the site of Dorchester House, an American Embassy before it was demolished in 1929. Sir Robert McAlpine built it in 18 months, at a floor a week, and it was the first hotel in the world built of reinforced concrete. It became Grade II listed in 1981. General Eisenhower stayed here in the Second World War while planning the Normandy invasion, and the Eisenhower Suite carries memorabilia in his honour. In 1953 the stage designer Oliver Messel decorated the façade for the coronation of Queen Elizabeth II.\n\nA Classic Room is 34 square metres with a king-size bed, and the rooms draw on the floral motifs of nearby Hyde Park. The Dorchester Suite, designed by Pierre-Yves Rochon, is 109 square metres with wrap-around windows over the park. The Oliver Messel Terrace Suite, a listed suite of 144 square metres, has a private terrace of 25 square metres. The Royal Suite fills a corner of the eighth floor with between 265 and 433 square metres, a double living room, a private study and a separate dining room. The larger suites come with butler service and complimentary round-trip transfers.\n\nAlain Ducasse at The Dorchester holds three Michelin stars, with Chef Patron Jean-Philippe Blondet cooking contemporary French dishes at dinner from Tuesday to Saturday. The Grill serves British cooking from breakfast to dinner, China Tang serves Cantonese food and dim sum in an Art Deco room below ground, and The Promenade serves breakfast, lunch, dinner and afternoon tea with live music. Artists' Bar is lit by its own Lalique crystal.\n\nThe Dorchester Spa uses La Prairie and Carol Joy London treatments and has a gym; guests can also swim in the pool at the neighbouring 45 Park Lane. Heathrow is about 45 minutes away by car, and small dogs are welcome.\n\nIt suits visitors who want a historic London hotel with the park at the door and several dining rooms under one roof.",
+  "highlights": [
+    {
+      "label": "Park Lane",
+      "value": "Opposite Hyde Park in Mayfair, with many rooms and suites facing the park.",
+      "sourceUrl": "https://www.dorchestercollection.com/london/the-dorchester/overview",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Opened",
+      "value": "Opened on 20 April 1931 and Grade II listed since 1981.",
+      "sourceUrl": "https://www.dorchestercollection.com/london/the-dorchester/about",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Alain Ducasse",
+      "value": "Three Michelin stars, with Chef Patron Jean-Philippe Blondet.",
+      "sourceUrl": "https://www.dorchestercollection.com/london/the-dorchester/dining/alain-ducasse-at-the-dorchester",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Royal Suite",
+      "value": "From 265 to 433 square metres on the eighth floor, with a private study and butler service.",
+      "sourceUrl": "https://www.dorchestercollection.com/london/the-dorchester/rooms-suites/the-royal-suite",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Oliver Messel Terrace Suite",
+      "value": "A listed 144 square metre suite with a 25 square metre terrace.",
+      "sourceUrl": "https://www.dorchestercollection.com/london/the-dorchester/rooms-suites/the-oliver-messel-terrace-suite",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Artists' Bar",
+      "value": "A bar lit by Lalique crystal, with a collection of London landscape art.",
+      "sourceUrl": "https://www.dorchestercollection.com/london/the-dorchester/dining/artists-bar",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Afternoon tea",
+      "value": "Served daily in The Promenade, with live music.",
+      "sourceUrl": "https://www.dorchestercollection.com/london/the-dorchester/dining/the-promenade",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Rooms and suites",
+      "value": "173 rooms and 68 suites",
+      "sourceUrl": "https://www.dorchestercollection.com/london/the-dorchester/overview",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Opened",
+      "value": "20 April 1931; built in 18 months, the first hotel built of reinforced concrete",
+      "sourceUrl": "https://www.dorchestercollection.com/london/the-dorchester/about",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Listing",
+      "value": "Grade II listed since 1981",
+      "sourceUrl": "https://www.dorchestercollection.com/london/the-dorchester/about",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Renovation",
+      "value": "Four-year renovation of rooms, suites and public spaces completed in 2026",
+      "sourceUrl": "https://www.dorchestercollection.com/london/the-dorchester",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Restaurants and bars",
+      "value": "Four restaurants and three bars",
+      "sourceUrl": "https://www.dorchestercollection.com/london/the-dorchester/overview",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Classic Room",
+      "value": "34 square metres, king-size bed, Mayfair view",
+      "sourceUrl": "https://www.dorchestercollection.com/london/the-dorchester/rooms-suites/classic-room",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Dorchester Suite",
+      "value": "109 square metres, corner views over Park Lane and Hyde Park, designed by Pierre-Yves Rochon",
+      "sourceUrl": "https://www.dorchestercollection.com/london/the-dorchester/rooms-suites/dorchester-suite",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Oliver Messel Terrace Suite",
+      "value": "144 square metres with a 25 square metre terrace",
+      "sourceUrl": "https://www.dorchestercollection.com/london/the-dorchester/rooms-suites/the-oliver-messel-terrace-suite",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Royal Suite",
+      "value": "From 265 to 433 square metres, eighth floor; double living room, private study, separate dining room; connects for four bedrooms",
+      "sourceUrl": "https://www.dorchestercollection.com/london/the-dorchester/rooms-suites/the-royal-suite",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Suite services",
+      "value": "Butler service and complimentary round-trip transfers in the Regal, Dorchester, Garden Terrace, Oliver Messel Terrace and Royal Suites",
+      "sourceUrl": "https://www.dorchestercollection.com/london/the-dorchester/rooms-suites/regal-suite",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Alain Ducasse at The Dorchester",
+      "value": "Three Michelin stars; Chef Patron Jean-Philippe Blondet; dinner Tuesday to Saturday",
+      "sourceUrl": "https://www.dorchestercollection.com/london/the-dorchester/dining/alain-ducasse-at-the-dorchester",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "China Tang",
+      "value": "Cantonese restaurant in an Art Deco setting below ground",
+      "sourceUrl": "https://www.dorchestercollection.com/london/the-dorchester/dining/china-tang-at-the-dorchester",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "The Promenade",
+      "value": "Breakfast, lunch, afternoon tea and dinner with live music daily",
+      "sourceUrl": "https://www.dorchestercollection.com/london/the-dorchester/dining/the-promenade",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Spa",
+      "value": "The Dorchester Spa, fitness centre and steam room; La Prairie facials; pool access at 45 Park Lane",
+      "sourceUrl": "https://www.dorchestercollection.com/london/the-dorchester/spa-wellness",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Heathrow",
+      "value": "About 45 minutes by car",
+      "sourceUrl": "https://www.dorchestercollection.com/london/the-dorchester",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Check-in and check-out",
+      "value": "From 3 pm; by 12 noon",
+      "sourceUrl": "https://www.dorchestercollection.com/london/the-dorchester/overview",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Pets",
+      "value": "Up to two small dogs, maximum 7 kg, GBP 35 a day",
+      "sourceUrl": "https://www.dorchestercollection.com/london/the-dorchester/overview",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Address",
+      "value": "Park Lane, London W1K 1QA",
+      "sourceUrl": "https://www.dorchestercollection.com/london/the-dorchester",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/the-dorchester/1.jpg",
+      "srcSmall": "/photos/the-dorchester/1-640.jpg",
+      "srcMid": "/photos/the-dorchester/1-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1064,
+      "credit": "The Dorchester, Dorchester Collection",
+      "creditUrl": "https://www.dorchestercollection.com/london/the-dorchester/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.dorchestercollection.com/media/1imhr12b/the-dorchester-sunset-exterior-highres1.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-dorchester/2.jpg",
+      "srcSmall": "/photos/the-dorchester/2-640.jpg",
+      "srcMid": "/photos/the-dorchester/2-1000.jpg",
+      "srcHero": "",
+      "width": 1440,
+      "height": 1920,
+      "credit": "The Dorchester, Dorchester Collection",
+      "creditUrl": "https://www.dorchestercollection.com/london/the-dorchester/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.dorchestercollection.com/media/vmrapdnx/the-dorchester_exterior-fascade_hero_dorchester-collection.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-dorchester/3.jpg",
+      "srcSmall": "/photos/the-dorchester/3-640.jpg",
+      "srcMid": "/photos/the-dorchester/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1200,
+      "credit": "The Dorchester, Dorchester Collection",
+      "creditUrl": "https://www.dorchestercollection.com/london/the-dorchester/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.dorchestercollection.com/media/fszlw2km/the-dorchester_lobby_-hero_-dorchester-collection-1.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-dorchester/4.jpg",
+      "srcSmall": "/photos/the-dorchester/4-640.jpg",
+      "srcMid": "/photos/the-dorchester/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 938,
+      "credit": "The Dorchester, Dorchester Collection",
+      "creditUrl": "https://www.dorchestercollection.com/london/the-dorchester/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.dorchestercollection.com/media/cw5eaw1x/the-dorchester_royal-suite_living-room_detail_dorchester-collection-3.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-dorchester/5.jpg",
+      "srcSmall": "/photos/the-dorchester/5-640.jpg",
+      "srcMid": "/photos/the-dorchester/5-1000.jpg",
+      "srcHero": "/photos/the-dorchester/5-2400.jpg",
+      "width": 1600,
+      "height": 1200,
+      "credit": "The Dorchester, Dorchester Collection",
+      "creditUrl": "https://www.dorchestercollection.com/london/the-dorchester/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.dorchestercollection.com/media/d2nhgpvv/the-dorchester_signature-suite_oliver-messel_living-room_dorchester-collection-_34_-1.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-dorchester/6.jpg",
+      "srcSmall": "/photos/the-dorchester/6-640.jpg",
+      "srcMid": "/photos/the-dorchester/6-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "The Dorchester, Dorchester Collection",
+      "creditUrl": "https://www.dorchestercollection.com/london/the-dorchester/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.dorchestercollection.com/media/brydqk1h/the-dorchester_alain-ducasse_main-dining-space_dorchester-collection-_6_.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-dorchester/7.jpg",
+      "srcSmall": "/photos/the-dorchester/7-640.jpg",
+      "srcMid": "/photos/the-dorchester/7-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "The Dorchester, Dorchester Collection",
+      "creditUrl": "https://www.dorchestercollection.com/london/the-dorchester/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.dorchestercollection.com/media/aigg43al/the-grill-at-the-dorchester-full-room-highres2.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-dorchester/8.jpg",
+      "srcSmall": "/photos/the-dorchester/8-640.jpg",
+      "srcMid": "/photos/the-dorchester/8-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1200,
+      "credit": "The Dorchester, Dorchester Collection",
+      "creditUrl": "https://www.dorchestercollection.com/london/the-dorchester/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.dorchestercollection.com/media/xlpeibeq/thedorchester_dorchestersuite_livingroom_dorchestercollection.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-09"
+}

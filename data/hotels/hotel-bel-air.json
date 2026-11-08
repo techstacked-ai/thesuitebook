@@ -1,0 +1,375 @@
+{
+  "slug": "hotel-bel-air",
+  "name": "Hotel Bel-Air",
+  "operator": "Dorchester Collection",
+  "brand": "Dorchester Collection",
+  "country": "United States",
+  "region": "North America",
+  "city": "Los Angeles",
+  "area": "Bel-Air",
+  "type": "city",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "701 Stone Canyon Road, Los Angeles, CA 90077, United States",
+  "lat": 34.0865,
+  "lng": -118.44642,
+  "officialSite": "https://www.dorchestercollection.com/los-angeles/hotel-bel-air",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": 1946,
+  "airport": null,
+  "tagline": "103 rooms and suites in twelve acres of garden, with a swan lake and an oval pool.",
+  "description": "Hotel Bel-Air is a Dorchester Collection hotel at 701 Stone Canyon Road in the Bel-Air hills of Los Angeles, a mile west of Beverly Hills. It has 103 rooms and suites in twelve acres of gardens, with a lake of swans, and most rooms opening directly onto the grounds.\n\nThe main building began as the estate office of Alphonzo Bell, who bought 600 acres west of Los Angeles and named the area Bel-Air. The Texan hotelier Joseph Drown bought 18 acres including that building in 1946 and, working with the architect Burton Schutt, opened the hotel on 24 August of that year. Dorchester Collection took it on in 2008 and, with the designer Alexandra Champalimaud and the Rockwell Group, renovated all 103 rooms and the public spaces over two years.\n\nThe Superior Room has 40 square metres and a garden view. The Canyon Studio, at 60 square metres, has retractable walls onto a private patio with a plunge pool and outdoor fireplace. The Swan Lake Suite, 70 square metres, sits above the lake. The Grace Kelly Suite has 85 square metres, vaulted ceilings, a private patio with a plunge pool and a jacuzzi. The Bell Suite, 167 square metres, has an engraved wooden ceiling, a private elevator and a dining room for eight, and the Presidential Suite covers 210 square metres around a private courtyard with an infinity pool and a grand piano. Complimentary round-trip airport transfers come with the larger suites.\n\nThe Restaurant at Hotel Bel-Air serves breakfast, lunch, dinner and weekend brunch, and still serves the tortilla soup that first appeared on its menu in 1980. The Bar and Lounge, for adults, has live music each evening and Norman Seeff's photographs of musicians on the walls. Afternoon tea is served in The Living Room from Friday to Sunday, and there is a patisserie on site.\n\nThe oval pool, 23 by 10 metres and heated to 27.8 degrees Celsius, was a horse-riding ring before Joseph Drown rebuilt the grounds. It is open to hotel guests daily from 8 am to 6 pm. The Spa at Hotel Bel-Air uses Valmont products and has seven treatment rooms and a private enclave with a marble soaking tub, and the gym is open around the clock. A house car takes guests anywhere within three miles. Los Angeles International Airport is about 30 to 40 minutes away.\n\nThe hotel suits travellers who want a private, green setting in the hills, ten minutes by car from Rodeo Drive.",
+  "highlights": [
+    {
+      "label": "Gardens",
+      "value": "Twelve acres of gardens around Swan Lake; most rooms open directly onto them.",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/hotel-bel-air/overview",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Presidential Suite",
+      "value": "210 square metres with a private courtyard, an infinity pool and a grand piano.",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/hotel-bel-air/rooms-suites/presidential-suite",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Grace Kelly Suite",
+      "value": "85 square metres with a private patio, plunge pool and jacuzzi.",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/hotel-bel-air/rooms-suites/grace-kelly-suite",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Oval pool",
+      "value": "A 23 by 10 metre pool heated to 27.8 degrees, once a horse-riding ring.",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/hotel-bel-air/pool",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "The Restaurant",
+      "value": "Serves the tortilla soup that first appeared on the menu in 1980.",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/hotel-bel-air/dining/the-restaurant-at-hotel-bel-air",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Spa",
+      "value": "Seven treatment rooms and a private enclave, with Valmont products.",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/hotel-bel-air/spa-wellness",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "House car",
+      "value": "Complimentary transport within three miles, from 8 am to 9 pm daily.",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/hotel-bel-air/overview",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Rooms and suites",
+      "value": "103 rooms and suites",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/hotel-bel-air/overview",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Opened",
+      "value": "24 August 1946; Joseph Drown with architect Burton Schutt",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/hotel-bel-air/about",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Dorchester Collection",
+      "value": "Joined the collection in 2008; two-year renovation with Alexandra Champalimaud and the Rockwell Group",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/hotel-bel-air/about",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Gardens",
+      "value": "Twelve acres of gardens",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/hotel-bel-air",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Superior Room",
+      "value": "40 square metres, garden views",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/hotel-bel-air/rooms-suites/superior-room",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Canyon Studio",
+      "value": "60 square metres, plunge pool, private patio, outdoor fireplace",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/hotel-bel-air/rooms-suites/canyon-studio",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Swan Lake Suite",
+      "value": "70 square metres, jacuzzi, private garden patio, above the lake",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/hotel-bel-air/rooms-suites/swan-lake-suite",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Grace Kelly Suite",
+      "value": "85 square metres, private patio with plunge pool, jacuzzi, fireplace",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/hotel-bel-air/rooms-suites/grace-kelly-suite",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Bell Suite",
+      "value": "167 square metres, engraved wooden vaulted ceiling, private elevator, dining room for eight",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/hotel-bel-air/rooms-suites/the-bell-suite",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Presidential Suite",
+      "value": "210 square metres, private courtyard, infinity pool, grand piano, chef's kitchen",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/hotel-bel-air/rooms-suites/presidential-suite",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Airport transfers",
+      "value": "Complimentary round-trip transfers in a sedan-class car listed for the suites",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/hotel-bel-air/rooms-suites/grace-kelly-suite",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Pool",
+      "value": "Oval, 23 by 10 metres, heated to 27.8 degrees Celsius; hotel guests 8 am to 6 pm",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/hotel-bel-air/pool",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Dining",
+      "value": "One restaurant, one bar, one patisserie and one lobby lounge",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/hotel-bel-air/overview",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Tortilla soup",
+      "value": "On the restaurant menu since 1980",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/hotel-bel-air/dining/the-restaurant-at-hotel-bel-air",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Afternoon tea",
+      "value": "The Living Room, Friday to Sunday at 3 pm",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/hotel-bel-air/dining/the-living-room",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Spa and gym",
+      "value": "Seven treatment rooms and one private enclave; Valmont; spa open daily 9 am to 7 pm; gym open 24 hours",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/hotel-bel-air/spa-wellness",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "House car",
+      "value": "Complimentary within a three-mile radius, 8 am to 9 pm daily",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/hotel-bel-air/overview",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Los Angeles International Airport",
+      "value": "Around 30 to 40 minutes",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/hotel-bel-air",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Rodeo Drive",
+      "value": "A 10-minute drive",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/hotel-bel-air",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Check-in and check-out",
+      "value": "From 3 pm; by 12 noon",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/hotel-bel-air/overview",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Address",
+      "value": "701 Stone Canyon Road, Los Angeles, CA 90077",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/hotel-bel-air",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/hotel-bel-air/1.jpg",
+      "srcSmall": "/photos/hotel-bel-air/1-640.jpg",
+      "srcMid": "/photos/hotel-bel-air/1-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1201,
+      "credit": "Hotel Bel-Air, Dorchester Collection",
+      "creditUrl": "https://www.dorchestercollection.com/los-angeles/hotel-bel-air/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.dorchestercollection.com/media/fiyhjn5i/hba_pool_001.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/hotel-bel-air/2.jpg",
+      "srcSmall": "/photos/hotel-bel-air/2-640.jpg",
+      "srcMid": "/photos/hotel-bel-air/2-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "Hotel Bel-Air, Dorchester Collection",
+      "creditUrl": "https://www.dorchestercollection.com/los-angeles/hotel-bel-air/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.dorchestercollection.com/media/5abd52rj/d008_c008_20181117_r00958.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/hotel-bel-air/3.jpg",
+      "srcSmall": "/photos/hotel-bel-air/3-640.jpg",
+      "srcMid": "/photos/hotel-bel-air/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1130,
+      "credit": "Hotel Bel-Air, Dorchester Collection",
+      "creditUrl": "https://www.dorchestercollection.com/los-angeles/hotel-bel-air/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.dorchestercollection.com/media/dnddqadg/hba_garden_590hr.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/hotel-bel-air/4.jpg",
+      "srcSmall": "/photos/hotel-bel-air/4-640.jpg",
+      "srcMid": "/photos/hotel-bel-air/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 733,
+      "credit": "Hotel Bel-Air, Dorchester Collection",
+      "creditUrl": "https://www.dorchestercollection.com/los-angeles/hotel-bel-air/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.dorchestercollection.com/media/s5dlvqvv/hotel-bel-air-the-living-room-hero-shot-full-view-dorchester-collection-full-size.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/hotel-bel-air/5.jpg",
+      "srcSmall": "/photos/hotel-bel-air/5-640.jpg",
+      "srcMid": "/photos/hotel-bel-air/5-1000.jpg",
+      "srcHero": "/photos/hotel-bel-air/5-2400.jpg",
+      "width": 1600,
+      "height": 1200,
+      "credit": "Hotel Bel-Air, Dorchester Collection",
+      "creditUrl": "https://www.dorchestercollection.com/los-angeles/hotel-bel-air/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.dorchestercollection.com/media/4uhdo4qj/hotel-bel-air-the-restaurant-at-hotel-bel-air-table-details-facing-alcove-booths-dorchester-collection-full-size.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/hotel-bel-air/6.jpg",
+      "srcSmall": "/photos/hotel-bel-air/6-640.jpg",
+      "srcMid": "/photos/hotel-bel-air/6-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1201,
+      "credit": "Hotel Bel-Air, Dorchester Collection",
+      "creditUrl": "https://www.dorchestercollection.com/los-angeles/hotel-bel-air/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.dorchestercollection.com/media/szufzpva/hba_grace_kelly_suite_174_042_v2_rgb_hr.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/hotel-bel-air/7.jpg",
+      "srcSmall": "/photos/hotel-bel-air/7-640.jpg",
+      "srcMid": "/photos/hotel-bel-air/7-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1201,
+      "credit": "Hotel Bel-Air, Dorchester Collection",
+      "creditUrl": "https://www.dorchestercollection.com/los-angeles/hotel-bel-air/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.dorchestercollection.com/media/mt2lg0l3/hba_canyon_studio_267_050_v2_rgb_hr.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/hotel-bel-air/8.jpg",
+      "srcSmall": "/photos/hotel-bel-air/8-640.jpg",
+      "srcMid": "/photos/hotel-bel-air/8-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1201,
+      "credit": "Hotel Bel-Air, Dorchester Collection",
+      "creditUrl": "https://www.dorchestercollection.com/los-angeles/hotel-bel-air/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.dorchestercollection.com/media/vjwk5422/hba_chalon_suite_169_059_v2_rgb_hr.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/hotel-bel-air/9.jpg",
+      "srcSmall": "/photos/hotel-bel-air/9-640.jpg",
+      "srcMid": "/photos/hotel-bel-air/9-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 700,
+      "credit": "Hotel Bel-Air, Dorchester Collection",
+      "creditUrl": "https://www.dorchestercollection.com/los-angeles/hotel-bel-air/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.dorchestercollection.com/media/caeoi1dq/hba_spa_couples_enclave_room_l_0165_master_v1-72-dpi-16x7.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": "39713990",
+  "rating": {
+    "score": 9.6,
+    "reviews": 57,
+    "source": "booking",
+    "date": "2026-11-08"
+  },
+  "price": {
+    "from": 1521,
+    "date": "2026-11-08"
+  },
+  "booking": {
+    "supplier": "booking"
+  },
+  "lastVerified": "2026-11-09"
+}

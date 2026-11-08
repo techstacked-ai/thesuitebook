@@ -1,0 +1,369 @@
+{
+  "slug": "hotel-du-cap-eden-roc",
+  "name": "Hotel du Cap-Eden-Roc",
+  "operator": "Oetker Collection",
+  "brand": "Oetker Collection",
+  "country": "France",
+  "region": "Europe",
+  "city": "Antibes",
+  "area": "Cap d'Antibes",
+  "type": "resort",
+  "themes": [
+    "palace"
+  ],
+  "adultsOnly": false,
+  "address": "167-165 Boulevard J. F. Kennedy, CS 10029, 06605 Antibes Cedex, France",
+  "lat": 43.54845,
+  "lng": 7.12157,
+  "officialSite": "https://www.oetkerhotels.com/hotels/hotel-du-cap-eden-roc/",
+  "rooms": null,
+  "suites": 11,
+  "villas": 4,
+  "opened": 1870,
+  "airport": null,
+  "tagline": "A Riviera palace on the rocks of Cap d'Antibes, with a seawater pool cut in 1914.",
+  "description": "Hotel du Cap-Eden-Roc is a palace hotel at the tip of Cap d'Antibes, on the Côte d'Azur. It has 40 rooms, 57 junior suites, 11 suites and four private villas in a park of pines and palms, above a seawater pool cut into the rocks and 33 cabanas on the shore. The hotel opens seasonally, and the 2027 season runs from 18 April to 17 October.\n\nThe hotel began as the Grand Hôtel du Cap, launched in 1870 in the Villa Soleil. Antoine Sella found it abandoned in 1887 and reopened it in 1889. In 1914 he built the Eden-Roc Pavilion and the seawater pool, and in 1929 the cabanas went up above the rocks. It appears as the Hôtel des Étrangers in F. Scott Fitzgerald's Tender Is the Night. Rudolf August and Maja Oetker bought the hotel in 1969, it took its present name in 1987, and it received the Palace distinction in 2016. A long gravel avenue, the Grande Allée, leads from the road to the main building.\n\nRooms are spread across the original Villa Soleil, the Eden-Roc Pavilion, which faces the sea, and the Les Deux Fontaines residence, added in 1980. They start at 25 square metres, and none has a balcony; many have terraces instead. The Eden-Roc Suite is the largest, with a rooftop terrace and 200 square metres of indoor and outdoor space. The four villas, Les Cèdres, Eleana, Sainte-Anne and La Guettière, sleep between 7 and 18 guests, and chauffeured electric golf carts take guests anywhere on the estate.\n\nExecutive Chef Sébastien Broda cooks Mediterranean and Provençal dishes across the hotel. Louroc, the evening restaurant, holds one Michelin star. The Grill serves lunch and dinner beside the saltwater pool, the Eden-Roc Restaurant serves lunch over the sea, and Giovanni's cooks Italian dishes under a pergola of maritime pines. Pastry Chef Tarek Ahamada and nine confectioners make the hotel's chocolates in their own atelier, and a bakery turns out bread and viennoiseries daily.\n\nDior Spa Eden-Roc opened in 2023 with treatments built around the garden, sea, rocks and sun, and a Bamford cabana looks over the sea. There is a fitness village, five clay tennis courts under Aleppo pines and a beauty salon. Guests swim in the saltwater pool or take one of the 33 cabanas for lunch, cocktails and treatments.\n\nIt suits travellers who want the Riviera at its most private, in summer, with the sea at the foot of the garden. Dogs are not permitted, and general access to the spa is for guests aged 16 and over.",
+  "highlights": [
+    {
+      "label": "Setting",
+      "value": "A palace on the rocks of Cap d'Antibes, in a park of pines, palms and olive trees.",
+      "sourceUrl": "https://www.oetkerhotels.com/hotels/hotel-du-cap-eden-roc/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Seawater pool",
+      "value": "A saltwater pool built in 1914 beside the Eden-Roc Pavilion, overlooking the Mediterranean.",
+      "sourceUrl": "https://www.oetkerhotels.com/hotels/hotel-du-cap-eden-roc/the-hotel/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Cabanas",
+      "value": "Thirty-three cabanas among the old pines, for lunch, cocktails, treatments and candlelit dinners.",
+      "sourceUrl": "https://www.oetkerhotels.com/hotels/hotel-du-cap-eden-roc/the-hotel/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Louroc",
+      "value": "The evening restaurant holds one Michelin star under Executive Chef Sébastien Broda.",
+      "sourceUrl": "https://www.oetkerhotels.com/hotels/hotel-du-cap-eden-roc/restaurants-bars/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Eden-Roc Suite",
+      "value": "The largest accommodation, with a rooftop terrace and 200 square metres of living space.",
+      "sourceUrl": "https://www.oetkerhotels.com/hotels/hotel-du-cap-eden-roc/accommodations/rooms-suites/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Dior Spa",
+      "value": "Dior Spa Eden-Roc, opened in 2023, with a Bamford cabana overlooking the sea.",
+      "sourceUrl": "https://www.oetkerhotels.com/hotels/hotel-du-cap-eden-roc/wellness/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Villas",
+      "value": "Four private villas for 7 to 18 guests, the newest Villa La Guettière, opened in 2025.",
+      "sourceUrl": "https://www.oetkerhotels.com/hotels/hotel-du-cap-eden-roc/questions-answers/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Accommodation",
+      "value": "40 rooms, 57 junior suites, 11 suites and 4 private villas",
+      "sourceUrl": "https://www.oetkerhotels.com/hotels/hotel-du-cap-eden-roc/questions-answers/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Villa capacity",
+      "value": "Four private villas for between 7 and 18 guests",
+      "sourceUrl": "https://www.oetkerhotels.com/hotels/hotel-du-cap-eden-roc/questions-answers/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Season",
+      "value": "2027 season from 18 April to 17 October",
+      "sourceUrl": "https://www.oetkerhotels.com/hotels/hotel-du-cap-eden-roc/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Founded",
+      "value": "Grand Hôtel du Cap launched in 1870; renamed Hotel du Cap-Eden-Roc in 1987",
+      "sourceUrl": "https://www.oetkerhotels.com/hotels/hotel-du-cap-eden-roc/the-hotel/history/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Eden-Roc Pavilion and pool",
+      "value": "Built by Antoine Sella in 1914",
+      "sourceUrl": "https://www.oetkerhotels.com/hotels/hotel-du-cap-eden-roc/the-hotel/history/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Cabanas",
+      "value": "33 cabanas built in 1929",
+      "sourceUrl": "https://www.oetkerhotels.com/hotels/hotel-du-cap-eden-roc/the-hotel/history/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Oetker ownership",
+      "value": "Rudolf August and Maja Oetker bought the hotel in 1969",
+      "sourceUrl": "https://www.oetkerhotels.com/hotels/hotel-du-cap-eden-roc/the-hotel/history/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Palace distinction",
+      "value": "Received in 2016",
+      "sourceUrl": "https://www.oetkerhotels.com/hotels/hotel-du-cap-eden-roc/the-hotel/history/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Les Deux Fontaines",
+      "value": "Residence opened in 1980 with 16 rooms",
+      "sourceUrl": "https://www.oetkerhotels.com/hotels/hotel-du-cap-eden-roc/the-hotel/history/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Smallest room",
+      "value": "Classic Room, 25 to 30 square metres",
+      "sourceUrl": "https://www.oetkerhotels.com/hotels/hotel-du-cap-eden-roc/accommodations/rooms-suites/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Eden-Roc Suite",
+      "value": "200 square metres of indoor and outdoor living space, rooftop terrace",
+      "sourceUrl": "https://www.oetkerhotels.com/hotels/hotel-du-cap-eden-roc/accommodations/rooms-suites/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Balconies",
+      "value": "Rooms have no balconies; many have terraces",
+      "sourceUrl": "https://www.oetkerhotels.com/hotels/hotel-du-cap-eden-roc/questions-answers/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Executive Chef",
+      "value": "Sébastien Broda",
+      "sourceUrl": "https://www.oetkerhotels.com/hotels/hotel-du-cap-eden-roc/restaurants-bars/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Louroc",
+      "value": "One Michelin star; dinner",
+      "sourceUrl": "https://www.oetkerhotels.com/hotels/hotel-du-cap-eden-roc/restaurants-bars/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Restaurants",
+      "value": "The Grill, Eden-Roc Restaurant, Giovanni's, Louroc",
+      "sourceUrl": "https://www.oetkerhotels.com/hotels/hotel-du-cap-eden-roc/restaurants-bars/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Chocolate atelier",
+      "value": "Pastry Chef Tarek Ahamada and nine confectioners",
+      "sourceUrl": "https://www.oetkerhotels.com/hotels/hotel-du-cap-eden-roc/restaurants-bars/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Dior Spa Eden-Roc",
+      "value": "Opened in 2023; solo and duo treatments; Bamford cabana; spa access for guests aged 16 and over",
+      "sourceUrl": "https://www.oetkerhotels.com/hotels/hotel-du-cap-eden-roc/wellness/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Tennis",
+      "value": "Five clay courts",
+      "sourceUrl": "https://www.oetkerhotels.com/hotels/hotel-du-cap-eden-roc/the-hotel/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Room service",
+      "value": "24 hours",
+      "sourceUrl": "https://www.oetkerhotels.com/hotels/hotel-du-cap-eden-roc/questions-answers/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Pets",
+      "value": "Dogs and other animals are not permitted",
+      "sourceUrl": "https://www.oetkerhotels.com/hotels/hotel-du-cap-eden-roc/restaurants-bars/louroc-restaurant/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Address",
+      "value": "167-165 Boulevard J. F. Kennedy, CS 10029, 06605 Antibes Cedex",
+      "sourceUrl": "https://www.oetkerhotels.com/hotels/hotel-du-cap-eden-roc/contact/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/hotel-du-cap-eden-roc/1.jpg",
+      "srcSmall": "/photos/hotel-du-cap-eden-roc/1-640.jpg",
+      "srcMid": "/photos/hotel-du-cap-eden-roc/1-1000.jpg",
+      "srcHero": "/photos/hotel-du-cap-eden-roc/1-2400.jpg",
+      "width": 1600,
+      "height": 900,
+      "credit": "Hotel du Cap-Eden-Roc, Oetker Collection",
+      "creditUrl": "https://www.oetkerhotels.com/hotels/hotel-du-cap-eden-roc/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.eu.ctfassets.net/og3b0tarlg4b/4Yg2E2u2dGUjTPYaCCy1u8/a6fd1e63ba6ff2f87a4b14f3c59fdbee/HDC_-_Aerial_view_of_the_property.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/hotel-du-cap-eden-roc/2.jpg",
+      "srcSmall": "/photos/hotel-du-cap-eden-roc/2-640.jpg",
+      "srcMid": "/photos/hotel-du-cap-eden-roc/2-1000.jpg",
+      "srcHero": "/photos/hotel-du-cap-eden-roc/2-2400.jpg",
+      "width": 1600,
+      "height": 1034,
+      "credit": "Hotel du Cap-Eden-Roc, Oetker Collection",
+      "creditUrl": "https://www.oetkerhotels.com/hotels/hotel-du-cap-eden-roc/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.eu.ctfassets.net/og3b0tarlg4b/RpnTL5aHhbDjrNWDozTDp/0459367e18222a45264e8c80f68a35b8/2023_09_EDEN_ROC_-_PISCINE_COUCHER_DE_SOLEIL_1_SANS_NUAGES_NOIR.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/hotel-du-cap-eden-roc/3.jpg",
+      "srcSmall": "/photos/hotel-du-cap-eden-roc/3-640.jpg",
+      "srcMid": "/photos/hotel-du-cap-eden-roc/3-1000.jpg",
+      "srcHero": "/photos/hotel-du-cap-eden-roc/3-2400.jpg",
+      "width": 1600,
+      "height": 955,
+      "credit": "Hotel du Cap-Eden-Roc, Oetker Collection",
+      "creditUrl": "https://www.oetkerhotels.com/hotels/hotel-du-cap-eden-roc/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.eu.ctfassets.net/og3b0tarlg4b/1Nb6FFKGNsaCX1x9w7k4qg/a3916fb7f1f67b84b1039b37d1c7f012/HDC_-_Fa%C3%83_ade.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/hotel-du-cap-eden-roc/4.jpg",
+      "srcSmall": "/photos/hotel-du-cap-eden-roc/4-640.jpg",
+      "srcMid": "/photos/hotel-du-cap-eden-roc/4-1000.jpg",
+      "srcHero": "/photos/hotel-du-cap-eden-roc/4-2400.jpg",
+      "width": 1600,
+      "height": 930,
+      "credit": "Hotel du Cap-Eden-Roc, Oetker Collection",
+      "creditUrl": "https://www.oetkerhotels.com/hotels/hotel-du-cap-eden-roc/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.eu.ctfassets.net/og3b0tarlg4b/5gRma4RFBRXwtBEZs63qfz/153e08103d3ba4a24ee78a50a4316d7a/HDCER_restaurant_Eden-Roc__Jean-Michel_Sordello.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/hotel-du-cap-eden-roc/5.jpg",
+      "srcSmall": "/photos/hotel-du-cap-eden-roc/5-640.jpg",
+      "srcMid": "/photos/hotel-du-cap-eden-roc/5-1000.jpg",
+      "srcHero": "/photos/hotel-du-cap-eden-roc/5-2400.jpg",
+      "width": 1600,
+      "height": 1130,
+      "credit": "Hotel du Cap-Eden-Roc, Oetker Collection",
+      "creditUrl": "https://www.oetkerhotels.com/hotels/hotel-du-cap-eden-roc/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.eu.ctfassets.net/og3b0tarlg4b/6R8UbpEshfpOqfh3HCz95C/a5ea32eab82be60a8b6e25e3b08b3da3/hotel-du-cap-eden-roc-tradition-room1.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/hotel-du-cap-eden-roc/6.jpg",
+      "srcSmall": "/photos/hotel-du-cap-eden-roc/6-640.jpg",
+      "srcMid": "/photos/hotel-du-cap-eden-roc/6-1000.jpg",
+      "srcHero": "/photos/hotel-du-cap-eden-roc/6-2400.jpg",
+      "width": 1600,
+      "height": 1022,
+      "credit": "Hotel du Cap-Eden-Roc, Oetker Collection",
+      "creditUrl": "https://www.oetkerhotels.com/hotels/hotel-du-cap-eden-roc/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.eu.ctfassets.net/og3b0tarlg4b/6pIKkMaNxtTK5kzuQAfl7q/9154bb44e1f7d3b940c800268bc01d78/hotel-du-cap-eden-roc-edenrocsuite10.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/hotel-du-cap-eden-roc/7.jpg",
+      "srcSmall": "/photos/hotel-du-cap-eden-roc/7-640.jpg",
+      "srcMid": "/photos/hotel-du-cap-eden-roc/7-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1055,
+      "credit": "Hotel du Cap-Eden-Roc, Oetker Collection",
+      "creditUrl": "https://www.oetkerhotels.com/hotels/hotel-du-cap-eden-roc/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.eu.ctfassets.net/og3b0tarlg4b/5nXTFvEixSyaZ8eXq3UeR9/48dc9eadb4b1e16b8ea177c825e9f4bf/HDC_-_Cabanas_4.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/hotel-du-cap-eden-roc/8.jpg",
+      "srcSmall": "/photos/hotel-du-cap-eden-roc/8-640.jpg",
+      "srcMid": "/photos/hotel-du-cap-eden-roc/8-1000.jpg",
+      "srcHero": "/photos/hotel-du-cap-eden-roc/8-2400.jpg",
+      "width": 1600,
+      "height": 899,
+      "credit": "Hotel du Cap-Eden-Roc, Oetker Collection",
+      "creditUrl": "https://www.oetkerhotels.com/hotels/hotel-du-cap-eden-roc/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.eu.ctfassets.net/og3b0tarlg4b/j4OZ1mFmNUxxKDu4sYauL/d81b4bcfe17d5861e8afc10bd3692bc9/HDC_-_Seafront.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/hotel-du-cap-eden-roc/9.jpg",
+      "srcSmall": "/photos/hotel-du-cap-eden-roc/9-640.jpg",
+      "srcMid": "/photos/hotel-du-cap-eden-roc/9-1000.jpg",
+      "srcHero": "/photos/hotel-du-cap-eden-roc/9-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Hotel du Cap-Eden-Roc, Oetker Collection",
+      "creditUrl": "https://www.oetkerhotels.com/hotels/hotel-du-cap-eden-roc/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.eu.ctfassets.net/og3b0tarlg4b/eQyNk88J7VR515O7tkgD1/c8e0d7fc9487df3e406b6974386c6512/DIOR_SPA_EDEN_ROC_%C3%82__Matthieu_Salvaing_6.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-09"
+}

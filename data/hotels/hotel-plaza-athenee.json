@@ -1,0 +1,345 @@
+{
+  "slug": "hotel-plaza-athenee",
+  "name": "Hôtel Plaza Athénée",
+  "operator": "Dorchester Collection",
+  "brand": "Dorchester Collection",
+  "country": "France",
+  "region": "Europe",
+  "city": "Paris",
+  "area": "8th arrondissement",
+  "type": "city",
+  "themes": [
+    "palace"
+  ],
+  "adultsOnly": false,
+  "address": "25 avenue Montaigne, 75008 Paris, France",
+  "lat": 48.86638,
+  "lng": 2.30389,
+  "officialSite": "https://www.dorchestercollection.com/paris/hotel-plaza-athenee",
+  "rooms": 154,
+  "suites": 54,
+  "villas": null,
+  "opened": 1913,
+  "airport": null,
+  "tagline": "Red awnings and Eiffel Tower suites on avenue Montaigne since 1913.",
+  "description": "Hôtel Plaza Athénée is a Dorchester Collection hotel at 25 avenue Montaigne, in the Golden Triangle of Paris, with 154 rooms and 54 suites. It stands on the avenue's fashion row, with the Champs-Élysées and the Eiffel Tower both within walking distance.\n\nDesigned by Charles Lefebvre, the hotel opened on 20 April 1913, a few weeks before its neighbour the Théâtre des Champs-Élysées, whose composers and audiences dined here. Christian Dior opened his first boutique on the avenue in 1946 to reach the hotel's guests and held fashion shows and photoshoots at the hotel. A planted courtyard sits inside the building, and the façade is known for its red awnings and window boxes.\n\nRooms start with the 25 square metre Classic Single Room, and the suites climb from there. Eiffel Suites, 95 square metres and facing the Eiffel Tower, come in two styles, one Art Deco and one that joins eighteenth-century grandeur with Haute Couture. The Haute Couture Eiffel Suite has 130 square metres in soft greys and pinks, with a walk-in dressing room. The Royal Suite covers 450 square metres on the avenue side, with four bedrooms, four bathrooms, a private kitchen and dining room, a hammam and a sauna, and a balcony the width of the hotel. Guests in the Eiffel and Royal Suites receive complimentary round-trip transfers from an airport or station.\n\nLa Grande Table du Plaza Athénée is the hotel's Michelin-starred restaurant, led by Executive Chef Jocelyn Herland and Head Chef Anthony Di Prospero, and cooks from recipes in French culinary heritage, some up to 250 years old. Le Relais Plaza, opened in 1936, is an Art Deco brasserie by Constant Lefranc, styled on the first-class dining room of the liner SS Normandie. La Galerie serves breakfast, light lunches and afternoon tea, La Cour Jardin serves from the courtyard in summer, and La Terrasse Montaigne runs along the façade. Le Bar pours cocktails and Dom Pérignon.\n\nThe Dior Spa Plaza Athénée offers facials, massages, sound baths and a sauna, and the hotel has a fitness studio open to residents from 6 am to 10 pm. Parking is complimentary in front of the hotel or EUR 45 a day underground, and two small dogs under 7 kilograms are welcome in each room.\n\nThe hotel suits visitors who want to be on the avenue of couture houses, with views of the Eiffel Tower from the upper suites and a courtyard to eat in.",
+  "highlights": [
+    {
+      "label": "Avenue Montaigne",
+      "value": "The hotel stands on the avenue of Haute Couture, with the Champs-Élysées at one end and the Eiffel Tower at the other.",
+      "sourceUrl": "https://www.dorchestercollection.com/paris/hotel-plaza-athenee",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Royal Suite",
+      "value": "450 square metres with four bedrooms, a hammam, a sauna and a balcony across the width of the hotel.",
+      "sourceUrl": "https://www.dorchestercollection.com/paris/hotel-plaza-athenee/rooms-suites/royal-suite",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Eiffel Suites",
+      "value": "Suites of 95 to 130 square metres facing the Eiffel Tower.",
+      "sourceUrl": "https://www.dorchestercollection.com/paris/hotel-plaza-athenee/rooms-suites/eiffel-suite",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "La Grande Table",
+      "value": "A Michelin-starred restaurant serving French heritage cuisine under Executive Chef Jocelyn Herland.",
+      "sourceUrl": "https://www.dorchestercollection.com/paris/hotel-plaza-athenee/dining/la-grande-table-du-plaza-athenee",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Le Relais Plaza",
+      "value": "An Art Deco brasserie opened in 1936, styled on the dining room of the SS Normandie.",
+      "sourceUrl": "https://www.dorchestercollection.com/paris/hotel-plaza-athenee/about",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Dior Spa",
+      "value": "The Dior Spa Plaza Athénée, with a fitness studio and sauna.",
+      "sourceUrl": "https://www.dorchestercollection.com/paris/hotel-plaza-athenee/spa-wellness",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "La Cour Jardin",
+      "value": "A summer restaurant in a planted courtyard under red parasols.",
+      "sourceUrl": "https://www.dorchestercollection.com/paris/hotel-plaza-athenee/dining/la-cour-jardin",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Rooms and suites",
+      "value": "154 rooms and 54 suites",
+      "sourceUrl": "https://www.dorchestercollection.com/paris/hotel-plaza-athenee/overview",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Opened",
+      "value": "20 April 1913, designed by Charles Lefebvre",
+      "sourceUrl": "https://www.dorchestercollection.com/paris/hotel-plaza-athenee/about",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Le Relais Plaza",
+      "value": "Opened in 1936; Art Deco design by Constant Lefranc inspired by the SS Normandie",
+      "sourceUrl": "https://www.dorchestercollection.com/paris/hotel-plaza-athenee/about",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Christian Dior",
+      "value": "Opened his first boutique on avenue Montaigne in 1946",
+      "sourceUrl": "https://www.dorchestercollection.com/paris/hotel-plaza-athenee/about",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Classic Single Room",
+      "value": "25 square metres, king-size bed, courtyard view",
+      "sourceUrl": "https://www.dorchestercollection.com/paris/hotel-plaza-athenee",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Eiffel Suite",
+      "value": "95 square metres, Eiffel Tower view, up to 3 guests",
+      "sourceUrl": "https://www.dorchestercollection.com/paris/hotel-plaza-athenee/rooms-suites/eiffel-suite",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Haute Couture Eiffel Suite",
+      "value": "130 square metres, Eiffel Tower view, walk-in dressing room",
+      "sourceUrl": "https://www.dorchestercollection.com/paris/hotel-plaza-athenee/rooms-suites/haute-couture-eiffel-suite",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Royal Suite",
+      "value": "450 square metres, four bedrooms and four bathrooms, private kitchen and dining room, hammam and sauna, up to 8 guests",
+      "sourceUrl": "https://www.dorchestercollection.com/paris/hotel-plaza-athenee/rooms-suites/royal-suite",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Suite transfers",
+      "value": "Complimentary round-trip transfers from an airport or railway station, listed for the Eiffel and Royal Suites",
+      "sourceUrl": "https://www.dorchestercollection.com/paris/hotel-plaza-athenee/rooms-suites/eiffel-suite",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Restaurants and bars",
+      "value": "La Grande Table du Plaza Athénée, Le Relais Plaza, La Galerie, Le Bar, La Cour Jardin, La Terrasse Montaigne",
+      "sourceUrl": "https://www.dorchestercollection.com/paris/hotel-plaza-athenee",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "La Grande Table",
+      "value": "Michelin-starred; Executive Chef Jocelyn Herland, Head Chef Anthony Di Prospero; dinner Tuesday to Saturday, lunch Saturday; jacket recommended",
+      "sourceUrl": "https://www.dorchestercollection.com/paris/hotel-plaza-athenee/dining/la-grande-table-du-plaza-athenee",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Dior Spa and fitness",
+      "value": "Dior Spa Plaza Athénée; fitness studio with sauna, open to residents from 6 am to 10 pm",
+      "sourceUrl": "https://www.dorchestercollection.com/paris/hotel-plaza-athenee/spa-wellness",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Check-in and check-out",
+      "value": "From 3 pm; by 12 noon",
+      "sourceUrl": "https://www.dorchestercollection.com/paris/hotel-plaza-athenee/overview",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Pets",
+      "value": "Up to two small dogs under 7 kg per room, EUR 40 per day",
+      "sourceUrl": "https://www.dorchestercollection.com/paris/hotel-plaza-athenee/rooms-suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Parking",
+      "value": "Complimentary in front of the hotel, or EUR 45 per day underground",
+      "sourceUrl": "https://www.dorchestercollection.com/paris/hotel-plaza-athenee/rooms-suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Gare du Nord",
+      "value": "20 minutes from the hotel",
+      "sourceUrl": "https://www.dorchestercollection.com/paris/hotel-plaza-athenee",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Address",
+      "value": "25 avenue Montaigne, 75008 Paris",
+      "sourceUrl": "https://www.dorchestercollection.com/paris/hotel-plaza-athenee",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/hotel-plaza-athenee/1.jpg",
+      "srcSmall": "/photos/hotel-plaza-athenee/1-640.jpg",
+      "srcMid": "/photos/hotel-plaza-athenee/1-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1068,
+      "credit": "Hôtel Plaza Athénée, Dorchester Collection",
+      "creditUrl": "https://www.dorchestercollection.com/paris/hotel-plaza-athenee/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.dorchestercollection.com/media/bibhcy3p/120198255_hpa-exterior-hr-c-bi-premium-masahiko-takeda_7360x4912.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/hotel-plaza-athenee/2.jpg",
+      "srcSmall": "/photos/hotel-plaza-athenee/2-640.jpg",
+      "srcMid": "/photos/hotel-plaza-athenee/2-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Hôtel Plaza Athénée, Dorchester Collection",
+      "creditUrl": "https://www.dorchestercollection.com/paris/hotel-plaza-athenee/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.dorchestercollection.com/media/ihpbqrtg/hotel-plaza-athenee-la-terrasse-montaigne-fa%C3%A7ade-landscape-full-size.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/hotel-plaza-athenee/3.jpg",
+      "srcSmall": "/photos/hotel-plaza-athenee/3-640.jpg",
+      "srcMid": "/photos/hotel-plaza-athenee/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1201,
+      "credit": "Hôtel Plaza Athénée, Dorchester Collection",
+      "creditUrl": "https://www.dorchestercollection.com/paris/hotel-plaza-athenee/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.dorchestercollection.com/media/blwlzhna/hotel-plaza-athenee-la-cour-jardin-landscape.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/hotel-plaza-athenee/4.jpg",
+      "srcSmall": "/photos/hotel-plaza-athenee/4-640.jpg",
+      "srcMid": "/photos/hotel-plaza-athenee/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 976,
+      "credit": "Hôtel Plaza Athénée, Dorchester Collection",
+      "creditUrl": "https://www.dorchestercollection.com/paris/hotel-plaza-athenee/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.dorchestercollection.com/media/4bhi4lip/202408-royale-suite-hpa-c-mark-read-509-8-full-size.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/hotel-plaza-athenee/5.jpg",
+      "srcSmall": "/photos/hotel-plaza-athenee/5-640.jpg",
+      "srcMid": "/photos/hotel-plaza-athenee/5-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1201,
+      "credit": "Hôtel Plaza Athénée, Dorchester Collection",
+      "creditUrl": "https://www.dorchestercollection.com/paris/hotel-plaza-athenee/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.dorchestercollection.com/media/zbyhmapb/hpa-461-eiffel-suite-living-hr-by-mark-read.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/hotel-plaza-athenee/6.jpg",
+      "srcSmall": "/photos/hotel-plaza-athenee/6-640.jpg",
+      "srcMid": "/photos/hotel-plaza-athenee/6-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1200,
+      "credit": "Hôtel Plaza Athénée, Dorchester Collection",
+      "creditUrl": "https://www.dorchestercollection.com/paris/hotel-plaza-athenee/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.dorchestercollection.com/media/5jxlquhk/2023_08-hpa_lobby_hr_-c-markread-full-size.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/hotel-plaza-athenee/7.jpg",
+      "srcSmall": "/photos/hotel-plaza-athenee/7-640.jpg",
+      "srcMid": "/photos/hotel-plaza-athenee/7-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1068,
+      "credit": "Hôtel Plaza Athénée, Dorchester Collection",
+      "creditUrl": "https://www.dorchestercollection.com/paris/hotel-plaza-athenee/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.dorchestercollection.com/media/fdwdekib/plaza-athenee-le-relais-plaza-restaurant.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/hotel-plaza-athenee/8.jpg",
+      "srcSmall": "/photos/hotel-plaza-athenee/8-640.jpg",
+      "srcMid": "/photos/hotel-plaza-athenee/8-1000.jpg",
+      "srcHero": "",
+      "width": 1280,
+      "height": 1920,
+      "credit": "Hôtel Plaza Athénée, Dorchester Collection",
+      "creditUrl": "https://www.dorchestercollection.com/paris/hotel-plaza-athenee/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.dorchestercollection.com/media/lobcvjpv/dior-spa-plaza-empty-spaces-matthieu-salvaing-3-full-size.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/hotel-plaza-athenee/9.jpg",
+      "srcSmall": "/photos/hotel-plaza-athenee/9-640.jpg",
+      "srcMid": "/photos/hotel-plaza-athenee/9-1000.jpg",
+      "srcHero": "",
+      "width": 1440,
+      "height": 1920,
+      "credit": "Hôtel Plaza Athénée, Dorchester Collection",
+      "creditUrl": "https://www.dorchestercollection.com/paris/hotel-plaza-athenee/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.dorchestercollection.com/media/ugflwu2a/hpa-361-hautecouture-suite-living-4-hr-by-markread.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-09"
+}

@@ -1,0 +1,381 @@
+{
+  "slug": "the-beverly-hills-hotel",
+  "name": "The Beverly Hills Hotel",
+  "operator": "Dorchester Collection",
+  "brand": "Dorchester Collection",
+  "country": "United States",
+  "region": "North America",
+  "city": "Beverly Hills",
+  "area": "Sunset Boulevard",
+  "type": "city",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "9641 Sunset Boulevard, Beverly Hills, CA 90210, United States",
+  "lat": 34.08171,
+  "lng": -118.4138,
+  "officialSite": "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": 1912,
+  "airport": null,
+  "tagline": "The Pink Palace on Sunset: 209 rooms, suites and bungalows in 12 acres of garden.",
+  "description": "The Beverly Hills Hotel is a Dorchester Collection hotel at 9641 Sunset Boulevard, known as the Pink Palace. It has 209 rooms and suites, many of them bungalows hidden in 12 acres of tropical garden, and a pool that has been in use since 1938.\n\nThe hotel opened on 12 May 1912, before the city of Beverly Hills existed, and its founder was Margaret Anderson. It was first painted pink in 1948. The architect Paul R. Williams built the Crescent Wing in 1949 and reworked the lobby, the Polo Lounge and the Fountain Coffee Room. The banana-leaf Martinique wallpaper, created in 1942, is the hotel's signature wall covering.\n\nRooms begin with the 37 square metre Superior Room, and the Bungalow Room, at 44 square metres, sits among the gardens. The Paul R. Williams Suite covers 135 square metres with a grand piano, a bar and a large patio. Bungalow 5 has 122 square metres with a private pool and jacuzzi, and can connect to make a four-bedroom suite. The Presidential Bungalow has 170 square metres, a private infinity plunge pool on its patio, a chef's kitchen and a dining room for ten. Many suites include complimentary round-trip airport transfers.\n\nThe Polo Lounge, with its candy-striped ceiling, serves breakfast, lunch and dinner and a Sunday brunch; its McCarthy Salad was first served here. The Fountain Coffee Room, a 1950s-style counter diner, has served guests since 1949. The Cabana Cafe serves light meals beside the pool.\n\nThe pool opened in 1938 as the Sand and Pool Club. It has poolside cabanas for four guests, and the pool is for hotel guests only, open daily from 7 am to 10 pm. The hotel spa has treatment rooms, a duet suite and steam showers, and a gym is open to guests around the clock. A house car takes guests anywhere within three miles. Rodeo Drive is a five-minute drive, and Los Angeles International Airport is about 30 to 40 minutes away.\n\nThe hotel suits travellers who want Old Hollywood's best-known address and a private bungalow in a garden. Up to two house-trained dogs are welcome.",
+  "highlights": [
+    {
+      "label": "Pink Palace",
+      "value": "Painted pink since 1948, with the Crescent Wing by architect Paul R. Williams.",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/about",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Gardens",
+      "value": "Rooms and bungalows set in 12 acres of tropical gardens.",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/rooms-suites/superior-room",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Presidential Bungalow",
+      "value": "170 square metres with a private infinity plunge pool, a chef's kitchen and a dining room for ten.",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/rooms-suites/presidential-bungalow",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Pool",
+      "value": "Open since 1938 as the Sand and Pool Club, with poolside cabanas for four guests.",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/pool",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Polo Lounge",
+      "value": "A candy-striped dining room that serves breakfast, lunch, dinner and Sunday brunch.",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/dining/polo-lounge",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Fountain Coffee Room",
+      "value": "A 1950s-style diner counter serving guests since 1949.",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/dining/the-fountain-coffee-room",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "House car",
+      "value": "Complimentary transport within three miles of the hotel.",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/overview",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Rooms and suites",
+      "value": "209 rooms and suites",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/overview",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Opened",
+      "value": "12 May 1912; founder Margaret Anderson",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/about",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Painted pink",
+      "value": "1948",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/about",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Crescent Wing",
+      "value": "Built in 1949, designed by Paul R. Williams, who also reworked the Polo Lounge, Fountain Coffee Room and lobby",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/about",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Martinique wallpaper",
+      "value": "Created in 1942; used by designer Don Loper in 1949",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/about",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Gardens",
+      "value": "12 acres of tropical gardens",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/rooms-suites/superior-room",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Superior Room",
+      "value": "37 square metres, garden views",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/rooms-suites/superior-room",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Bungalow Room",
+      "value": "44 square metres, garden view",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/rooms-suites/bungalow-room",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Paul R. Williams Suite",
+      "value": "135 square metres, patio, grand piano, dining area for six",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/rooms-suites/paul-r-williams-suite",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Bungalow 5",
+      "value": "122 square metres, private pool and jacuzzi, connects for a four-bedroom suite",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/rooms-suites/bungalow-5",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Presidential Bungalow",
+      "value": "170 square metres, private infinity plunge pool, fireplace, chef's kitchen, dining room for up to ten",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/rooms-suites/presidential-bungalow",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Airport transfers",
+      "value": "Complimentary round-trip airport transfers in a sedan-class car listed for the Presidential Bungalow, Paul R. Williams Suite and Bungalow 5",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/rooms-suites/presidential-bungalow",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Pool",
+      "value": "Opened 1938 as the Sand and Pool Club; hotel guests only; open daily 7 am to 10 pm",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/pool",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Restaurants",
+      "value": "Polo Lounge, The Cabana Cafe, The Fountain Coffee Room",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/overview",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Fountain Coffee Room",
+      "value": "Serving since 1949; open daily 7 am to 4 pm",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/dining/the-fountain-coffee-room",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Spa and gym",
+      "value": "Spa open daily 10 am to 6 pm; duet suite and steam showers; gym open 24 hours for guests",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/spa-wellness",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "House car",
+      "value": "Complimentary transport within a three-mile radius",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/overview",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Los Angeles International Airport",
+      "value": "Around 30 to 40 minutes",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Rodeo Drive",
+      "value": "A 5-minute drive",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Check-in and check-out",
+      "value": "From 3 pm; by 12 noon",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/overview",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Pets",
+      "value": "Up to two house-trained dogs of up to 20 kg, USD 150 per stay",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/overview",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Address",
+      "value": "9641 Sunset Boulevard, Beverly Hills, CA 90210",
+      "sourceUrl": "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/the-beverly-hills-hotel/1.jpg",
+      "srcSmall": "/photos/the-beverly-hills-hotel/1-640.jpg",
+      "srcMid": "/photos/the-beverly-hills-hotel/1-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1200,
+      "credit": "The Beverly Hills Hotel, Dorchester Collection",
+      "creditUrl": "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.dorchestercollection.com/media/za2h5l0k/the-beverly-hills-hotel-pool-pink-loungers-full-view-palm-tree-dorchestercollection-full-size.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-beverly-hills-hotel/2.jpg",
+      "srcSmall": "/photos/the-beverly-hills-hotel/2-640.jpg",
+      "srcMid": "/photos/the-beverly-hills-hotel/2-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1200,
+      "credit": "The Beverly Hills Hotel, Dorchester Collection",
+      "creditUrl": "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.dorchestercollection.com/media/k2sf2fmf/the-beverly-hills-hotel-pool-full-view-palm-tree-reflection-cabanas-pink-pool-loungers-green-and-white-pool-loungers-dorchestercollection-full-size.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-beverly-hills-hotel/3.jpg",
+      "srcSmall": "/photos/the-beverly-hills-hotel/3-640.jpg",
+      "srcMid": "/photos/the-beverly-hills-hotel/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1201,
+      "credit": "The Beverly Hills Hotel, Dorchester Collection",
+      "creditUrl": "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.dorchestercollection.com/media/isyc4scq/131929626_the-beverly-hills-hotel-exterior_10872x8156.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-beverly-hills-hotel/4.jpg",
+      "srcSmall": "/photos/the-beverly-hills-hotel/4-640.jpg",
+      "srcMid": "/photos/the-beverly-hills-hotel/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1201,
+      "credit": "The Beverly Hills Hotel, Dorchester Collection",
+      "creditUrl": "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.dorchestercollection.com/media/1lfi0mcq/2021_05-bhh_lobby_179_v2-hr-final.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-beverly-hills-hotel/5.jpg",
+      "srcSmall": "/photos/the-beverly-hills-hotel/5-640.jpg",
+      "srcMid": "/photos/the-beverly-hills-hotel/5-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "The Beverly Hills Hotel, Dorchester Collection",
+      "creditUrl": "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.dorchestercollection.com/media/bgrl4khb/2021_05-bhh_polo-lounge_020_v1-hr-16x9-final.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-beverly-hills-hotel/6.jpg",
+      "srcSmall": "/photos/the-beverly-hills-hotel/6-640.jpg",
+      "srcMid": "/photos/the-beverly-hills-hotel/6-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1154,
+      "credit": "The Beverly Hills Hotel, Dorchester Collection",
+      "creditUrl": "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.dorchestercollection.com/media/uxvlnk0h/bhh-bungalow-gardens-exterior.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-beverly-hills-hotel/7.jpg",
+      "srcSmall": "/photos/the-beverly-hills-hotel/7-640.jpg",
+      "srcMid": "/photos/the-beverly-hills-hotel/7-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1201,
+      "credit": "The Beverly Hills Hotel, Dorchester Collection",
+      "creditUrl": "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.dorchestercollection.com/media/kmrflto1/the-beverly-hills-hotel-presidential-bungalow-24a-master-bedroom-full-dorchester-collection.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-beverly-hills-hotel/8.jpg",
+      "srcSmall": "/photos/the-beverly-hills-hotel/8-640.jpg",
+      "srcMid": "/photos/the-beverly-hills-hotel/8-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1201,
+      "credit": "The Beverly Hills Hotel, Dorchester Collection",
+      "creditUrl": "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.dorchestercollection.com/media/lqwbkpot/the-beverly-hills-hotel-presidential-bungalow-24a-living-room-dorchester-collection.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-beverly-hills-hotel/9.jpg",
+      "srcSmall": "/photos/the-beverly-hills-hotel/9-640.jpg",
+      "srcMid": "/photos/the-beverly-hills-hotel/9-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1201,
+      "credit": "The Beverly Hills Hotel, Dorchester Collection",
+      "creditUrl": "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.dorchestercollection.com/media/3b3ftfoq/2021_06_bhh-pool_0047_v1_hr.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": "39600805",
+  "rating": {
+    "score": 9.3,
+    "reviews": 173,
+    "source": "booking",
+    "date": "2026-11-08"
+  },
+  "price": {
+    "from": 1396,
+    "date": "2026-11-08"
+  },
+  "booking": {
+    "supplier": "booking"
+  },
+  "lastVerified": "2026-11-09"
+}
