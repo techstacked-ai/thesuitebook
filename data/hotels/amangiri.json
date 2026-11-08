@@ -1,0 +1,260 @@
+{
+  "slug": "amangiri",
+  "name": "Amangiri",
+  "operator": "Aman",
+  "brand": "Aman",
+  "country": "United States",
+  "region": "North America",
+  "city": "Canyon Point",
+  "area": "Utah",
+  "type": "resort",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "1 Kayenta Road, Canyon Point, UT 84741, United States",
+  "lat": 37.01462,
+  "lng": -111.61114,
+  "officialSite": "https://www.aman.com/resorts/amangiri",
+  "rooms": null,
+  "suites": 34,
+  "villas": null,
+  "opened": null,
+  "airport": {
+    "code": "PGA",
+    "minutes": 25
+  },
+  "tagline": "Thirty-four suites in the red-rock desert of southern Utah.",
+  "description": "Amangiri is a desert resort of thirty-four suites on more than 900 acres of the Colorado Plateau in southern Utah, close to the Arizona border. Its satellite, Camp Sarika, adds ten tented pavilions, each with a private plunge pool.\n\nThe buildings are low and sand-coloured, set into the mesas and canyon walls, with white stone floors, concrete walls, natural timber and blackened steel inside. The pool is laid against the rock, and the resort faces dunes, plateaus and ridges in every direction.\n\nEvery suite has an outdoor lounge and fireplace with desert views, and some have a private pool or a roof terrace. The Amangiri Suite has a private lap pool, a sun deck and a sky terrace. The Girijaala Suite has a pool terrace with desert and sky lounges looking over the mesas, the Desert Pool Suites have large private pools and firepits for stargazing, and the Orchard Suite measures 93 square metres. A six-bedroom Ridge Villa is also offered.\n\nThe main restaurant looks across the plain through floor-to-ceiling windows and centres on an open kitchen and a wood-fired oven. Menus follow the American Southwest, and a four-course tasting menu with matched wines is a tribute to the five indigenous tribes of the region. Camp Sarika has its own restaurant, and full-board dining is included for guests.\n\nThe spa covers 25,000 square feet and has five treatment rooms, two outdoor treatment terraces, a pilates and yoga studio, a water pavilion with steam room, sauna, plunge pool and heated step pool, and a flotation pavilion. Yoga on the Rocks takes guests up a desert formation for a session above the valley floor. Daily guided hikes and a group wellness class are part of every stay, and the resort arranges private air tours, horseback riding, via ferrata routes and visits to three national parks nearby.\n\nPage Municipal Airport is a 25-minute drive, and round-trip transfers are included. Amangiri suits travellers who want remoteness and quiet, with the outdoors as the main event.",
+  "highlights": [
+    {
+      "label": "Suites",
+      "value": "Thirty-four suites, some with a private pool or roof terrace.",
+      "sourceUrl": "https://www.aman.com/resorts/amangiri/accommodation/suites",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Camp Sarika",
+      "value": "Ten tented pavilions, each with a private plunge pool.",
+      "sourceUrl": "https://www.aman.com/resorts/amangiri/camp-sarika",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "A 25,000 square foot spa with five treatment rooms and a water pavilion.",
+      "sourceUrl": "https://www.aman.com/resorts/amangiri/wellness",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Dining",
+      "value": "An open kitchen and wood-fired oven, with a tasting menu honouring five regional tribes.",
+      "sourceUrl": "https://www.aman.com/resorts/amangiri/dining/amangiri-dining",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Yoga on the Rocks",
+      "value": "A short hike to the top of a desert formation for a yoga session.",
+      "sourceUrl": "https://www.aman.com/resorts/amangiri/wellness",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Getting here",
+      "value": "Page Municipal Airport is a 25-minute drive, with complimentary transfers.",
+      "sourceUrl": "https://www.aman.com/resorts/amangiri/getting-here",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Suites",
+      "value": "34",
+      "sourceUrl": "https://www.aman.com/resorts/amangiri",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Land",
+      "value": "More than 900 acres on the Colorado Plateau",
+      "sourceUrl": "https://www.aman.com/resorts/amangiri",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Camp Sarika",
+      "value": "Ten tented pavilions, each with a private plunge pool, in a 920-acre landscape",
+      "sourceUrl": "https://www.aman.com/resorts/amangiri/camp-sarika",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Orchard Suite",
+      "value": "93 square metres (1,000 square feet)",
+      "sourceUrl": "https://www.aman.com/resorts/amangiri/accommodation/suites",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "25,000 square feet; five treatment rooms including one double; two outdoor terraces",
+      "sourceUrl": "https://www.aman.com/resorts/amangiri/wellness",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Inclusions",
+      "value": "Full board for two guests per room, daily wellness class, guided hikes, airport transfers",
+      "sourceUrl": "https://www.aman.com/resorts/amangiri/accommodation/suites",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Airport",
+      "value": "Page Municipal Airport (PGA), 25 minutes by road",
+      "sourceUrl": "https://www.aman.com/resorts/amangiri/getting-here",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Address",
+      "value": "1 Kayenta Road, Canyon Point, UT 84741-0285",
+      "sourceUrl": "https://www.aman.com/resorts/amangiri/dining/amangiri-dining",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/amangiri/1.jpg",
+      "srcSmall": "/photos/amangiri/1-640.jpg",
+      "srcMid": "/photos/amangiri/1-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amangiri/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2021-02/210204_AmanHero_Landscape_Amangiri.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/amangiri/2.jpg",
+      "srcSmall": "/photos/amangiri/2-640.jpg",
+      "srcMid": "/photos/amangiri/2-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amangiri/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/styles/full_size_browser%402x/public/2024-05/amangiri_utah_-_main_pool.jpg?itok=_tjth25U",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/amangiri/3.jpg",
+      "srcSmall": "/photos/amangiri/3-640.jpg",
+      "srcMid": "/photos/amangiri/3-1000.jpg",
+      "srcHero": "",
+      "width": 1200,
+      "height": 1200,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amangiri/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/styles/full_size_browser%402x/public/2024-05/amangiri-views_0.jpg?itok=6pLa_a-g",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/amangiri/4.jpg",
+      "srcSmall": "/photos/amangiri/4-640.jpg",
+      "srcMid": "/photos/amangiri/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amangiri/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/styles/full_size_browser%402x/public/2023-12/amangiri_usa_-_accommodation_desert_suite_1.jpg?itok=Y2Lqnbb4",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/amangiri/5.jpg",
+      "srcSmall": "/photos/amangiri/5-640.jpg",
+      "srcMid": "/photos/amangiri/5-1000.jpg",
+      "srcHero": "",
+      "width": 912,
+      "height": 1200,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amangiri/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/styles/full_size_browser%402x/public/2024-05/amangiri-aerial-views.jpg?itok=Mw9SFsl2",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/amangiri/6.jpg",
+      "srcSmall": "/photos/amangiri/6-640.jpg",
+      "srcMid": "/photos/amangiri/6-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amangiri/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/styles/full_size_browser%402x/public/2024-01/amangiri_usa_-_accommodation_camp_sarika_one-bedroom_mesa_pavilion_living_area.jpg?itok=F-cr43Eu",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/amangiri/7.jpg",
+      "srcSmall": "/photos/amangiri/7-640.jpg",
+      "srcMid": "/photos/amangiri/7-1000.jpg",
+      "srcHero": "",
+      "width": 1200,
+      "height": 1200,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amangiri/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/styles/full_size_browser%402x/public/2024-03/23-09-amangiri-views-0479_2.jpg?itok=oqo70wks",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/amangiri/8.jpg",
+      "srcSmall": "/photos/amangiri/8-640.jpg",
+      "srcMid": "/photos/amangiri/8-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amangiri/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/styles/full_size_browser%402x/public/2024-03/23-09-amangiri-spa-1586_1.jpg?itok=F55q9Tga",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-08"
+}

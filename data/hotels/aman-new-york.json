@@ -1,0 +1,259 @@
+{
+  "slug": "aman-new-york",
+  "name": "Aman New York",
+  "operator": "Aman",
+  "brand": "Aman",
+  "country": "United States",
+  "region": "North America",
+  "city": "New York",
+  "area": "Midtown Manhattan",
+  "type": "city",
+  "themes": [
+    "palace"
+  ],
+  "adultsOnly": false,
+  "address": "The Crown Building, 730 Fifth Avenue, New York, NY 10019, United States",
+  "lat": 40.7625,
+  "lng": -73.9738,
+  "officialSite": "https://www.aman.com/hotels/aman-new-york",
+  "rooms": null,
+  "suites": 83,
+  "villas": null,
+  "opened": null,
+  "airport": null,
+  "tagline": "Eighty-three suites in the Crown Building, on Fifth Avenue and 57th Street.",
+  "description": "Aman New York occupies the Crown Building at the corner of Fifth Avenue and 57th Street, in the middle of Midtown Manhattan. It has 83 suites, a spa of more than 2,300 square metres and a subterranean jazz club.\n\nThe Crown Building has stood on this corner since 1921 and was the first home of the Museum of Modern Art. It has been restored and fitted by Jean-Michel Gathy, with Japanese-inspired interiors set behind the original facade. Central Park is a short walk away.\n\nThe suites and Homes are among the largest in the city. Each Suite and Signature Suite has a working fireplace, a deep soaking tub and Japanese-inspired rooms. The Aman Suite runs from 185 to 257 square metres, and the Corner Suite offers one to three bedrooms. Higher up, the Homes have one, two or three bedrooms with open-plan living and kitchens, reached by a dedicated lift bank. The Three-Bedroom Home with Pool looks over Central Park and Fifth Avenue from a private terrace with an infinity pool, and the full-floor Three-Bedroom Home covers 585 square metres on the 24th floor.\n\nArva serves rustic Italian cooking, and Akari follows the Japanese washoku tradition. The Lounge Bar has working fireplaces, the Garden Terrace has a retractable glass roof and firepits, and the Corner Bar looks onto the Fifth Avenue crossing. The Jazz Club sits below street level. The restaurants are open to hotel guests and Aman Club Founders, with the Jazz Club the exception.\n\nAman Spa New York takes three floors. It has a 20-metre heated indoor pool with fire pits, two private Spa Houses with a banya or a hammam, a cryotherapy chamber, a contrast therapy suite, a reformer pilates studio and a window-lined fitness centre.\n\nJFK and Newark are 45 to 60 minutes by car, and LaGuardia is 30 to 40 minutes. Aman New York suits guests who want a large suite and a private spa in the middle of Manhattan.",
+  "highlights": [
+    {
+      "label": "Suites",
+      "value": "Eighty-three suites and Homes, among the largest in the city.",
+      "sourceUrl": "https://www.aman.com/hotels/aman-new-york",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Largest Home",
+      "value": "A three-bedroom, full-floor Home of 585 square metres on the 24th floor.",
+      "sourceUrl": "https://www.aman.com/hotels/aman-new-york/accommodation",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Restaurants",
+      "value": "Arva for Italian and Akari for Japanese washoku.",
+      "sourceUrl": "https://www.aman.com/hotels/aman-new-york/dining",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Jazz Club",
+      "value": "A subterranean jazz club open to the public.",
+      "sourceUrl": "https://www.aman.com/hotels/aman-new-york/dining",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "Three floors with a 20-metre pool, a banya and a hammam.",
+      "sourceUrl": "https://www.aman.com/hotels/aman-new-york/wellness",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Garden Terrace",
+      "value": "A year-round terrace with a retractable glass roof and firepits.",
+      "sourceUrl": "https://www.aman.com/hotels/aman-new-york/dining",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Suites",
+      "value": "83",
+      "sourceUrl": "https://www.aman.com/hotels/aman-new-york/getting-here",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Building",
+      "value": "The Crown Building, built 1921, first home of the Museum of Modern Art",
+      "sourceUrl": "https://www.aman.com/hotels/aman-new-york",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Designer",
+      "value": "Jean-Michel Gathy",
+      "sourceUrl": "https://www.aman.com/hotels/aman-new-york/accommodation",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "Over 2,300 square metres (25,000 square feet) on three floors; 20-metre heated pool",
+      "sourceUrl": "https://www.aman.com/hotels/aman-new-york/wellness",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Aman Suite",
+      "value": "185 to 257 square metres, one to two bedrooms",
+      "sourceUrl": "https://www.aman.com/hotels/aman-new-york/accommodation",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Full-floor Home",
+      "value": "585 square metres across the 24th floor",
+      "sourceUrl": "https://www.aman.com/hotels/aman-new-york/accommodation",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Airports",
+      "value": "JFK and Newark 45 to 60 minutes; LaGuardia 30 to 40 minutes",
+      "sourceUrl": "https://www.aman.com/hotels/aman-new-york/getting-here",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Address",
+      "value": "The Crown Building, 730 Fifth Avenue, New York, NY 10019",
+      "sourceUrl": "https://www.aman.com/hotels/aman-new-york",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/aman-new-york/1.jpg",
+      "srcSmall": "/photos/aman-new-york/1-640.jpg",
+      "srcMid": "/photos/aman-new-york/1-1000.jpg",
+      "srcHero": "/photos/aman-new-york/1-2400.jpg",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/hotels/aman-new-york/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/styles/full_size_browser%402x/public/2026-03/Aman-New-York--USA---Accommodation--Grand-Suite-copy.jpg?itok=Rpnv4o3B",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/aman-new-york/2.jpg",
+      "srcSmall": "/photos/aman-new-york/2-640.jpg",
+      "srcMid": "/photos/aman-new-york/2-1000.jpg",
+      "srcHero": "/photos/aman-new-york/2-2400.jpg",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/hotels/aman-new-york/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/styles/full_size_browser%402x/public/2026-03/Aman-New-York--USA---F-B--Akari_0.jpg?itok=5TRaZPMK",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/aman-new-york/3.jpg",
+      "srcSmall": "/photos/aman-new-york/3-640.jpg",
+      "srcMid": "/photos/aman-new-york/3-1000.jpg",
+      "srcHero": "/photos/aman-new-york/3-2400.jpg",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/hotels/aman-new-york/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/styles/full_size_browser%402x/public/2026-03/Aman-New-York--USA---Accommodation--Corner-Suite--Bedroom.jpg?itok=-2SuPJwV",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/aman-new-york/4.jpg",
+      "srcSmall": "/photos/aman-new-york/4-640.jpg",
+      "srcMid": "/photos/aman-new-york/4-1000.jpg",
+      "srcHero": "/photos/aman-new-york/4-2400.jpg",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/hotels/aman-new-york/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/styles/full_size_browser%402x/public/2026-03/Aman-New-York--USA---Spa-House-Terrace.jpg?itok=yTsT_szE",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/aman-new-york/5.jpg",
+      "srcSmall": "/photos/aman-new-york/5-640.jpg",
+      "srcMid": "/photos/aman-new-york/5-1000.jpg",
+      "srcHero": "/photos/aman-new-york/5-2400.jpg",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/hotels/aman-new-york/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/styles/full_size_browser%402x/public/2026-03/Aman-New-York--USA---Accommodation--5th-Avn-Junior-Suite--Bathroom.jpg?itok=NSzGjYfI",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/aman-new-york/6.jpg",
+      "srcSmall": "/photos/aman-new-york/6-640.jpg",
+      "srcMid": "/photos/aman-new-york/6-1000.jpg",
+      "srcHero": "/photos/aman-new-york/6-2400.jpg",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/hotels/aman-new-york/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/styles/full_size_browser%402x/public/2026-03/Aman-New-York--USA---Accommodation--Corner-Suite--Living-Room--evening.jpg?itok=XWPpowt1",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/aman-new-york/7.jpg",
+      "srcSmall": "/photos/aman-new-york/7-640.jpg",
+      "srcMid": "/photos/aman-new-york/7-1000.jpg",
+      "srcHero": "/photos/aman-new-york/7-2400.jpg",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/hotels/aman-new-york/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/styles/full_size_browser%402x/public/2026-03/Aman-New-York--USA---Accommodation--Premier-Suite-56th.jpg?itok=27DGoZN1",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/aman-new-york/8.jpg",
+      "srcSmall": "/photos/aman-new-york/8-640.jpg",
+      "srcMid": "/photos/aman-new-york/8-1000.jpg",
+      "srcHero": "/photos/aman-new-york/8-2400.jpg",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/hotels/aman-new-york/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/styles/full_size_browser%402x/public/2026-03/Aman-New-York--USA---Accommodation--Aman-Suite--Dining-area.jpg?itok=Wv-_1S3l",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-08"
+}

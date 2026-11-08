@@ -1,0 +1,254 @@
+{
+  "slug": "amanyara",
+  "name": "Amanyara",
+  "operator": "Aman",
+  "brand": "Aman",
+  "country": "Turks and Caicos Islands",
+  "region": "Caribbean & Latin America",
+  "city": "Providenciales",
+  "area": "Northwest Point",
+  "type": "resort",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "Northwest Point, Providenciales TKCA 1ZZ, Turks and Caicos Islands",
+  "lat": null,
+  "lng": null,
+  "officialSite": "https://www.aman.com/resorts/amanyara",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": {
+    "code": "PLS",
+    "minutes": 25
+  },
+  "tagline": "Pavilions and villas on half a mile of beach at Northwest Point.",
+  "description": "Amanyara sits on the northwest tip of Providenciales in the Turks and Caicos Islands, on the edge of an 18,000-acre nature reserve. Pavilions and villas look over half a mile of white sand beach and the turquoise water of North West Point Marine National Park.\n\nThe buildings are low timber pavilions with overhanging eaves, set among coastal vegetation and reflecting ponds. Walkways cross the water between them.\n\nThe Pavilions overlook ponds or the beaches of the marine reserve. Eaves shade terraces on three sides, glass doors open to the outside, and some Pavilions open to private pools. The Villas have three to six bedrooms, with rooms set around a black infinity pool and a dedicated Villa host. The Artists Villa stands on a private stretch of beach and is among the largest properties. The Six-Bedroom Amanyara Villa sits on an dune with direct beach access, and the Five-Bedroom Serenity Villa has two infinity pools and a waterfall.\n\nThe Restaurant serves sushi, curries and other Asian dishes in the evening and breakfast each morning, and is open only to overnight guests. The Beach Club serves Mediterranean lunches and dinners on decks above the sand, from grilled seafood to wood-fired pizzas, and welcomes non-resident guests. The Bar is open all day. Private dining can be arranged from 7am to 10pm on the beach or in a pavilion.\n\nThe Clubhouse holds the spa, with four treatment pavilions, a relaxation pavilion, an outdoor yoga sala and a pool, plus a pilates studio, a boxing studio and a fitness centre. There are four clay Har-Tru tennis courts, three floodlit padel courts and multi-sport fields. The resort arranges diving, snorkelling and coastal excursions, and visiting wellness specialists run programmes through the year.\n\nProvidenciales International Airport is a 25-minute drive. Amanyara suits families and groups as well as couples, and the larger villas are made for them.",
+  "highlights": [
+    {
+      "label": "Villas",
+      "value": "Three- to six-bedroom Villas around black infinity pools, each with a Villa host.",
+      "sourceUrl": "https://www.aman.com/resorts/amanyara/accommodation",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Artists Villa",
+      "value": "One of the largest properties, on a private stretch of white sand beach.",
+      "sourceUrl": "https://www.aman.com/resorts/amanyara/accommodation",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Beach Club",
+      "value": "Mediterranean lunches and dinners on decks above the beach, open to non-residents.",
+      "sourceUrl": "https://www.aman.com/resorts/amanyara/dining",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Restaurant",
+      "value": "Sushi and curries each evening, for overnight guests only.",
+      "sourceUrl": "https://www.aman.com/resorts/amanyara/dining",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Racquet sports",
+      "value": "Four clay Har-Tru tennis courts and three floodlit padel courts.",
+      "sourceUrl": "https://www.aman.com/resorts/amanyara/wellness",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "Four treatment pavilions, a relaxation pavilion and an outdoor yoga sala.",
+      "sourceUrl": "https://www.aman.com/resorts/amanyara/wellness",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Setting",
+      "value": "An 18,000-acre nature reserve with half a mile of white sand beach",
+      "sourceUrl": "https://www.aman.com/resorts/amanyara",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Villas",
+      "value": "Three to six bedrooms, each with a black infinity pool",
+      "sourceUrl": "https://www.aman.com/resorts/amanyara/accommodation",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "Four treatment pavilions, relaxation pavilion, outdoor yoga sala and pool",
+      "sourceUrl": "https://www.aman.com/resorts/amanyara/wellness",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Courts",
+      "value": "Four clay Har-Tru tennis courts; three floodlit Mondo padel courts",
+      "sourceUrl": "https://www.aman.com/resorts/amanyara/wellness",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Private dining",
+      "value": "Available 7am to 10pm in a pavilion, on the beach or elsewhere on the property",
+      "sourceUrl": "https://www.aman.com/resorts/amanyara/dining",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Airport",
+      "value": "Providenciales International Airport (PLS), 25-minute drive",
+      "sourceUrl": "https://www.aman.com/resorts/amanyara/getting-here",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Address",
+      "value": "Northwest Point, Providenciales TKCA 1ZZ",
+      "sourceUrl": "https://www.aman.com/resorts/amanyara/getting-here",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/amanyara/1.jpg",
+      "srcSmall": "/photos/amanyara/1-640.jpg",
+      "srcMid": "/photos/amanyara/1-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanyara/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/styles/full_size_browser%402x/public/2021-03/Amanyara_Gallery_5.jpg?itok=isNNp_7r",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/amanyara/2.jpg",
+      "srcSmall": "/photos/amanyara/2-640.jpg",
+      "srcMid": "/photos/amanyara/2-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanyara/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/styles/full_size_browser%402x/public/2024-05/amanyara_turks_caicos_-_resort.jpg?itok=X5mTLe0K",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/amanyara/3.jpg",
+      "srcSmall": "/photos/amanyara/3-640.jpg",
+      "srcMid": "/photos/amanyara/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanyara/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/styles/full_size_browser%402x/public/2021-03/Amanyara_Gallery_8.jpg?itok=5Zvbm14n",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/amanyara/4.jpg",
+      "srcSmall": "/photos/amanyara/4-640.jpg",
+      "srcMid": "/photos/amanyara/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanyara/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/styles/full_size_browser%402x/public/2021-03/Amanyara_Gallery_1.jpg?itok=PYigXDqI",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/amanyara/5.jpg",
+      "srcSmall": "/photos/amanyara/5-640.jpg",
+      "srcMid": "/photos/amanyara/5-1000.jpg",
+      "srcHero": "/photos/amanyara/5-2400.jpg",
+      "width": 1600,
+      "height": 1600,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanyara/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/styles/full_size_browser%402x/public/2024-05/amanyara_turks_caicos_-_three-bedroom_tranquility_villa_6_1.jpg?itok=hZR9htL1",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/amanyara/6.jpg",
+      "srcSmall": "/photos/amanyara/6-640.jpg",
+      "srcMid": "/photos/amanyara/6-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanyara/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/styles/full_size_browser%402x/public/2024-05/amanyara_turks_caicos_-_resort_0.jpg?itok=5hfhuVNJ",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/amanyara/7.jpg",
+      "srcSmall": "/photos/amanyara/7-640.jpg",
+      "srcMid": "/photos/amanyara/7-1000.jpg",
+      "srcHero": "",
+      "width": 1200,
+      "height": 1579,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanyara/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/styles/full_size_browser%402x/public/2024-06/amanyara_turks_caicos_-_bar.jpg?itok=nujWnKTm",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/amanyara/8.jpg",
+      "srcSmall": "/photos/amanyara/8-640.jpg",
+      "srcMid": "/photos/amanyara/8-1000.jpg",
+      "srcHero": "",
+      "width": 1200,
+      "height": 1200,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanyara/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/styles/full_size_browser%402x/public/2024-05/amanyara_turks_caicos_-_main_resort.jpg?itok=OWjckSKZ",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-08"
+}

@@ -1,0 +1,247 @@
+{
+  "slug": "the-carlyle",
+  "name": "The Carlyle, A Rosewood Hotel",
+  "operator": "Rosewood Hotel Group",
+  "brand": "Rosewood",
+  "country": "United States",
+  "region": "North America",
+  "city": "New York",
+  "area": "Upper East Side",
+  "type": "city",
+  "themes": [
+    "palace"
+  ],
+  "adultsOnly": false,
+  "address": "35 East 76th Street, New York, NY 10021, United States",
+  "lat": 40.77438,
+  "lng": -73.96299,
+  "officialSite": "https://www.rosewoodhotels.com/en/the-carlyle-new-york",
+  "rooms": 100,
+  "suites": 92,
+  "villas": null,
+  "opened": null,
+  "airport": null,
+  "tagline": "An Art Deco tower on the Upper East Side, steps from Central Park.",
+  "description": "The Carlyle is an Art Deco hotel at 35 East 76th Street on Manhattan's Upper East Side, steps from Central Park, Madison Avenue and the Museum Mile. It has 100 rooms and 92 suites, and a cabaret room and piano bar that are part of New York's social life.\n\nThe building is a landmark, and its murals and fine art collection are part of the hotel. Ludwig Bemelmans painted the walls of Bemelmans Bar, Marcel Vertes painted the music-themed murals, and Dowling's holds more than 200 local artworks. The Carlyle is also the departure point for the Met Gala red carpet.\n\nThe rooms and suites follow a modern Art Deco style. The Presidential Suite takes the entire 26th floor of the tower, with a private elevator landing, gold leaf and hand-etched murals, Venetian plaster walls, three bedrooms, four full bathrooms, a full kitchen and a gallery entrance with a piano. Floor-to-ceiling windows give 360-degree views of Central Park and Midtown. Top suites come with a Suite Ambassador.\n\nBemelmans Bar has nightly piano and late-night jazz under the Bemelmans murals, and Earl Rose plays the Great American Songbook there. Cafe Carlyle is an intimate supper club for classic cabaret. Dowling's serves New York classics built on seasonal, local produce. The Gallery was designed by Renzo Mongiardino and inspired by Topkapi Palace, and serves afternoon tea and light refreshments late into the night.\n\nThe Valmont Spa offers Swiss skincare treatments, and the Yves Durif salon cuts hair in the Parisian manner. There are treatment rooms, a sauna and a fitness centre. Guests can arrange an after-hours visit to the Metropolitan Museum of Art, and the bar runs a martini masterclass. Dogs under 25 pounds are welcome.\n\nJFK is 18 miles away, LaGuardia 10 and Newark 20. The Carlyle suits guests who want an old New York address, live music downstairs and a short walk to the park.",
+  "highlights": [
+    {
+      "label": "Presidential Suite",
+      "value": "The whole 26th floor, with three bedrooms, a private elevator and 360-degree views.",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/the-carlyle-new-york/accommodation/suites/presidential-suite",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Bemelmans Bar",
+      "value": "Murals by Ludwig Bemelmans and nightly piano and jazz.",
+      "sourceUrl": "https://www.rosewoodhotels.com/content/dam/rosewoodhotels/property/the-carlyle-new-york/en/documents/press-kit/RWCAR-Fact-Sheet.pdf",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Cafe Carlyle",
+      "value": "A supper club for classic cabaret.",
+      "sourceUrl": "https://www.rosewoodhotels.com/content/dam/rosewoodhotels/property/the-carlyle-new-york/en/documents/press-kit/RWCAR-Fact-Sheet.pdf",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "The Gallery",
+      "value": "A room by Renzo Mongiardino inspired by Topkapi Palace, serving afternoon tea.",
+      "sourceUrl": "https://www.rosewoodhotels.com/content/dam/rosewoodhotels/property/the-carlyle-new-york/en/documents/press-kit/RWCAR-Fact-Sheet.pdf",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "Valmont Spa with Swiss skincare treatments, and the Yves Durif salon.",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/the-carlyle-new-york/wellness/spa",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "A Day at The Met",
+      "value": "An after-hours visit to the Metropolitan Museum of Art for guests.",
+      "sourceUrl": "https://www.rosewoodhotels.com/content/dam/rosewoodhotels/property/the-carlyle-new-york/en/documents/press-kit/RWCAR-Fact-Sheet.pdf",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Rooms",
+      "value": "100",
+      "sourceUrl": "https://www.rosewoodhotels.com/content/dam/rosewoodhotels/property/the-carlyle-new-york/en/documents/press-kit/RWCAR-Fact-Sheet.pdf",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Suites",
+      "value": "92",
+      "sourceUrl": "https://www.rosewoodhotels.com/content/dam/rosewoodhotels/property/the-carlyle-new-york/en/documents/press-kit/RWCAR-Fact-Sheet.pdf",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Presidential Suite",
+      "value": "The entire 26th floor; three bedrooms, four full bathrooms and one half bath",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/the-carlyle-new-york/accommodation/suites/presidential-suite",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Dowling's",
+      "value": "More than 200 local artworks",
+      "sourceUrl": "https://www.rosewoodhotels.com/content/dam/rosewoodhotels/property/the-carlyle-new-york/en/documents/press-kit/RWCAR-Fact-Sheet.pdf",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Airports",
+      "value": "JFK 18 miles, LaGuardia 10 miles, Newark 20 miles, Teterboro 30 miles",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/the-carlyle-new-york/overview/location",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Address",
+      "value": "35 East 76th Street, New York, NY 10021",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/the-carlyle-new-york/overview/location",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/the-carlyle/1.jpg",
+      "srcSmall": "/photos/the-carlyle/1-640.jpg",
+      "srcMid": "/photos/the-carlyle/1-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1199,
+      "credit": "Rosewood Hotel Group",
+      "creditUrl": "https://www.rosewoodhotels.com/en/the-carlyle-new-york/overview/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://picasso.rosewoodhotelgroup.com/transform/6aa66f36-c259-4a5b-831a-5e878c0caa1f/RWCAR_3-0_Brand-com_Assets_Hero_1",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-carlyle/2.jpg",
+      "srcSmall": "/photos/the-carlyle/2-640.jpg",
+      "srcMid": "/photos/the-carlyle/2-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1126,
+      "credit": "Rosewood Hotel Group",
+      "creditUrl": "https://www.rosewoodhotels.com/en/the-carlyle-new-york/overview/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://picasso.rosewoodhotelgroup.com/transform/5ea21eb9-f397-42e1-a0d1-df22a756322d/RWCAR_3-0_Brand-com_Assets_Accommodations_S-M_PresidentialLivingRoom",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-carlyle/3.jpg",
+      "srcSmall": "/photos/the-carlyle/3-640.jpg",
+      "srcMid": "/photos/the-carlyle/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Rosewood Hotel Group",
+      "creditUrl": "https://www.rosewoodhotels.com/en/the-carlyle-new-york/overview/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://picasso.rosewoodhotelgroup.com/transform/4f868c56-3899-49f6-aad2-bba232b6c016/RWCAR_3-0_Brand-com_Assets_Facilities_Restaurants-Bars_BemelmansBar_1",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-carlyle/4.jpg",
+      "srcSmall": "/photos/the-carlyle/4-640.jpg",
+      "srcMid": "/photos/the-carlyle/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Rosewood Hotel Group",
+      "creditUrl": "https://www.rosewoodhotels.com/en/the-carlyle-new-york/overview/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://picasso.rosewoodhotelgroup.com/transform/50ec9410-104a-4070-b040-7cb1ed05b55a/RWCAR_3-0_Brand-com_Assets_Facilities_Restaurants-Bars_Dowlings_1",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-carlyle/5.jpg",
+      "srcSmall": "/photos/the-carlyle/5-640.jpg",
+      "srcMid": "/photos/the-carlyle/5-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1076,
+      "credit": "Rosewood Hotel Group",
+      "creditUrl": "https://www.rosewoodhotels.com/en/the-carlyle-new-york/overview/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://picasso.rosewoodhotelgroup.com/transform/9e34255f-aca8-4115-b0b0-ff82251faf22/RWCAR_3-0_Brand-com_Assets_Facilities_Restaurants-Bars_S-M_TheGallery_1",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-carlyle/6.jpg",
+      "srcSmall": "/photos/the-carlyle/6-640.jpg",
+      "srcMid": "/photos/the-carlyle/6-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1074,
+      "credit": "Rosewood Hotel Group",
+      "creditUrl": "https://www.rosewoodhotels.com/en/the-carlyle-new-york/overview/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://picasso.rosewoodhotelgroup.com/transform/cd4f1d50-30ec-441e-821a-99cb57775d48/RWCAR_3-0_Brand-com_Assets_Accommodations_S-M_SuperiorRoom",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-carlyle/7.jpg",
+      "srcSmall": "/photos/the-carlyle/7-640.jpg",
+      "srcMid": "/photos/the-carlyle/7-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1022,
+      "credit": "Rosewood Hotel Group",
+      "creditUrl": "https://www.rosewoodhotels.com/en/the-carlyle-new-york/overview/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://picasso.rosewoodhotelgroup.com/transform/4c21c65b-d788-4633-a9db-f2377358043e/RWCAR_3-0_Brand-com_Assets_Cafe-Carlyle",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-carlyle/8.jpg",
+      "srcSmall": "/photos/the-carlyle/8-640.jpg",
+      "srcMid": "/photos/the-carlyle/8-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1104,
+      "credit": "Rosewood Hotel Group",
+      "creditUrl": "https://www.rosewoodhotels.com/en/the-carlyle-new-york/overview/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://picasso.rosewoodhotelgroup.com/transform/89537824-a4dd-414b-8304-183540dc26a5/RWCAR_3-0_Brand-com_Assets_2209_Suite_Accomodation",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-08"
+}

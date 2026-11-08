@@ -1,0 +1,248 @@
+{
+  "slug": "kona-village",
+  "name": "Kona Village, A Rosewood Resort",
+  "operator": "Rosewood Hotel Group",
+  "brand": "Rosewood",
+  "country": "United States",
+  "region": "North America",
+  "city": "Kailua-Kona",
+  "area": "Hawaii Island",
+  "type": "resort",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "72-300 Maheawalu Drive, Kailua-Kona, HI 96740, United States",
+  "lat": 19.83214,
+  "lng": -155.98538,
+  "officialSite": "https://www.rosewoodhotels.com/en/kona-village",
+  "rooms": 150,
+  "suites": 37,
+  "villas": null,
+  "opened": null,
+  "airport": {
+    "code": "KOA",
+    "minutes": 15
+  },
+  "tagline": "Thatch-roofed hale on 81 acres beside Kahuwai Bay, Hawaii Island.",
+  "description": "Kona Village is a Rosewood resort on 81 acres of the Kaupulehu coast of Hawaii Island, a short drive north of Kailua-Kona. Free-standing, thatch-roofed hale stand beside a lagoon and Kahuwai Bay, on the site of an ancient Hawaiian fishing village.\n\nThe resort is built on lava flow and ocean, and is named for and shaped by that history. Water is treated as sacred, and the resort runs its own reverse osmosis treatment plant and marine wildlife conservation work. Guests can borrow bicycles to move around the grounds.\n\nThe hale are modern and thatch-roofed, set at one with their surroundings. Island Vistas hale look to foliage and volcanic mountains, Lagoonfront Hideaways sit on the lagoon, and Ocean View Escapes face the Pacific. Legacy Oceanfront Sanctuaries are restored hale from the original resort, looking over Kahuwai Bay. The gated Ohana residences are four-bedroom suites with private pools and butler service.\n\nMoana serves breakfast and dinner built on sustainably sourced local produce, fish and meat. Kahuwai Cookhouse follows the paniolo cowboy tradition, with kiawe wood-fired cooking and Hawaiian techniques such as pickling and salting. Shipwreck Bar and Sushi occupies a schooner that once belonged to the resort founder, now restored. Talk Story Bar looks west for sunset drinks, and Moana Cocktail Bar has live music over the bay. The Island Roots dinner is a communal feast of food from the island.\n\nAsaya Spa is built into the lava flow, and the resort has four outdoor pools, a fitness centre, tennis and pickleball courts and a farm tour with a cooking class. The Kilo Kai ocean programme covers ocean pursuits, and the Mahina Renewal Ritual gives guests private after-hours use of the spa for a two-hour journey timed to the moon.\n\nKona Airport is a 15-minute drive. Kona Village suits families and several generations travelling together.",
+  "highlights": [
+    {
+      "label": "Ohana residences",
+      "value": "Gated four-bedroom suites with private pools and butler service.",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/kona-village/accommodation",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Legacy sanctuaries",
+      "value": "Restored hale from the original resort, looking over Kahuwai Bay.",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/kona-village/accommodation",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Island Roots",
+      "value": "A communal dinner of local food cooked over open flames.",
+      "sourceUrl": "https://www.rosewoodhotels.com/content/dam/rosewoodhotels/property/kona-village/en/documents/press-kit/RWKVL-Fact-Sheet.pdf",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Shipwreck Bar and Sushi",
+      "value": "A restored schooner, once the resort founder's, serving cocktails and Japanese dishes.",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/kona-village/dining",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Asaya Spa",
+      "value": "A spa built into the lava flow, with after-hours Mahina Renewal Ritual.",
+      "sourceUrl": "https://www.rosewoodhotels.com/content/dam/rosewoodhotels/property/kona-village/en/documents/press-kit/RWKVL-Fact-Sheet.pdf",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Farm and ocean",
+      "value": "A farm tour and cooking class, and the Kilo Kai ocean programme.",
+      "sourceUrl": "https://www.rosewoodhotels.com/content/dam/rosewoodhotels/property/kona-village/en/documents/press-kit/RWKVL-Fact-Sheet.pdf",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Hale and suites",
+      "value": "150 hale and 37 suites",
+      "sourceUrl": "https://www.rosewoodhotels.com/content/dam/rosewoodhotels/property/kona-village/en/documents/press-kit/RWKVL-Fact-Sheet.pdf",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Land",
+      "value": "81 acres",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/kona-village",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Pools",
+      "value": "Four outdoor pools",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/kona-village/wellness",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Dining",
+      "value": "Five restaurants and bars",
+      "sourceUrl": "https://www.rosewoodhotels.com/content/dam/rosewoodhotels/property/kona-village/en/documents/press-kit/RWKVL-Fact-Sheet.pdf",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Airport",
+      "value": "Kona Airport (KOA), 15-minute drive; Hilo (ITO) 2 hours",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/kona-village/overview/location",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Address",
+      "value": "72-300 Maheawalu Dr, Kailua-Kona, Hawaii 96740",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/kona-village/overview/location",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/kona-village/1.jpg",
+      "srcSmall": "/photos/kona-village/1-640.jpg",
+      "srcMid": "/photos/kona-village/1-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1200,
+      "credit": "Rosewood Hotel Group",
+      "creditUrl": "https://www.rosewoodhotels.com/en/kona-village/overview/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://picasso.rosewoodhotelgroup.com/transform/6facd69f-0d6e-4d01-b6c6-1f63e7a05eec/RWKVL_3-0_Brand-com_Assets_Pools_Shipwreck_06",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/kona-village/2.jpg",
+      "srcSmall": "/photos/kona-village/2-640.jpg",
+      "srcMid": "/photos/kona-village/2-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1200,
+      "credit": "Rosewood Hotel Group",
+      "creditUrl": "https://www.rosewoodhotels.com/en/kona-village/overview/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://picasso.rosewoodhotelgroup.com/transform/83f12120-efcb-4c35-a822-23f66134b17d/RWKVL_Accommodations_SignatureSuite_Maheawalu_View_01",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/kona-village/3.jpg",
+      "srcSmall": "/photos/kona-village/3-640.jpg",
+      "srcMid": "/photos/kona-village/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1217,
+      "credit": "Rosewood Hotel Group",
+      "creditUrl": "https://www.rosewoodhotels.com/en/kona-village/overview/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://picasso.rosewoodhotelgroup.com/transform/a95dfaf1-c5ac-40b9-b103-d215f5c07033/RWKVL_3-0_Brand-com_Assets_Accommodations_Kauhale_BeachFrontBlackSand_LivingRoom_02",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/kona-village/4.jpg",
+      "srcSmall": "/photos/kona-village/4-640.jpg",
+      "srcMid": "/photos/kona-village/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1200,
+      "credit": "Rosewood Hotel Group",
+      "creditUrl": "https://www.rosewoodhotels.com/en/kona-village/overview/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://picasso.rosewoodhotelgroup.com/transform/861f2d29-a8c7-4e3d-9611-3b11616ce2e8/RWKVL_3-0_Brand-com_Assets_Accommodations_Kauhale_BeachFront_-Lanai_02",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/kona-village/5.jpg",
+      "srcSmall": "/photos/kona-village/5-640.jpg",
+      "srcMid": "/photos/kona-village/5-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1275,
+      "credit": "Rosewood Hotel Group",
+      "creditUrl": "https://www.rosewoodhotels.com/en/kona-village/overview/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://picasso.rosewoodhotelgroup.com/transform/389ca954-a34b-4fe7-82d0-dfb537d92d14/RWKVL_3-0_Brand-com_Assets_Restaurants_Moana_01",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/kona-village/6.jpg",
+      "srcSmall": "/photos/kona-village/6-640.jpg",
+      "srcMid": "/photos/kona-village/6-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1200,
+      "credit": "Rosewood Hotel Group",
+      "creditUrl": "https://www.rosewoodhotels.com/en/kona-village/overview/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://picasso.rosewoodhotelgroup.com/transform/4b524072-7eab-4aae-b08f-3a4892593df5/RWKVL_3-0_Brand-com_Assets_Bars_TalkStory_03",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/kona-village/7.jpg",
+      "srcSmall": "/photos/kona-village/7-640.jpg",
+      "srcMid": "/photos/kona-village/7-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1200,
+      "credit": "Rosewood Hotel Group",
+      "creditUrl": "https://www.rosewoodhotels.com/en/kona-village/overview/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://picasso.rosewoodhotelgroup.com/transform/5aa02715-828a-4916-ac44-83069ec3f0ba/RWKVL_3-0_Brand-com_Assets_Wellness_Asaya_Exterior_05",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/kona-village/8.jpg",
+      "srcSmall": "/photos/kona-village/8-640.jpg",
+      "srcMid": "/photos/kona-village/8-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1234,
+      "credit": "Rosewood Hotel Group",
+      "creditUrl": "https://www.rosewoodhotels.com/en/kona-village/overview/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://picasso.rosewoodhotelgroup.com/transform/19abf07c-1304-4e38-99eb-5090390e1d9e/RWKVL_3-0_Brand-com_Assets_Accommodations_Hale_OceanFront_01",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-08"
+}
