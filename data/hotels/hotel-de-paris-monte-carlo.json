@@ -1,0 +1,113 @@
+{
+  "slug": "hotel-de-paris-monte-carlo",
+  "name": "Hôtel de Paris Monte-Carlo",
+  "operator": "Monte-Carlo Société des Bains de Mer",
+  "brand": "",
+  "country": "Monaco",
+  "region": "Europe",
+  "city": "Monte-Carlo",
+  "area": "",
+  "type": "city",
+  "themes": [
+    "palace"
+  ],
+  "adultsOnly": false,
+  "address": "Place du Casino, 98000 Monaco",
+  "lat": 43.73901,
+  "lng": 7.42747,
+  "officialSite": "https://www.montecarlosbm.com/en/hotel-monaco/hotel-paris-monte-carlo",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": {
+    "code": "",
+    "minutes": null
+  },
+  "tagline": "A palace on Place du Casino with a three-star Alain Ducasse restaurant.",
+  "description": "Hôtel de Paris Monte-Carlo is a palace on Place du Casino in Monaco, run by Monte-Carlo Société des Bains de Mer. It has held a place in the life of the Principality for over a century, and it holds a three-Michelin-star restaurant by Alain Ducasse.\n\nThe hotel stands on Place du Casino beside the Casino de Monte-Carlo, with the Mediterranean beyond. Rooms were recently renovated, with simple lines and precious materials, and the collection of suites is described by the hotel as the finest in Monaco. Rooms and suites face the sea, the casino or the city, or open onto the patio, and many suites have a terrace.\n\nThe Diamond Suites are the grandest. The Princess Grace Suite covers 983 square metres over two floors, with terraces of 143 and 378 square metres and a 180-degree view of the Mediterranean, and it displays the princess's own souvenirs, favourite poems and books. A suite on the eighth floor covers 614 square metres, with terraces of 172 and 206 square metres, a heated infinity pool and a jacuzzi. Suite guests have the hotel limousine inside the Resort, and meals in Resort restaurants can be charged to the room.\n\nLe Louis XV, Alain Ducasse at the Hôtel de Paris, holds three Michelin stars, with a modern menu by Emmanuel Pilon and Alain Ducasse inspired by the Riviera and its regional products. Le Grill offers a tribute to the Mediterranean with a panoramic view and holds a star, and Em Sherif Monte-Carlo opens in summer. Chef Cédric Grolet has his Fruits and Flowers pâtisserie on the patio, and Le Bar Américain plays live jazz, swing, blues and soul from 7pm every evening.\n\nGuests use the Thermes Marins Monte-Carlo, with an indoor pool, solarium, sauna, steam room, jacuzzi and fitness room, and the Wellness Sky Club with a heated outdoor pool in season. The private Monte-Carlo Beach Club has an Olympic-sized pool and a beach. Access to the Monte-Carlo Country Club and the Golf Club comes at preferential rates, and a helicopter, taxi or door-to-door transfer runs between Nice and Monaco at an extra charge.\n\nIt suits travellers who want to stay beside the casino in Monaco with a spa and a beach club included in the stay. Dogs under 15 kilograms are accepted.",
+  "highlights": [
+    {
+      "label": "Restaurant",
+      "value": "Le Louis XV, Alain Ducasse at the Hôtel de Paris, holds three Michelin stars.",
+      "sourceUrl": "https://www.montecarlosbm.com/en/hotel-monaco/hotel-paris-monte-carlo",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Signature suite",
+      "value": "The Princess Grace Suite covers 983 square metres over two floors, with terraces of 143 and 378 square metres.",
+      "sourceUrl": "https://www.montecarlosbm.com/en/hotel-monaco/hotel-paris-monte-carlo/accommodation/diamond-suite-princess-grace",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Penthouse level",
+      "value": "An eighth-floor suite of 614 square metres with a heated infinity pool and jacuzzi.",
+      "sourceUrl": "https://www.montecarlosbm.com/en/hotel-monaco/hotel-paris-monte-carlo/accommodation/diamond-suite-princess-grace",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Pâtisserie",
+      "value": "Cédric Grolet's Fruits and Flowers on the patio.",
+      "sourceUrl": "https://www.montecarlosbm.com/en/hotel-monaco/hotel-paris-monte-carlo",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "The Thermes Marins Monte-Carlo, with an indoor pool, sauna, steam room and jacuzzi.",
+      "sourceUrl": "https://www.montecarlosbm.com/en/hotel-monaco/hotel-paris-monte-carlo/accommodation/suite-seaview-terrace",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Bar",
+      "value": "Le Bar Américain, with live music every evening from 7pm.",
+      "sourceUrl": "https://www.montecarlosbm.com/en/hotel-monaco/hotel-paris-monte-carlo",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Address",
+      "value": "Place du Casino, 98000 Monaco",
+      "sourceUrl": "https://www.montecarlosbm.com/en/hotel-monaco/hotel-paris-monte-carlo",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Princess Grace Suite",
+      "value": "983 square metres on two floors; terraces of 143 and 378 square metres",
+      "sourceUrl": "https://www.montecarlosbm.com/en/hotel-monaco/hotel-paris-monte-carlo/accommodation/diamond-suite-princess-grace",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Eighth-floor suite",
+      "value": "614 square metres, terraces of 172 and 206 square metres, heated infinity pool",
+      "sourceUrl": "https://www.montecarlosbm.com/en/hotel-monaco/hotel-paris-monte-carlo/accommodation/diamond-suite-princess-grace",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Michelin",
+      "value": "Le Louis XV, three stars",
+      "sourceUrl": "https://www.montecarlosbm.com/en/hotel-monaco/hotel-paris-monte-carlo",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Nice transfer",
+      "value": "Helicopter, taxi or door-to-door transfer, extra charge",
+      "sourceUrl": "https://www.montecarlosbm.com/en/hotel-monaco/hotel-paris-monte-carlo/accommodation/suite-seaview-terrace",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Pets",
+      "value": "Dogs under 15 kg accepted, with a supplement",
+      "sourceUrl": "https://www.montecarlosbm.com/en/hotel-monaco/hotel-paris-monte-carlo/accommodation/suite-seaview-terrace",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-08"
+}
