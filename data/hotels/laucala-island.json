@@ -79,6 +79,24 @@
       "value": "LAUCALA Island Resort Pte Limited, Cakaudrove, Vanua Levu",
       "sourceUrl": "https://www.laucala.com/imprint",
       "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Personal host",
+      "value": "Each guest or villa group is supported by a personal host",
+      "sourceUrl": "https://www.laucala.com/llms-full.txt",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Island setting",
+      "value": "Rainforest, coral reefs, sandy beaches, volcanic mountains, farmland and gardens; Vanua Levu is Fiji's second-largest island",
+      "sourceUrl": "https://www.laucala.com/llms-full.txt",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Experiences",
+      "value": "Snorkelling, diving, sailing, fishing, boat excursions, rainforest trails, horseback riding, golf, spa treatments and yoga",
+      "sourceUrl": "https://www.laucala.com/llms-full.txt",
+      "lastVerified": "2026-11-09"
     }
   ],
   "photos": [
@@ -115,6 +133,114 @@
       "sourceImageUrl": "https://www.laucala.com/videos/Reels_10.poster.webp",
       "caption": "",
       "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/laucala-island/3.jpg",
+      "srcSmall": "/photos/laucala-island/3-640.jpg",
+      "srcMid": "/photos/laucala-island/3-1000.jpg",
+      "srcHero": "",
+      "width": 1366,
+      "height": 767,
+      "credit": "LAUCALA",
+      "creditUrl": "https://www.laucala.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://imagedelivery.net/qO43xOenpVK1usAjenxJTA/751c88de-d46e-4119-4edb-21ef3bf9b700/public",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/laucala-island/4.jpg",
+      "srcSmall": "/photos/laucala-island/4-640.jpg",
+      "srcMid": "/photos/laucala-island/4-1000.jpg",
+      "srcHero": "",
+      "width": 1366,
+      "height": 767,
+      "credit": "LAUCALA",
+      "creditUrl": "https://www.laucala.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://imagedelivery.net/qO43xOenpVK1usAjenxJTA/0f12981c-2be7-480c-15d2-5a82697efc00/public",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/laucala-island/5.jpg",
+      "srcSmall": "/photos/laucala-island/5-640.jpg",
+      "srcMid": "/photos/laucala-island/5-1000.jpg",
+      "srcHero": "",
+      "width": 1366,
+      "height": 767,
+      "credit": "LAUCALA",
+      "creditUrl": "https://www.laucala.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://imagedelivery.net/qO43xOenpVK1usAjenxJTA/42405ed0-c019-4590-1ca0-35f7cf3b7d00/public",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/laucala-island/6.jpg",
+      "srcSmall": "/photos/laucala-island/6-640.jpg",
+      "srcMid": "/photos/laucala-island/6-1000.jpg",
+      "srcHero": "",
+      "width": 1152,
+      "height": 768,
+      "credit": "LAUCALA",
+      "creditUrl": "https://www.laucala.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://imagedelivery.net/qO43xOenpVK1usAjenxJTA/1548a20c-a4b5-4e2c-1e95-1cce3313d500/public",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/laucala-island/7.jpg",
+      "srcSmall": "/photos/laucala-island/7-640.jpg",
+      "srcMid": "/photos/laucala-island/7-1000.jpg",
+      "srcHero": "",
+      "width": 1366,
+      "height": 767,
+      "credit": "LAUCALA",
+      "creditUrl": "https://www.laucala.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://imagedelivery.net/qO43xOenpVK1usAjenxJTA/09b123bb-a41b-4841-5fdd-3ed672a4b100/public",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/laucala-island/8.jpg",
+      "srcSmall": "/photos/laucala-island/8-640.jpg",
+      "srcMid": "/photos/laucala-island/8-1000.jpg",
+      "srcHero": "",
+      "width": 1151,
+      "height": 768,
+      "credit": "LAUCALA",
+      "creditUrl": "https://www.laucala.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://imagedelivery.net/qO43xOenpVK1usAjenxJTA/e42e03e3-ce3d-46d5-0da1-086be3aa3600/public",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
     }
   ],
   "stay22Id": null,
@@ -123,5 +249,5 @@
   "booking": {
     "supplier": "expedia"
   },
-  "lastVerified": "2026-11-08"
+  "lastVerified": "2026-11-09"
 }

@@ -1,0 +1,333 @@
+{
+  "slug": "passalacqua",
+  "name": "Passalacqua",
+  "operator": "Passalacqua",
+  "brand": "",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "Moltrasio",
+  "area": "Lake Como",
+  "type": "resort",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "Via Besana, 59, 22010 Moltrasio (Como), Italy",
+  "lat": 45.86051,
+  "lng": 9.09918,
+  "officialSite": "https://www.passalacqua.it/en/",
+  "rooms": 24,
+  "suites": null,
+  "villas": null,
+  "opened": 2022,
+  "airport": null,
+  "tagline": "Twenty-four rooms in an 18th-century villa on Lake Como, with seven acres of garden.",
+  "description": "Passalacqua is a 24-room hotel in an 18th-century villa at Moltrasio on Lake Como, about fifteen minutes from the town of Como and an hour's drive from Milan. It opened in June 2022 after a three-year restoration.\n\nCount Andrea Lucini-Passalacqua had the villa built in 1787, to a design by the Milanese architect Carlo Felice Soave. The composer Vincenzo Bellini wrote La Sonnambula during a stay in 1831, and Winston Churchill was among later visitors. The De Santis family, who own the Grand Hotel Tremezzo, bought the house in 2018. Seven acres of gardens fall away to a private jetty, and the hotel, restaurant and gardens are open only to guests. The hotel closes from early January to early March.\n\nThe rooms are divided between three buildings. The Villa has twelve, from 40 square metre rooms to the Suite Bellini, which measures 250 square metres and looks over the lake. The Palazz, behind the Villa, has eight rooms averaging 37 square metres, and the Casa al Lago, close to the water in the garden, has four, which can be taken together for exclusive use. Suite Norma and Suite Agnese, in the Villa, measure 120 and 90 square metres.\n\nChef Viviana Varese runs the kitchen. Dinner is served on the candlelit terrace or in the Sala Ovale, under frescoed ceilings, and breakfast is a buffet in the kitchen with an island for eggs. The pool bar, the Winter Garden, is a former greenhouse designed by JJ Martin of La DoubleJ, and aperitivo is taken in the bar, by the pool or on the terrace.\n\nThe spa is in the Palazz and uses Seed to Skin, a Tuscan skincare line. Below the gardens, an 18th-century gallery holds a sauna, a steam bath and a heated indoor pool that can be reserved for one party. The lake-view pool sits on a terrace below the villa. A clay tennis court, bocce, a gym in a former greenhouse and open-air cinema evenings fill the days, and a seasonal programme of activities, such as a tour of the underground tunnels and a gelato class, is included in every stay. Boats leave from the jetty, among them the vintage launch Giumello II and a restored Riva Olympic.\n\nThe hotel suits guests who want a villa on the lake with a small number of rooms, a kitchen that works with the seasons and the town of Como close by.",
+  "highlights": [
+    {
+      "label": "Setting",
+      "value": "An 18th-century villa on Lake Como at Moltrasio, with seven acres of gardens down to a private jetty.",
+      "sourceUrl": "https://www.passalacqua.it/en/today/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Rooms",
+      "value": "Twenty-four rooms across the Villa (12), the Palazz (8) and the Casa al Lago (4).",
+      "sourceUrl": "https://www.passalacqua.it/en/rooms/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Signature suite",
+      "value": "Suite Bellini in the Villa measures 250 square metres and has a lake view.",
+      "sourceUrl": "https://www.passalacqua.it/en/rooms/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Dining",
+      "value": "Chef Viviana Varese cooks dinner on the terrace or in the frescoed Sala Ovale.",
+      "sourceUrl": "https://www.passalacqua.it/en/dining/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Spa",
+      "value": "An 18th-century underground gallery holds a sauna, steam bath and heated indoor pool.",
+      "sourceUrl": "https://www.passalacqua.it/en/spa/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Boats",
+      "value": "Vintage and Riva launches, including the Giumello II and a restored Riva Olympic, leave from the private jetty.",
+      "sourceUrl": "https://www.passalacqua.it/en/experiences/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Included",
+      "value": "A seasonal programme of daily activities is part of every stay.",
+      "sourceUrl": "https://www.passalacqua.it/en/experiences/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Guest accommodations",
+      "value": "24, in three restored buildings",
+      "sourceUrl": "https://www.passalacqua.it/en/today/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Villa",
+      "value": "12 rooms and suites, 40 to 250 square metres",
+      "sourceUrl": "https://www.passalacqua.it/en/rooms/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Palazz",
+      "value": "8 rooms, averaging 37 and 50 square metres",
+      "sourceUrl": "https://www.passalacqua.it/en/rooms/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Casa al Lago",
+      "value": "4 rooms with lake views, available for exclusive use",
+      "sourceUrl": "https://www.passalacqua.it/en/rooms/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Suite Bellini",
+      "value": "250 square metres, in the Villa with lake view",
+      "sourceUrl": "https://www.passalacqua.it/en/rooms/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Suite Norma",
+      "value": "120 square metres, in the Villa with lake view",
+      "sourceUrl": "https://www.passalacqua.it/en/rooms/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Suite Agnese",
+      "value": "90 square metres, in the Villa",
+      "sourceUrl": "https://www.passalacqua.it/en/rooms/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Gardens",
+      "value": "Seven acres, descending to a private jetty",
+      "sourceUrl": "https://www.passalacqua.it/en/today/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Distance",
+      "value": "Fifteen minutes from Como; an hour by car from Milan",
+      "sourceUrl": "https://www.passalacqua.it/en/today/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Season",
+      "value": "Closed from early January to early March",
+      "sourceUrl": "https://www.passalacqua.it/en/today/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Opened",
+      "value": "June 2022, after a three-year restoration",
+      "sourceUrl": "https://www.passalacqua.it/en/yesterday/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Villa built",
+      "value": "1787, for Count Andrea Lucini-Passalacqua, by Carlo Felice Soave",
+      "sourceUrl": "https://www.passalacqua.it/en/yesterday/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Owners",
+      "value": "The De Santis family, since 2018",
+      "sourceUrl": "https://www.passalacqua.it/en/yesterday/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Chef",
+      "value": "Viviana Varese",
+      "sourceUrl": "https://www.passalacqua.it/en/dining/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Spa",
+      "value": "In the Palazz; Seed to Skin treatments; sauna, steam bath and heated indoor pool in an 18th-century underground gallery",
+      "sourceUrl": "https://www.passalacqua.it/en/spa/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Boats",
+      "value": "Giumello II, Didi, an Aquariva and a restored Riva Olympic",
+      "sourceUrl": "https://www.passalacqua.it/en/experiences/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Address",
+      "value": "Via Besana, 59, 22010 Moltrasio (Como)",
+      "sourceUrl": "https://www.passalacqua.it/en/contacts/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/passalacqua/1.jpg",
+      "srcSmall": "/photos/passalacqua/1-640.jpg",
+      "srcMid": "/photos/passalacqua/1-1000.jpg",
+      "srcHero": "/photos/passalacqua/1-2400.jpg",
+      "width": 1600,
+      "height": 900,
+      "credit": "Passalacqua",
+      "creditUrl": "https://www.passalacqua.it/en/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.passalacqua.it/media/jf0e3rhx/01-passalacqua-lake-como_bo4a4971-edit.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/passalacqua/2.jpg",
+      "srcSmall": "/photos/passalacqua/2-640.jpg",
+      "srcMid": "/photos/passalacqua/2-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "Passalacqua",
+      "creditUrl": "https://www.passalacqua.it/en/pool/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.passalacqua.it/media/0lqdhsmp/passalacqua-swimming-pool-lake-como_67.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/passalacqua/3.jpg",
+      "srcSmall": "/photos/passalacqua/3-640.jpg",
+      "srcMid": "/photos/passalacqua/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "Passalacqua",
+      "creditUrl": "https://www.passalacqua.it/en/gardens/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.passalacqua.it/media/n3tp3l20/passalacqua-luxury-hotel-lake-como_33.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/passalacqua/4.jpg",
+      "srcSmall": "/photos/passalacqua/4-640.jpg",
+      "srcMid": "/photos/passalacqua/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 901,
+      "credit": "Passalacqua",
+      "creditUrl": "https://www.passalacqua.it/en/interiors/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.passalacqua.it/media/2vojyryd/passalacqua-luxury-hotel-lake-como_93.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/passalacqua/5.jpg",
+      "srcSmall": "/photos/passalacqua/5-640.jpg",
+      "srcMid": "/photos/passalacqua/5-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Passalacqua",
+      "creditUrl": "https://www.passalacqua.it/en/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.passalacqua.it/media/w2wbtljs/bed-enrico-costantini.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/passalacqua/6.jpg",
+      "srcSmall": "/photos/passalacqua/6-640.jpg",
+      "srcMid": "/photos/passalacqua/6-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "Passalacqua",
+      "creditUrl": "https://www.passalacqua.it/en/spa/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.passalacqua.it/media/ea4jt1hn/ruben23_spa.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/passalacqua/7.jpg",
+      "srcSmall": "/photos/passalacqua/7-640.jpg",
+      "srcMid": "/photos/passalacqua/7-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "Passalacqua",
+      "creditUrl": "https://www.passalacqua.it/en/interiors/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.passalacqua.it/media/ttoc1i5b/passalacqua-luxury-hotel-lake-como_95.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/passalacqua/8.jpg",
+      "srcSmall": "/photos/passalacqua/8-640.jpg",
+      "srcMid": "/photos/passalacqua/8-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1042,
+      "credit": "Passalacqua",
+      "creditUrl": "https://www.passalacqua.it/en/gardens/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.passalacqua.it/media/r3hoohmw/passalacqua-luxury-hotel-lake-como-00-orto-view.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": "41403074",
+  "rating": {
+    "score": 10,
+    "reviews": 72,
+    "source": "booking",
+    "date": "2026-11-08"
+  },
+  "price": {
+    "from": 1962,
+    "date": "2026-11-08"
+  },
+  "booking": {
+    "supplier": "booking"
+  },
+  "lastVerified": "2026-11-09"
+}

@@ -1,0 +1,322 @@
+{
+  "slug": "taj-lake-palace",
+  "name": "Taj Lake Palace",
+  "operator": "Taj Hotels (IHCL)",
+  "brand": "Taj",
+  "country": "India",
+  "region": "Asia",
+  "city": "Udaipur",
+  "area": "Lake Pichola",
+  "type": "city",
+  "themes": [
+    "palace"
+  ],
+  "adultsOnly": false,
+  "address": "P.O. Box No. 5, Lake Pichola, Udaipur, Rajasthan 313001, India",
+  "lat": 24.57544,
+  "lng": 73.68012,
+  "officialSite": "https://www.tajhotels.com/en-in/hotels/taj-lake-palace-udaipur/",
+  "rooms": 65,
+  "suites": 18,
+  "villas": null,
+  "opened": null,
+  "airport": {
+    "code": "UDR",
+    "minutes": 50
+  },
+  "tagline": "A white marble palace of 83 rooms and suites on Lake Pichola, reached by boat.",
+  "description": "Taj Lake Palace is a white marble palace on Lake Pichola in Udaipur, Rajasthan, with 65 rooms and 18 suites. Guests reach it by a five-minute boat ride from a private jetty at the City Palace complex.\n\nThe palace was built as Jag Niwas between 1743 and 1746 by Maharana Jagat Singh II, the 62nd custodian of the House of Mewar, and served as a summer palace for the Mewar royal family. In 1963, under Maharana Bhagwat Singh Mewar of Udaipur, it was transformed into a heritage property, and it has since been restored. The architecture is Mewari, with cupolas, jharokas and thekri work. From the rooms the view takes in the lake, the hills and the city of Udaipur.\n\nLuxury Rooms run from 21 to 33 square metres, with lake-view and garden-view versions. Palace Rooms with lake views measure 28 to 42 square metres. The suites begin with the Historical One Bedroom Suite at 42 to 61 square metres and the Royal Suite at 53 to 59, and continue to the Grand Royal Suite at 74 to 108. The Grand Presidential Suite has one bedroom, a lake view and 161 square metres. Butler service is available, and rooms are furnished with silk, velvet and rugs.\n\nDining is reserved for resident guests. Neel Kamal serves Rajasthani and Indian cooking in the evening, Bhairo is a fine-dining European restaurant, and Jharokha is open around the clock with a multi-cuisine menu. Amrit Sagar is the bar, open from 11:00 am to 10:30 pm, with finger food and an aperitif among cushions. Dinner can also be arranged privately, and a rooftop sundowner overlooking Lake Pichola.\n\nThere is an outdoor swimming pool and a heated pool, a fitness centre, and the J Wellness Circle spa, which offers Ayurvedic and modern therapies, yoga and meditation. The concierge arranges city tours by vintage car, and arrival by vintage car is among the hotel's experiences. The City Palace, Jagmandir Island Palace, Gangaur Ghat and Sajjangarh Palace are among the sights nearby.\n\nThe palace suits travellers who want a stay on the water in a historic royal residence. Maharana Pratap Airport is about 50 minutes away by car, and check-in is from 2:00 pm.",
+  "highlights": [
+    {
+      "label": "Setting",
+      "value": "A white marble palace on Lake Pichola, reached by boat from the City Palace.",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/taj-lake-palace-udaipur",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "History",
+      "value": "Built 1743 to 1746 as a summer palace for the Mewar royal family.",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/taj-lake-palace-udaipur",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Rooms",
+      "value": "65 rooms and 18 suites, from the 21 square metre Luxury Room to the 161 square metre Grand Presidential Suite.",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/taj-lake-palace-udaipur/rooms-and-suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Dining",
+      "value": "Neel Kamal serves Rajasthani cooking, Bhairo European, and Jharokha is open 24 hours.",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/taj-lake-palace-udaipur/restaurants",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Spa",
+      "value": "J Wellness Circle offers Ayurvedic and modern therapies, yoga and meditation.",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/taj-lake-palace-udaipur",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Arrival",
+      "value": "Arrival and city tours by vintage car can be arranged.",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/taj-lake-palace-udaipur",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Built",
+      "value": "Jag Niwas, built 1743 to 1746 by Maharana Jagat Singh II",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/taj-lake-palace-udaipur",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Transformed into a heritage property",
+      "value": "1963, under Maharana Bhagwat Singh Mewar of Udaipur",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/taj-lake-palace-udaipur",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Rooms",
+      "value": "65",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/taj-lake-palace-udaipur",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Suites",
+      "value": "18",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/taj-lake-palace-udaipur",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Luxury Room (garden view)",
+      "value": "21 to 33 sq m, double or twin",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/taj-lake-palace-udaipur/rooms-and-suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Luxury Room (lake view)",
+      "value": "24 to 31 sq m, double or twin",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/taj-lake-palace-udaipur/rooms-and-suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Palace Room (lake view)",
+      "value": "28 to 42 sq m, up to 3 guests",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/taj-lake-palace-udaipur/rooms-and-suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Historical One Bedroom Suite (lake view)",
+      "value": "42 to 61 sq m, king bed, up to 3 guests",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/taj-lake-palace-udaipur/rooms-and-suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Royal Suite, one bedroom (lake view)",
+      "value": "53 to 59 sq m, king bed, up to 3 guests",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/taj-lake-palace-udaipur/rooms-and-suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Grand Royal Suite, one bedroom (lake view)",
+      "value": "74 to 108 sq m, king bed, up to 3 guests",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/taj-lake-palace-udaipur/rooms-and-suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Grand Presidential Suite, one bedroom (lake view)",
+      "value": "161 sq m, king bed, up to 3 guests",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/taj-lake-palace-udaipur/rooms-and-suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Dining",
+      "value": "3 restaurants and 1 bar; Bhairo (European, fine dining), Jharokha (24-hour multi-cuisine), Neel Kamal (Indian, 7:30 pm to 10:30 pm), Amrit Sagar (bar, 11:00 am to 10:30 pm); restaurants reserved for resident guests",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/taj-lake-palace-udaipur/restaurants",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Wellness",
+      "value": "J Wellness Circle spa with Ayurvedic and modern therapies, outdoor swimming pool, heated swimming pool, fitness centre",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/taj-lake-palace-udaipur",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Access",
+      "value": "Five-minute boat ride from the private jetty at the City Palace complex",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/taj-lake-palace-udaipur/places-to-visit",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Maharana Pratap Airport (Dabok)",
+      "value": "about 50 minutes by car",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/taj-lake-palace-udaipur",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Check-in and check-out",
+      "value": "Check-in from 2:00 pm, check-out until noon",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/taj-lake-palace-udaipur",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Pets",
+      "value": "Not accepted",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/taj-lake-palace-udaipur",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Address",
+      "value": "P.O. Box No. 5, Lake Pichola, Udaipur, Rajasthan 313001, India",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/taj-lake-palace-udaipur",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/taj-lake-palace/1.jpg",
+      "srcSmall": "/photos/taj-lake-palace/1-640.jpg",
+      "srcMid": "/photos/taj-lake-palace/1-1000.jpg",
+      "srcHero": "/photos/taj-lake-palace/1-2400.jpg",
+      "width": 1600,
+      "height": 775,
+      "credit": "Taj Lake Palace, Udaipur",
+      "creditUrl": "https://www.tajhotels.com/en-in/hotels/taj-lake-palace-udaipur/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://cdn.sanity.io/images/ocl5w36p/ihcl_prod/69ac7a724d1606fd34deb0fb2f20e9b6a80fcf20-3840x1860.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/taj-lake-palace/2.jpg",
+      "srcSmall": "/photos/taj-lake-palace/2-640.jpg",
+      "srcMid": "/photos/taj-lake-palace/2-1000.jpg",
+      "srcHero": "/photos/taj-lake-palace/2-2400.jpg",
+      "width": 1600,
+      "height": 775,
+      "credit": "Taj Lake Palace, Udaipur",
+      "creditUrl": "https://www.tajhotels.com/en-in/hotels/taj-lake-palace-udaipur/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://cdn.sanity.io/images/ocl5w36p/ihcl_prod/ab68d9e17b89608d054b90593ff9f5132f7b11be-3840x1860.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/taj-lake-palace/3.jpg",
+      "srcSmall": "/photos/taj-lake-palace/3-640.jpg",
+      "srcMid": "/photos/taj-lake-palace/3-1000.jpg",
+      "srcHero": "/photos/taj-lake-palace/3-2400.jpg",
+      "width": 1600,
+      "height": 775,
+      "credit": "Taj Lake Palace, Udaipur",
+      "creditUrl": "https://www.tajhotels.com/en-in/hotels/taj-lake-palace-udaipur/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://cdn.sanity.io/images/ocl5w36p/ihcl_prod/f642861ee1deec52104daaeff39db3ae63c281cd-3840x1860.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/taj-lake-palace/4.jpg",
+      "srcSmall": "/photos/taj-lake-palace/4-640.jpg",
+      "srcMid": "/photos/taj-lake-palace/4-1000.jpg",
+      "srcHero": "/photos/taj-lake-palace/4-2400.jpg",
+      "width": 1600,
+      "height": 775,
+      "credit": "Taj Lake Palace, Udaipur",
+      "creditUrl": "https://www.tajhotels.com/en-in/hotels/taj-lake-palace-udaipur/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://cdn.sanity.io/images/ocl5w36p/ihcl_prod/cd2a63e4f63cea25e4e23ff88ea8b2cb473f4818-3840x1860.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/taj-lake-palace/5.jpg",
+      "srcSmall": "/photos/taj-lake-palace/5-640.jpg",
+      "srcMid": "/photos/taj-lake-palace/5-1000.jpg",
+      "srcHero": "/photos/taj-lake-palace/5-2400.jpg",
+      "width": 1600,
+      "height": 775,
+      "credit": "Taj Lake Palace, Udaipur",
+      "creditUrl": "https://www.tajhotels.com/en-in/hotels/taj-lake-palace-udaipur/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://cdn.sanity.io/images/ocl5w36p/ihcl_prod/54da7cacb6db41c8a36b9a704ca2be7742274b3d-3840x1860.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/taj-lake-palace/6.jpg",
+      "srcSmall": "/photos/taj-lake-palace/6-640.jpg",
+      "srcMid": "/photos/taj-lake-palace/6-1000.jpg",
+      "srcHero": "/photos/taj-lake-palace/6-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Taj Lake Palace, Udaipur",
+      "creditUrl": "https://www.tajhotels.com/en-in/hotels/taj-lake-palace-udaipur/rooms-and-suites",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://cdn.sanity.io/images/ocl5w36p/ihcl_prod/33f5b17c6a4f6e04b79234e3ca6cd13d56dbecb8-8192x5464.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/taj-lake-palace/7.jpg",
+      "srcSmall": "/photos/taj-lake-palace/7-640.jpg",
+      "srcMid": "/photos/taj-lake-palace/7-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Taj Lake Palace, Udaipur",
+      "creditUrl": "https://www.tajhotels.com/en-in/hotels/taj-lake-palace-udaipur/restaurants",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://cdn.sanity.io/images/ocl5w36p/ihcl_prod/e413501c46d81aada0c5c177193a6ca65ec7845e-1920x1280.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/taj-lake-palace/8.jpg",
+      "srcSmall": "/photos/taj-lake-palace/8-640.jpg",
+      "srcMid": "/photos/taj-lake-palace/8-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Taj Lake Palace, Udaipur",
+      "creditUrl": "https://www.tajhotels.com/en-in/hotels/taj-lake-palace-udaipur/restaurants",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://cdn.sanity.io/images/ocl5w36p/ihcl_prod/dd63a150ced0d2c5079b14cf8b1caa7e64b04e43-1920x1280.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-09"
+}

@@ -1,0 +1,304 @@
+{
+  "slug": "badrutts-palace-hotel",
+  "name": "Badrutt's Palace Hotel",
+  "operator": "Badrutt's Palace Hotel",
+  "brand": "",
+  "country": "Switzerland",
+  "region": "Europe",
+  "city": "St. Moritz",
+  "area": "Engadin",
+  "type": "resort",
+  "themes": [
+    "palace",
+    "mountain"
+  ],
+  "adultsOnly": false,
+  "address": "Via Serlas 27, 7500 St. Moritz, Switzerland",
+  "lat": 46.49725,
+  "lng": 9.84076,
+  "officialSite": "https://www.badruttspalace.com/",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": null,
+  "tagline": "The Palace of St. Moritz, founded in 1896, with a new wing by Antonio Citterio.",
+  "description": "Badrutt's Palace Hotel is a hotel on Via Serlas in St. Moritz, in the Engadin valley of Switzerland, founded in 1896 by Caspar Badrutt. It runs a winter season from early December to the end of March and a summer season from June to early September, and its restaurants number up to eleven.\n\nThe Palace has views of Lake St. Moritz and a tower, and Via Serlas, the town's luxury shopping street, runs past its door. Cartier, Dior, Miu Miu and Yves Saint Laurent have shops on the ground floor. Guests have included Coco Chanel, Charlie Chaplin, Alfred Hitchcock and Marlene Dietrich, and the hotel was the first Swiss hotel named to The World's 50 Best Hotels list.\n\nThe guest rooms were designed by Champalimaud Design. The Serlas Wing, by Antonio Citterio Patricia Viel, adds 25 suites and rooms in oak, Dorato Valmalenco stone and Loro Piana fabrics, connected to the historic Chesa Veglia. Among the suites, the Hitchcock Suite is where Alfred Hitchcock found the idea for The Birds, and the Hans Badrutt Suite has a grand piano and one of the largest terraces in the hotel, and the Helen Badrutt Suite has a private balcony over the lake. The Tower Penthouse Apartment, with four bedrooms, takes the top three floors of the tower.\n\nLe Grand Hall, known as the living room of St. Moritz, serves afternoon tea with a live pianist. La Coupole holds Matsuhisa, where Nobuyuki Matsuhisa serves Japanese and Peruvian cuisine under a glass dome in the former tennis hall. Le Relais is styled in the Belle Epoque, with dishes prepared tableside, Le Restaurant serves breakfast, and La Diala sits within the spa. Paradiso Mountain Club has more than 500 wines, and King's Social House, by Jason Atherton, is the oldest nightclub in Switzerland, reopened in 2018.\n\nPalace Wellness was redesigned between 2008 and 2010 with an investment of 70 million Swiss francs. It has private spa suites, treatments, saunas, a salt steam room, a Technogym fitness centre and an indoor pool. The outdoor pool, redesigned in 2024, is the largest in St. Moritz and is heated with water from the lake. Ice skating, tobogganing, bobsleigh, ski instruction, a children's club called Pallazino and a teens' arcade are among the activities.\n\nThe Palace suits guests who want the centre of winter in St. Moritz, with restaurants, bars and shops under one roof.",
+  "highlights": [
+    {
+      "label": "Founded",
+      "value": "Founded in 1896 by Caspar Badrutt.",
+      "sourceUrl": "https://badruttspalace.com/en/winter/about-us/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Serlas Wing",
+      "value": "Twenty-five suites and rooms by Antonio Citterio Patricia Viel, in oak, Dorato Valmalenco stone and Loro Piana fabrics.",
+      "sourceUrl": "https://badruttspalace.com/en/winter/about-us/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Signature suite",
+      "value": "The four-bedroom Tower Penthouse Apartment occupies the top three floors of the tower.",
+      "sourceUrl": "https://badruttspalace.com/en/winter/accommodation/suites/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Dining",
+      "value": "Up to eleven restaurants, among them Matsuhisa by Nobu, Le Relais, Le Grand Hall and Chesa Veglia.",
+      "sourceUrl": "https://badruttspalace.com/en/winter/gastronomy/restaurants/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Spa",
+      "value": "Palace Wellness, with spa suites, an indoor pool and the largest outdoor pool in St. Moritz, heated with lake water.",
+      "sourceUrl": "https://badruttspalace.com/en/winter/about-us/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Nightlife",
+      "value": "King's Social House, by Jason Atherton, is the oldest nightclub in Switzerland.",
+      "sourceUrl": "https://badruttspalace.com/en/winter/gastronomy/bars-clubs/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Address",
+      "value": "Via Serlas 27, 7500 St. Moritz, Switzerland",
+      "sourceUrl": "https://badruttspalace.com/en/winter/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Founded",
+      "value": "1896, by Caspar Badrutt",
+      "sourceUrl": "https://badruttspalace.com/en/winter/about-us/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Winter season",
+      "value": "3 December 2026 to 30 March 2027",
+      "sourceUrl": "https://badruttspalace.com/en/winter/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Summer season",
+      "value": "5 June to 7 September 2026",
+      "sourceUrl": "https://badruttspalace.com/en/winter/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Restaurants",
+      "value": "Up to eleven",
+      "sourceUrl": "https://badruttspalace.com/en/winter/gastronomy/restaurants/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Serlas Wing",
+      "value": "25 suites and rooms, by Antonio Citterio Patricia Viel (ACPV Architects), with Loro Piana fabrics",
+      "sourceUrl": "https://badruttspalace.com/en/winter/about-us/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Guest room design",
+      "value": "Champalimaud Design",
+      "sourceUrl": "https://badruttspalace.com/en/winter/about-us/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Tower Penthouse Apartment",
+      "value": "Four bedrooms, top three floors of the tower",
+      "sourceUrl": "https://badruttspalace.com/en/winter/accommodation/suites/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Hitchcock Suite",
+      "value": "Where Alfred Hitchcock was inspired to create The Birds",
+      "sourceUrl": "https://badruttspalace.com/en/winter/accommodation/suites/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Palace Wellness",
+      "value": "Redesigned 2008 to 2010 with 70 million Swiss francs",
+      "sourceUrl": "https://badruttspalace.com/en/winter/about-us/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Outdoor pool",
+      "value": "Redesigned in 2024; the largest outdoor pool in St. Moritz, heated with water from Lake St. Moritz",
+      "sourceUrl": "https://badruttspalace.com/en/winter/about-us/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Paradiso Mountain Club",
+      "value": "More than 500 wines",
+      "sourceUrl": "https://badruttspalace.com/en/winter/about-us/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "King's Social House",
+      "value": "Oldest nightclub in Switzerland; reopened 2018 as a restaurant, bar and club by Jason Atherton",
+      "sourceUrl": "https://badruttspalace.com/en/winter/gastronomy/bars-clubs/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "World's 50 Best Hotels",
+      "value": "First Swiss hotel named to the list",
+      "sourceUrl": "https://badruttspalace.com/en/winter/about-us/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/badrutts-palace-hotel/1.jpg",
+      "srcSmall": "/photos/badrutts-palace-hotel/1-640.jpg",
+      "srcMid": "/photos/badrutts-palace-hotel/1-1000.jpg",
+      "srcHero": "/photos/badrutts-palace-hotel/1-2400.jpg",
+      "width": 1600,
+      "height": 900,
+      "credit": "Badrutt's Palace Hotel",
+      "creditUrl": "https://badruttspalace.com/en/winter/accommodation/suites/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://badruttspalace.com/media/aqhdk5gw/badrutts-palace-suites-st-moritz-balcony-lake-view.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/badrutts-palace-hotel/2.jpg",
+      "srcSmall": "/photos/badrutts-palace-hotel/2-640.jpg",
+      "srcMid": "/photos/badrutts-palace-hotel/2-1000.jpg",
+      "srcHero": "",
+      "width": 1440,
+      "height": 962,
+      "credit": "Badrutt's Palace Hotel",
+      "creditUrl": "https://badruttspalace.com/en/winter/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://badruttspalace.com/media/nuhfi1si/badrutts-palace-gallery-building-architecture-winter-008-w.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/badrutts-palace-hotel/3.jpg",
+      "srcSmall": "/photos/badrutts-palace-hotel/3-640.jpg",
+      "srcMid": "/photos/badrutts-palace-hotel/3-1000.jpg",
+      "srcHero": "/photos/badrutts-palace-hotel/3-2400.jpg",
+      "width": 1600,
+      "height": 900,
+      "credit": "Badrutt's Palace Hotel",
+      "creditUrl": "https://badruttspalace.com/en/winter/accommodation/suites/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://badruttspalace.com/media/rnlkc3s1/badrutts-palace-suites-st-moritz.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/badrutts-palace-hotel/4.jpg",
+      "srcSmall": "/photos/badrutts-palace-hotel/4-640.jpg",
+      "srcMid": "/photos/badrutts-palace-hotel/4-1000.jpg",
+      "srcHero": "/photos/badrutts-palace-hotel/4-2400.jpg",
+      "width": 1600,
+      "height": 900,
+      "credit": "Badrutt's Palace Hotel",
+      "creditUrl": "https://badruttspalace.com/en/winter/accommodation/suites/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://badruttspalace.com/media/4vjb0siv/badrutts-palace-suites-st-moritz-bedroom.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/badrutts-palace-hotel/5.jpg",
+      "srcSmall": "/photos/badrutts-palace-hotel/5-640.jpg",
+      "srcMid": "/photos/badrutts-palace-hotel/5-1000.jpg",
+      "srcHero": "",
+      "width": 1440,
+      "height": 1080,
+      "credit": "Badrutt's Palace Hotel",
+      "creditUrl": "https://badruttspalace.com/en/winter/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://badruttspalace.com/media/sw1hgiju/badrutts-palace-gallery-palace-wellness-pool-indoor-020.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/badrutts-palace-hotel/6.jpg",
+      "srcSmall": "/photos/badrutts-palace-hotel/6-640.jpg",
+      "srcMid": "/photos/badrutts-palace-hotel/6-1000.jpg",
+      "srcHero": "/photos/badrutts-palace-hotel/6-2400.jpg",
+      "width": 1600,
+      "height": 1079,
+      "credit": "Badrutt's Palace Hotel",
+      "creditUrl": "https://badruttspalace.com/en/winter/wellbeing/wellness/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://badruttspalace.com/media/p31hachj/badrutts-palace-food-and-beverage-restaurants-la-diala-indoor-venue.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/badrutts-palace-hotel/7.jpg",
+      "srcSmall": "/photos/badrutts-palace-hotel/7-640.jpg",
+      "srcMid": "/photos/badrutts-palace-hotel/7-1000.jpg",
+      "srcHero": "",
+      "width": 1440,
+      "height": 1097,
+      "credit": "Badrutt's Palace Hotel",
+      "creditUrl": "https://badruttspalace.com/en/winter/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://badruttspalace.com/media/u0alcak3/badrutts-palace-gallery-serlas-wing-architecture-building-036-w.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/badrutts-palace-hotel/8.jpg",
+      "srcSmall": "/photos/badrutts-palace-hotel/8-640.jpg",
+      "srcMid": "/photos/badrutts-palace-hotel/8-1000.jpg",
+      "srcHero": "",
+      "width": 1440,
+      "height": 2138,
+      "credit": "Badrutt's Palace Hotel",
+      "creditUrl": "https://badruttspalace.com/en/winter/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://badruttspalace.com/media/l0tkhltf/badrutts-palace-gallery-le-grand-hall-interior-design-mountain-view-004-s.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-09"
+}

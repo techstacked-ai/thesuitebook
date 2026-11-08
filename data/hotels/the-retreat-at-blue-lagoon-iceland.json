@@ -1,0 +1,306 @@
+{
+  "slug": "the-retreat-at-blue-lagoon-iceland",
+  "name": "The Retreat at Blue Lagoon Iceland",
+  "operator": "Blue Lagoon Iceland",
+  "brand": "Blue Lagoon Iceland",
+  "country": "Iceland",
+  "region": "Europe",
+  "city": "Grindavik",
+  "area": "Reykjanes peninsula",
+  "type": "resort",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "Norðurljósavegur 11, 240 Grindavík, Iceland",
+  "lat": 63.87944,
+  "lng": -22.44996,
+  "officialSite": "https://www.bluelagoon.com/retreat",
+  "rooms": null,
+  "suites": 60,
+  "villas": null,
+  "opened": null,
+  "airport": {
+    "code": "KEF",
+    "minutes": 20
+  },
+  "tagline": "Sixty suites in a lava field, with a private lagoon and a Michelin-starred restaurant.",
+  "description": "The Retreat at Blue Lagoon Iceland is a 60-suite hotel on the Reykjanes peninsula, beside the Blue Lagoon near Grindavik. Keflavik airport is 20 minutes away and Reykjavik 40, and the hotel has a subterranean spa, a private lagoon and a Michelin-starred restaurant.\n\nThe building sits in a moss-covered lava field, and the suites look over the lagoon or the lava. The lagoon is fed by the same geothermal seawater as the Blue Lagoon, which is drawn up through geothermal wells and carries silica, algae and minerals. Bespoke furniture by B&B Italia, heated floors and walls of glass give the suites a plain, modern finish.\n\nSuites run from the Lava, Moss and Lagoon View junior suites to the Moss Suite and the Lagoon Suite, which has its own private lagoon a step from the door. At the top is the Blue Lagoon Suite, a two-storey suite with two bedrooms, a living room, a kitchen and dining area, a private lagoon, a steam room, a sauna and a personal butler.\n\nMoss, the hotel's restaurant, received a Michelin star in 2023. Chef Aggi Sverrisson, who held a star in London at Texture for ten years, has led the kitchen since 2020 and serves a seasonal tasting menu, with a vegan version, and a wine cellar cut into centuries-old lava. A Kitchen Table seats up to six guests on Thursdays and Fridays. Lava Restaurant is set into an 800-year-old volcanic cliff on the shore of the Blue Lagoon, and guests may dine there in a robe until three in the afternoon. The Spa Restaurant serves lighter dishes.\n\nThe Retreat Spa covers 2,300 square metres below ground, around the Retreat Lagoon, with eight areas to move through and the Blue Lagoon Ritual as its centre. Unlimited access to the spa and the Retreat Lagoon comes with every stay, as does breakfast, Icelandic coffee time in the lobby and morning yoga. In-water massages and float therapy are offered, and tours and sightseeing on the peninsula can be arranged.\n\nThe hotel suits guests who want a short, restorative stay close to Keflavik airport, in a building set into lava.",
+  "highlights": [
+    {
+      "label": "Suites",
+      "value": "Sixty suites in a lava field, looking over the lagoon or moss and lava.",
+      "sourceUrl": "https://www.bluelagoon.com/accommodation/retreat-hotel",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Signature suite",
+      "value": "The two-storey Blue Lagoon Suite has two bedrooms, a private lagoon, a steam room, a sauna and a personal butler.",
+      "sourceUrl": "https://www.bluelagoon.com/accommodation/retreat-hotel/suites/suite-lagoon",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Spa",
+      "value": "The 2,300 square metre Retreat Spa lies underground around the Retreat Lagoon.",
+      "sourceUrl": "https://www.bluelagoon.com/day-visit/retreat-spa",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Restaurant",
+      "value": "Moss was awarded a Michelin star in 2023; chef Aggi Sverrisson leads the kitchen.",
+      "sourceUrl": "https://www.bluelagoon.com/restaurant/moss",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Lava Restaurant",
+      "value": "Set in an 800-year-old volcanic cliff on the shore of the Blue Lagoon.",
+      "sourceUrl": "https://www.bluelagoon.com/restaurant/lava",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Included",
+      "value": "Spa and Retreat Lagoon access, breakfast, daily yoga and Icelandic coffee time come with a stay.",
+      "sourceUrl": "https://www.bluelagoon.com/accommodation/retreat-hotel",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Suites",
+      "value": "60",
+      "sourceUrl": "https://www.bluelagoon.com/accommodation/retreat-hotel",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Address",
+      "value": "Norðurljósavegur 11, 240 Grindavík, Iceland",
+      "sourceUrl": "https://www.bluelagoon.com/accommodation/retreat-hotel",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Keflavik airport",
+      "value": "20 minutes",
+      "sourceUrl": "https://www.bluelagoon.com/getting-to-retreat",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Reykjavik",
+      "value": "40 minutes",
+      "sourceUrl": "https://www.bluelagoon.com/getting-to-retreat",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Retreat Spa",
+      "value": "2,300 square metres, subterranean, surrounded by the Retreat Lagoon; eight experience areas",
+      "sourceUrl": "https://www.bluelagoon.com/day-visit/retreat-spa",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Suite types",
+      "value": "Lava junior, Moss junior, Lagoon view junior, Moss, Lagoon, and the Blue Lagoon Suite",
+      "sourceUrl": "https://www.bluelagoon.com/accommodation/retreat-hotel",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Blue Lagoon Suite",
+      "value": "Two storeys, two bedrooms, private lagoon, steam room, sauna, kitchen and dining area; personal butler",
+      "sourceUrl": "https://www.bluelagoon.com/accommodation/retreat-hotel/suites/suite-lagoon",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Furniture",
+      "value": "Bespoke furniture by B&B Italia; heated floors",
+      "sourceUrl": "https://www.bluelagoon.com/accommodation/retreat-hotel/suites/moss-suite",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Moss Restaurant",
+      "value": "Michelin star awarded in 2023; chef Aggi Sverrisson since 2020",
+      "sourceUrl": "https://www.bluelagoon.com/restaurant/moss",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Kitchen Table at Moss",
+      "value": "Thursdays and Fridays at 17:45, up to 6 guests",
+      "sourceUrl": "https://www.bluelagoon.com/restaurant/moss",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Lava Restaurant",
+      "value": "Set in an 800-year-old volcanic cliff; dining in a robe until 15:00",
+      "sourceUrl": "https://www.bluelagoon.com/restaurant/lava",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Minimum age",
+      "value": "12 years at the Retreat Lagoon and Spa",
+      "sourceUrl": "https://www.bluelagoon.com/accommodation/retreat-hotel/suites/moss-suite",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Blue Lagoon Iceland",
+      "value": "Founded in 1992",
+      "sourceUrl": "https://www.bluelagoon.com/about",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/the-retreat-at-blue-lagoon-iceland/1.jpg",
+      "srcSmall": "/photos/the-retreat-at-blue-lagoon-iceland/1-640.jpg",
+      "srcMid": "/photos/the-retreat-at-blue-lagoon-iceland/1-1000.jpg",
+      "srcHero": "/photos/the-retreat-at-blue-lagoon-iceland/1-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Blue Lagoon Iceland",
+      "creditUrl": "https://www.bluelagoon.com/accommodation/retreat-hotel/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.ctfassets.net/w65k7w0nsb8q/5CGUPzXp1ctrCbyIK2lha5/46f3a6ff98a888309a82b0b1fa0977dc/Lagoon_suite.jpeg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-retreat-at-blue-lagoon-iceland/2.jpg",
+      "srcSmall": "/photos/the-retreat-at-blue-lagoon-iceland/2-640.jpg",
+      "srcMid": "/photos/the-retreat-at-blue-lagoon-iceland/2-1000.jpg",
+      "srcHero": "/photos/the-retreat-at-blue-lagoon-iceland/2-2400.jpg",
+      "width": 1600,
+      "height": 1023,
+      "credit": "Blue Lagoon Iceland",
+      "creditUrl": "https://www.bluelagoon.com/accommodation/retreat-hotel/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.ctfassets.net/w65k7w0nsb8q/2L6UyboQzM26lViMRD2R0X/15da35923923965cbe8996f2af785f0c/The_Retreat.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-retreat-at-blue-lagoon-iceland/3.jpg",
+      "srcSmall": "/photos/the-retreat-at-blue-lagoon-iceland/3-640.jpg",
+      "srcMid": "/photos/the-retreat-at-blue-lagoon-iceland/3-1000.jpg",
+      "srcHero": "/photos/the-retreat-at-blue-lagoon-iceland/3-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Blue Lagoon Iceland",
+      "creditUrl": "https://www.bluelagoon.com/accommodation/retreat-hotel/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.ctfassets.net/w65k7w0nsb8q/2ZfHHA3dM1atPjN2EThqVa/b3cbb3bd2d11e3598406297d5586af0a/Lava_view_Junior_suite.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-retreat-at-blue-lagoon-iceland/4.jpg",
+      "srcSmall": "/photos/the-retreat-at-blue-lagoon-iceland/4-640.jpg",
+      "srcMid": "/photos/the-retreat-at-blue-lagoon-iceland/4-1000.jpg",
+      "srcHero": "/photos/the-retreat-at-blue-lagoon-iceland/4-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Blue Lagoon Iceland",
+      "creditUrl": "https://www.bluelagoon.com/accommodation/retreat-hotel/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.ctfassets.net/w65k7w0nsb8q/78BsB9RWkPTjh9oNAplP7X/e6c3d37d8c4f76a575c665936424efbf/Moss_and_Lagoon_Suites_living_room_area.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-retreat-at-blue-lagoon-iceland/5.jpg",
+      "srcSmall": "/photos/the-retreat-at-blue-lagoon-iceland/5-640.jpg",
+      "srcMid": "/photos/the-retreat-at-blue-lagoon-iceland/5-1000.jpg",
+      "srcHero": "/photos/the-retreat-at-blue-lagoon-iceland/5-2400.jpg",
+      "width": 1600,
+      "height": 1009,
+      "credit": "Blue Lagoon Iceland",
+      "creditUrl": "https://www.bluelagoon.com/accommodation/retreat-hotel/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.ctfassets.net/w65k7w0nsb8q/3nDVxngupIu6svws3Tq3uw/6c50ad2a3f900b111a8429d42b148ecb/The-Retreat-lobby.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-retreat-at-blue-lagoon-iceland/6.jpg",
+      "srcSmall": "/photos/the-retreat-at-blue-lagoon-iceland/6-640.jpg",
+      "srcMid": "/photos/the-retreat-at-blue-lagoon-iceland/6-1000.jpg",
+      "srcHero": "/photos/the-retreat-at-blue-lagoon-iceland/6-2400.jpg",
+      "width": 1600,
+      "height": 1042,
+      "credit": "Blue Lagoon Iceland",
+      "creditUrl": "https://www.bluelagoon.com/accommodation/retreat-hotel/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.ctfassets.net/w65k7w0nsb8q/Ix13tinwhTBpwOGqlr0A2/cf676be7c9782b2c8d2131a175552b08/Moss_suite.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-retreat-at-blue-lagoon-iceland/7.jpg",
+      "srcSmall": "/photos/the-retreat-at-blue-lagoon-iceland/7-640.jpg",
+      "srcMid": "/photos/the-retreat-at-blue-lagoon-iceland/7-1000.jpg",
+      "srcHero": "/photos/the-retreat-at-blue-lagoon-iceland/7-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Blue Lagoon Iceland",
+      "creditUrl": "https://www.bluelagoon.com/accommodation/retreat-hotel/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.ctfassets.net/w65k7w0nsb8q/67ZANep2ktVIic0q5gEWDR/35739a4a5f1087a215ee1ba5b21b48ae/RT_OPENING.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-retreat-at-blue-lagoon-iceland/8.jpg",
+      "srcSmall": "/photos/the-retreat-at-blue-lagoon-iceland/8-640.jpg",
+      "srcMid": "/photos/the-retreat-at-blue-lagoon-iceland/8-1000.jpg",
+      "srcHero": "/photos/the-retreat-at-blue-lagoon-iceland/8-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Blue Lagoon Iceland",
+      "creditUrl": "https://www.bluelagoon.com/accommodation/retreat-hotel/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.ctfassets.net/w65k7w0nsb8q/3a7B4CvJNd7vz9bx0gczK8/035bf72ac0ff96d9ad82a12b006427e8/RT_HOTEL_BREAKFAST_JOS_0319-UNL_8.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": "16037026",
+  "rating": {
+    "score": 9.4,
+    "reviews": 98,
+    "source": "booking",
+    "date": "2026-11-08"
+  },
+  "price": {
+    "from": 1956,
+    "date": "2026-11-08"
+  },
+  "booking": {
+    "supplier": "booking"
+  },
+  "lastVerified": "2026-11-09"
+}

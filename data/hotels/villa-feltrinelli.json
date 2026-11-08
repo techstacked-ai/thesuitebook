@@ -1,0 +1,265 @@
+{
+  "slug": "villa-feltrinelli",
+  "name": "Villa Feltrinelli",
+  "operator": "Grand Hotel a Villa Feltrinelli",
+  "brand": "",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "Gargnano",
+  "area": "Lake Garda",
+  "type": "resort",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "Via Rimembranza 38-40, 25084 Gargnano (BS), Italy",
+  "lat": 45.69407,
+  "lng": 10.6707,
+  "officialSite": "https://www.villafeltrinelli.com/en/",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": null,
+  "tagline": "A lakeside villa at Gargnano on Lake Garda, with a two-star restaurant and a private dock.",
+  "description": "Villa Feltrinelli is a grand hotel in a historic villa on the shore of Lake Garda, at Gargnano in the province of Brescia. It has a pool, a private dock, a park and a restaurant holding two stars in the Michelin Guide Italy 2026.\n\nThe villa appears unchanged since 1892, and the hotel presents it as a house where old-world charm sits beside modern convenience. It stands in a park of centenary trees, olive groves and a lemon orchard, beside the lake, with mountains around it. The pool lies in the garden, croquet is played in the park and the private dock reaches out into the water under tall trees.\n\nThe guest rooms follow the style of historic stately homes, in colours the hotel describes as harmony and discretion. The hotel points to Verona, Venice and Milan as the cities within reach of the lake.\n\nChef Stefano Baiocco runs the restaurant, which serves dinner only. The evening menu is a surprise tasting menu of eight courses, and the hotel's a la carte menu is served at lunch in place of the gourmet restaurant. Meals are taken in one of the private dining rooms or in the outdoor pergola, and an aperitif by the lake comes first. The team includes a pastry chef, a sous chef, a sommelier and a maitre de salle.\n\nThe hotel stands at Via Rimembranza 38-40, in the town of Gargnano. Days are slow. There is a treatment to book in the Regeneration Lounge, a cocktail on the lakeshore, a game of croquet, a swim, or an hour in the shade on the dock.\n\nThe hotel closes for the season, and rooms for the following year are booked through its reservations office. It suits guests who want a historic villa on the water, a two-star kitchen on the property and a quiet stay in the park.",
+  "highlights": [
+    {
+      "label": "Setting",
+      "value": "A villa on the shore of Lake Garda at Gargnano, in a park with centenary trees, olive groves and a lemon orchard.",
+      "sourceUrl": "https://www.villafeltrinelli.com/en/the-villa",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Restaurant",
+      "value": "Two stars in the Michelin Guide Italy 2026, with chef Stefano Baiocco.",
+      "sourceUrl": "https://www.ristorantevillafeltrinelli.com/en/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Dinner",
+      "value": "An eight-course surprise tasting menu.",
+      "sourceUrl": "https://www.ristorantevillafeltrinelli.com/en/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Pool and dock",
+      "value": "A garden pool and a private dock on the lake.",
+      "sourceUrl": "https://www.villafeltrinelli.com/en/experience",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Regeneration Lounge",
+      "value": "Treatments in the Regeneration Lounge, with croquet in the park.",
+      "sourceUrl": "https://www.villafeltrinelli.com/en/experience",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Season",
+      "value": "The hotel closes for the season; rooms for 2027 are booked through its reservations office.",
+      "sourceUrl": "https://www.villafeltrinelli.com/en/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Address",
+      "value": "Via Rimembranza 38-40, 25084 Gargnano (BS), Italy",
+      "sourceUrl": "https://www.villafeltrinelli.com/en/the-villa",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Villa",
+      "value": "Appears unchanged since 1892",
+      "sourceUrl": "https://www.villafeltrinelli.com/en/the-villa",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Park",
+      "value": "Centenary trees, olive groves and a lemon orchard",
+      "sourceUrl": "https://www.ristorantevillafeltrinelli.com/en/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Restaurant",
+      "value": "Two stars in the Michelin Guide Italy 2026; dinner only, evening tasting menu of eight courses",
+      "sourceUrl": "https://www.ristorantevillafeltrinelli.com/en/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Executive chef",
+      "value": "Stefano Baiocco",
+      "sourceUrl": "https://www.villafeltrinelli.com/en/contact",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Experiences",
+      "value": "Regeneration Lounge, croquet, pool, private dock, cocktail on the lakeshore",
+      "sourceUrl": "https://www.villafeltrinelli.com/en/experience",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Cities within reach",
+      "value": "Verona, Venice and Milan",
+      "sourceUrl": "https://www.villafeltrinelli.com/en/lake-garda",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Season",
+      "value": "Closed for the season; 2027 reservations through the Reservations Office",
+      "sourceUrl": "https://www.villafeltrinelli.com/en/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/villa-feltrinelli/1.jpg",
+      "srcSmall": "/photos/villa-feltrinelli/1-640.jpg",
+      "srcMid": "/photos/villa-feltrinelli/1-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "Grand Hotel a Villa Feltrinelli",
+      "creditUrl": "https://www.villafeltrinelli.com/en/the-villa",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.villafeltrinelli.com/images/thumbs/0000220_gand-hotel-a-villa-feltrinelli---the-pool-and-the-garden.jpeg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/villa-feltrinelli/2.jpg",
+      "srcSmall": "/photos/villa-feltrinelli/2-640.jpg",
+      "srcMid": "/photos/villa-feltrinelli/2-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1073,
+      "credit": "Grand Hotel a Villa Feltrinelli",
+      "creditUrl": "https://www.villafeltrinelli.com/en/the-villa",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.villafeltrinelli.com/images/thumbs/0000219_villa-feltrinelli---lake-garda-luxury-hotel.jpeg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/villa-feltrinelli/3.jpg",
+      "srcSmall": "/photos/villa-feltrinelli/3-640.jpg",
+      "srcMid": "/photos/villa-feltrinelli/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "Grand Hotel a Villa Feltrinelli",
+      "creditUrl": "https://www.villafeltrinelli.com/en/the-villa",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.villafeltrinelli.com/images/thumbs/0000229_grand-hotel-a-villa-feltrinelli---the-stillness-of-the-lake-of-garda.jpeg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/villa-feltrinelli/4.jpg",
+      "srcSmall": "/photos/villa-feltrinelli/4-640.jpg",
+      "srcMid": "/photos/villa-feltrinelli/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "Grand Hotel a Villa Feltrinelli",
+      "creditUrl": "https://www.villafeltrinelli.com/en/the-villa",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.villafeltrinelli.com/images/thumbs/0000225_grand-hotel-a-villa-feltrinelli---the-magnificent-hall.jpeg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/villa-feltrinelli/5.jpg",
+      "srcSmall": "/photos/villa-feltrinelli/5-640.jpg",
+      "srcMid": "/photos/villa-feltrinelli/5-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "Grand Hotel a Villa Feltrinelli",
+      "creditUrl": "https://www.villafeltrinelli.com/en/guest-rooms",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.villafeltrinelli.com/images/thumbs/0000286_grand-hotel-villa-feltrinelli-guest-rooms.jpeg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/villa-feltrinelli/6.jpg",
+      "srcSmall": "/photos/villa-feltrinelli/6-640.jpg",
+      "srcMid": "/photos/villa-feltrinelli/6-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "Grand Hotel a Villa Feltrinelli",
+      "creditUrl": "https://www.villafeltrinelli.com/en/experience",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.villafeltrinelli.com/images/thumbs/0000254_grand-hotel-villa-feltrinelli-experience-01-the-pool.jpeg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/villa-feltrinelli/7.jpg",
+      "srcSmall": "/photos/villa-feltrinelli/7-640.jpg",
+      "srcMid": "/photos/villa-feltrinelli/7-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "Grand Hotel a Villa Feltrinelli",
+      "creditUrl": "https://www.villafeltrinelli.com/en/the-restaurant",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.villafeltrinelli.com/images/thumbs/0000243_grand-hotel-villa-feltrinelli-restaurant.jpeg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/villa-feltrinelli/8.jpg",
+      "srcSmall": "/photos/villa-feltrinelli/8-640.jpg",
+      "srcMid": "/photos/villa-feltrinelli/8-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "Grand Hotel a Villa Feltrinelli",
+      "creditUrl": "https://www.villafeltrinelli.com/en/experience",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.villafeltrinelli.com/images/thumbs/0000253_grand-hotel-villa-feltrinelli-experience-00-the-spa.jpeg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-09"
+}

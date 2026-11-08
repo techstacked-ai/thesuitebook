@@ -1,0 +1,323 @@
+{
+  "slug": "rambagh-palace",
+  "name": "Rambagh Palace",
+  "operator": "Taj Hotels (IHCL)",
+  "brand": "Taj",
+  "country": "India",
+  "region": "Asia",
+  "city": "Jaipur",
+  "area": "",
+  "type": "city",
+  "themes": [
+    "palace"
+  ],
+  "adultsOnly": false,
+  "address": "Bhawani Singh Road, Jaipur, Rajasthan 302005, India",
+  "lat": 26.89729,
+  "lng": 75.80758,
+  "officialSite": "https://www.tajhotels.com/en-in/hotels/rambagh-palace-jaipur/",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": {
+    "code": "JAI",
+    "minutes": 30
+  },
+  "tagline": "Seventy-eight rooms and suites in a royal guesthouse built in 1835, among Mughal gardens.",
+  "description": "Rambagh Palace is a palace hotel on Bhawani Singh Road in Jaipur, built in 1835 and now holding 78 rooms and suites. It served as a royal guesthouse and hunting lodge and later as the Maharaja's residence.\n\nThe palace is adorned with hand-carved marble latticework and sandstone balustrades, and stands among Mughal Gardens. Polo matches can be watched at the adjacent Rambagh Polo Grounds, and a heritage walk takes guests through the palace and its history. A restored train car with its steam engine stands in the grounds, and it houses a bar.\n\nPalace Rooms measure 46 to 51 square metres and look over the garden or a courtyard, with a king bed or twin beds. Historical Suites run from 65 to 70 square metres and Royal Suites from 102 to 107. The Grand Royal Suite covers 139 to 144 square metres, and the Grand Presidential Suite, with one bedroom and a garden view, is 167. Butler service is available, and interconnecting rooms can be arranged.\n\nThere are four restaurants and one bar. Suvarna Mahal serves royal Indian cooking in the palace ballroom, whose decor is of the eighteenth century. The Rajput Room serves multi-cuisine dishes, Verandah Cafe is an airy verandah open from noon to 10:30 pm, and the Polo Bar pours signature cocktails, rare whiskies and single malts. Steam is the lounge bar in the train car, serving Mediterranean cooking.\n\nJ Wellness Circle offers traditional Indian therapies, and the palace has a heated pool, an indoor pool and an outdoor pool. The concierge arranges visits to the City Palace, the Jantar Mantar observatory and Sisodia Rani Garden.\n\nThe palace suits travellers who want a former royal residence with large gardens within the city. Jaipur International Airport is about 30 minutes away by car, and check-in is from 2:00 pm.",
+  "highlights": [
+    {
+      "label": "History",
+      "value": "Built in 1835 as a royal guesthouse and hunting lodge.",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/rambagh-palace-jaipur",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Gardens",
+      "value": "Mughal Gardens, marble latticework and sandstone balustrades.",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/rambagh-palace-jaipur",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Signature suite",
+      "value": "The Grand Presidential Suite has one bedroom, a garden view and 167 square metres.",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/rambagh-palace-jaipur/rooms-and-suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Dining",
+      "value": "Suvarna Mahal serves royal Indian cooking in the 18th-century-styled palace ballroom.",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/rambagh-palace-jaipur",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Bar",
+      "value": "Steam is a lounge bar aboard a restored train car with a steam engine.",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/rambagh-palace-jaipur",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Spa",
+      "value": "J Wellness Circle, with traditional Indian therapies.",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/rambagh-palace-jaipur",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Built",
+      "value": "1835; formerly a royal guesthouse and hunting lodge",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/rambagh-palace-jaipur",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Rooms and suites",
+      "value": "78",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/rambagh-palace-jaipur",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Palace Room",
+      "value": "46 to 51 sq m, garden or courtyard view, king or twin",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/rambagh-palace-jaipur/rooms-and-suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Historical Suite, one bedroom",
+      "value": "65 to 70 sq m, garden or courtyard view",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/rambagh-palace-jaipur/rooms-and-suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Royal Suite, one bedroom",
+      "value": "102 to 107 sq m, garden or courtyard view, king bed, up to 3 guests",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/rambagh-palace-jaipur/rooms-and-suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Grand Royal Suite, one bedroom",
+      "value": "139 to 144 sq m, garden view",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/rambagh-palace-jaipur/rooms-and-suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Grand Presidential Suite, one bedroom",
+      "value": "167 sq m, garden view",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/rambagh-palace-jaipur/rooms-and-suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Butler service",
+      "value": "Available; interconnecting rooms subject to availability",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/rambagh-palace-jaipur",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Dining",
+      "value": "4 restaurants and 1 bar: Suvarna Mahal (Indian), Rajput Room (multi-cuisine), Verandah Cafe (multi-cuisine, noon to 10:30 pm), Polo Bar (finger food, cocktails, whiskies), Steam (Mediterranean, lounge bar in a restored train car)",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/rambagh-palace-jaipur/restaurants",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Suvarna Mahal",
+      "value": "Royal Indian cooking in the palace ballroom, decor of the 18th century",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/rambagh-palace-jaipur",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Wellness",
+      "value": "J Wellness Circle with traditional Indian therapies; heated, indoor and outdoor swimming pools",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/rambagh-palace-jaipur",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Jaipur International Airport",
+      "value": "about 30 minutes by car",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/rambagh-palace-jaipur",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Check-in and check-out",
+      "value": "Check-in from 2:00 pm, check-out until noon",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/rambagh-palace-jaipur",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Address",
+      "value": "Bhawani Singh Road, Jaipur, Rajasthan 302005, India",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/rambagh-palace-jaipur",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/rambagh-palace/1.jpg",
+      "srcSmall": "/photos/rambagh-palace/1-640.jpg",
+      "srcMid": "/photos/rambagh-palace/1-1000.jpg",
+      "srcHero": "/photos/rambagh-palace/1-2400.jpg",
+      "width": 1600,
+      "height": 775,
+      "credit": "Rambagh Palace, Jaipur",
+      "creditUrl": "https://www.tajhotels.com/en-in/hotels/rambagh-palace-jaipur",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://cdn.sanity.io/images/ocl5w36p/ihcl_prod/02d5266ba2e7a05097c8aa5c6f5533095f8b50fc-3840x1860.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/rambagh-palace/2.jpg",
+      "srcSmall": "/photos/rambagh-palace/2-640.jpg",
+      "srcMid": "/photos/rambagh-palace/2-1000.jpg",
+      "srcHero": "/photos/rambagh-palace/2-2400.jpg",
+      "width": 1600,
+      "height": 767,
+      "credit": "Rambagh Palace, Jaipur",
+      "creditUrl": "https://www.tajhotels.com/en-in/hotels/rambagh-palace-jaipur",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://cdn.sanity.io/images/ocl5w36p/ihcl_prod/0537aa466b58b860e721b67e450c01e3b680739f-3840x1840.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/rambagh-palace/3.jpg",
+      "srcSmall": "/photos/rambagh-palace/3-640.jpg",
+      "srcMid": "/photos/rambagh-palace/3-1000.jpg",
+      "srcHero": "/photos/rambagh-palace/3-2400.jpg",
+      "width": 1600,
+      "height": 767,
+      "credit": "Rambagh Palace, Jaipur",
+      "creditUrl": "https://www.tajhotels.com/en-in/hotels/rambagh-palace-jaipur",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://cdn.sanity.io/images/ocl5w36p/ihcl_prod/0e6dac7ff37b78104efb0acdacd153ca3b2a9052-3840x1840.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/rambagh-palace/4.jpg",
+      "srcSmall": "/photos/rambagh-palace/4-640.jpg",
+      "srcMid": "/photos/rambagh-palace/4-1000.jpg",
+      "srcHero": "/photos/rambagh-palace/4-2400.jpg",
+      "width": 1600,
+      "height": 767,
+      "credit": "Rambagh Palace, Jaipur",
+      "creditUrl": "https://www.tajhotels.com/en-in/hotels/rambagh-palace-jaipur",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://cdn.sanity.io/images/ocl5w36p/ihcl_prod/93338b0a69b9c072d39acbc86dc7e0708e983154-3840x1840.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/rambagh-palace/5.jpg",
+      "srcSmall": "/photos/rambagh-palace/5-640.jpg",
+      "srcMid": "/photos/rambagh-palace/5-1000.jpg",
+      "srcHero": "/photos/rambagh-palace/5-2400.jpg",
+      "width": 1600,
+      "height": 775,
+      "credit": "Rambagh Palace, Jaipur",
+      "creditUrl": "https://www.tajhotels.com/en-in/hotels/rambagh-palace-jaipur/experiences",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://cdn.sanity.io/images/ocl5w36p/ihcl_prod/f6d16571b8238f67075091ad8a993255b5d57e19-3840x1860.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/rambagh-palace/6.jpg",
+      "srcSmall": "/photos/rambagh-palace/6-640.jpg",
+      "srcMid": "/photos/rambagh-palace/6-1000.jpg",
+      "srcHero": "",
+      "width": 1400,
+      "height": 1120,
+      "credit": "Rambagh Palace, Jaipur",
+      "creditUrl": "https://www.tajhotels.com/en-in/hotels/rambagh-palace-jaipur/rooms-and-suites",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://cdn.sanity.io/images/ocl5w36p/ihcl_prod/aa22ad7c853344cc872e7df730d7cd1aa3c0382c-1400x1120.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/rambagh-palace/7.jpg",
+      "srcSmall": "/photos/rambagh-palace/7-640.jpg",
+      "srcMid": "/photos/rambagh-palace/7-1000.jpg",
+      "srcHero": "",
+      "width": 1400,
+      "height": 1120,
+      "credit": "Rambagh Palace, Jaipur",
+      "creditUrl": "https://www.tajhotels.com/en-in/hotels/rambagh-palace-jaipur/rooms-and-suites",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://cdn.sanity.io/images/ocl5w36p/ihcl_prod/17952b1232366362ccdf837f612f88e93d95f9e2-1400x1120.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/rambagh-palace/8.jpg",
+      "srcSmall": "/photos/rambagh-palace/8-640.jpg",
+      "srcMid": "/photos/rambagh-palace/8-1000.jpg",
+      "srcHero": "/photos/rambagh-palace/8-2400.jpg",
+      "width": 1600,
+      "height": 933,
+      "credit": "Rambagh Palace, Jaipur",
+      "creditUrl": "https://www.tajhotels.com/en-in/hotels/rambagh-palace-jaipur/restaurants",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://cdn.sanity.io/images/ocl5w36p/ihcl_prod/b1ade20f823f1b715584220c5cb2200b6ccd2e3d-5120x2984.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/rambagh-palace/9.jpg",
+      "srcSmall": "/photos/rambagh-palace/9-640.jpg",
+      "srcMid": "/photos/rambagh-palace/9-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Rambagh Palace, Jaipur",
+      "creditUrl": "https://www.tajhotels.com/en-in/hotels/rambagh-palace-jaipur/restaurants",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://cdn.sanity.io/images/ocl5w36p/ihcl_prod/8abd54d4779e65981033c4ee9bc466ebe046d7b2-1920x1280.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": 39616193,
+  "rating": {
+    "score": 9.2,
+    "reviews": 133,
+    "source": "booking",
+    "date": "2026-11-08"
+  },
+  "price": {
+    "from": 3449,
+    "date": "2026-11-08"
+  },
+  "booking": {
+    "supplier": "booking"
+  },
+  "lastVerified": "2026-11-09"
+}

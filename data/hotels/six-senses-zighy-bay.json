@@ -1,0 +1,292 @@
+{
+  "slug": "six-senses-zighy-bay",
+  "name": "Six Senses Zighy Bay",
+  "operator": "Six Senses",
+  "brand": "Six Senses",
+  "country": "Oman",
+  "region": "Middle East",
+  "city": "Dibba",
+  "area": "Musandam Peninsula",
+  "type": "resort",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "P.O. Box 212, Dibba-Musandam PC 800, Oman",
+  "lat": 25.71002,
+  "lng": 56.27265,
+  "officialSite": "https://www.sixsenses.com/en/hotels-resorts/middle-east-africa/oman/zighy-bay/",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": {
+    "code": "DXB",
+    "minutes": 120
+  },
+  "tagline": "Private-pool villas on a mile of beach below the Hajar mountains, reached from Dubai.",
+  "description": "Six Senses Zighy Bay is a village-style resort of private-pool villas on the northern Musandam Peninsula of Oman, on a mile of sandy beach between the sea and the Hajar mountains. It is reached through the United Arab Emirates, 120 kilometres and about two hours by car from Dubai International Airport, and guests may arrive instead by paraglider.\n\nThe beach is 1.6 kilometres long, with the mountains on the other side, and the resort is built of natural stone and timber in the Omani style. The villas have thick mountain-stone walls, a shaded patio, a private plunge or infinity pool and a traditional summer house. Pool Villas, with a 21 square metre pool, sit in the second and third rows back from the sea, and beachfront villas stand in front with direct access to the sand. Duplex two-bedroom villas, up to 218 square metres, sleep five or six.\n\nTwo houses stand above the rest. The Retreat covers 1,122 square metres, sleeps eight and has an oversized infinity pool. The Private Reserve has four bedrooms in three buildings on its own private beach, 3,000 square metres in all, with a kitchen for a private chef, and sleeps ten.\n\nDining runs from Sense on the Edge, a restaurant 293 metres above the bay with a dinner journey drawn from the farm, sea and mountains, to Shua Shack, where lamb is roasted in a traditional Bedouin underground oven on the beach. Summer House serves the day's catch beside the pool, the Spice Market serves Arabic dishes in a mud kitchen, Mezzeria sits by the saltwater pool, and Zighy Bar holds its No Rush Hour until midnight. The wine cellar has a master sommelier and sets tables for two to eight.\n\nThe spa has two Arabic hammams, an ice bucket shower, aerial and outdoor yoga, an organic garden and an Alchemy Bar for making skincare. The paraglider launches from 293 metres, and the resort arranges diving, snorkelling and excursions in Musandam. Since 2015 the Dibba Women Association has invited guests to learn about local culture.\n\nThe resort suits couples and families who want a private pool and a beach, and a day of mountain, sea and sky activities close to Dubai.",
+  "highlights": [
+    {
+      "label": "Setting",
+      "value": "A mile of private sandy beach between the sea and the Hajar mountains on the Musandam Peninsula.",
+      "sourceUrl": "https://www.sixsenses.com/en/hotels-resorts/middle-east-africa/oman/zighy-bay/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Villas",
+      "value": "Private-pool villas of stone and timber, each with a traditional summer house.",
+      "sourceUrl": "https://www.sixsenses.com/en/hotels-resorts/middle-east-africa/oman/zighy-bay/accommodation/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "The Private Reserve",
+      "value": "Four bedrooms in three buildings on its own private beach; sleeps ten.",
+      "sourceUrl": "https://www.sixsenses.com/en/hotels-resorts/middle-east-africa/oman/zighy-bay/accommodation/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Sense on the Edge",
+      "value": "A dinner restaurant 293 metres above Zighy Bay.",
+      "sourceUrl": "https://www.sixsenses.com/en/hotels-resorts/middle-east-africa/oman/zighy-bay/dining/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Paragliding",
+      "value": "Guests can arrive by paraglider, launching from 293 metres.",
+      "sourceUrl": "https://www.sixsenses.com/en/hotels-resorts/middle-east-africa/oman/zighy-bay/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Spa",
+      "value": "Two Arabic-style hammams, an ice bucket shower and aerial yoga.",
+      "sourceUrl": "https://www.sixsenses.com/en/hotels-resorts/middle-east-africa/oman/zighy-bay/wellness-spa/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Address",
+      "value": "P.O. Box 212, Dibba-Musandam PC 800, Oman",
+      "sourceUrl": "https://www.sixsenses.com/en/hotels-resorts/middle-east-africa/oman/zighy-bay/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Dubai International Airport (DXB)",
+      "value": "120 kilometres, about a 120-minute drive",
+      "sourceUrl": "https://www.sixsenses.com/en/hotels-resorts/middle-east-africa/oman/zighy-bay/destination/how-to-get-there/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Beach",
+      "value": "1 mile (1.6 kilometres) private sandy beach",
+      "sourceUrl": "https://www.sixsenses.com/en/hotels-resorts/middle-east-africa/oman/zighy-bay/accommodation/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Pool Villa",
+      "value": "Private infinity-edge pool of 21 square metres; second and third row from the beach; sleeps up to 4",
+      "sourceUrl": "https://www.sixsenses.com/en/hotels-resorts/middle-east-africa/oman/zighy-bay/accommodation/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Duplex Two Bedroom Pool Villa",
+      "value": "Up to 161 square metres, sleeps 5; the Suite version up to 218 square metres, sleeps 6",
+      "sourceUrl": "https://www.sixsenses.com/en/hotels-resorts/middle-east-africa/oman/zighy-bay/accommodation/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "The Retreat",
+      "value": "1,122 square metres (12,007 square feet); sleeps up to 8; oversized infinity pool",
+      "sourceUrl": "https://www.sixsenses.com/en/hotels-resorts/middle-east-africa/oman/zighy-bay/accommodation/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "The Private Reserve",
+      "value": "Four bedrooms in three buildings, 3,000 square metres (32,292 square feet); private beach; kitchen for a private chef; sleeps up to 10",
+      "sourceUrl": "https://www.sixsenses.com/en/hotels-resorts/middle-east-africa/oman/zighy-bay/accommodation/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Sense on the Edge",
+      "value": "293 metres above Zighy Bay; dinner only",
+      "sourceUrl": "https://www.sixsenses.com/en/hotels-resorts/middle-east-africa/oman/zighy-bay/dining/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Dining",
+      "value": "Summer House, Spice Market, Zighy Bar, Mezzeria, Sense on the Edge, wine cellar",
+      "sourceUrl": "https://www.sixsenses.com/en/hotels-resorts/middle-east-africa/oman/zighy-bay/dining/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Paraglide launch",
+      "value": "960 feet / 293 metres",
+      "sourceUrl": "https://www.sixsenses.com/en/hotels-resorts/middle-east-africa/oman/zighy-bay/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Spa",
+      "value": "Two Arabic-style hammams, aerial and outdoor yoga, organic spa garden, Alchemy Bar",
+      "sourceUrl": "https://www.sixsenses.com/en/hotels-resorts/middle-east-africa/oman/zighy-bay/wellness-spa/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Dibba Women Association",
+      "value": "Has invited guests to share its culture since 2015",
+      "sourceUrl": "https://www.sixsenses.com/en/hotels-resorts/middle-east-africa/oman/zighy-bay/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/six-senses-zighy-bay/1.jpg",
+      "srcSmall": "/photos/six-senses-zighy-bay/1-640.jpg",
+      "srcMid": "/photos/six-senses-zighy-bay/1-1000.jpg",
+      "srcHero": "/photos/six-senses-zighy-bay/1-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Six Senses",
+      "creditUrl": "https://www.sixsenses.com/en/hotels-resorts/middle-east-africa/oman/zighy-bay/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://media.sixsenses.com/B60H3R33/at/kpc4b4czhjc25jqhqn7n323/Aerial_View.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/six-senses-zighy-bay/2.jpg",
+      "srcSmall": "/photos/six-senses-zighy-bay/2-640.jpg",
+      "srcMid": "/photos/six-senses-zighy-bay/2-1000.jpg",
+      "srcHero": "/photos/six-senses-zighy-bay/2-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Six Senses",
+      "creditUrl": "https://www.sixsenses.com/en/hotels-resorts/middle-east-africa/oman/zighy-bay/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://media.sixsenses.com/B60H3R33/at/496qtr6c7x5m7gntgj9pmnmj/View_from_sea.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/six-senses-zighy-bay/3.jpg",
+      "srcSmall": "/photos/six-senses-zighy-bay/3-640.jpg",
+      "srcMid": "/photos/six-senses-zighy-bay/3-1000.jpg",
+      "srcHero": "/photos/six-senses-zighy-bay/3-2400.jpg",
+      "width": 1600,
+      "height": 1011,
+      "credit": "Six Senses",
+      "creditUrl": "https://www.sixsenses.com/en/hotels-resorts/middle-east-africa/oman/zighy-bay/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://media.sixsenses.com/B60H3R33/at/w4bmtb5kqgrx6t3vx4cp4gw/1_The_Retreat_balcony.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/six-senses-zighy-bay/4.jpg",
+      "srcSmall": "/photos/six-senses-zighy-bay/4-640.jpg",
+      "srcMid": "/photos/six-senses-zighy-bay/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1116,
+      "credit": "Six Senses",
+      "creditUrl": "https://www.sixsenses.com/en/hotels-resorts/middle-east-africa/oman/zighy-bay/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://media.sixsenses.com/B60H3R33/at/63m3nz4jvf28nr2g4556npgc/Salt_Water_Pool_aerial.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/six-senses-zighy-bay/5.jpg",
+      "srcSmall": "/photos/six-senses-zighy-bay/5-640.jpg",
+      "srcMid": "/photos/six-senses-zighy-bay/5-1000.jpg",
+      "srcHero": "/photos/six-senses-zighy-bay/5-2400.jpg",
+      "width": 1600,
+      "height": 1133,
+      "credit": "Six Senses",
+      "creditUrl": "https://www.sixsenses.com/en/hotels-resorts/middle-east-africa/oman/zighy-bay/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://media.sixsenses.com/B60H3R33/at/vrtcntsrrg6pr2xfkqj9fn/3_Hero_Sense_On_The_Edge_aerial.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/six-senses-zighy-bay/6.jpg",
+      "srcSmall": "/photos/six-senses-zighy-bay/6-640.jpg",
+      "srcMid": "/photos/six-senses-zighy-bay/6-1000.jpg",
+      "srcHero": "/photos/six-senses-zighy-bay/6-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Six Senses",
+      "creditUrl": "https://www.sixsenses.com/en/hotels-resorts/middle-east-africa/oman/zighy-bay/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://media.sixsenses.com/B60H3R33/at/5cpcf9x74tbc469kw9q4/6_The_Private_Reserve_bedrooms.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/six-senses-zighy-bay/7.jpg",
+      "srcSmall": "/photos/six-senses-zighy-bay/7-640.jpg",
+      "srcMid": "/photos/six-senses-zighy-bay/7-1000.jpg",
+      "srcHero": "/photos/six-senses-zighy-bay/7-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Six Senses",
+      "creditUrl": "https://www.sixsenses.com/en/hotels-resorts/middle-east-africa/oman/zighy-bay/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://media.sixsenses.com/B60H3R33/at/hjvzngxgbcjbt3k75wkvcm97/7_The_Private_Reserve_living_area.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/six-senses-zighy-bay/8.jpg",
+      "srcSmall": "/photos/six-senses-zighy-bay/8-640.jpg",
+      "srcMid": "/photos/six-senses-zighy-bay/8-1000.jpg",
+      "srcHero": "/photos/six-senses-zighy-bay/8-2400.jpg",
+      "width": 1600,
+      "height": 1031,
+      "credit": "Six Senses",
+      "creditUrl": "https://www.sixsenses.com/en/hotels-resorts/middle-east-africa/oman/zighy-bay/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://media.sixsenses.com/B60H3R33/at/98m3p3vffc3ssxw5z86wpxn/8_The_Retreat_exterior.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-09"
+}

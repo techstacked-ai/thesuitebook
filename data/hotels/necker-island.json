@@ -1,0 +1,288 @@
+{
+  "slug": "necker-island",
+  "name": "Necker Island",
+  "operator": "Virgin Limited Edition",
+  "brand": "Virgin Limited Edition",
+  "country": "British Virgin Islands",
+  "region": "Caribbean & Latin America",
+  "city": "Necker Island",
+  "area": "North Sound",
+  "type": "island",
+  "themes": [
+    "private-island"
+  ],
+  "adultsOnly": false,
+  "address": "Necker Island, North Sound, British Virgin Islands",
+  "lat": 18.5266,
+  "lng": -64.35836,
+  "officialSite": "https://www.virginlimitededition.com/necker-island/",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": {
+    "code": "EIS",
+    "minutes": 30
+  },
+  "tagline": "Sir Richard Branson's private island in the British Virgin Islands, all-inclusive.",
+  "description": "Necker Island is Sir Richard Branson's private island in the North Sound of the British Virgin Islands, east of Puerto Rico and the US Virgin Islands. It can be hired exclusively, and on select dates each year individual rooms are sold, with food, drink and watersports included.\n\nThe island is ringed by coral reefs and white sand beaches, and guests arrive from Beef Island airport by a two-minute drive to the dock and a 30-minute speedboat crossing. The house on the highest point is the Great House, a Balinese-style building with views over the Caribbean and the neighbouring islands. Branson designed the island as his family's home.\n\nThe island sleeps up to 48 guests in eleven bedrooms in the Great House and ten individual Bali Houses. For larger parties, four more bedrooms and a bunkroom extend that to 56 guests and 14 children. No two rooms are alike, each has a terrace and some have a plunge pool. Bali Hi sleeps ten across five rooms in three houses, each with a plunge pool, and Bali Lo sleeps six in three houses around a shared pool. Temple House has four bedrooms and the Elders Temple, a shared space with an infinity pool, a bar and an open dining and lounge area. The Branson Beach Estate on neighbouring Moskito Island, two miles away, adds three villas and 11 bedrooms.\n\nChefs cook with local ingredients and a Caribbean touch. Meals are served on Turtle Beach, on the Great House roof terrace and in other places on the island, with dining available at any hour, and the floating sushi bar sits in the beach pool. All drinks are included. Children eat from their own menus.\n\nWatersports are included in every stay, among them kitesurfing, water skiing, sailing, paddleboarding, kayaking, e-foiling and seabobbing, with snorkelling and mangrove conservation tours. On land there are hiking trails, yoga, and tennis, padel and pickleball courts. The Samudra Spa, between Red Dock and the Beach House, uses Sodashi skincare. A kids club runs a programme for younger guests, and the island can host celebrations of up to 200 people.\n\nThe island suits large families and groups taking it as their own, and couples or small parties on the dates when rooms are sold individually.",
+  "highlights": [
+    {
+      "label": "Exclusive use",
+      "value": "The whole island, with up to 48 guests in the Great House and ten Bali Houses, or 56 adults and 14 children.",
+      "sourceUrl": "https://www.virginlimitededition.com/necker-island/exclusive-use/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Great House",
+      "value": "A Balinese-style house on the island's highest point, with views of the Caribbean and neighbouring islands.",
+      "sourceUrl": "https://www.virginlimitededition.com/necker-island/rooms-and-suites/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Individual stays",
+      "value": "On select dates, single rooms or a few rooms in a Bali House are sold, all-inclusive.",
+      "sourceUrl": "https://www.virginlimitededition.com/necker-island/individual-stays/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Dining",
+      "value": "Turtle Beach lunches, roof terrace dinners and a floating sushi bar in the beach pool.",
+      "sourceUrl": "https://www.virginlimitededition.com/necker-island/food-and-drink/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Watersports",
+      "value": "Kitesurfing, sailing, e-foiling, seabobbing and paddleboarding are included in every stay.",
+      "sourceUrl": "https://www.virginlimitededition.com/necker-island/things-to-do/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Spa",
+      "value": "Samudra Spa, between Red Dock and the Beach House, with Sodashi skincare.",
+      "sourceUrl": "https://www.virginlimitededition.com/necker-island/spa/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Location",
+      "value": "North Sound, British Virgin Islands, east of Puerto Rico and the US Virgin Islands",
+      "sourceUrl": "https://www.virginlimitededition.com/necker-island/the-island/getting-here/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Capacity",
+      "value": "Up to 48 guests in eleven Great House bedrooms and ten Bali Houses; 56 guests plus 14 children with four more bedrooms and a bunkroom",
+      "sourceUrl": "https://www.virginlimitededition.com/necker-island/the-island/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Exclusive hire",
+      "value": "Up to 28 bedrooms, eleven in the Great House, plus Balinese-style houses, a beach villa and bunkrooms",
+      "sourceUrl": "https://www.virginlimitededition.com/necker-island/exclusive-use/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Bali Hi",
+      "value": "Five rooms in three Balinese-style houses, sleeping up to ten, with a plunge pool per house",
+      "sourceUrl": "https://www.virginlimitededition.com/necker-island/rooms-and-suites/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Bali Lo",
+      "value": "Three Balinese-style houses sleeping up to six, with a shared pool",
+      "sourceUrl": "https://www.virginlimitededition.com/necker-island/rooms-and-suites/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Temple House",
+      "value": "Four Balinese-style bedrooms and the Elders Temple, with an infinity pool, bar and lounge",
+      "sourceUrl": "https://www.virginlimitededition.com/necker-island/rooms-and-suites/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Branson Beach Estate",
+      "value": "Moskito Island, two miles away; three villas, 11 bedrooms, sleeping 22",
+      "sourceUrl": "https://www.virginlimitededition.com/necker-island/rooms-and-suites/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Beef Island airport (EIS)",
+      "value": "Two minutes by car to the dock, then a 30-minute speedboat journey; return boat transfers included",
+      "sourceUrl": "https://www.virginlimitededition.com/necker-island/the-island/getting-here/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Included",
+      "value": "All drinks, 24-hour a la carte dining, watersports, kids club, tennis, padel and pickleball",
+      "sourceUrl": "https://www.virginlimitededition.com/necker-island/individual-stays/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Samudra Spa",
+      "value": "Treatments at additional cost; Sodashi skincare",
+      "sourceUrl": "https://www.virginlimitededition.com/necker-island/spa/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Celebrations",
+      "value": "Up to 200 people",
+      "sourceUrl": "https://www.virginlimitededition.com/necker-island/the-island/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/necker-island/1.jpg",
+      "srcSmall": "/photos/necker-island/1-640.jpg",
+      "srcMid": "/photos/necker-island/1-1000.jpg",
+      "srcHero": "/photos/necker-island/1-2400.jpg",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Virgin Limited Edition",
+      "creditUrl": "https://www.virginlimitededition.com/necker-island/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.virginlimitededition.com/media/1stc551j/necker-island-aerial-1.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/necker-island/2.jpg",
+      "srcSmall": "/photos/necker-island/2-640.jpg",
+      "srcMid": "/photos/necker-island/2-1000.jpg",
+      "srcHero": "/photos/necker-island/2-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Virgin Limited Edition",
+      "creditUrl": "https://www.virginlimitededition.com/necker-island/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.virginlimitededition.com/media/unpgaylx/necker-island-the-great-house-pool-7.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/necker-island/3.jpg",
+      "srcSmall": "/photos/necker-island/3-640.jpg",
+      "srcMid": "/photos/necker-island/3-1000.jpg",
+      "srcHero": "/photos/necker-island/3-2400.jpg",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Virgin Limited Edition",
+      "creditUrl": "https://www.virginlimitededition.com/necker-island/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.virginlimitededition.com/media/pk5g2u1d/necker-island-the-great-house-2.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/necker-island/4.jpg",
+      "srcSmall": "/photos/necker-island/4-640.jpg",
+      "srcMid": "/photos/necker-island/4-1000.jpg",
+      "srcHero": "/photos/necker-island/4-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Virgin Limited Edition",
+      "creditUrl": "https://www.virginlimitededition.com/necker-island/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.virginlimitededition.com/media/ab3fgksh/necker-island-the-great-house-room-6-1.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/necker-island/5.jpg",
+      "srcSmall": "/photos/necker-island/5-640.jpg",
+      "srcMid": "/photos/necker-island/5-1000.jpg",
+      "srcHero": "/photos/necker-island/5-2400.jpg",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Virgin Limited Edition",
+      "creditUrl": "https://www.virginlimitededition.com/necker-island/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.virginlimitededition.com/media/mcwc0wep/necker-island-main-beach-_-pool-aerial.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/necker-island/6.jpg",
+      "srcSmall": "/photos/necker-island/6-640.jpg",
+      "srcMid": "/photos/necker-island/6-1000.jpg",
+      "srcHero": "/photos/necker-island/6-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Virgin Limited Edition",
+      "creditUrl": "https://www.virginlimitededition.com/necker-island/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.virginlimitededition.com/media/csdlmq3f/necker-island-bali-hi-5.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/necker-island/7.jpg",
+      "srcSmall": "/photos/necker-island/7-640.jpg",
+      "srcMid": "/photos/necker-island/7-1000.jpg",
+      "srcHero": "/photos/necker-island/7-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Virgin Limited Edition",
+      "creditUrl": "https://www.virginlimitededition.com/necker-island/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.virginlimitededition.com/media/m5kdanvo/necker-island-crocodile-pavilion-night.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/necker-island/8.jpg",
+      "srcSmall": "/photos/necker-island/8-640.jpg",
+      "srcMid": "/photos/necker-island/8-1000.jpg",
+      "srcHero": "/photos/necker-island/8-2400.jpg",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Virgin Limited Edition",
+      "creditUrl": "https://www.virginlimitededition.com/necker-island/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.virginlimitededition.com/media/pszok5ut/necker-island-beach-pavilion.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-09"
+}

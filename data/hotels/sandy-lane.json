@@ -1,0 +1,364 @@
+{
+  "slug": "sandy-lane",
+  "name": "Sandy Lane",
+  "operator": "Sandy Lane Hotel",
+  "brand": "",
+  "country": "Barbados",
+  "region": "Caribbean & Latin America",
+  "city": "St. James",
+  "area": "Platinum Coast",
+  "type": "resort",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "Sandy Lane Hotel, St. James, Barbados BB24024",
+  "lat": 13.16947,
+  "lng": -59.63767,
+  "officialSite": "https://www.sandylane.com/",
+  "rooms": 113,
+  "suites": null,
+  "villas": 1,
+  "opened": 2001,
+  "airport": {
+    "code": "BGI",
+    "minutes": 30
+  },
+  "tagline": "A neo-Palladian beach hotel on the Platinum Coast, with three golf courses.",
+  "description": "Sandy Lane is a beach hotel on the Platinum Coast of Barbados, in the parish of St. James, with 113 rooms and suites, a five-bedroom villa and three golf courses. It stands on a crescent of white coral sand about 1,000 feet long, 30 minutes by car from Grantley Adams International Airport.\n\nThe hotel first opened in 1961 on the site of an old sugar plantation, built for the former British politician Ronald Tree by the architects Happy Ward and Jimmy Walker. The mahogany trees were left standing. It was demolished and rebuilt in the same neo-Palladian style, with a white coral stone rotunda and a marble lobby framing the sea, and reopened on St. Patrick's Day in 2001. The estate grew from 380 to 830 acres with the new golf courses.\n\nThe accommodations sit in four wings. There are 26 Orchid Rooms in the gardens, 10 Ocean Rooms and 60 Luxury Ocean Rooms facing the beach, and one-bedroom Dolphin Suites with balconies over the sea. Two-bedroom Luxury Dolphin and Luxury Orchid Suites suit families, and two Orchid Penthouses have two bedrooms, a study and a whirlpool tub. At the top, The Sandy Lane Suite has four bedrooms, a terrace infinity pool and direct beach access, with a butler. The Villa has five bedrooms, a private courtyard pool and its own butler and chef.\n\nThe hotel has five restaurants and several bars. Bajan Blue, below a marble staircase, serves European, Caribbean and Asian dishes from breakfast to dinner, with a Sunday brunch. L'Acajou serves dinner, the Spa Cafe lunch, and the Monkey Club, a brasserie, was remade in a contemporary style. The Lower Terrace under the mahogany serves afternoon tea. The wine cellar holds more than 12,000 bottles, and the Monkey Bar stays open until 2:30 in the morning.\n\nThe Green Monkey, a Tom Fazio course of par 72 and 7,343 yards, is open to resort guests only. The Country Club, also by Fazio, hosted the 2006 World Golf Championships Barbados World Cup, and the Old Nine dates from 1961. The Spa at Sandy Lane covers 47,000 square feet, with a hydrotherapy pool, cold plunge pool, cryotherapy, a panoramic sauna and a 2,500 square foot gym.\n\nThe hotel suits guests who want a beach, golf and a long-established address in the Caribbean in one place.",
+  "highlights": [
+    {
+      "label": "Setting",
+      "value": "A crescent of white coral sand, about 1,000 feet long, within a mahogany grove on the Platinum Coast.",
+      "sourceUrl": "https://www.sandylane.com/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Rooms",
+      "value": "113 rooms and suites in four wings, plus a five-bedroom villa.",
+      "sourceUrl": "https://www.sandylane.com/beach-resort-barbados",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Signature suite",
+      "value": "The Sandy Lane Suite has four bedrooms, a terrace infinity pool and direct beach access, with a butler.",
+      "sourceUrl": "https://www.sandylane.com/barbados-resorts/the-sandy-lane-suite",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Golf",
+      "value": "Three courses: The Green Monkey and The Country Club by Tom Fazio, and The Old Nine.",
+      "sourceUrl": "https://www.sandylane.com/barbados-golf",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Spa",
+      "value": "A 47,000 square foot spa with a hydrotherapy pool, cold plunge pool, cryotherapy and a panoramic sauna.",
+      "sourceUrl": "https://www.sandylane.com/spa-in-barbados",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Dining",
+      "value": "Five restaurants and several bars, with a wine cellar of more than 12,000 bottles.",
+      "sourceUrl": "https://www.sandylane.com/restaurants-in-barbados",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "The Villa",
+      "value": "Five bedrooms, a private courtyard pool, a villa butler and a villa chef.",
+      "sourceUrl": "https://www.sandylane.com/barbados-resorts/the-villa-at-sandy-lane",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Rooms and suites",
+      "value": "113, with a private villa",
+      "sourceUrl": "https://www.sandylane.com/beach-resort-barbados",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Orchid Rooms",
+      "value": "26",
+      "sourceUrl": "https://www.sandylane.com/barbados-resorts/orchid-rooms",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Ocean Rooms",
+      "value": "10",
+      "sourceUrl": "https://www.sandylane.com/barbados-resorts/ocean-rooms",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Luxury Ocean Rooms",
+      "value": "60",
+      "sourceUrl": "https://www.sandylane.com/barbados-resorts/luxury-ocean-rooms",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Dolphin Suites",
+      "value": "5, one bedroom",
+      "sourceUrl": "https://www.sandylane.com/barbados-resorts/dolphin-suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Luxury Dolphin Suites",
+      "value": "3, two bedrooms",
+      "sourceUrl": "https://www.sandylane.com/barbados-resorts/luxury-dolphin-suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Luxury Orchid Suites",
+      "value": "6, two bedrooms",
+      "sourceUrl": "https://www.sandylane.com/barbados-resorts/luxury-orchid-suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Orchid Penthouses",
+      "value": "2, two bedrooms",
+      "sourceUrl": "https://www.sandylane.com/barbados-resorts/the-orchid-penthouse",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "The Sandy Lane Suite",
+      "value": "Four bedrooms, in the Turtle Wing, with an infinity pool",
+      "sourceUrl": "https://www.sandylane.com/barbados-resorts/the-sandy-lane-suite",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "The Villa at Sandy Lane",
+      "value": "Five bedrooms; private courtyard pool and oversized jacuzzi",
+      "sourceUrl": "https://www.sandylane.com/barbados-resorts/the-villa-at-sandy-lane",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Beach",
+      "value": "Crescent of white coral sand, 1,000 feet",
+      "sourceUrl": "https://www.sandylane.com/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "First guests",
+      "value": "1961; demolished and rebuilt, reopened 17 March 2001",
+      "sourceUrl": "https://www.sandylane.com/beach-resort-barbados",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Estate",
+      "value": "Grew from 380 to 830 acres with the 2001 rebuild; 45 holes of golf",
+      "sourceUrl": "https://www.sandylane.com/beach-resort-barbados",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "The Green Monkey",
+      "value": "Tom Fazio design, par 72, 7,343 yards, for resort guests",
+      "sourceUrl": "https://www.sandylane.com/barbados-golf",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "The Country Club",
+      "value": "Tom Fazio design, par 72, 7,060 yards; hosted the 2006 World Golf Championships Barbados World Cup",
+      "sourceUrl": "https://www.sandylane.com/barbados-golf",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "The Old Nine",
+      "value": "Built 1961, par 36, 3,345 yards",
+      "sourceUrl": "https://www.sandylane.com/barbados-golf",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Spa",
+      "value": "47,000 square feet; 2,500 square foot gym",
+      "sourceUrl": "https://www.sandylane.com/spa-in-barbados",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Restaurants",
+      "value": "Five restaurants: L'Acajou, Bajan Blue, The Spa Cafe, The Country Club and The Monkey Club",
+      "sourceUrl": "https://www.sandylane.com/restaurants-in-barbados",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Wine cellar",
+      "value": "More than 12,000 bottles",
+      "sourceUrl": "https://www.sandylane.com/restaurants-in-barbados",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Monkey Bar",
+      "value": "Closes at 2:30 AM",
+      "sourceUrl": "https://www.sandylane.com/restaurants-in-barbados/dining/the-monkey-bar",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Airport",
+      "value": "Grantley Adams International Airport, about 30 minutes by car",
+      "sourceUrl": "https://www.sandylane.com/faq",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Check-in",
+      "value": "4 PM",
+      "sourceUrl": "https://www.sandylane.com/faq",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Address",
+      "value": "Sandy Lane Hotel, St. James, Barbados BB24024",
+      "sourceUrl": "https://www.sandylane.com/barbados-resorts",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/sandy-lane/1.jpg",
+      "srcSmall": "/photos/sandy-lane/1-640.jpg",
+      "srcMid": "/photos/sandy-lane/1-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1000,
+      "credit": "Sandy Lane",
+      "creditUrl": "https://www.sandylane.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://symphony.cdn.tambourine.com/sandy-lane/media/sandylane-homepagegallery-06-64ecf8e88707d.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/sandy-lane/2.jpg",
+      "srcSmall": "/photos/sandy-lane/2-640.jpg",
+      "srcMid": "/photos/sandy-lane/2-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1000,
+      "credit": "Sandy Lane",
+      "creditUrl": "https://www.sandylane.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://symphony.cdn.tambourine.com/sandy-lane/media/sandylane-homepagegallery-02-64ecf8d7d16c2.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/sandy-lane/3.jpg",
+      "srcSmall": "/photos/sandy-lane/3-640.jpg",
+      "srcMid": "/photos/sandy-lane/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1000,
+      "credit": "Sandy Lane",
+      "creditUrl": "https://www.sandylane.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://symphony.cdn.tambourine.com/sandy-lane/media/sandylane-homepagegallery-12-64ecf9123692a.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/sandy-lane/4.jpg",
+      "srcSmall": "/photos/sandy-lane/4-640.jpg",
+      "srcMid": "/photos/sandy-lane/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1000,
+      "credit": "Sandy Lane",
+      "creditUrl": "https://www.sandylane.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://symphony.cdn.tambourine.com/sandy-lane/media/sandylane-homepagegallery-10-64ecf8f68b70b.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/sandy-lane/5.jpg",
+      "srcSmall": "/photos/sandy-lane/5-640.jpg",
+      "srcMid": "/photos/sandy-lane/5-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1000,
+      "credit": "Sandy Lane",
+      "creditUrl": "https://www.sandylane.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://symphony.cdn.tambourine.com/sandy-lane/media/sandylane-homepagegallery-14-64ecf9182a4c3.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/sandy-lane/6.jpg",
+      "srcSmall": "/photos/sandy-lane/6-640.jpg",
+      "srcMid": "/photos/sandy-lane/6-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1000,
+      "credit": "Sandy Lane",
+      "creditUrl": "https://www.sandylane.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://symphony.cdn.tambourine.com/sandy-lane/media/sandylane-homepagegallery-16-64ecf91ebc253.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/sandy-lane/7.jpg",
+      "srcSmall": "/photos/sandy-lane/7-640.jpg",
+      "srcMid": "/photos/sandy-lane/7-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1000,
+      "credit": "Sandy Lane",
+      "creditUrl": "https://www.sandylane.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://symphony.cdn.tambourine.com/sandy-lane/media/sandylane-homepagegallery-19-64ecf927d3160.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/sandy-lane/8.jpg",
+      "srcSmall": "/photos/sandy-lane/8-640.jpg",
+      "srcMid": "/photos/sandy-lane/8-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1000,
+      "credit": "Sandy Lane",
+      "creditUrl": "https://www.sandylane.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://symphony.cdn.tambourine.com/sandy-lane/media/sandylane-homepagegallery-04-64ecf8e1daf09.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-09"
+}

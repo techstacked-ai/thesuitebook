@@ -1,0 +1,393 @@
+{
+  "slug": "the-pierre",
+  "name": "The Pierre, A Taj Hotel",
+  "operator": "Taj Hotels (IHCL)",
+  "brand": "Taj",
+  "country": "United States",
+  "region": "North America",
+  "city": "New York",
+  "area": "Upper East Side",
+  "type": "city",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "2 E 61st Street, New York, NY 10065, USA",
+  "lat": 40.76506,
+  "lng": -73.97162,
+  "officialSite": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york/",
+  "rooms": 140,
+  "suites": 38,
+  "villas": null,
+  "opened": 1930,
+  "airport": {
+    "code": "LGA",
+    "minutes": 45
+  },
+  "tagline": "Rooms and suites on Fifth Avenue across from Central Park, open since 1930.",
+  "description": "The Pierre is a Taj hotel on Fifth Avenue at East 61st Street, on the Upper East Side across from Central Park. It opened in 1930 and has 140 guest rooms, 38 suites and 11 grand suites.\n\nThe building stands on the corner facing the park, and the hotel describes the feel inside as residential, in the manner of an Upper East Side apartment. The staff-to-guest ratio is three to one. Taj reintroduced the hotel in 2007 as its flagship in the United States. Madison Avenue shopping and Museum Mile are within a short walk, and the Metropolitan Museum of Art, the Museum of Modern Art and Rockefeller Center are among the places the concierge arranges visits to.\n\nRooms start at 28 square metres for the Superior Room, which sits on floors 4 to 14, and 30 square metres for the Park View Room. The Pierre Deluxe Room measures 33 square metres, and the Signature Park View Room 51. Among the suites, the Executive Suite is 65 square metres, the Pierre Suite 74 and the Premier Pierre Suite 84. The Escoffier Suite covers 119 square metres and the Rajput Suite 133. The Deluxe Grand Two Bedroom Suite is 139 square metres, the Signature Grand Suite runs from 116 to 186, and the Tata Presidential Suite, at 194 square metres, sleeps up to four guests. Interconnecting rooms can be arranged.\n\nPerrine is the hotel's restaurant, serving French-American cooking from 7:00 am to 11:00 pm. Two E Bar and Lounge is laid out like an Upper East Side residential lobby, with a cocktail menu, small bites and live music; drinks are served from 5:30 pm to 12:30 am daily.\n\nThere is a fitness centre, and a spa therapist is available on request for treatments in the room. The concierge arranges airport transfers, tours and car rental, and pets are welcome by prior arrangement. Check-in is from 3:00 pm and check-out is at noon.\n\nThe hotel suits travellers who want a long-established New York address with the park on the doorstep. LaGuardia is about 45 minutes away by car, and John F. Kennedy and Newark are each about an hour.",
+  "highlights": [
+    {
+      "label": "Setting",
+      "value": "Fifth Avenue at East 61st Street, across from Central Park.",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Rooms",
+      "value": "140 guest rooms, 38 suites and 11 grand suites.",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Signature suite",
+      "value": "The Tata Presidential Suite covers 194 square metres and sleeps up to four.",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york/rooms-and-suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Restaurant",
+      "value": "Perrine serves French-American cooking from 7:00 am to 11:00 pm.",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york/restaurants",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Bar",
+      "value": "Two E Bar and Lounge has live music and cocktails from 5:30 pm.",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york/restaurants",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Service",
+      "value": "A staff-to-guest ratio of three to one.",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Opened",
+      "value": "1930",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Relaunched as Taj flagship in the United States",
+      "value": "2007",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Guest rooms",
+      "value": "140",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Suites",
+      "value": "38",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Grand suites",
+      "value": "11",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Staff-to-guest ratio",
+      "value": "3:1",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Address",
+      "value": "2 E 61st Street, New York, NY 10065, USA",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Superior Room",
+      "value": "28 sq m, floors 4 to 14, king bed, up to 2 guests",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york/rooms-and-suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Park View Room",
+      "value": "30 sq m, king bed, up to 2 guests",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york/rooms-and-suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Pierre Deluxe Room",
+      "value": "33 sq m, king bed, up to 2 guests",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york/rooms-and-suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Signature Park View Room",
+      "value": "51 sq m, king bed, up to 2 guests",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york/rooms-and-suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Executive Suite",
+      "value": "65 sq m, king bed, up to 3 guests",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york/rooms-and-suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Pierre Suite",
+      "value": "74 sq m, up to 3 guests",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york/rooms-and-suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Premier Pierre Suite",
+      "value": "84 sq m, king bed, up to 3 guests",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york/rooms-and-suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Escoffier Suite",
+      "value": "119 sq m, up to 3 guests",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york/rooms-and-suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Rajput Suite",
+      "value": "133 sq m, king bed, up to 3 guests",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york/rooms-and-suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Deluxe Grand Two Bedroom Suite",
+      "value": "139 sq m, king bed, up to 4 guests",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york/rooms-and-suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Signature Grand Suite",
+      "value": "116 to 186 sq m, king bed, up to 3 guests",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york/rooms-and-suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Tata Presidential Suite",
+      "value": "194 sq m, king bed, up to 4 guests",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york/rooms-and-suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Perrine",
+      "value": "French-American, 7:00 am to 11:00 pm",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york/restaurants",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Two E Bar and Lounge",
+      "value": "Cocktails and finger food with live music; drinks 5:30 pm to 12:30 am daily",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york/restaurants",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Wellness",
+      "value": "Fitness centre; spa therapist available on request for in-room treatments",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "LaGuardia Airport",
+      "value": "about 45 minutes by car",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york/rooms-and-suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "John F. Kennedy and Newark airports",
+      "value": "about one hour by car each",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york/rooms-and-suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Check-in and check-out",
+      "value": "Check-in from 3:00 pm, check-out until noon",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Pets",
+      "value": "Pet-friendly; the hotel asks guests to call ahead",
+      "sourceUrl": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/the-pierre/1.jpg",
+      "srcSmall": "/photos/the-pierre/1-640.jpg",
+      "srcMid": "/photos/the-pierre/1-1000.jpg",
+      "srcHero": "/photos/the-pierre/1-2400.jpg",
+      "width": 1600,
+      "height": 775,
+      "credit": "The Pierre, A Taj Hotel",
+      "creditUrl": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york/experiences",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://cdn.sanity.io/images/ocl5w36p/ihcl_prod/9b5b0d7a0cbb479642fa381927e12cdf95ee137e-3841x1860.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-pierre/2.jpg",
+      "srcSmall": "/photos/the-pierre/2-640.jpg",
+      "srcMid": "/photos/the-pierre/2-1000.jpg",
+      "srcHero": "/photos/the-pierre/2-2400.jpg",
+      "width": 1600,
+      "height": 775,
+      "credit": "The Pierre, A Taj Hotel",
+      "creditUrl": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://cdn.sanity.io/images/ocl5w36p/ihcl_prod/7a81a4cf352727857d7565ab8af7a41d4bba19dd-2880x1395.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-pierre/3.jpg",
+      "srcSmall": "/photos/the-pierre/3-640.jpg",
+      "srcMid": "/photos/the-pierre/3-1000.jpg",
+      "srcHero": "/photos/the-pierre/3-2400.jpg",
+      "width": 1600,
+      "height": 775,
+      "credit": "The Pierre, A Taj Hotel",
+      "creditUrl": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://cdn.sanity.io/images/ocl5w36p/ihcl_prod/bad712eabda9173f00c6aaef5172c8a3f8195c67-3840x1860.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-pierre/4.jpg",
+      "srcSmall": "/photos/the-pierre/4-640.jpg",
+      "srcMid": "/photos/the-pierre/4-1000.jpg",
+      "srcHero": "/photos/the-pierre/4-2400.jpg",
+      "width": 1600,
+      "height": 775,
+      "credit": "The Pierre, A Taj Hotel",
+      "creditUrl": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://cdn.sanity.io/images/ocl5w36p/ihcl_prod/9555b8f8d6906c114fc19fecef7ccf64bc011a99-3840x1860.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-pierre/5.jpg",
+      "srcSmall": "/photos/the-pierre/5-640.jpg",
+      "srcMid": "/photos/the-pierre/5-1000.jpg",
+      "srcHero": "",
+      "width": 1400,
+      "height": 860,
+      "credit": "The Pierre, A Taj Hotel",
+      "creditUrl": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york/rooms-and-suites",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://cdn.sanity.io/images/ocl5w36p/ihcl_prod/2d5244083d7566ecb35f4b26f419ad2dc3ec15f6-1400x860.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-pierre/6.jpg",
+      "srcSmall": "/photos/the-pierre/6-640.jpg",
+      "srcMid": "/photos/the-pierre/6-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "The Pierre, A Taj Hotel",
+      "creditUrl": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york/rooms-and-suites",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://cdn.sanity.io/images/ocl5w36p/ihcl_prod/ff23a749a1b444f55b786763091b72ba465390da-1944x1296.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-pierre/7.jpg",
+      "srcSmall": "/photos/the-pierre/7-640.jpg",
+      "srcMid": "/photos/the-pierre/7-1000.jpg",
+      "srcHero": "",
+      "width": 1400,
+      "height": 860,
+      "credit": "The Pierre, A Taj Hotel",
+      "creditUrl": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york/rooms-and-suites",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://cdn.sanity.io/images/ocl5w36p/ihcl_prod/fddac7d9b08e05bbcf129f8c2567822ef78b5b62-1400x860.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-pierre/8.jpg",
+      "srcSmall": "/photos/the-pierre/8-640.jpg",
+      "srcMid": "/photos/the-pierre/8-1000.jpg",
+      "srcHero": "/photos/the-pierre/8-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "The Pierre, A Taj Hotel",
+      "creditUrl": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york/restaurants",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://cdn.sanity.io/images/ocl5w36p/ihcl_prod/b1ace519edb96b2b096bf199599cc8d0e5189973-3000x2000.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-pierre/9.jpg",
+      "srcSmall": "/photos/the-pierre/9-640.jpg",
+      "srcMid": "/photos/the-pierre/9-1000.jpg",
+      "srcHero": "",
+      "width": 1280,
+      "height": 853,
+      "credit": "The Pierre, A Taj Hotel",
+      "creditUrl": "https://www.tajhotels.com/en-in/hotels/the-pierre-new-york/restaurants",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://cdn.sanity.io/images/ocl5w36p/ihcl_prod/c35f3f7149ab98ade575ceceacffb66e495013c0-1280x853.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": 39705025,
+  "rating": {
+    "score": 8.5,
+    "reviews": 842,
+    "source": "booking",
+    "date": "2026-11-08"
+  },
+  "price": {
+    "from": 1190,
+    "date": "2026-11-08"
+  },
+  "booking": {
+    "supplier": "booking"
+  },
+  "lastVerified": "2026-11-09"
+}

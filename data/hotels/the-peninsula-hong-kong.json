@@ -1,0 +1,343 @@
+{
+  "slug": "the-peninsula-hong-kong",
+  "name": "The Peninsula Hong Kong",
+  "operator": "The Hongkong and Shanghai Hotels",
+  "brand": "The Peninsula",
+  "country": "Hong Kong",
+  "region": "Asia",
+  "city": "Hong Kong",
+  "area": "Tsim Sha Tsui, Kowloon",
+  "type": "city",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "Salisbury Road, Kowloon, Hong Kong SAR",
+  "lat": 22.29507,
+  "lng": 114.17179,
+  "officialSite": "https://www.peninsula.com/en/hong-kong/5-star-luxury-hotel-kowloon",
+  "rooms": 297,
+  "suites": 53,
+  "villas": null,
+  "opened": 1928,
+  "airport": null,
+  "tagline": "A 1928 harbourfront hotel in Tsim Sha Tsui with 297 rooms, 53 of them suites.",
+  "description": "The Peninsula Hong Kong is a harbourfront hotel on Salisbury Road in Tsim Sha Tsui, Kowloon, known as the Grande Dame of the Far East. It opened in 1928 and has 297 guest rooms, including 53 suites.\n\nThe hotel began as a six-storey building with a facade inspired by 1920s European architecture, and in 1994 a 30-storey tower was added, which nearly doubled the number of rooms. A forecourt with a fountain and a fleet of Rolls-Royces stands at the entrance, and the lobby, with its colonial decor and live jazz, is the setting for the Classic Afternoon Tea. A shopping arcade with more than 40 boutiques runs through the building.\n\nEvery room is at least 41 square metres. The Deluxe Room measures 41 to 45 square metres, the Grand Deluxe Harbour View Room 42, and the Superior Suite 86. The Deluxe Suite is 121 square metres, the Deluxe Harbour View Suite 107 and the Grand Deluxe Harbour View Suite 130. At the top are two suites: the Marco Polo Suite, 210 square metres with two bedrooms, which was the hotel's original presidential suite, and the Peninsula Suite, 377 square metres on top of the tower, with a private terrace and double-height windows.\n\nThere are eight restaurants and bars. Gaddi's has served French cooking since 1953 and holds one Michelin star, and Spring Moon has served Cantonese cooking since 1986, with one Michelin star. Chesa is a Swiss chalet restaurant dating from 1965, Felix is on the top floor in a space designed by Philippe Starck, and The Lobby, The Verandah, Imasa and The Bar complete the list.\n\nThe Peninsula Spa covers more than 1,100 square metres, with 14 treatment rooms, and the hotel has a fitness centre and an 18-metre indoor pool on the eighth floor, looking over Victoria Harbour. The hotel runs a fleet of Rolls-Royce Phantoms and has twin helipads, the only ones at a hotel in Hong Kong.\n\nThe hotel suits travellers who want a long-established harbour address with the city's ferries, railway and museums close by.",
+  "highlights": [
+    {
+      "label": "History",
+      "value": "Opened in 1928; a 30-storey tower was added in 1994.",
+      "sourceUrl": "https://www.peninsula.com/-/media/news-room/2025/phk/hotel-factsheet_en.pdf",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Suites",
+      "value": "The Peninsula Suite covers 377 square metres on top of the tower.",
+      "sourceUrl": "https://www.peninsula.com/en/hong-kong/luxury-hotel-room-suite-types",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Dining",
+      "value": "Gaddi's and Spring Moon each hold one Michelin star.",
+      "sourceUrl": "https://www.peninsula.com/en/hong-kong/hotel-fine-dining",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Felix",
+      "value": "Modern European cooking on the top floor in a Philippe Starck interior.",
+      "sourceUrl": "https://www.peninsula.com/en/hong-kong/hotel-fine-dining",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Pool",
+      "value": "An 18-metre indoor pool on the 8th floor, with harbour views.",
+      "sourceUrl": "https://www.peninsula.com/-/media/news-room/2025/phk/hotel-factsheet_en.pdf",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Arrival",
+      "value": "Rolls-Royce Phantoms and the only twin helipads at a Hong Kong hotel.",
+      "sourceUrl": "https://www.peninsula.com/en/hong-kong/superlative-luxury-transport-at-the-peninsula-hong-kong",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Opened",
+      "value": "1928, in a six-storey building",
+      "sourceUrl": "https://www.peninsula.com/-/media/news-room/2025/phk/hotel-factsheet_en.pdf",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Tower added",
+      "value": "1994, a 30-storey tower that nearly doubled the rooms",
+      "sourceUrl": "https://www.peninsula.com/-/media/news-room/2025/phk/hotel-factsheet_en.pdf",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Guest rooms",
+      "value": "297, including 53 suites",
+      "sourceUrl": "https://www.peninsula.com/-/media/news-room/2025/phk/hotel-factsheet_en.pdf",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Minimum room size",
+      "value": "41 sq m",
+      "sourceUrl": "https://www.peninsula.com/-/media/news-room/2025/phk/hotel-factsheet_en.pdf",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Deluxe Room",
+      "value": "41 to 45 sq m, king or twin, up to 3 guests",
+      "sourceUrl": "https://www.peninsula.com/en/hong-kong/luxury-hotel-room-suite-types",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Grand Deluxe Harbour View Room",
+      "value": "42 sq m",
+      "sourceUrl": "https://www.peninsula.com/en/hong-kong/luxury-hotel-room-suite-types",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Superior Suite",
+      "value": "86 sq m",
+      "sourceUrl": "https://www.peninsula.com/en/hong-kong/luxury-hotel-room-suite-types",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Deluxe Suite",
+      "value": "121 sq m, up to 4 guests",
+      "sourceUrl": "https://www.peninsula.com/en/hong-kong/luxury-hotel-room-suite-types",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Deluxe Harbour View Suite",
+      "value": "107 sq m, in the Peninsula Tower",
+      "sourceUrl": "https://www.peninsula.com/en/hong-kong/luxury-hotel-room-suite-types",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Grand Deluxe Harbour View Suite",
+      "value": "130 sq m",
+      "sourceUrl": "https://www.peninsula.com/en/hong-kong/luxury-hotel-room-suite-types",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "The Marco Polo Suite",
+      "value": "210 sq m, two bedrooms; the hotel's original presidential suite",
+      "sourceUrl": "https://www.peninsula.com/en/hong-kong/luxury-hotel-room-suite-types",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "The Peninsula Suite",
+      "value": "377 sq m, on top of the Peninsula Tower, up to 3 guests",
+      "sourceUrl": "https://www.peninsula.com/en/hong-kong/luxury-hotel-room-suite-types",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Dining",
+      "value": "Eight restaurants and bars, two Michelin-starred; Gaddi's (French, since 1953), Spring Moon (Cantonese, since 1986), Chesa (Swiss, since 1965), Felix, The Lobby, The Verandah, Imasa, The Bar",
+      "sourceUrl": "https://www.peninsula.com/en/hong-kong/hotel-fine-dining",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Spa",
+      "value": "The Peninsula Spa, more than 1,100 sq m, 14 treatment rooms",
+      "sourceUrl": "https://www.peninsula.com/-/media/news-room/2025/phk/hotel-factsheet_en.pdf",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Pool",
+      "value": "18-metre indoor swimming pool on the 8th floor with harbour views",
+      "sourceUrl": "https://www.peninsula.com/-/media/news-room/2025/phk/hotel-factsheet_en.pdf",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Transport",
+      "value": "Rolls-Royce Phantom Extended fleet from April 2025; twin helipads since 1994",
+      "sourceUrl": "https://www.peninsula.com/en/hong-kong/superlative-luxury-transport-at-the-peninsula-hong-kong",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Peninsula Arcade",
+      "value": "More than 40 luxury boutiques",
+      "sourceUrl": "https://www.peninsula.com/-/media/news-room/2025/phk/hotel-factsheet_en.pdf",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Address",
+      "value": "Salisbury Road, Kowloon, Hong Kong SAR",
+      "sourceUrl": "https://www.peninsula.com/en/hong-kong/5-star-luxury-hotel-kowloon",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/the-peninsula-hong-kong/1.jpg",
+      "srcSmall": "/photos/the-peninsula-hong-kong/1-640.jpg",
+      "srcMid": "/photos/the-peninsula-hong-kong/1-1000.jpg",
+      "srcHero": "/photos/the-peninsula-hong-kong/1-2400.jpg",
+      "width": 1600,
+      "height": 899,
+      "credit": "The Peninsula Hong Kong",
+      "creditUrl": "https://www.peninsula.com/en/hong-kong/5-star-luxury-hotel-kowloon",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.peninsula.com/en/-/media/01-hong-kong-property/exterior-2_5000x2811.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-peninsula-hong-kong/2.jpg",
+      "srcSmall": "/photos/the-peninsula-hong-kong/2-640.jpg",
+      "srcMid": "/photos/the-peninsula-hong-kong/2-1000.jpg",
+      "srcHero": "",
+      "width": 1074,
+      "height": 604,
+      "credit": "The Peninsula Hong Kong",
+      "creditUrl": "https://www.peninsula.com/en/hong-kong/hotel-fine-dining",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.peninsula.com/en/-/media/01-hong-kong-property/section-refresh/dining/the-lobby/phk-lobby-interior-1074a-1.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-peninsula-hong-kong/3.jpg",
+      "srcSmall": "/photos/the-peninsula-hong-kong/3-640.jpg",
+      "srcMid": "/photos/the-peninsula-hong-kong/3-1000.jpg",
+      "srcHero": "",
+      "width": 1074,
+      "height": 604,
+      "credit": "The Peninsula Hong Kong",
+      "creditUrl": "https://www.peninsula.com/en/hong-kong/wellness/pool",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.peninsula.com/en/-/media/01-hong-kong-property/phk-swimming-pool-1074-2.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-peninsula-hong-kong/4.jpg",
+      "srcSmall": "/photos/the-peninsula-hong-kong/4-640.jpg",
+      "srcMid": "/photos/the-peninsula-hong-kong/4-1000.jpg",
+      "srcHero": "",
+      "width": 980,
+      "height": 551,
+      "credit": "The Peninsula Hong Kong",
+      "creditUrl": "https://www.peninsula.com/en/hong-kong/luxury-hotel-room-suite-types",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.peninsula.com/en/-/media/01-hong-kong-property/section-refresh/rooms/the-peninsula-suite/tps---living-room-1-new.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-peninsula-hong-kong/5.jpg",
+      "srcSmall": "/photos/the-peninsula-hong-kong/5-640.jpg",
+      "srcMid": "/photos/the-peninsula-hong-kong/5-1000.jpg",
+      "srcHero": "",
+      "width": 980,
+      "height": 612,
+      "credit": "The Peninsula Hong Kong",
+      "creditUrl": "https://www.peninsula.com/en/hong-kong/luxury-hotel-room-suite-types",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.peninsula.com/en/-/media/01-hong-kong-property/section-refresh/rooms/the-marco-polo-suite/marco-polo-suite---living-room-1.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-peninsula-hong-kong/6.jpg",
+      "srcSmall": "/photos/the-peninsula-hong-kong/6-640.jpg",
+      "srcMid": "/photos/the-peninsula-hong-kong/6-1000.jpg",
+      "srcHero": "",
+      "width": 980,
+      "height": 612,
+      "credit": "The Peninsula Hong Kong",
+      "creditUrl": "https://www.peninsula.com/en/hong-kong/luxury-hotel-room-suite-types",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.peninsula.com/en/-/media/01-hong-kong-property/section-refresh/rooms/grand-deluxe-harbour-view-room/grand-deluxe-harbour-view-room-1.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-peninsula-hong-kong/7.jpg",
+      "srcSmall": "/photos/the-peninsula-hong-kong/7-640.jpg",
+      "srcMid": "/photos/the-peninsula-hong-kong/7-1000.jpg",
+      "srcHero": "",
+      "width": 1074,
+      "height": 604,
+      "credit": "The Peninsula Hong Kong",
+      "creditUrl": "https://www.peninsula.com/en/hong-kong/hotel-fine-dining",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.peninsula.com/en/-/media/01-hong-kong-property/gaddis-int-1074.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-peninsula-hong-kong/8.jpg",
+      "srcSmall": "/photos/the-peninsula-hong-kong/8-640.jpg",
+      "srcMid": "/photos/the-peninsula-hong-kong/8-1000.jpg",
+      "srcHero": "",
+      "width": 1052,
+      "height": 836,
+      "credit": "The Peninsula Hong Kong",
+      "creditUrl": "https://www.peninsula.com/en/hong-kong/wellness/fitness-centre",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.peninsula.com/en/-/media/01-hong-kong-property/section-refresh/homepage/highlights/fitness-centre.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-peninsula-hong-kong/9.jpg",
+      "srcSmall": "/photos/the-peninsula-hong-kong/9-640.jpg",
+      "srcMid": "/photos/the-peninsula-hong-kong/9-1000.jpg",
+      "srcHero": "/photos/the-peninsula-hong-kong/9-2400.jpg",
+      "width": 1600,
+      "height": 1600,
+      "credit": "The Peninsula Hong Kong",
+      "creditUrl": "https://www.peninsula.com/en/hong-kong/5-star-luxury-hotel-kowloon",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.peninsula.com/en/-/media/01-hong-kong-property/hongkongaccommodationgranddeluxeharbourviewsuite6470.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-09"
+}
