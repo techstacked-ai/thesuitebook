@@ -1,0 +1,248 @@
+{
+  "slug": "las-ventanas-al-paraiso",
+  "name": "Las Ventanas al Paraíso, A Rosewood Resort",
+  "operator": "Rosewood Hotel Group",
+  "brand": "Rosewood",
+  "country": "Mexico",
+  "region": "Caribbean & Latin America",
+  "city": "San José del Cabo",
+  "area": "Los Cabos, Baja California Sur",
+  "type": "resort",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "KM 19.5 Carretera Transpeninsular, San José del Cabo, Baja California Sur 23405, Mexico",
+  "lat": 22.97753,
+  "lng": -109.76926,
+  "officialSite": "https://www.rosewoodhotels.com/en/las-ventanas-los-cabos",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": {
+    "code": "SJD",
+    "minutes": 20
+  },
+  "tagline": "Whitewashed suites and villas on the Sea of Cortez, Los Cabos.",
+  "description": "Las Ventanas al Paraíso is a Rosewood resort on the Sea of Cortez at kilometre 19.5 of the Transpeninsular highway, near San José del Cabo. It has 84 suites and villas, eight pools and a Michelin-recognised restaurant, Arbol.\n\nThe resort is a cluster of white, flat-roofed buildings among cacti and palms, with pebblestone paths and bougainvillea falling from the rooftops. Local artists and handmade craft fill the rooms and courtyards, and the desert comes down to the water's edge.\n\nThe accommodation is arranged by experience. Oceanfront Serenity rooms are adults only, and Starlit Rooftop Romance suites have a rooftop terrace for stargazing. Villa Sanctuary is a secluded indoor-outdoor villa with original art, infinity-edge pools and views of the Baja coastline. Private Suites and Residences with two or three bedrooms are made for families and have infinity pools or landscaped terraces, and Garden and Oceanview Hideaways have Mexican handcrafted details.\n\nArbol serves seafood-focused coastal cooking with Asian influences and spices from India. Alebrije cooks Mexican breakfasts and Italian dishes in the evening, and Sea Grill sits at the sand's edge with grilled catch and ceviche. The Tequila and Ceviche Bar pairs Mexican spirits with ceviche and sushi. La Cava is a wine cellar for private dinners, and La Botica is a speakeasy in the style of the 1920s.\n\nThe spa works with earth, air, fire and water rituals, and has sauna and steam rooms, hot and cold plunge pools, pilates and yoga studios and a fitness centre. Sunrise yoga, stargazing, horseback rides on the sand and a barbacoa cooking lesson are among the experiences arranged, and the whales pass offshore in season.\n\nSan José del Cabo International Airport is a 20-minute drive. Las Ventanas suits couples and families who want a quiet stretch of the Baja coast, with the sea, the pools and the rituals of the spa close at hand.",
+  "highlights": [
+    {
+      "label": "Suites and villas",
+      "value": "Eighty-four suites and villas, and 30 residences.",
+      "sourceUrl": "https://www.rosewoodhotels.com/content/dam/rosewoodhotels/property/las-ventanas-los-cabos/en/documents/press-kit/RWLVP-Fact-Sheet.pdf",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Arbol",
+      "value": "Coastal cooking with Asian influences and Indian spices.",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/las-ventanas-los-cabos/dining",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Villa Sanctuary",
+      "value": "Indoor-outdoor living with original art and infinity-edge pools.",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/las-ventanas-los-cabos/accommodation",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Oceanfront Serenity",
+      "value": "Adults-only rooms facing the sea.",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/las-ventanas-los-cabos/accommodation",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Pools",
+      "value": "Eight pools, plus hot and cold plunge pools.",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/las-ventanas-los-cabos/wellness",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "La Botica",
+      "value": "A speakeasy bar in the style of the 1920s.",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/las-ventanas-los-cabos/dining",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Suites and villas",
+      "value": "84",
+      "sourceUrl": "https://www.rosewoodhotels.com/content/dam/rosewoodhotels/property/las-ventanas-los-cabos/en/documents/press-kit/RWLVP-Fact-Sheet.pdf",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Residences",
+      "value": "30",
+      "sourceUrl": "https://www.rosewoodhotels.com/content/dam/rosewoodhotels/property/las-ventanas-los-cabos/en/documents/press-kit/RWLVP-Fact-Sheet.pdf",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Pools",
+      "value": "Eight",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/las-ventanas-los-cabos/wellness",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Restaurants and bars",
+      "value": "Nine",
+      "sourceUrl": "https://www.rosewoodhotels.com/content/dam/rosewoodhotels/property/las-ventanas-los-cabos/en/documents/press-kit/RWLVP-Fact-Sheet.pdf",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Airport",
+      "value": "San José del Cabo International (SJD), 20-minute drive",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/las-ventanas-los-cabos/overview/location",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Address",
+      "value": "KM 19.5 Ctra. Transpeninsular, San José del Cabo, Baja California Sur 23405",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/las-ventanas-los-cabos/overview/location",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/las-ventanas-al-paraiso/1.jpg",
+      "srcSmall": "/photos/las-ventanas-al-paraiso/1-640.jpg",
+      "srcMid": "/photos/las-ventanas-al-paraiso/1-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Rosewood Hotel Group",
+      "creditUrl": "https://www.rosewoodhotels.com/en/las-ventanas-los-cabos/overview/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://picasso.rosewoodhotelgroup.com/transform/ddfb3a23-519b-45e0-8f96-f61ef422489d/RWLVP_3-0_Brand-com_Assets_PHOTO_RESORT_MORNING_2",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/las-ventanas-al-paraiso/2.jpg",
+      "srcSmall": "/photos/las-ventanas-al-paraiso/2-640.jpg",
+      "srcMid": "/photos/las-ventanas-al-paraiso/2-1000.jpg",
+      "srcHero": "",
+      "width": 1333,
+      "height": 2000,
+      "credit": "Rosewood Hotel Group",
+      "creditUrl": "https://www.rosewoodhotels.com/en/las-ventanas-los-cabos/overview/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://picasso.rosewoodhotelgroup.com/transform/12f30d96-19ee-4097-84a5-dd34ff077db6/RWLVP_F-B_Alebrije_Gathering_Festive",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/las-ventanas-al-paraiso/3.jpg",
+      "srcSmall": "/photos/las-ventanas-al-paraiso/3-640.jpg",
+      "srcMid": "/photos/las-ventanas-al-paraiso/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 790,
+      "credit": "Rosewood Hotel Group",
+      "creditUrl": "https://www.rosewoodhotels.com/en/las-ventanas-los-cabos/overview/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://picasso.rosewoodhotelgroup.com/transform/85dd7440-9e21-4d76-96c7-30bc1a71904c/RWLVP_3-0_Brand-com_Assets_Facilities_FB_Alebrije_3",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/las-ventanas-al-paraiso/4.jpg",
+      "srcSmall": "/photos/las-ventanas-al-paraiso/4-640.jpg",
+      "srcMid": "/photos/las-ventanas-al-paraiso/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1199,
+      "credit": "Rosewood Hotel Group",
+      "creditUrl": "https://www.rosewoodhotels.com/en/las-ventanas-los-cabos/overview/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://picasso.rosewoodhotelgroup.com/transform/37b136d4-2ae4-47a0-91ca-b8753e808dfe/RWLVP_3-0_Brand-com_Assets_F-B_Arbol_Restaurant",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/las-ventanas-al-paraiso/5.jpg",
+      "srcSmall": "/photos/las-ventanas-al-paraiso/5-640.jpg",
+      "srcMid": "/photos/las-ventanas-al-paraiso/5-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 972,
+      "credit": "Rosewood Hotel Group",
+      "creditUrl": "https://www.rosewoodhotels.com/en/las-ventanas-los-cabos/overview/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://picasso.rosewoodhotelgroup.com/transform/d809dc6d-4118-4301-85ff-7fafb77c1c62/RWLVP_Facilities_Accommodations_SignatureVilla_2BR_Villa9",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/las-ventanas-al-paraiso/6.jpg",
+      "srcSmall": "/photos/las-ventanas-al-paraiso/6-640.jpg",
+      "srcMid": "/photos/las-ventanas-al-paraiso/6-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 960,
+      "credit": "Rosewood Hotel Group",
+      "creditUrl": "https://www.rosewoodhotels.com/en/las-ventanas-los-cabos/overview/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://picasso.rosewoodhotelgroup.com/transform/007608aa-7b86-4d07-afd1-cf99462972b7/RWLVP_Experience_Rooms_Villas",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/las-ventanas-al-paraiso/7.jpg",
+      "srcSmall": "/photos/las-ventanas-al-paraiso/7-640.jpg",
+      "srcMid": "/photos/las-ventanas-al-paraiso/7-1000.jpg",
+      "srcHero": "",
+      "width": 1500,
+      "height": 2000,
+      "credit": "Rosewood Hotel Group",
+      "creditUrl": "https://www.rosewoodhotels.com/en/las-ventanas-los-cabos/overview/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://picasso.rosewoodhotelgroup.com/transform/c9a7cbc7-a342-4c26-92f3-70828b3d3bbe/RWLVP_F-B_TequilaCevicheBar_Restaurant",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/las-ventanas-al-paraiso/8.jpg",
+      "srcSmall": "/photos/las-ventanas-al-paraiso/8-640.jpg",
+      "srcMid": "/photos/las-ventanas-al-paraiso/8-1000.jpg",
+      "srcHero": "",
+      "width": 1500,
+      "height": 2000,
+      "credit": "Rosewood Hotel Group",
+      "creditUrl": "https://www.rosewoodhotels.com/en/las-ventanas-los-cabos/overview/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://picasso.rosewoodhotelgroup.com/transform/883134dd-155e-4625-9525-5f438c945373/RWLVP_F-B_Sea-Grill_Restaurant",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-08"
+}

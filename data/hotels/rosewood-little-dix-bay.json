@@ -1,0 +1,254 @@
+{
+  "slug": "rosewood-little-dix-bay",
+  "name": "Rosewood Little Dix Bay",
+  "operator": "Rosewood Hotel Group",
+  "brand": "Rosewood",
+  "country": "British Virgin Islands",
+  "region": "Caribbean & Latin America",
+  "city": "Virgin Gorda",
+  "area": "",
+  "type": "resort",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "P.O. Box 70, Virgin Gorda, British Virgin Islands VG1150",
+  "lat": 18.45933,
+  "lng": -64.43318,
+  "officialSite": "https://www.rosewoodhotels.com/en/little-dix-bay-virgin-gorda",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": 2020,
+  "airport": {
+    "code": "VIJ",
+    "minutes": 5
+  },
+  "tagline": "A crescent bay and a half-mile beach on Virgin Gorda, founded in 1964.",
+  "description": "Rosewood Little Dix Bay is a resort on Virgin Gorda in the British Virgin Islands, set on a crescent-shaped bay with a half-mile beach and green hills behind. Laurance Rockefeller founded it in 1964, and it reopened in January 2020 after a four-year renovation.\n\nThe resort was designed to sit within its surroundings, and it still does. Low buildings stand among palms along the bay, and a hillside rises behind. The resort has its own farm, which supplies the kitchens.\n\nAt reopening the resort had 80 accommodations: 42 guestrooms, 35 suites, two beach houses and one hillside villa. The rooms are beach-facing, in sand tones, with stone walls, timber ceilings and simple natural materials. Villa Katsura, announced in the resort's sixtieth year, is a 23,500 square foot, four-bedroom villa on nearly three acres, with views over Sir Francis Drake Channel.\n\nSugar Mill serves Caribbean recipes on the beachfront, and Pavilion is a Caribbean steakhouse. Reef House uses produce from the resort farm and stands steps from the sand. The Rum Room, shingled in wallaba wood, still makes its cocktails as they were served in the 1960s and 1970s, with a library of rare Caribbean rums. The Chef's Table is a multi-course tasting menu built on the island's produce, and fish such as wahoo, mahi and tuna arrive by boat.\n\nSense, a Rosewood Spa, sits on the hillside above the bay with plunge pools and views over Sir Francis Drake Channel. The resort has two swimming pools, tennis and pickleball courts, and yoga and fitness classes. Guests hike to lookouts, swim over the reef with turtles, and take private picnics on the beach.\n\nVirgin Gorda Airport is a five-minute drive, and Terrance B. Lettsome International Airport on Tortola is a 20-minute boat transfer. Rosewood Little Dix Bay suits families and couples who want a quiet beach and a long stay.",
+  "highlights": [
+    {
+      "label": "Beach",
+      "value": "A half-mile beach on a crescent bay.",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/little-dix-bay-virgin-gorda/overview/our-story",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Villa Katsura",
+      "value": "A 23,500 square foot, four-bedroom villa on nearly three acres.",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/global/media-hub/press-releases/villa-katsura/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Rum Room",
+      "value": "Cocktails made as in the 1960s and 1970s, with a library of rare rums.",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/little-dix-bay-virgin-gorda/dining",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Reef House",
+      "value": "Farm-to-table cooking from the resort's own farm, steps from the sand.",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/little-dix-bay-virgin-gorda/dining",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Chef's Table",
+      "value": "A multi-course tasting menu on Virgin Gorda produce.",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/little-dix-bay-virgin-gorda/dining",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Sense spa",
+      "value": "A hillside spa with plunge pools over Sir Francis Drake Channel.",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/little-dix-bay-virgin-gorda/wellness",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Founded",
+      "value": "1964, by Laurance Rockefeller",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/little-dix-bay-virgin-gorda/overview/our-story",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Reopened",
+      "value": "6 January 2020 after a four-year renovation",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/media/press/2020/rosewood-little-dix-bay-opens-today-following-an-extensive-four-year-reimagination",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Accommodations at reopening",
+      "value": "80: 42 guestrooms, 35 suites, two beach houses and one hillside villa",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/media/press/2020/rosewood-little-dix-bay-opens-today-following-an-extensive-four-year-reimagination",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Beach",
+      "value": "Half a mile",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/little-dix-bay-virgin-gorda/overview/our-story",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Pools",
+      "value": "Two swimming pools, plus hillside spa plunge pools",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/little-dix-bay-virgin-gorda/wellness",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Airport",
+      "value": "Virgin Gorda Airport (VIJ) 5-minute drive; Terrance B. Lettsome (EIS) 20-minute boat transfer",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/little-dix-bay-virgin-gorda/overview/location",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Address",
+      "value": "P.O. Box 70, Virgin Gorda, B.V.I. VG1150",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/little-dix-bay-virgin-gorda",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/rosewood-little-dix-bay/1.jpg",
+      "srcSmall": "/photos/rosewood-little-dix-bay/1-640.jpg",
+      "srcMid": "/photos/rosewood-little-dix-bay/1-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Rosewood Hotel Group",
+      "creditUrl": "https://www.rosewoodhotels.com/en/little-dix-bay-virgin-gorda/overview/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://picasso.rosewoodhotelgroup.com/transform/9d916ead-05d1-436f-857d-9af637c908e6/RWLDB_Facilities_Exteriors_BeachOverview_14",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/rosewood-little-dix-bay/2.jpg",
+      "srcSmall": "/photos/rosewood-little-dix-bay/2-640.jpg",
+      "srcMid": "/photos/rosewood-little-dix-bay/2-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1068,
+      "credit": "Rosewood Hotel Group",
+      "creditUrl": "https://www.rosewoodhotels.com/en/little-dix-bay-virgin-gorda/overview/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://picasso.rosewoodhotelgroup.com/transform/9134d9f1-e2bd-4646-9fcf-4ad9d9556573/RWLDB_3-0_Brand-com_Assets_Room_OneBedroomPoolSuite_8",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/rosewood-little-dix-bay/3.jpg",
+      "srcSmall": "/photos/rosewood-little-dix-bay/3-640.jpg",
+      "srcMid": "/photos/rosewood-little-dix-bay/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1068,
+      "credit": "Rosewood Hotel Group",
+      "creditUrl": "https://www.rosewoodhotels.com/en/little-dix-bay-virgin-gorda/overview/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://picasso.rosewoodhotelgroup.com/transform/ef4ff881-effd-414f-9d3b-1a181335ab65/RWLDB_3-0_Brand-com_Assets_FB_Restaurant_ReefHouse_MainDiningArea",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/rosewood-little-dix-bay/4.jpg",
+      "srcSmall": "/photos/rosewood-little-dix-bay/4-640.jpg",
+      "srcMid": "/photos/rosewood-little-dix-bay/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1068,
+      "credit": "Rosewood Hotel Group",
+      "creditUrl": "https://www.rosewoodhotels.com/en/little-dix-bay-virgin-gorda/overview/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://picasso.rosewoodhotelgroup.com/transform/9d8c3136-7bfa-453a-bc2a-44d3eb109349/RWLDB_3-0_Brand-com_Assets_Room_OneBedroomPoolSuite_2",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/rosewood-little-dix-bay/5.jpg",
+      "srcSmall": "/photos/rosewood-little-dix-bay/5-640.jpg",
+      "srcMid": "/photos/rosewood-little-dix-bay/5-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1068,
+      "credit": "Rosewood Hotel Group",
+      "creditUrl": "https://www.rosewoodhotels.com/en/little-dix-bay-virgin-gorda/overview/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://picasso.rosewoodhotelgroup.com/transform/6dfc731e-17c3-4a01-882d-1a19591953a1/RWLDB_3-0_Brand-com_Assets_Room_JuniorSuite_2",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/rosewood-little-dix-bay/6.jpg",
+      "srcSmall": "/photos/rosewood-little-dix-bay/6-640.jpg",
+      "srcMid": "/photos/rosewood-little-dix-bay/6-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1068,
+      "credit": "Rosewood Hotel Group",
+      "creditUrl": "https://www.rosewoodhotels.com/en/little-dix-bay-virgin-gorda/overview/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://picasso.rosewoodhotelgroup.com/transform/2589a477-7af1-45c3-a2a1-09e2e16c0474/RWLDB_3-0_Brand-com_Assets_Room_LauranceHouse_5",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/rosewood-little-dix-bay/7.jpg",
+      "srcSmall": "/photos/rosewood-little-dix-bay/7-640.jpg",
+      "srcMid": "/photos/rosewood-little-dix-bay/7-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1068,
+      "credit": "Rosewood Hotel Group",
+      "creditUrl": "https://www.rosewoodhotels.com/en/little-dix-bay-virgin-gorda/overview/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://picasso.rosewoodhotelgroup.com/transform/7d79f898-744d-4228-aa14-b9b638ca8c61/RWLDB_3-0_Brand-com_Assets_FB_Restaurant_SugarMill_Entry",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/rosewood-little-dix-bay/8.jpg",
+      "srcSmall": "/photos/rosewood-little-dix-bay/8-640.jpg",
+      "srcMid": "/photos/rosewood-little-dix-bay/8-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Rosewood Hotel Group",
+      "creditUrl": "https://www.rosewoodhotels.com/en/little-dix-bay-virgin-gorda/overview/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://picasso.rosewoodhotelgroup.com/transform/8e354cae-a651-4a4a-b0ed-8041edd0a60c/RWLDB_3-0_Brand-com_Assets_Room_VillaKatsura_3",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-08"
+}
