@@ -1,0 +1,262 @@
+{
+  "slug": "north-island",
+  "name": "North Island",
+  "operator": "North Island",
+  "brand": "",
+  "country": "Seychelles",
+  "region": "Indian Ocean",
+  "city": "North Island",
+  "area": "Inner granitic islands",
+  "type": "island",
+  "themes": [
+    "private-island"
+  ],
+  "adultsOnly": false,
+  "address": "North Island, Seychelles",
+  "lat": -4.39208,
+  "lng": 55.24396,
+  "officialSite": "https://north-island.com/",
+  "rooms": null,
+  "suites": null,
+  "villas": 11,
+  "opened": null,
+  "airport": {
+    "code": "SEZ",
+    "minutes": 15
+  },
+  "tagline": "Eleven villas on a 201-hectare private island, fifteen minutes by helicopter from Mahé.",
+  "description": "North Island is a private island of 201 hectares among the inner granitic islands of the Seychelles, with eleven villas and a 15-minute helicopter flight from Mahé International Airport. The resort calls itself the pioneer of barefoot luxury, and conservation runs through the whole island.\n\nThe island rises from beaches to three granitic peaks, Spa Hill, Bernica and Grand Paloss, with trails to the summits and views over the Indian Ocean. It has the highest density of nesting green turtles on the inner islands of the Seychelles, and monitoring has run since 1998. More than 130 Aldabra tortoises live on the island, the best known being Brutus, believed to be at least 200 years old. Under the Noah's Ark Programme the island has reforested with endemic trees, and since 25 Seychelles white-eyes were relocated here in 2007 their number has grown past 100.\n\nThe villas stand along East Beach, handcrafted from reclaimed takamaka, sustainably sourced rosewood and ylang-ylang, and open onto private gardens with sunrise views. There are ten Beachfront Villas, each with a private plunge pool, an open bathroom with outdoor showers and a sunken bath, and a separate study that can be rearranged for families with children. Villa North is the centrepiece, a 750 square metre villa for up to four guests below the Grand Paloss peak, with raised decks, a plunge pool, a sala and a firepit.\n\nDining happens wherever the guest chooses across the island. The Piazza on East Beach serves Creole-inspired dishes with a European twist, and Sunset Bar on West Beach offers light bites and wood-fired pizza at dusk. Private dinners are set on beaches, beside bonfires and at lookouts, and the chefs plan menus around local ingredients.\n\nLa Vie spa sits on Spa Hill above the ocean. Guests can kayak, paddleboard, fish from the shore or the open sea, walk 5 km trails or cycle, and spend a day with the environment team patrolling beaches, searching for turtle nests and planting trees.\n\nIt suits couples and families who want eleven villas and a whole island of conservation work to join.",
+  "highlights": [
+    {
+      "label": "Beachfront Villas",
+      "value": "Ten villas, each with a plunge pool, a sunken bath and a separate study",
+      "sourceUrl": "https://north-island.com/accommodation/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Villa North",
+      "value": "750 square metres for up to four guests, with a plunge pool, sala and firepit",
+      "sourceUrl": "https://north-island.com/accommodation/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Island",
+      "value": "201 hectares, with three granitic peaks and two beaches",
+      "sourceUrl": "https://north-island.com/dining-and-cuisine/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Conservation",
+      "value": "Noah's Ark Programme, turtle monitoring since 1998 and a tortoise population of more than 130",
+      "sourceUrl": "https://north-island.com/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "La Vie spa on Spa Hill",
+      "sourceUrl": "https://north-island.com/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Dining",
+      "value": "The Piazza on East Beach and Sunset Bar on West Beach",
+      "sourceUrl": "https://north-island.com/dining-and-cuisine/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Villas",
+      "value": "11 private villas",
+      "sourceUrl": "https://north-island.com/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Island size",
+      "value": "201 hectares",
+      "sourceUrl": "https://north-island.com/dining-and-cuisine/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Beachfront Villas",
+      "value": "10",
+      "sourceUrl": "https://north-island.com/accommodation/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Villa North",
+      "value": "750 square metres, up to four guests",
+      "sourceUrl": "https://north-island.com/accommodation/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Helicopter transfer",
+      "value": "15 minutes from Mahé International Airport, by third-party private charter",
+      "sourceUrl": "https://north-island.com/contact-north-island/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Boat transfer",
+      "value": "45 minutes to 1 hour",
+      "sourceUrl": "https://north-island.com/contact-north-island/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Turtle monitoring",
+      "value": "Since 1998",
+      "sourceUrl": "https://north-island.com/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Aldabra tortoises",
+      "value": "More than 130",
+      "sourceUrl": "https://north-island.com/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/north-island/1.jpg",
+      "srcSmall": "/photos/north-island/1-640.jpg",
+      "srcMid": "/photos/north-island/1-1000.jpg",
+      "srcHero": "/photos/north-island/1-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "North Island",
+      "creditUrl": "https://north-island.com/accommodation-gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://north-island.com/wp-content/uploads/2025/01/North-Island-North-Spray-in-front-of-East-Beach.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/north-island/2.jpg",
+      "srcSmall": "/photos/north-island/2-640.jpg",
+      "srcMid": "/photos/north-island/2-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "North Island",
+      "creditUrl": "https://north-island.com/accommodation-gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://north-island.com/wp-content/uploads/2025/01/North-Island-Beachfront-Villa-aerial.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/north-island/3.jpg",
+      "srcSmall": "/photos/north-island/3-640.jpg",
+      "srcMid": "/photos/north-island/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1069,
+      "credit": "North Island",
+      "creditUrl": "https://north-island.com/accommodation-gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://north-island.com/wp-content/uploads/2025/02/North-Island-Villa-North-guests-walking-down-beach.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/north-island/4.jpg",
+      "srcSmall": "/photos/north-island/4-640.jpg",
+      "srcMid": "/photos/north-island/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1066,
+      "credit": "North Island",
+      "creditUrl": "https://north-island.com/accommodation-gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://north-island.com/wp-content/uploads/2025/02/North-Island-Beachfront-villa-entrance-lounge-view.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/north-island/5.jpg",
+      "srcSmall": "/photos/north-island/5-640.jpg",
+      "srcMid": "/photos/north-island/5-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "North Island",
+      "creditUrl": "https://north-island.com/accommodation-gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://north-island.com/wp-content/uploads/2025/03/North-Island-Beachfont-Villa-bedroom-and-deck-layout.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/north-island/6.jpg",
+      "srcSmall": "/photos/north-island/6-640.jpg",
+      "srcMid": "/photos/north-island/6-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1030,
+      "credit": "North Island",
+      "creditUrl": "https://north-island.com/accommodation-gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://north-island.com/wp-content/uploads/2025/01/North-Island-Beachfront-villa-exterior.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/north-island/7.jpg",
+      "srcSmall": "/photos/north-island/7-640.jpg",
+      "srcMid": "/photos/north-island/7-1000.jpg",
+      "srcHero": "/photos/north-island/7-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "North Island",
+      "creditUrl": "https://north-island.com/accommodation-gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://north-island.com/wp-content/uploads/2025/03/North-Island-Beachfront-Villa-Sala-and-pool.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/north-island/8.jpg",
+      "srcSmall": "/photos/north-island/8-640.jpg",
+      "srcMid": "/photos/north-island/8-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1066,
+      "credit": "North Island",
+      "creditUrl": "https://north-island.com/accommodation-gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://north-island.com/wp-content/uploads/2025/04/North-Island-Conservation-view-of-East-Beach.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "direct"
+  },
+  "lastVerified": "2026-11-08"
+}

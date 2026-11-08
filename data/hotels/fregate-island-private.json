@@ -1,0 +1,219 @@
+{
+  "slug": "fregate-island-private",
+  "name": "Fregate Island Private",
+  "operator": "Fregate Island Private",
+  "brand": "",
+  "country": "Seychelles",
+  "region": "Indian Ocean",
+  "city": "Fregate Island",
+  "area": "Inner islands",
+  "type": "island",
+  "themes": [
+    "private-island"
+  ],
+  "adultsOnly": false,
+  "address": "Fregate Island, Seychelles",
+  "lat": -4.5859,
+  "lng": 55.94023,
+  "officialSite": "https://www.fregate.com/landing/",
+  "rooms": null,
+  "suites": null,
+  "villas": 17,
+  "opened": null,
+  "airport": {},
+  "tagline": "Seventeen villas and estates on a 200-hectare island, 90 per cent of it left wild.",
+  "description": "Fregate is an owner-managed private island in the Seychelles, 200 hectares in size, with seven beaches and just 17 Fregate Villas and Estates. Only ten per cent of the island is developed, and the other ninety per cent is preserved as conservation land.\n\nThe island is one of the Indian Ocean's most ambitious restoration projects. Giant Aldabra tortoises have grown in number from an original 150 to more than 3,000 and roam free. Over 40 bird species have been restored, nine of them endemic to the Seychelles, among them the Seychelles Magpie Robin, once the world's second-rarest bird with only twelve left, all of them on Fregate. The beaches are a nesting ground for about one per cent of the world's critically endangered hawksbill turtles. The Fregate Foundation works to a vision that runs a further 100 years. Access to the island is reserved for island guests.\n\nThe Villas and Estates have rooflines inspired by the wings of the frigatebird, in sculptural forms that blend into the landscape. They range from five to ten rooms, include a kitchen and suit couples, families and several generations. Every Fregate Villa has a butler on call at all hours and its own buggy, with flexible layouts that can add a bedroom, a study or a private wellness and fitness room, and separate quarters for a nanny or personal staff. The Fregate Estates have professional kitchens, chefs on request and additional staff accommodation for gatherings of friends or generations.\n\nDining ranges from fine dining and a beach restaurant to tree house dining, a yacht club barbecue, a farm tour and tasting, and a sunset bar. The island holds one of the greatest wine selections in the Indian Ocean and an island-infused rum distillery.\n\nThe spa has private suites, yoga and meditation, a gym, a flotation tank, Watsu, a sleeping pod, a hyperbaric chamber and a snow room. The island offers padel and tennis, cycling, hiking, PADI diving, game fishing, sailing and sunset cruises, and a museum, a library, an art gallery and a conservation centre. Children have an adventure zone, a club and a water playground. The whole island can be taken for group retreats.\n\nIt suits families and groups that want privacy on a wild island, and travellers interested in conservation.",
+  "highlights": [
+    {
+      "label": "Villas and Estates",
+      "value": "17 villas and estates of five to ten rooms, each with a butler and a buggy",
+      "sourceUrl": "https://www.fregate.com/landing/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Island",
+      "value": "200 hectares, seven beaches, 90 per cent preserved as conservation land",
+      "sourceUrl": "https://www.fregate.com/landing/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Tortoises",
+      "value": "More than 3,000 Aldabra giant tortoises, up from 150",
+      "sourceUrl": "https://www.fregate.com/landing/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Birds",
+      "value": "Over 40 species restored, nine of them endemic to the Seychelles",
+      "sourceUrl": "https://www.fregate.com/landing/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "Private spa suites, a flotation tank, Watsu, a hyperbaric chamber and a snow room",
+      "sourceUrl": "https://www.fregate.com/landing/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Wine",
+      "value": "One of the greatest wine selections in the Indian Ocean, and an island rum distillery",
+      "sourceUrl": "https://www.fregate.com/landing/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Villas and Estates",
+      "value": "17",
+      "sourceUrl": "https://www.fregate.com/landing/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Island size",
+      "value": "200 hectares",
+      "sourceUrl": "https://www.fregate.com/landing/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Beaches",
+      "value": "7",
+      "sourceUrl": "https://www.fregate.com/landing/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Developed land",
+      "value": "10 per cent",
+      "sourceUrl": "https://www.fregate.com/landing/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Aldabra giant tortoises",
+      "value": "More than 3,000",
+      "sourceUrl": "https://www.fregate.com/landing/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Hawksbill turtles",
+      "value": "Nesting ground for about 1 per cent of the global population",
+      "sourceUrl": "https://www.fregate.com/landing/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Status",
+      "value": "A new construction, infrastructure and environmental programme is under way; bookings are to reopen",
+      "sourceUrl": "https://www.fregate.com/landing/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/fregate-island-private/1.jpg",
+      "srcSmall": "/photos/fregate-island-private/1-640.jpg",
+      "srcMid": "/photos/fregate-island-private/1-1000.jpg",
+      "srcHero": "/photos/fregate-island-private/1-2400.jpg",
+      "width": 1600,
+      "height": 1026,
+      "credit": "Fregate Island Private",
+      "creditUrl": "https://www.fregate.com/landing/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fregate.com/landing/images/photos/2-fregate-2560.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/fregate-island-private/2.jpg",
+      "srcSmall": "/photos/fregate-island-private/2-640.jpg",
+      "srcMid": "/photos/fregate-island-private/2-1000.jpg",
+      "srcHero": "/photos/fregate-island-private/2-2400.jpg",
+      "width": 1600,
+      "height": 1026,
+      "credit": "Fregate Island Private",
+      "creditUrl": "https://www.fregate.com/landing/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fregate.com/landing/images/photos/1-fregate-2560.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/fregate-island-private/3.jpg",
+      "srcSmall": "/photos/fregate-island-private/3-640.jpg",
+      "srcMid": "/photos/fregate-island-private/3-1000.jpg",
+      "srcHero": "/photos/fregate-island-private/3-2400.jpg",
+      "width": 1600,
+      "height": 1026,
+      "credit": "Fregate Island Private",
+      "creditUrl": "https://www.fregate.com/landing/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fregate.com/landing/images/photos/13-fregate-2560.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/fregate-island-private/4.jpg",
+      "srcSmall": "/photos/fregate-island-private/4-640.jpg",
+      "srcMid": "/photos/fregate-island-private/4-1000.jpg",
+      "srcHero": "/photos/fregate-island-private/4-2400.jpg",
+      "width": 1600,
+      "height": 1026,
+      "credit": "Fregate Island Private",
+      "creditUrl": "https://www.fregate.com/landing/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fregate.com/landing/images/photos/3-fregate-2560.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/fregate-island-private/5.jpg",
+      "srcSmall": "/photos/fregate-island-private/5-640.jpg",
+      "srcMid": "/photos/fregate-island-private/5-1000.jpg",
+      "srcHero": "",
+      "width": 1272,
+      "height": 1768,
+      "credit": "Fregate Island Private",
+      "creditUrl": "https://www.fregate.com/landing/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fregate.com/landing/images/photos/12-fregate-2560.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/fregate-island-private/7.jpg",
+      "srcSmall": "/photos/fregate-island-private/7-640.jpg",
+      "srcMid": "/photos/fregate-island-private/7-1000.jpg",
+      "srcHero": "/photos/fregate-island-private/7-2400.jpg",
+      "width": 1600,
+      "height": 1026,
+      "credit": "Fregate Island Private",
+      "creditUrl": "https://www.fregate.com/landing/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fregate.com/landing/images/photos/fregate_hero-2560.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "direct"
+  },
+  "lastVerified": "2026-11-08"
+}
