@@ -1,0 +1,271 @@
+{
+  "slug": "royal-mansour-marrakech",
+  "name": "Royal Mansour Marrakech",
+  "operator": "Royal Mansour",
+  "brand": "Royal Mansour",
+  "country": "Morocco",
+  "region": "Africa",
+  "city": "Marrakech",
+  "area": "",
+  "type": "city",
+  "themes": [
+    "palace"
+  ],
+  "adultsOnly": false,
+  "address": "Rue Abou El Abbas Sebti, 40000 Marrakech, Morocco",
+  "lat": 31.62527,
+  "lng": -7.9983,
+  "officialSite": "https://www.royalmansour.com/en/marrakech/",
+  "rooms": 53,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": null,
+  "tagline": "Fifty-three private riads inside the walls of the imperial city.",
+  "description": "Royal Mansour Marrakech is a palace of 53 private riads inside the walls of the imperial city, a short walk from Jemaa El Fna. Rooms and suites are replaced by riads of three floors, linked by lanes and discreet underground galleries.\n\nThe estate covers five hectares at the foot of the ramparts, with the Atlas Mountains in view. The hotel is built as a medina within a medina: winding alleys, secret doors and patios take the place of corridors. Le Jardin, a little over two and a half hectares, was designed by the Spanish landscape architect Luis Vallejo, with an organic vegetable garden for the kitchens, a bio-aromatic garden for infusions, and an artist's studio in a glass greenhouse.\n\nEvery riad is different, with its own zelliges, fabrics, carved plaster and custom furniture, a patio, a private pool and a roof terrace facing the mountains. The 15 Superior riads measure 140 square metres and the 19 Premier riads 175. The 14 Privilege riads run to 430 square metres, with two bedrooms, lounges, a bar and a butler. The Prestige riad covers 850 square metres, with a private hammam, three bedrooms, a library and a bar. The Grand Riad is 1,800 square metres.\n\nFour restaurants serve the estate. Hélène Darroze devised the menu at La Grande Brasserie, La Grande Table Marocaine takes on traditional Moroccan cooking, Sesamo comes from the Alajmo brothers and Italian cooking, and Le Jardin serves Asian and Mediterranean dishes under pergolas.\n\nThe spa spreads over three floors and 2,500 square metres, behind iron walls laced in Moorish patterns. The main pool in the garden is 30 metres long and 20 wide, and seven private pavilions of 45 to 80 square metres stand beside it. Le Jardin de Lila is a club for children aged four to ten, and the artist's studio runs workshops in painting, pottery and embroidery.\n\nIt suits guests who want a house to themselves inside a palace, with staff who are rarely seen, and families who would use the larger riads and the children's club.",
+  "highlights": [
+    {
+      "label": "Riads",
+      "value": "53 riads of three floors, each with a private pool and roof terrace",
+      "sourceUrl": "https://www.royalmansour.com/en/marrakech/riads/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Largest riad",
+      "value": "The Grand Riad, 1,800 square metres",
+      "sourceUrl": "https://www.royalmansour.com/en/marrakech/riads/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "2,500 square metres over three floors",
+      "sourceUrl": "https://www.royalmansour.com/en/marrakech/spa-wellness/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Dining",
+      "value": "La Grande Brasserie by Hélène Darroze, La Grande Table Marocaine, Sesamo, Le Jardin",
+      "sourceUrl": "https://www.royalmansour.com/en/marrakech/dining/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Garden",
+      "value": "Le Jardin by Luis Vallejo, with a 30 by 20 metre pool",
+      "sourceUrl": "https://www.royalmansour.com/en/marrakech/le-jardin-pool/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Children",
+      "value": "Le Jardin de Lila club for ages four to ten",
+      "sourceUrl": "https://www.royalmansour.com/en/marrakech/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Riads",
+      "value": "53",
+      "sourceUrl": "https://www.royalmansour.com/en/marrakech/riads/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Superior riads",
+      "value": "15, 140 square metres",
+      "sourceUrl": "https://www.royalmansour.com/en/marrakech/riads/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Premier riads",
+      "value": "19, 175 square metres",
+      "sourceUrl": "https://www.royalmansour.com/en/marrakech/riads/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Privilege riads",
+      "value": "14, 430 square metres, two bedrooms",
+      "sourceUrl": "https://www.royalmansour.com/en/marrakech/riads/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Prestige riad",
+      "value": "850 square metres, three bedrooms and a private hammam",
+      "sourceUrl": "https://www.royalmansour.com/en/marrakech/riads/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Estate",
+      "value": "Five hectares",
+      "sourceUrl": "https://www.royalmansour.com/en/marrakech/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Garden",
+      "value": "A little over 2.5 hectares",
+      "sourceUrl": "https://www.royalmansour.com/en/marrakech/le-jardin-pool/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Pool",
+      "value": "30 metres by 20 metres, with seven private pavilions of 45 to 80 square metres",
+      "sourceUrl": "https://www.royalmansour.com/en/marrakech/le-jardin-pool/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa size",
+      "value": "2,500 square metres over three floors",
+      "sourceUrl": "https://www.royalmansour.com/en/marrakech/spa-wellness/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Address",
+      "value": "Rue Abou El Abbas Sebti, 40000 Marrakech",
+      "sourceUrl": "https://www.royalmansour.com/en/contact/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/royal-mansour-marrakech/1.jpg",
+      "srcSmall": "/photos/royal-mansour-marrakech/1-640.jpg",
+      "srcMid": "/photos/royal-mansour-marrakech/1-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1068,
+      "credit": "Royal Mansour",
+      "creditUrl": "https://www.royalmansour.com/en/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.royalmansour.com/wp-content/uploads/2026/09/Lobby-1-1.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/royal-mansour-marrakech/2.jpg",
+      "srcSmall": "/photos/royal-mansour-marrakech/2-640.jpg",
+      "srcMid": "/photos/royal-mansour-marrakech/2-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1083,
+      "credit": "Royal Mansour",
+      "creditUrl": "https://www.royalmansour.com/en/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.royalmansour.com/wp-content/uploads/2023/09/RM-Marrakech-1-4.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/royal-mansour-marrakech/3.jpg",
+      "srcSmall": "/photos/royal-mansour-marrakech/3-640.jpg",
+      "srcMid": "/photos/royal-mansour-marrakech/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1062,
+      "credit": "Royal Mansour",
+      "creditUrl": "https://www.royalmansour.com/en/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.royalmansour.com/wp-content/uploads/2023/05/RM-Marrakech-14-1.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/royal-mansour-marrakech/4.jpg",
+      "srcSmall": "/photos/royal-mansour-marrakech/4-640.jpg",
+      "srcMid": "/photos/royal-mansour-marrakech/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1063,
+      "credit": "Royal Mansour",
+      "creditUrl": "https://www.royalmansour.com/en/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.royalmansour.com/wp-content/uploads/2023/05/RM-Marrakech-13-1.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/royal-mansour-marrakech/5.jpg",
+      "srcSmall": "/photos/royal-mansour-marrakech/5-640.jpg",
+      "srcMid": "/photos/royal-mansour-marrakech/5-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1064,
+      "credit": "Royal Mansour",
+      "creditUrl": "https://www.royalmansour.com/en/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.royalmansour.com/wp-content/uploads/2023/05/RM-Marrakech-11.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/royal-mansour-marrakech/6.jpg",
+      "srcSmall": "/photos/royal-mansour-marrakech/6-640.jpg",
+      "srcMid": "/photos/royal-mansour-marrakech/6-1000.jpg",
+      "srcHero": "",
+      "width": 1500,
+      "height": 1000,
+      "credit": "Royal Mansour",
+      "creditUrl": "https://www.royalmansour.com/en/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.royalmansour.com/wp-content/uploads/2023/05/RM-Marrakech-3.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/royal-mansour-marrakech/7.jpg",
+      "srcSmall": "/photos/royal-mansour-marrakech/7-640.jpg",
+      "srcMid": "/photos/royal-mansour-marrakech/7-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "Royal Mansour",
+      "creditUrl": "https://www.royalmansour.com/en/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.royalmansour.com/wp-content/uploads/2023/06/RM-Marrakech-similar-post-LE-JARDIN-ET-PISCINE.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/royal-mansour-marrakech/8.jpg",
+      "srcSmall": "/photos/royal-mansour-marrakech/8-640.jpg",
+      "srcMid": "/photos/royal-mansour-marrakech/8-1000.jpg",
+      "srcHero": "",
+      "width": 1500,
+      "height": 960,
+      "credit": "Royal Mansour",
+      "creditUrl": "https://www.royalmansour.com/en/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.royalmansour.com/wp-content/uploads/2024/05/Riad-privilage.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "direct"
+  },
+  "lastVerified": "2026-11-08"
+}

@@ -1,0 +1,241 @@
+{
+  "slug": "singita-ebony-lodge",
+  "name": "Singita Ebony Lodge",
+  "operator": "Singita",
+  "brand": "Singita",
+  "country": "South Africa",
+  "region": "Africa",
+  "city": "Sabi Sand",
+  "area": "Sabi Sand Reserve",
+  "type": "safari",
+  "themes": [
+    "safari"
+  ],
+  "adultsOnly": false,
+  "address": "Sabi Sand Reserve, South Africa",
+  "lat": null,
+  "lng": null,
+  "officialSite": "https://singita.com/lodge/singita-ebony-lodge/",
+  "rooms": null,
+  "suites": 12,
+  "villas": null,
+  "opened": null,
+  "airport": {},
+  "tagline": "Twelve plunge-pool suites on the Sand River, in leopard country.",
+  "description": "Singita Ebony Lodge is twelve suites on the banks of the Sand River in the Sabi Sand Reserve, South Africa. Each suite has its own plunge pool, and the lodge has access to 45,000 acres known for big game and frequent leopard sightings.\n\nThe lodge was opened up so that the main building has more flow and more views of the river. The rounded adobe architecture, inspired by West and North Africa, remains, now combined with lightweight canvas and timber. Wide decks and suspended walkways follow the river. Light and shade move through the open spaces, and the garden and bushveld are part of the rooms.\n\nThe twelve suites are safari tent-style, with canvas and glass walls. The whole front wall between bedroom and veranda is glass, and pavilion decks hang over the river bank. Six are river-facing suites for single guests and couples, two are Bush Suites, two are Lewis suites for families with teenage children, and two are Family suites for families with small children, with an en-suite main bedroom, an en-suite twin bedroom, a veranda with a stone fireplace and a deck with a heated plunge pool. Interiors carry still-life collections of antiques and artefacts and vintage campaign furniture from the Bailes family collection, set against saturated colours and contemporary African art. A marble and cast-iron table in each suite serves as a desk, a dining table or a bar.\n\nThe main lodge has a dining room, a wine cellar and a Conservation Room.\n\nA swimming pool and a fitness centre are in the lodge, and yoga, bush walks and stargazing are offered. Game drives run through the Singita concession, bush walks are for guests aged 16 and over, and children's activities include cooking, stargazing and arts and crafts. The lodge is supported by the Singita Lowveld Trust, the non-profit conservation partner established in 2006.\n\nIt suits couples and families, since two of the suite types are made for children, and travellers who want leopard in view.",
+  "highlights": [
+    {
+      "label": "Suites",
+      "value": "Twelve suites, each with a private plunge pool",
+      "sourceUrl": "https://singita.com/lodge/singita-ebony-lodge/information/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Suite types",
+      "value": "River-facing, Bush, Lewis family and Family suites",
+      "sourceUrl": "https://singita.com/lodge/singita-ebony-lodge/information/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Concession",
+      "value": "45,000 acres of the Sabi Sand Reserve, known for leopard sightings",
+      "sourceUrl": "https://singita.com/lodge/singita-ebony-lodge/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Design",
+      "value": "Adobe architecture with canvas and timber, glass-fronted suites and decks over the river",
+      "sourceUrl": "https://singita.com/lodge/singita-ebony-lodge/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Wine",
+      "value": "A wine cellar at the lodge",
+      "sourceUrl": "https://singita.com/lodge/singita-ebony-lodge/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Suites",
+      "value": "12, each with a private plunge pool",
+      "sourceUrl": "https://singita.com/lodge/singita-ebony-lodge/information/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "River-facing suites",
+      "value": "6",
+      "sourceUrl": "https://singita.com/lodge/singita-ebony-lodge/information/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Bush Suites",
+      "value": "2",
+      "sourceUrl": "https://singita.com/lodge/singita-ebony-lodge/information/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Lewis suites",
+      "value": "2, for families with teenage children",
+      "sourceUrl": "https://singita.com/lodge/singita-ebony-lodge/information/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Family suites",
+      "value": "2, for families with small children",
+      "sourceUrl": "https://singita.com/lodge/singita-ebony-lodge/information/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Concession size",
+      "value": "45,000 acres",
+      "sourceUrl": "https://singita.com/lodge/singita-ebony-lodge/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/singita-ebony-lodge/1.jpg",
+      "srcSmall": "/photos/singita-ebony-lodge/1-640.jpg",
+      "srcMid": "/photos/singita-ebony-lodge/1-1000.jpg",
+      "srcHero": "/photos/singita-ebony-lodge/1-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Singita",
+      "creditUrl": "https://singita.com/lodge/singita-ebony-lodge/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.ctfassets.net/wds1hqrprqxb/1PZ0Ia8g9kLTjlVGwgNyx8/e7e3e265fef89e5f9c89a343339e56b7/SSS_LODGE_Ebony_Lodge_Fire_Deck_Ross_Couper_A1A9406.jpeg?w=2400&q=85",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/singita-ebony-lodge/2.jpg",
+      "srcSmall": "/photos/singita-ebony-lodge/2-640.jpg",
+      "srcMid": "/photos/singita-ebony-lodge/2-1000.jpg",
+      "srcHero": "",
+      "width": 1000,
+      "height": 667,
+      "credit": "Singita",
+      "creditUrl": "https://singita.com/lodge/singita-ebony-lodge/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.ctfassets.net/wds1hqrprqxb/3h9NpE8x7fDSVU4IzvVYaK/7ea5d3c887efb79fbb12e654e3481e59/Ebony_lodge_exterior.jpg?w=2400&q=85",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/singita-ebony-lodge/3.jpg",
+      "srcSmall": "/photos/singita-ebony-lodge/3-640.jpg",
+      "srcMid": "/photos/singita-ebony-lodge/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Singita",
+      "creditUrl": "https://singita.com/lodge/singita-ebony-lodge/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.ctfassets.net/wds1hqrprqxb/49rjFtG0MpXKPLnm12M07C/ebaab967e78c4f761b629481db70f7cc/SSS_LODGE_Ebony_Lodge_Fireplace_Ross_Couper_A1A7480.jpg?w=2400&q=85",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/singita-ebony-lodge/4.jpg",
+      "srcSmall": "/photos/singita-ebony-lodge/4-640.jpg",
+      "srcMid": "/photos/singita-ebony-lodge/4-1000.jpg",
+      "srcHero": "",
+      "width": 1000,
+      "height": 667,
+      "credit": "Singita",
+      "creditUrl": "https://singita.com/lodge/singita-ebony-lodge/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.ctfassets.net/wds1hqrprqxb/6Glf1CQJy5HGb6UJnaeqse/84d483f8e6429525276457c6d2fc7037/ebony_lodge_dining_room.jpg?w=2400&q=85",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/singita-ebony-lodge/5.jpg",
+      "srcSmall": "/photos/singita-ebony-lodge/5-640.jpg",
+      "srcMid": "/photos/singita-ebony-lodge/5-1000.jpg",
+      "srcHero": "",
+      "width": 1000,
+      "height": 667,
+      "credit": "Singita",
+      "creditUrl": "https://singita.com/lodge/singita-ebony-lodge/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.ctfassets.net/wds1hqrprqxb/69cMRpVYQeNFHhkP8d5Ah3/0578487e106a5802f8adc26541d0fe2b/ebony_lodge_suite.jpg?w=2400&q=85",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/singita-ebony-lodge/6.jpg",
+      "srcSmall": "/photos/singita-ebony-lodge/6-640.jpg",
+      "srcMid": "/photos/singita-ebony-lodge/6-1000.jpg",
+      "srcHero": "",
+      "width": 1000,
+      "height": 667,
+      "credit": "Singita",
+      "creditUrl": "https://singita.com/lodge/singita-ebony-lodge/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.ctfassets.net/wds1hqrprqxb/6nhVdo5bS1S3nDSo1uIwhE/f8df6b1dce8e22fa85aa72ba821fb58b/ebony_lodge_suite_bathroom.jpg?w=2400&q=85",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/singita-ebony-lodge/7.jpg",
+      "srcSmall": "/photos/singita-ebony-lodge/7-640.jpg",
+      "srcMid": "/photos/singita-ebony-lodge/7-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Singita",
+      "creditUrl": "https://singita.com/lodge/singita-ebony-lodge/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.ctfassets.net/wds1hqrprqxb/exUj8ZBKFdYSIVYVeYyuW/e26e3993014922ccd4d40ed0560bf8ab/Singita_Ebony_Wine_Cellar_AR57206.jpg?w=2400&q=85",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/singita-ebony-lodge/8.jpg",
+      "srcSmall": "/photos/singita-ebony-lodge/8-640.jpg",
+      "srcMid": "/photos/singita-ebony-lodge/8-1000.jpg",
+      "srcHero": "",
+      "width": 1000,
+      "height": 667,
+      "credit": "Singita",
+      "creditUrl": "https://singita.com/lodge/singita-ebony-lodge/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.ctfassets.net/wds1hqrprqxb/7y0qoOGMU1NVwrnODHo4V7/1ee567aa2140a7cbd37bec166a9215e3/_SSS_LODGE_Ebony_Lodge_Conservation_Room_Ross_Couper_AR56964.jpg?w=2400&q=85",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "direct"
+  },
+  "lastVerified": "2026-11-08"
+}

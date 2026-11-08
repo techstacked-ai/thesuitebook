@@ -1,0 +1,235 @@
+{
+  "slug": "singita-sabora-tented-camp",
+  "name": "Singita Sabora Tented Camp",
+  "operator": "Singita",
+  "brand": "Singita",
+  "country": "Tanzania",
+  "region": "Africa",
+  "city": "Serengeti",
+  "area": "Grumeti Reserve",
+  "type": "safari",
+  "themes": [
+    "safari"
+  ],
+  "adultsOnly": false,
+  "address": "Singita Grumeti Reserve, Serengeti, Tanzania",
+  "lat": null,
+  "lng": null,
+  "officialSite": "https://singita.com/lodge/singita-sabora-tented-camp/",
+  "rooms": null,
+  "suites": 9,
+  "villas": null,
+  "opened": null,
+  "airport": {},
+  "tagline": "Nine tented suites on the Serengeti plains, beside two waterholes.",
+  "description": "Singita Sabora Tented Camp is nine self-contained tents on the plains of the Singita Grumeti Reserve in the Serengeti, Tanzania. The camp sits within 350,000 acres of protected wilderness and looks out over two waterholes.\n\nThe camp is loosely circular, with the entrance, the firepit and the shared spaces drawing the tents together while staying open to the plains. Wildlife grazes the same paths guests walk. The lines are clean and the tones neutral, with work by local artisans throughout, and the bush stays close, with birdsong from a nearby waterhole and animals calling from beyond the deck.\n\nEach of the nine Sabora Tents is a suite with a private pantry, a dining area, a fitness area and a meditation deck, and has sweeping views across the Serengeti plains. Outdoor salas with secluded daybeds look over one of the two waterholes, which makes for uninterrupted game viewing. Rates include all meals and beverages, twice-daily game drives and road transfers from the Sasakwa airstrip.\n\nA lounge tent has a television. Rates are per adult per night sharing, and halaal food is available when booked in advance. The reserve is known for the Great Migration, vast herds of plains game and a large number of predators. Sabora sits among the plains rather than on a hill, so the animals pass close to the tents, and the camp has a firepit at its centre where the evening gathers. Treatments, outdoor yoga and the fitness area give the days a slower pace between drives.\n\nThe camp has a swimming pool and wellness and fitness facilities. Outdoor yoga is offered, guided walks leave with the field guides, and wellness treatments are available. Singita Grumeti Reserve is managed with the non-profit Grumeti Fund, which has run the area since 2003 and funds conservation and community programmes in part through guest donations.\n\nChildren aged ten and over are welcome. It suits couples and small groups who want a quiet, tented camp with a waterhole in view, rather than a large lodge.",
+  "highlights": [
+    {
+      "label": "Tents",
+      "value": "Nine Sabora Tents, each with a private pantry, dining area, fitness area and meditation deck",
+      "sourceUrl": "https://singita.com/lodge/singita-sabora-tented-camp/information/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Waterholes",
+      "value": "Two waterholes, with outdoor salas and daybeds overlooking one",
+      "sourceUrl": "https://singita.com/lodge/singita-sabora-tented-camp/information/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Reserve",
+      "value": "350,000 acres of protected wilderness in the Serengeti",
+      "sourceUrl": "https://singita.com/lodge/singita-sabora-tented-camp/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Pool and wellness",
+      "value": "A swimming pool in the main camp and a wellness and fitness centre",
+      "sourceUrl": "https://singita.com/lodge/singita-sabora-tented-camp/information/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Rates include",
+      "value": "All meals and beverages and twice-daily game drives",
+      "sourceUrl": "https://singita.com/lodge/singita-sabora-tented-camp/information/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Tents",
+      "value": "9 Sabora Tents",
+      "sourceUrl": "https://singita.com/lodge/singita-sabora-tented-camp/information/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Reserve size",
+      "value": "350,000 acres",
+      "sourceUrl": "https://singita.com/lodge/singita-sabora-tented-camp/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Children",
+      "value": "Aged 10 and over",
+      "sourceUrl": "https://singita.com/lodge/singita-sabora-tented-camp/information/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Waterholes",
+      "value": "Two",
+      "sourceUrl": "https://singita.com/lodge/singita-sabora-tented-camp/information/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Arrival",
+      "value": "Road transfers from the Sasakwa airstrip",
+      "sourceUrl": "https://singita.com/lodge/singita-sabora-tented-camp/information/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/singita-sabora-tented-camp/1.jpg",
+      "srcSmall": "/photos/singita-sabora-tented-camp/1-640.jpg",
+      "srcMid": "/photos/singita-sabora-tented-camp/1-1000.jpg",
+      "srcHero": "/photos/singita-sabora-tented-camp/1-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Singita",
+      "creditUrl": "https://singita.com/lodge/singita-sabora-tented-camp/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://s3-eu-west-1.amazonaws.com/singitacdn/library/wp-content/uploads/2W2A4273_edit.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/singita-sabora-tented-camp/2.jpg",
+      "srcSmall": "/photos/singita-sabora-tented-camp/2-640.jpg",
+      "srcMid": "/photos/singita-sabora-tented-camp/2-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Singita",
+      "creditUrl": "https://singita.com/lodge/singita-sabora-tented-camp/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.ctfassets.net/wds1hqrprqxb/2rCIvXFF7kg7KGgJzsRyVD/4f317402e572c2385ba1ee99008ada33/Sabora_Activities_Pool.jpg?w=2400&q=85",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/singita-sabora-tented-camp/3.jpg",
+      "srcSmall": "/photos/singita-sabora-tented-camp/3-640.jpg",
+      "srcMid": "/photos/singita-sabora-tented-camp/3-1000.jpg",
+      "srcHero": "/photos/singita-sabora-tented-camp/3-2400.jpg",
+      "width": 1600,
+      "height": 1068,
+      "credit": "Singita",
+      "creditUrl": "https://singita.com/lodge/singita-sabora-tented-camp/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.ctfassets.net/wds1hqrprqxb/23Fe3U7cPKC4sS78VuJMsN/ec8185176f10c7398bdc924b161afffa/Singita_Sabora_Tented_Suite_Exterior_Landscape_Adriaan_Louw.jpeg?w=2400&q=85",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/singita-sabora-tented-camp/4.jpg",
+      "srcSmall": "/photos/singita-sabora-tented-camp/4-640.jpg",
+      "srcMid": "/photos/singita-sabora-tented-camp/4-1000.jpg",
+      "srcHero": "/photos/singita-sabora-tented-camp/4-2400.jpg",
+      "width": 1600,
+      "height": 1068,
+      "credit": "Singita",
+      "creditUrl": "https://singita.com/lodge/singita-sabora-tented-camp/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://s3-eu-west-1.amazonaws.com/singitacdn/library/wp-content/uploads/Singita-Sabora-Tented-Suite-Bedroom.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/singita-sabora-tented-camp/5.jpg",
+      "srcSmall": "/photos/singita-sabora-tented-camp/5-640.jpg",
+      "srcMid": "/photos/singita-sabora-tented-camp/5-1000.jpg",
+      "srcHero": "/photos/singita-sabora-tented-camp/5-2400.jpg",
+      "width": 1600,
+      "height": 1068,
+      "credit": "Singita",
+      "creditUrl": "https://singita.com/lodge/singita-sabora-tented-camp/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://s3-eu-west-1.amazonaws.com/singitacdn/library/wp-content/uploads/Singita-Sabora-Tented-Suite-Bathroom.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/singita-sabora-tented-camp/6.jpg",
+      "srcSmall": "/photos/singita-sabora-tented-camp/6-640.jpg",
+      "srcMid": "/photos/singita-sabora-tented-camp/6-1000.jpg",
+      "srcHero": "/photos/singita-sabora-tented-camp/6-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Singita",
+      "creditUrl": "https://singita.com/lodge/singita-sabora-tented-camp/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://s3-eu-west-1.amazonaws.com/singitacdn/library/wp-content/uploads/OGS5786.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/singita-sabora-tented-camp/7.jpg",
+      "srcSmall": "/photos/singita-sabora-tented-camp/7-640.jpg",
+      "srcMid": "/photos/singita-sabora-tented-camp/7-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1068,
+      "credit": "Singita",
+      "creditUrl": "https://singita.com/lodge/singita-sabora-tented-camp/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.ctfassets.net/wds1hqrprqxb/mBCT22EyNue5kRlMOHtRq/6cbb8dd9b535b2f31171e01b9386eb7d/Sabora_Slider4.jpg?w=2400&q=85",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/singita-sabora-tented-camp/8.jpg",
+      "srcSmall": "/photos/singita-sabora-tented-camp/8-640.jpg",
+      "srcMid": "/photos/singita-sabora-tented-camp/8-1000.jpg",
+      "srcHero": "/photos/singita-sabora-tented-camp/8-2400.jpg",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Singita",
+      "creditUrl": "https://singita.com/lodge/singita-sabora-tented-camp/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://s3-eu-west-1.amazonaws.com/singitacdn/library/wp-content/uploads/Singita-Sabora-Aerial-View-Landscape-1.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "direct"
+  },
+  "lastVerified": "2026-11-08"
+}

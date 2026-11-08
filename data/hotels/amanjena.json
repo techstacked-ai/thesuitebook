@@ -1,0 +1,256 @@
+{
+  "slug": "amanjena",
+  "name": "Amanjena",
+  "operator": "Aman",
+  "brand": "Aman",
+  "country": "Morocco",
+  "region": "Africa",
+  "city": "Marrakech",
+  "area": "",
+  "type": "resort",
+  "themes": [
+    "palace"
+  ],
+  "adultsOnly": false,
+  "address": "Route de Ouarzazate, Km 12, 40000 Marrakech, Morocco",
+  "lat": 31.60912,
+  "lng": -7.93295,
+  "officialSite": "https://www.aman.com/resorts/amanjena",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": {
+    "code": "RAK",
+    "minutes": 20
+  },
+  "tagline": "Pavilions and villas around a central basin, twenty minutes from Marrakech Menara.",
+  "description": "Amanjena is an Aman resort of rose-hued pavilions and villas on the edge of Marrakech, set in its own gardens and olive groves. The old city and Djemaa el-Fna lie minutes away.\n\nThe buildings take their colour from the walls of the medina. Shaded courtyards with fountains lead to a central basin, with standalone pavilions and villas around it, and the view runs over olive groves and palms to the High Atlas on the horizon. Vaulted ceilings and Moorish arches shape the interiors, and the main pool is 33 metres long.\n\nAccommodation is in pavilions and villas, many with private heated pools. The one-bedroom Deluxe Pavilion has a courtyard garden, a master suite and a traditional gazebo. The pavilions around the central basin are single-storey, while others have a private pool and a gazebo for dining. The villas are larger: a two-master-suite villa with a heated pool and two gazebos, a Grand Two-Bedroom Pool Villa with an outdoor dining area and a fireplace, and a Three-Bedroom Villa around its own pool. One two-storey villa measures 360 square metres. Domed ceilings and Berber carpets over zellij-tiled floors give each a Moroccan character.\n\nTwo restaurants share the resort. The Moroccan Restaurant occupies a courtyard at its heart, and Arva, Aman's signature restaurant, serves Italian dishes that change with the season. The Pool Terrace is open-air, with shaded arches, and the Bar has dusky pink walls and tall columns. Private dinners can be set in a caidal tent among the olive trees, or reached by camel in the desert in warmer months.\n\nThe spa has four treatment rooms and two heated hammams, where rituals use black eucalyptus soap, kiis mitts and rhassoul clay from the Atlas. A renovated fitness centre has TechnoGym equipment and a yoga space above it. There is a heated children's pool beside the main pool, tennis clinics on site and the 27-hole Amelkis golf course nearby. Marrakech Menara airport is about twenty minutes away.\n\nIt suits couples and families who want a private pavilion with a pool, close to the city but out of it.",
+  "highlights": [
+    {
+      "label": "Villas",
+      "value": "Two- and three-bedroom villas with heated pools and gazebos",
+      "sourceUrl": "https://www.aman.com/resorts/amanjena/accommodation/pavilions-villas",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Pavilions",
+      "value": "One-bedroom pavilions, many with a private pool and a traditional gazebo",
+      "sourceUrl": "https://www.aman.com/resorts/amanjena/accommodation/pavilions-villas",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Restaurants",
+      "value": "The Moroccan Restaurant and Arva, serving seasonal Italian dishes",
+      "sourceUrl": "https://www.aman.com/resorts/amanjena/dining",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "Four treatment rooms and two heated hammams",
+      "sourceUrl": "https://www.aman.com/resorts/amanjena/wellness",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Pool",
+      "value": "A 33 metre heated outdoor pool and a separate heated children's pool",
+      "sourceUrl": "https://www.aman.com/resorts/amanjena/wellness",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Golf",
+      "value": "The 27-hole Amelkis Championship Golf Course nearby",
+      "sourceUrl": "https://www.aman.com/resorts/amanjena",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Largest two-storey villa",
+      "value": "360 square metres",
+      "sourceUrl": "https://www.aman.com/resorts/amanjena/accommodation/pavilions-villas",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Main pool",
+      "value": "33 metres, heated",
+      "sourceUrl": "https://www.aman.com/resorts/amanjena/wellness",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "Four private treatment rooms and two heated hammams",
+      "sourceUrl": "https://www.aman.com/resorts/amanjena/wellness",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Airport",
+      "value": "Marrakech Menara (RAK), about 20 minutes by road",
+      "sourceUrl": "https://www.aman.com/resorts/amanjena/getting-here-amanjena",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Casablanca airport",
+      "value": "About 2 hours 30 minutes by road",
+      "sourceUrl": "https://www.aman.com/resorts/amanjena/getting-here-amanjena",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Golf",
+      "value": "27-hole Amelkis Championship Golf Course nearby",
+      "sourceUrl": "https://www.aman.com/resorts/amanjena",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Address",
+      "value": "Route de Ouarzazate, Km 12, 40000 Marrakech",
+      "sourceUrl": "https://www.aman.com/resorts/amanjena",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/amanjena/1.jpg",
+      "srcSmall": "/photos/amanjena/1-640.jpg",
+      "srcMid": "/photos/amanjena/1-1000.jpg",
+      "srcHero": "/photos/amanjena/1-2400.jpg",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanjena/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2025-02/amanjena_morocco_-_resort_main_pool_2.png",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/amanjena/2.jpg",
+      "srcSmall": "/photos/amanjena/2-640.jpg",
+      "srcMid": "/photos/amanjena/2-1000.jpg",
+      "srcHero": "/photos/amanjena/2-2400.jpg",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanjena/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2022-01/Amanjena-Maison-Jardin-Outdoor-Area.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/amanjena/3.jpg",
+      "srcSmall": "/photos/amanjena/3-640.jpg",
+      "srcMid": "/photos/amanjena/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanjena/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2023-10/amanjena_morocco_-_exterior_bassin.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/amanjena/4.jpg",
+      "srcSmall": "/photos/amanjena/4-640.jpg",
+      "srcMid": "/photos/amanjena/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanjena/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2023-10/amanjena_morocco_-exterior_bar.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/amanjena/5.jpg",
+      "srcSmall": "/photos/amanjena/5-640.jpg",
+      "srcMid": "/photos/amanjena/5-1000.jpg",
+      "srcHero": "",
+      "width": 1200,
+      "height": 1200,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanjena/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2023-10/amanjenamorocco-rooms-pavillon-bassin.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/amanjena/6.jpg",
+      "srcSmall": "/photos/amanjena/6-640.jpg",
+      "srcMid": "/photos/amanjena/6-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanjena/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2023-06/amanjena_morocco_6.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/amanjena/7.jpg",
+      "srcSmall": "/photos/amanjena/7-640.jpg",
+      "srcMid": "/photos/amanjena/7-1000.jpg",
+      "srcHero": "",
+      "width": 1200,
+      "height": 1200,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanjena/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2023-10/amanjena_morocco_-_resort_lounge.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/amanjena/8.jpg",
+      "srcSmall": "/photos/amanjena/8-640.jpg",
+      "srcMid": "/photos/amanjena/8-1000.jpg",
+      "srcHero": "",
+      "width": 1200,
+      "height": 1200,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanjena/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2023-10/amanjena_morocco_-_entrance_lobby_resort.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "direct"
+  },
+  "lastVerified": "2026-11-08"
+}

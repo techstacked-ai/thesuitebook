@@ -1,0 +1,268 @@
+{
+  "slug": "la-mamounia",
+  "name": "La Mamounia",
+  "operator": "La Mamounia",
+  "brand": "",
+  "country": "Morocco",
+  "region": "Africa",
+  "city": "Marrakech",
+  "area": "",
+  "type": "city",
+  "themes": [
+    "palace"
+  ],
+  "adultsOnly": false,
+  "address": "Avenue Bab Jdid, 40040 Marrakech, Morocco",
+  "lat": 31.62138,
+  "lng": -7.99744,
+  "officialSite": "https://www.mamounia.com/",
+  "rooms": 135,
+  "suites": 71,
+  "villas": null,
+  "opened": 1923,
+  "airport": {
+    "code": "RAK",
+    "minutes": 10
+  },
+  "tagline": "A palace of 209 keys inside the ramparts of Marrakech, open since 1923.",
+  "description": "La Mamounia is a palace hotel on the edge of the old city of Marrakech, open since 1923. It has 209 keys, a 2,500 square metre spa and gardens that date to the 18th century.\n\nThe grounds began as an estate of thirteen hectares inherited by Prince Al-Mamoun, who used it for open-air receptions. The hotel stands behind the 12th-century ramparts, and the gardens hold bicentenary olive trees, palms, Aleppo pines, oleanders, and orange, fig and peach trees. Arriving guests pass through sculpted plaster, zellige tilework and cool marble, and the corridors are lit low in the manner of the medina's narrow streets.\n\nThere are 135 rooms, 71 suites and three riads. The suites have one to three bedrooms, walk-in wardrobes and bathrooms in marble and zellige with both a shower and a bath. Six Exceptional Suites carry names from the hotel's history: Al Mamoun, Baldaquin, Churchill, Marqueterie, Majorelle and Koutoubia. The three riads of 700 square metres sit deep in the gardens, each with its own entrance, heated pool, private terrace, three bedrooms, a kitchen and a butler on duty around the clock. Each sleeps up to six.\n\nFour restaurants share the grounds. Jean-Georges Vongerichten runs L'Asiatique, Simone Zanoni runs L'Italien, and Chef Rachid Agouray cooks at Le Marocain. Le Pavillon de la Piscine serves by the pool. Pierre Hermé runs two tea rooms, Le Menzeh and Le Salon de Thé, and there are four bars: Le Bar Majorelle, Le Club, Le Bar de la Piscine and Le Churchill.\n\nThe spa has two traditional hammams and one private hammam, ten treatment rooms, a heated indoor pool, a jacuzzi and a private spa suite. Treatments use Valmont, Susanne Kaufmann and marocMaroc. Outside there is a heated outdoor pool treated with ozone, a fitness room and yoga, and the hotel arranges golf. A private transfer meets guests at Marrakech Menara airport, six kilometres and about ten minutes away.\n\nIt suits travellers who want a historic palace with a garden large enough to walk in each morning, and families or groups who would take a riad.",
+  "highlights": [
+    {
+      "label": "Spa",
+      "value": "2,500 square metres, with two hammams, ten treatment rooms and a heated pool",
+      "sourceUrl": "https://mamounia.com/en/the-spa-wellbeing/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Riads",
+      "value": "Three riads of 700 square metres, each with a heated pool and a butler",
+      "sourceUrl": "https://mamounia.com/en/accommodation/the-riads.html",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Exceptional Suites",
+      "value": "Six named suites: Al Mamoun, Baldaquin, Churchill, Marqueterie, Majorelle, Koutoubia",
+      "sourceUrl": "https://mamounia.com/en/accommodation/the-exceptional-suites/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Dining",
+      "value": "L'Asiatique by Jean-Georges, L'Italien by Simone Zanoni, Le Marocain, Le Pavillon de la Piscine",
+      "sourceUrl": "https://mamounia.com/en/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Tea rooms",
+      "value": "Two tea rooms by Pierre Hermé",
+      "sourceUrl": "https://mamounia.com/en/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Gardens",
+      "value": "Eighteenth-century gardens behind 12th-century ramparts",
+      "sourceUrl": "https://mamounia.com/en/the-exclusives/les-jardins.html",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Keys",
+      "value": "209: 135 rooms, 71 suites and 3 riads",
+      "sourceUrl": "https://mamounia.com/en/accommodation/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Suites",
+      "value": "65 suites plus 6 Exceptional Suites",
+      "sourceUrl": "https://mamounia.com/en/accommodation/the-suites/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Opened",
+      "value": "Since 1923",
+      "sourceUrl": "https://mamounia.com/en/accommodation/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa size",
+      "value": "2,500 square metres",
+      "sourceUrl": "https://mamounia.com/en/the-spa-wellbeing/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Treatment rooms",
+      "value": "Ten, three of them double",
+      "sourceUrl": "https://mamounia.com/en/the-spa-wellbeing/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Riad size",
+      "value": "700 square metres, sleeping up to six",
+      "sourceUrl": "https://mamounia.com/en/accommodation/the-riads.html",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Estate",
+      "value": "Thirteen hectares inherited by Prince Al-Mamoun in the 18th century",
+      "sourceUrl": "https://mamounia.com/en/the-exclusives/les-jardins.html",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Airport",
+      "value": "Marrakech Menara, 6 km, 10 minutes by car",
+      "sourceUrl": "https://mamounia.com/en/contact.html",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Address",
+      "value": "Avenue Bab Jdid, 40040 Marrakech",
+      "sourceUrl": "https://mamounia.com/en/contact.html",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/la-mamounia/1.jpg",
+      "srcSmall": "/photos/la-mamounia/1-640.jpg",
+      "srcMid": "/photos/la-mamounia/1-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "La Mamounia",
+      "creditUrl": "https://mamounia.com/en/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://mamounia.com/media/cache/jadro_resize/rc/oygmFuQZ1785918630/jadroRoot/medias/653fcee154467/6540e50e0c796/6540e5783a736/accueil-la-mamounia-vue-drone.jpeg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/la-mamounia/2.jpg",
+      "srcSmall": "/photos/la-mamounia/2-640.jpg",
+      "srcMid": "/photos/la-mamounia/2-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1201,
+      "credit": "La Mamounia",
+      "creditUrl": "https://mamounia.com/en/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://mamounia.com/media/cache/jadro_resize/rc/2N75LZnu1785918631/jadroRoot/medias/653fcee154467/65412f156864f/65412f2208e28/les-jardins-04-.jpeg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/la-mamounia/3.jpg",
+      "srcSmall": "/photos/la-mamounia/3-640.jpg",
+      "srcMid": "/photos/la-mamounia/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1201,
+      "credit": "La Mamounia",
+      "creditUrl": "https://mamounia.com/en/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://mamounia.com/media/cache/jadro_resize/rc/WB2WMOfD1785918631/jadroRoot/medias/653fcee154467/65412f156864f/65412f2208e28/les-jardins-03-.jpeg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/la-mamounia/4.jpg",
+      "srcSmall": "/photos/la-mamounia/4-640.jpg",
+      "srcMid": "/photos/la-mamounia/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1071,
+      "credit": "La Mamounia",
+      "creditUrl": "https://mamounia.com/en/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://mamounia.com/media/cache/jadro_resize/rc/HyTmItLj1785918625/jadroRoot/medias/mamounia-world-s-best-hotel-website-2021.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/la-mamounia/5.jpg",
+      "srcSmall": "/photos/la-mamounia/5-640.jpg",
+      "srcMid": "/photos/la-mamounia/5-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1095,
+      "credit": "La Mamounia",
+      "creditUrl": "https://mamounia.com/en/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://mamounia.com/media/cache/jadro_resize/rc/8RuJK9fb1785918634/jadroRoot/medias/653fcee154467/654e33567f162/654e34ac7341e/654e3504788bd/suites-executives-agdal-view-crop-.jpeg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/la-mamounia/6.jpg",
+      "srcSmall": "/photos/la-mamounia/6-640.jpg",
+      "srcMid": "/photos/la-mamounia/6-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1200,
+      "credit": "La Mamounia",
+      "creditUrl": "https://mamounia.com/en/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://mamounia.com/media/cache/jadro_resize/rc/r1sxVtP11785918635/jadroRoot/medias/653fcee154467/654e363a016dd/suites-d-exceptions-suite-al-mamoun-salon-details.jpeg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/la-mamounia/7.jpg",
+      "srcSmall": "/photos/la-mamounia/7-640.jpg",
+      "srcMid": "/photos/la-mamounia/7-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1200,
+      "credit": "La Mamounia",
+      "creditUrl": "https://mamounia.com/en/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://mamounia.com/media/cache/jadro_resize/rc/CdkTBW0w1785918636/jadroRoot/medias/653fcee154467/654e3c6e12157/654e3d46d6066/les-riads-piscine-09-.jpeg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/la-mamounia/8.jpg",
+      "srcSmall": "/photos/la-mamounia/8-640.jpg",
+      "srcMid": "/photos/la-mamounia/8-1000.jpg",
+      "srcHero": "",
+      "width": 1300,
+      "height": 975,
+      "credit": "La Mamounia",
+      "creditUrl": "https://mamounia.com/en/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://mamounia.com/media/cache/jadro_resize/rc/ruIg3knE1785918631/jadroRoot/medias/653fcee154467/654117df6b4ca/654117ee24e7c/65411801c16b2/spa-piscine-interieure-03-.jpeg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "direct"
+  },
+  "lastVerified": "2026-11-08"
+}

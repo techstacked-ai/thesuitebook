@@ -1,0 +1,253 @@
+{
+  "slug": "singita-sasakwa-lodge",
+  "name": "Singita Sasakwa Lodge",
+  "operator": "Singita",
+  "brand": "Singita",
+  "country": "Tanzania",
+  "region": "Africa",
+  "city": "Serengeti",
+  "area": "Grumeti Reserve",
+  "type": "safari",
+  "themes": [
+    "safari"
+  ],
+  "adultsOnly": false,
+  "address": "Singita Grumeti Reserve, Serengeti, Tanzania",
+  "lat": -2.07407,
+  "lng": 34.51165,
+  "officialSite": "https://singita.com/lodge/singita-sasakwa/",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": {},
+  "tagline": "A manor house and ten cottages on Sasakwa Hill, over the Serengeti plains.",
+  "description": "Singita Sasakwa Lodge is a turn-of-the-century manor house and ten private cottages on a high plateau in the 350,000-acre Singita Grumeti Reserve, in the Serengeti in Tanzania. Every cottage has a private plunge pool, and a separate Hillside Suite has its own swimming pool, a butler and a private game drive vehicle.\n\nThe lodge stands on Sasakwa Hill, with the plains running to the horizon. The house blends European style with East African influences: long rooms lined with books, photographs and artefacts, tall doors that let the breeze through, and wide lawns. Thunderstorms can be seen far off across the plains, and the annual wildebeest migration passes through the reserve.\n\nThere are six one-bedroom cottages, two two-bedroom cottages, one three-bedroom cottage and one four-bedroom cottage, all with a private plunge pool. The cottages have polished parquet floors, vintage collectables and comfortable furnishings. The Hillside Suite is a one-bedroom, dual-level suite with a private swimming pool. Rates include all meals and beverages, premium wines and spirits among them, twice-daily game drives in open vehicles and road transfers from the Sasakwa airstrip. The four-bedroom cottage has private game drives with one vehicle for up to eight guests.\n\nThe lodge runs wine experiences. A swimming pool sits in the main lodge area, and there is a fitness centre. Treatments can be arranged at the spa or in the cottage, and two private tennis courts, where game sightings are common. Bush walks leave with the field guides.\n\nThe lodge works with the non-profit Grumeti Fund, which has managed the reserve since 2003 and in 2019 carried out the largest single relocation of Eastern black rhino, nine animals. Guests contribute to its conservation and community work.\n\nChildren of all ages are welcome, with babysitting and a Mini Rangers Course on offer. It suits families who want a whole cottage to themselves, and couples who want the hill and the view.",
+  "highlights": [
+    {
+      "label": "Cottages",
+      "value": "Ten cottages from one to four bedrooms, each with a private plunge pool",
+      "sourceUrl": "https://singita.com/lodge/singita-sasakwa/information/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Hillside Suite",
+      "value": "One-bedroom, dual-level suite with a private swimming pool, a butler and a private game drive vehicle",
+      "sourceUrl": "https://singita.com/lodge/singita-sasakwa/information/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Reserve",
+      "value": "350,000 acres in the Serengeti ecosystem",
+      "sourceUrl": "https://singita.com/lodge/singita-sasakwa/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Activities",
+      "value": "Game drives, bush walks, wellness treatments and tennis on two private courts",
+      "sourceUrl": "https://singita.com/lodge/singita-sasakwa/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Rates include",
+      "value": "All meals and beverages, twice-daily game drives and airstrip transfers",
+      "sourceUrl": "https://singita.com/lodge/singita-sasakwa/information/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Conservation",
+      "value": "Partner of the non-profit Grumeti Fund, which relocated nine Eastern black rhino in 2019",
+      "sourceUrl": "https://singita.com/lodge/singita-sasakwa/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Cottages",
+      "value": "6 one-bedroom, 2 two-bedroom, 1 three-bedroom and 1 four-bedroom, each with a private plunge pool",
+      "sourceUrl": "https://singita.com/lodge/singita-sasakwa/information/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Suite",
+      "value": "1 one-bedroom dual-level Hillside Suite with a private swimming pool",
+      "sourceUrl": "https://singita.com/lodge/singita-sasakwa/information/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Reserve size",
+      "value": "350,000 acres",
+      "sourceUrl": "https://singita.com/lodge/singita-sasakwa/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Children",
+      "value": "Welcome at all ages",
+      "sourceUrl": "https://singita.com/lodge/singita-sasakwa/information/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Facilities",
+      "value": "Main lodge pool, fitness centre, spa treatments and two tennis courts",
+      "sourceUrl": "https://singita.com/lodge/singita-sasakwa/information/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Arrival",
+      "value": "By air to the Sasakwa airstrip",
+      "sourceUrl": "https://singita.com/lodge/singita-sasakwa/information/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Coordinates",
+      "value": "Approximate, taken from the Sasakwa airstrip",
+      "sourceUrl": "https://singita.com/lodge/singita-sasakwa/information/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/singita-sasakwa-lodge/1.jpg",
+      "srcSmall": "/photos/singita-sasakwa-lodge/1-640.jpg",
+      "srcMid": "/photos/singita-sasakwa-lodge/1-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Singita",
+      "creditUrl": "https://singita.com/lodge/singita-sasakwa/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.ctfassets.net/wds1hqrprqxb/7d6i60fQlobe6cTbU3uLbu/f64e344fb9003ae5486e09889008d634/Singita_Sasakwa_Lodge__18_.jpg?w=2400&q=85",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/singita-sasakwa-lodge/2.jpg",
+      "srcSmall": "/photos/singita-sasakwa-lodge/2-640.jpg",
+      "srcMid": "/photos/singita-sasakwa-lodge/2-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Singita",
+      "creditUrl": "https://singita.com/lodge/singita-sasakwa/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.ctfassets.net/wds1hqrprqxb/5sGrmKBQ2rrL8WlA1MBzBL/f3d815017279e4134f47277b3589ccbf/Sasakwa_Activities_Pool.jpg?w=2400&q=85",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/singita-sasakwa-lodge/3.jpg",
+      "srcSmall": "/photos/singita-sasakwa-lodge/3-640.jpg",
+      "srcMid": "/photos/singita-sasakwa-lodge/3-1000.jpg",
+      "srcHero": "/photos/singita-sasakwa-lodge/3-2400.jpg",
+      "width": 1600,
+      "height": 1068,
+      "credit": "Singita",
+      "creditUrl": "https://singita.com/lodge/singita-sasakwa/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.ctfassets.net/wds1hqrprqxb/6fG9e2raczpz1e8AzVqQm9/d4b60b71e4390c3c180be1395252bb99/SG_Sasakwa_Lounge_Hi_Res_Adriaan_Louw.jpeg?w=2400&q=85",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/singita-sasakwa-lodge/4.jpg",
+      "srcSmall": "/photos/singita-sasakwa-lodge/4-640.jpg",
+      "srcMid": "/photos/singita-sasakwa-lodge/4-1000.jpg",
+      "srcHero": "",
+      "width": 901,
+      "height": 600,
+      "credit": "Singita",
+      "creditUrl": "https://singita.com/lodge/singita-sasakwa/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://s3-eu-west-1.amazonaws.com/singitacdn/library/wp-content/uploads/Singita-Sasakwa-Lodge-Bedroom-1-Cottage-view-from-the-outside-in.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/singita-sasakwa-lodge/5.jpg",
+      "srcSmall": "/photos/singita-sasakwa-lodge/5-640.jpg",
+      "srcMid": "/photos/singita-sasakwa-lodge/5-1000.jpg",
+      "srcHero": "/photos/singita-sasakwa-lodge/5-2400.jpg",
+      "width": 1600,
+      "height": 1068,
+      "credit": "Singita",
+      "creditUrl": "https://singita.com/lodge/singita-sasakwa/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://s3-eu-west-1.amazonaws.com/singitacdn/library/wp-content/uploads/Hillside-Suite-Singita-Sasakwa-Lodge-Bedroom-and-Deck.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/singita-sasakwa-lodge/6.jpg",
+      "srcSmall": "/photos/singita-sasakwa-lodge/6-640.jpg",
+      "srcMid": "/photos/singita-sasakwa-lodge/6-1000.jpg",
+      "srcHero": "/photos/singita-sasakwa-lodge/6-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Singita",
+      "creditUrl": "https://singita.com/lodge/singita-sasakwa/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.ctfassets.net/wds1hqrprqxb/1y325RhH7UWie5dVcaTWas/73325e04200e21227fa6b5054c81f8aa/Grumeti_saskawa_Bedroom_Peter_Jackson__1_.jpeg?w=2400&q=85",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/singita-sasakwa-lodge/7.jpg",
+      "srcSmall": "/photos/singita-sasakwa-lodge/7-640.jpg",
+      "srcMid": "/photos/singita-sasakwa-lodge/7-1000.jpg",
+      "srcHero": "/photos/singita-sasakwa-lodge/7-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Singita",
+      "creditUrl": "https://singita.com/lodge/singita-sasakwa/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.ctfassets.net/wds1hqrprqxb/5xVNS4DHkD60mM4zRU92Nt/1fe2abd85f212bfc740b2c3a7eabe2e5/Sasakwa_Lodge_Main_Lounge_Area_Osse_Sinare.jpg?w=2400&q=85",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/singita-sasakwa-lodge/8.jpg",
+      "srcSmall": "/photos/singita-sasakwa-lodge/8-640.jpg",
+      "srcMid": "/photos/singita-sasakwa-lodge/8-1000.jpg",
+      "srcHero": "/photos/singita-sasakwa-lodge/8-2400.jpg",
+      "width": 1600,
+      "height": 1068,
+      "credit": "Singita",
+      "creditUrl": "https://singita.com/lodge/singita-sasakwa/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.ctfassets.net/wds1hqrprqxb/4jUrEqXbvp0qeZ3Xs51uYD/077508659c37c8844b9dc22c7ca3b48a/Singita_Sasakwa_Lodge_Outdoor_Dining.jpg?w=2400&q=85",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "direct"
+  },
+  "lastVerified": "2026-11-08"
+}
