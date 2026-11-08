@@ -1,0 +1,253 @@
+{
+  "slug": "belmond-sanctuary-lodge",
+  "name": "Belmond Sanctuary Lodge",
+  "operator": "Belmond",
+  "brand": "Belmond",
+  "country": "Peru",
+  "region": "Caribbean & Latin America",
+  "city": "Machu Picchu",
+  "area": "Cusco",
+  "type": "wilderness",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "Carretera Hiram Bingham km 7.5, Machu Picchu, Cusco, Peru",
+  "lat": -13.16609,
+  "lng": -72.54295,
+  "officialSite": "https://www.belmond.com/en/hotels/south-america/peru/sanctuary-lodge-machu-picchu",
+  "rooms": 29,
+  "suites": 2,
+  "villas": null,
+  "opened": null,
+  "airport": null,
+  "tagline": "The only hotel at the gates of Machu Picchu, 50 metres from the citadel.",
+  "description": "Belmond Sanctuary Lodge is the only hotel at the entrance to Machu Picchu, 50 metres from the Inca citadel. It has 29 rooms and 2 suites, two restaurants and a bar, and gardens of native flora on the mountainside.\n\nMachu Picchu was built in the 15th century as the estate of the Inca emperor Pachacuti. The lodge originally housed explorers and researchers and became a Belmond hotel in 1999. Aguas Calientes is a short bus ride away, but the lodge sits steps from the ruins, set into the mountainside above the UNESCO World Heritage site.\n\nThe rooms look out to misty mountains, orchids and butterflies. Standard Rooms and Deluxe Rooms have panoramic views, and the One Bedroom Suite has a private furnished terrace with mountain views and a sitting area. Guests receive early access to the citadel before the crowds, and the lodge works with guides and storytellers from the region.\n\nTampu Restaurant serves rainforest cuisine in a room full of natural light, among plants. Breakfast brings eggs, pancakes, smoothie bowls and Peruvian dishes, and dinner includes Andean trout, slow-cooked short ribs, artichoke and chicharron. Local Peruvian wines sit beside international labels. Tinkuy Buffet feeds hikers after a day on the ruins, and Tampu Bar is the place for evening conversation.\n\nThe lodge offers Andean treatments in its massage room and shaman-led ceremonies, including vow renewals and honeymoon rituals, along with coca leaf readings and cookery classes. The subtropical gardens, where native flora flourishes, are open to guests between visits to the ruins.\n\nThe Hiram Bingham train makes the four-hour journey from Cusco and is the way to arrive in style. Belmond Sanctuary Lodge suits travellers who want to be at the citadel at the start and end of the day.",
+  "highlights": [
+    {
+      "label": "Location",
+      "value": "The only hotel at the gates of Machu Picchu, 50 metres from the citadel.",
+      "sourceUrl": "https://www.belmond.com/en/hotels/south-america/peru/sanctuary-lodge-machu-picchu",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Early access",
+      "value": "Guests enter the citadel early, before the crowds.",
+      "sourceUrl": "https://www.belmond.com/en/hotels/south-america/peru/sanctuary-lodge-machu-picchu/experiences",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Tampu Restaurant",
+      "value": "Rainforest cuisine, from Andean trout to slow-cooked short ribs.",
+      "sourceUrl": "https://www.belmond.com/en/hotels/south-america/peru/sanctuary-lodge-machu-picchu/restaurants-and-bars",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "One Bedroom Suite",
+      "value": "A private furnished terrace with mountain views.",
+      "sourceUrl": "https://www.belmond.com/en/hotels/south-america/peru/sanctuary-lodge-machu-picchu/accommodation",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Ceremonies",
+      "value": "Shaman-led ceremonies and vow renewals.",
+      "sourceUrl": "https://www.belmond.com/en/hotels/south-america/peru/sanctuary-lodge-machu-picchu/wellness",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Hiram Bingham train",
+      "value": "A four-hour journey from Cusco.",
+      "sourceUrl": "https://www.belmond.com/en/hotels/south-america/peru/sanctuary-lodge-machu-picchu/location",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Rooms and suites",
+      "value": "29 rooms and 2 suites",
+      "sourceUrl": "https://www.belmond.com/en/hotels/south-america/peru/sanctuary-lodge-machu-picchu",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Distance to Machu Picchu",
+      "value": "50 metres",
+      "sourceUrl": "https://www.belmond.com/en/hotels/south-america/peru/sanctuary-lodge-machu-picchu",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Became a Belmond hotel",
+      "value": "1999",
+      "sourceUrl": "https://www.belmond.com/en/hotels/south-america/peru/sanctuary-lodge-machu-picchu",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Restaurants",
+      "value": "Two restaurants and a bar",
+      "sourceUrl": "https://www.belmond.com/en/hotels/south-america/peru/sanctuary-lodge-machu-picchu",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Journey from Cusco",
+      "value": "Four hours aboard the Hiram Bingham train",
+      "sourceUrl": "https://www.belmond.com/en/hotels/south-america/peru/sanctuary-lodge-machu-picchu/location",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Address",
+      "value": "Carretera Hiram Bingham km 7.5, Machu Picchu, Cusco, Peru",
+      "sourceUrl": "https://www.belmond.com/en/hotels/south-america/peru/sanctuary-lodge-machu-picchu/location",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/belmond-sanctuary-lodge/1.jpg",
+      "srcSmall": "/photos/belmond-sanctuary-lodge/1-640.jpg",
+      "srcMid": "/photos/belmond-sanctuary-lodge/1-1000.jpg",
+      "srcHero": "/photos/belmond-sanctuary-lodge/1-2400.jpg",
+      "width": 1600,
+      "height": 900,
+      "credit": "Belmond",
+      "creditUrl": "https://www.belmond.com/en/hotels/south-america/peru/sanctuary-lodge-machu-picchu/modal/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://img.belmond.com/f_auto/t_2400_ar_16_9/photos/mps/mps-lei-activity-machu-picchu15.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/belmond-sanctuary-lodge/2.jpg",
+      "srcSmall": "/photos/belmond-sanctuary-lodge/2-640.jpg",
+      "srcMid": "/photos/belmond-sanctuary-lodge/2-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "Belmond",
+      "creditUrl": "https://www.belmond.com/en/hotels/south-america/peru/sanctuary-lodge-machu-picchu/modal/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://img.belmond.com/f_auto/t_1920_ar_16_9/photos/mps/mps-ext05.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/belmond-sanctuary-lodge/3.jpg",
+      "srcSmall": "/photos/belmond-sanctuary-lodge/3-640.jpg",
+      "srcMid": "/photos/belmond-sanctuary-lodge/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "Belmond",
+      "creditUrl": "https://www.belmond.com/en/hotels/south-america/peru/sanctuary-lodge-machu-picchu/modal/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://img.belmond.com/f_auto/t_1920_ar_16_9/photos/mps/mps-ext-view07.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/belmond-sanctuary-lodge/4.jpg",
+      "srcSmall": "/photos/belmond-sanctuary-lodge/4-640.jpg",
+      "srcMid": "/photos/belmond-sanctuary-lodge/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "Belmond",
+      "creditUrl": "https://www.belmond.com/en/hotels/south-america/peru/sanctuary-lodge-machu-picchu/modal/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://img.belmond.com/f_auto/t_1920_ar_16_9/photos/mps/mps-din-restaurant-tampu05.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/belmond-sanctuary-lodge/5.jpg",
+      "srcSmall": "/photos/belmond-sanctuary-lodge/5-640.jpg",
+      "srcMid": "/photos/belmond-sanctuary-lodge/5-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "Belmond",
+      "creditUrl": "https://www.belmond.com/en/hotels/south-america/peru/sanctuary-lodge-machu-picchu/modal/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://img.belmond.com/f_auto/t_1920_ar_16_9/photos/mps/mps-acc-room-deluxe-terrace01.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/belmond-sanctuary-lodge/6.jpg",
+      "srcSmall": "/photos/belmond-sanctuary-lodge/6-640.jpg",
+      "srcMid": "/photos/belmond-sanctuary-lodge/6-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "Belmond",
+      "creditUrl": "https://www.belmond.com/en/hotels/south-america/peru/sanctuary-lodge-machu-picchu/modal/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://img.belmond.com/f_auto/t_1920_ar_16_9/photos/mps/mps-lei-activity-machu-picchu13.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/belmond-sanctuary-lodge/7.jpg",
+      "srcSmall": "/photos/belmond-sanctuary-lodge/7-640.jpg",
+      "srcMid": "/photos/belmond-sanctuary-lodge/7-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "Belmond",
+      "creditUrl": "https://www.belmond.com/en/hotels/south-america/peru/sanctuary-lodge-machu-picchu/modal/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://img.belmond.com/f_auto/t_1920_ar_16_9/photos/mps/mps-acc-room-deluxe-terrace02.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/belmond-sanctuary-lodge/8.jpg",
+      "srcSmall": "/photos/belmond-sanctuary-lodge/8-640.jpg",
+      "srcMid": "/photos/belmond-sanctuary-lodge/8-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "Belmond",
+      "creditUrl": "https://www.belmond.com/en/hotels/south-america/peru/sanctuary-lodge-machu-picchu/modal/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://img.belmond.com/f_auto/t_1920_ar_16_9/photos/mps/mps-sanctuary-lodge-belmond-hotel01.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-08"
+}
