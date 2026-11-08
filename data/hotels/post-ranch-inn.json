@@ -1,0 +1,247 @@
+{
+  "slug": "post-ranch-inn",
+  "name": "Post Ranch Inn",
+  "operator": "Post Ranch Inn",
+  "brand": "",
+  "country": "United States",
+  "region": "North America",
+  "city": "Big Sur",
+  "area": "California",
+  "type": "resort",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "47900 Highway 1, Big Sur, CA 93920, United States",
+  "lat": 36.23025,
+  "lng": -121.77166,
+  "officialSite": "https://www.postranchinn.com/",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": null,
+  "tagline": "Cliff houses and tree houses on the Big Sur coast, without televisions.",
+  "description": "Post Ranch Inn is a hotel high on the cliffs of Big Sur on Highway 1 in California, with rooms set into the hillside and the redwood forest above the Pacific. There are no televisions or alarm clocks in the rooms, and the three-Key rating of the Michelin Guide places it among 16 hotels in the United States.\n\nThe rooms are set into the coastline with locally inspired decor, and several have curved living roofs covered with grass and wildflowers. Sierra Mar, the spa and the Mercantile shop are on the property.\n\nThe Cliff House looks over the coast from every room, with a private deck and soaking tub. The Pacific Suites have a curved interior with ocean views from the bedroom, living room, shower and soaking tub. Freestanding rooms with curved living roofs have panoramic ocean views, and one room type has a private deck suspended over the ridge with a stainless steel soaking tub. The Coast Houses are circular, mirroring the redwood trees, with a fireplace and a deck, and freestanding triangular rooms sit among the trees.\n\nSierra Mar, high above the ocean, holds a Michelin Green Star for its farm-driven cooking, built on land, sea and a Chef's Garden on the property. A complimentary breakfast of Californian staples is served to hotel guests each morning, and the afternoon prix-fixe menu is open to the public. The wine cellar and an award-winning wine list belong to the restaurant.\n\nThe Post Ranch Spa was redesigned and is nearly twice its original size, with five treatment rooms framed by the redwood forest, a facial room, and a Redwood Sanctuary wellness suite. It is for the exclusive use of hotel guests. Yoga, meditation, shamanic healing sessions and a sleep programme are offered.\n\nPost Ranch Inn suits couples, honeymooners and anyone who wants quiet and a view.",
+  "highlights": [
+    {
+      "label": "Cliff House",
+      "value": "Ocean views from every room, with a private deck and soaking tub.",
+      "sourceUrl": "https://www.postranchinn.com/accommodations/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Treetop rooms",
+      "value": "Freestanding triangular rooms among the trees.",
+      "sourceUrl": "https://www.postranchinn.com/accommodations/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Sierra Mar",
+      "value": "A Michelin Green Star restaurant with a Chef's Garden.",
+      "sourceUrl": "https://www.postranchinn.com/dining/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "Nearly twice its former size, with five treatment rooms framed by redwoods.",
+      "sourceUrl": "https://www.postranchinn.com/experience/spa-wellness/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Michelin Keys",
+      "value": "Three Keys in the Michelin Guide, one of 16 hotels in the United States.",
+      "sourceUrl": "https://www.postranchinn.com/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "No screens",
+      "value": "No televisions or alarm clocks in the rooms.",
+      "sourceUrl": "https://www.postranchinn.com/accommodations/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Michelin Guide",
+      "value": "Three Keys; one of 16 hotels in the United States and the only one in Monterey County",
+      "sourceUrl": "https://www.postranchinn.com/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Sierra Mar",
+      "value": "Michelin Green Star",
+      "sourceUrl": "https://www.postranchinn.com/dining/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "Five treatment rooms; for the exclusive use of hotel guests",
+      "sourceUrl": "https://www.postranchinn.com/experience/spa-wellness/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Rooms",
+      "value": "No televisions or alarm clocks",
+      "sourceUrl": "https://www.postranchinn.com/accommodations/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Address",
+      "value": "47900 Highway 1, Big Sur, CA 93920",
+      "sourceUrl": "https://www.postranchinn.com/contact-us/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/post-ranch-inn/1.jpg",
+      "srcSmall": "/photos/post-ranch-inn/1-640.jpg",
+      "srcMid": "/photos/post-ranch-inn/1-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1058,
+      "credit": "Post Ranch Inn",
+      "creditUrl": "https://www.postranchinn.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://postranchinn.com/wp-content/uploads/2023/09/ACCO_SRR_Pacific_Suites_UPPER_Deck.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/post-ranch-inn/2.jpg",
+      "srcSmall": "/photos/post-ranch-inn/2-640.jpg",
+      "srcMid": "/photos/post-ranch-inn/2-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1058,
+      "credit": "Post Ranch Inn",
+      "creditUrl": "https://www.postranchinn.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://postranchinn.com/wp-content/uploads/2023/09/Private-Houses_Post-House_35A7432.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/post-ranch-inn/3.jpg",
+      "srcSmall": "/photos/post-ranch-inn/3-640.jpg",
+      "srcMid": "/photos/post-ranch-inn/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Post Ranch Inn",
+      "creditUrl": "https://www.postranchinn.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://postranchinn.com/wp-content/uploads/2023/09/Stay-Ocean-House-Coastline_82A9863.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/post-ranch-inn/4.jpg",
+      "srcSmall": "/photos/post-ranch-inn/4-640.jpg",
+      "srcMid": "/photos/post-ranch-inn/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Post Ranch Inn",
+      "creditUrl": "https://www.postranchinn.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://postranchinn.com/wp-content/uploads/2023/09/PostRanchInn-Kodiak-Greenwood_Tree_82A9603.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/post-ranch-inn/5.jpg",
+      "srcSmall": "/photos/post-ranch-inn/5-640.jpg",
+      "srcMid": "/photos/post-ranch-inn/5-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1034,
+      "credit": "Post Ranch Inn",
+      "creditUrl": "https://www.postranchinn.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://postranchinn.com/wp-content/uploads/2023/09/Q3A8341.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/post-ranch-inn/6.jpg",
+      "srcSmall": "/photos/post-ranch-inn/6-640.jpg",
+      "srcMid": "/photos/post-ranch-inn/6-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1089,
+      "credit": "Post Ranch Inn",
+      "creditUrl": "https://www.postranchinn.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://postranchinn.com/wp-content/uploads/2023/09/castro-living-room_82A9679.jpeg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/post-ranch-inn/7.jpg",
+      "srcSmall": "/photos/post-ranch-inn/7-640.jpg",
+      "srcMid": "/photos/post-ranch-inn/7-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Post Ranch Inn",
+      "creditUrl": "https://www.postranchinn.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://postranchinn.com/wp-content/uploads/2023/09/castro-bedroom_82A9737.jpeg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/post-ranch-inn/8.jpg",
+      "srcSmall": "/photos/post-ranch-inn/8-640.jpg",
+      "srcMid": "/photos/post-ranch-inn/8-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Post Ranch Inn",
+      "creditUrl": "https://www.postranchinn.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://postranchinn.com/wp-content/uploads/2023/09/castro-hot-tub_82A9768.jpeg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-08"
+}
