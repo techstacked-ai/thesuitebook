@@ -122,7 +122,7 @@ const description = (h.tagline ? `${h.tagline} ` : '') + (answer || '').slice(0,
 <style>
   .lead { margin: 0; height: 100svh; min-height: 520px; background: var(--midnight); }
   .lead { position: relative; }
-  .lead::after { content: ''; position: absolute; inset: 0 0 auto 0; height: 160px; background: rgba(10, 14, 20, 0.16); pointer-events: none; }
+  .lead::after { content: ''; position: absolute; inset: 0; background: rgba(10, 14, 20, 0.1); pointer-events: none; }
   .lead img { width: 100%; height: 100%; object-fit: cover; }
   .head { text-align: center; padding-top: clamp(72px, 9vw, 128px); }
   .head .label a:hover { color: var(--ink); }
