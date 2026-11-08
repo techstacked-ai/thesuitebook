@@ -1,0 +1,254 @@
+{
+  "slug": "four-seasons-resort-bora-bora",
+  "name": "Four Seasons Resort Bora Bora",
+  "operator": "Four Seasons Hotels and Resorts",
+  "brand": "Four Seasons",
+  "country": "French Polynesia",
+  "region": "Oceania",
+  "city": "Bora Bora",
+  "area": "Motu Tehotu",
+  "type": "island",
+  "themes": [
+    "overwater"
+  ],
+  "adultsOnly": false,
+  "address": "Motu Tehotu, BP 547, Bora Bora 98730, French Polynesia",
+  "lat": -16.4726,
+  "lng": -151.70731,
+  "officialSite": "https://www.fourseasons.com/borabora/",
+  "rooms": 115,
+  "suites": null,
+  "villas": 7,
+  "opened": null,
+  "airport": {
+    "code": "BOB",
+    "minutes": 15
+  },
+  "tagline": "One hundred and eight overwater bungalows on a private motu facing Mount Otemanu.",
+  "description": "Four Seasons Resort Bora Bora stands on a private motu in the lagoon of Bora Bora, in the Society Islands of French Polynesia, facing Mount Otemanu and Mount Pahia. It has 115 accommodations, of which 108 are overwater bungalows and seven are beachfront villas, and every stay includes round-trip airport transfers and daily breakfast.\n\nThe resort is a 15-minute boat ride from Bora Bora Airport. Guests fly from Papeete, 45 minutes, and are met by a Four Seasons team and taken across the lagoon on a custom yacht. A lei and chilled tropical water wait on arrival, and a boat service links the resort with Vaitape Harbour on the main island.\n\nThe design is traditional Tahitian, with teak furniture, Polynesian art and thatched roofs. The overwater bungalows look across the beach, the lagoon or Mount Otemanu from a private terrace, and the suites add a plunge pool and a deck with direct access to the lagoon. They range from one-bedroom suites with views of the lagoon or the mountain to the Two-Bedroom Herenui and the Two-Bedroom Poerava Overwater Bungalow Suites, whose vast private deck suits families. The beachfront villas stand on a private section of white sand with enclosed gardens, hammocks, pools and outdoor dining. The most exclusive is the Three-Bedroom Otemanu Beachfront Villa, an estate with a large private pool and a full outdoor kitchen, on a full acre of beach.\n\nArii Moana serves Mediterranean classics beside the water, Fare Hoa is an open-air beach bar and restaurant with its toes in the sand, and Vaimiti offers Asian cooking and sunset cocktails in an overwater setting. A Polynesian dance and fire show is held on a set evening, and breakfast can arrive by Polynesian canoe. Executive Chef Mickael Messina leads the kitchen.\n\nTe Mahana Spa sits on the lagoon's edge with seven treatment rooms, raised walkways over pandanus trees and the overwater Fare Miti Spa Suite for couples, where treatment beds rest on glass panels above the water. Treatments use monoi oil and tiare flowers. \n\nThe resort suits honeymooners and families who want the view of Otemanu from the deck.",
+  "highlights": [
+    {
+      "label": "Accommodations",
+      "value": "115 in all: 108 overwater bungalows and seven beachfront villas.",
+      "sourceUrl": "https://www.fourseasons.com/borabora/accommodations/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Estate",
+      "value": "The Three-Bedroom Otemanu Beachfront Villa stands on a full acre of beach with a large private pool.",
+      "sourceUrl": "https://www.fourseasons.com/borabora/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "Te Mahana Spa has seven treatment rooms and an overwater couples' suite, Fare Miti.",
+      "sourceUrl": "https://www.fourseasons.com/borabora/spa/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Dining",
+      "value": "Arii Moana, Fare Hoa and Vaimiti, with Executive Chef Mickael Messina.",
+      "sourceUrl": "https://www.fourseasons.com/borabora/dining/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Transfers",
+      "value": "Round-trip airport transfers and daily breakfast are included in every stay.",
+      "sourceUrl": "https://www.fourseasons.com/borabora/accommodations/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Views",
+      "value": "The motu overlooks Mount Otemanu and Mount Pahia.",
+      "sourceUrl": "https://www.fourseasons.com/borabora/accommodations/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Accommodations",
+      "value": "115",
+      "sourceUrl": "https://www.fourseasons.com/borabora/accommodations/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Overwater bungalows",
+      "value": "108",
+      "sourceUrl": "https://www.fourseasons.com/borabora/accommodations/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Beachfront villas",
+      "value": "7",
+      "sourceUrl": "https://www.fourseasons.com/borabora/accommodations/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa treatment rooms",
+      "value": "7",
+      "sourceUrl": "https://www.fourseasons.com/borabora/spa/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Boat transfer",
+      "value": "15 minutes from Bora Bora Airport",
+      "sourceUrl": "https://www.fourseasons.com/borabora/getting-here/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Flight from Papeete",
+      "value": "45 minutes",
+      "sourceUrl": "https://www.fourseasons.com/borabora/getting-here/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Address",
+      "value": "Motu Tehotu, BP 547, Bora Bora 98730",
+      "sourceUrl": "https://www.fourseasons.com/borabora/contact-us/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/four-seasons-resort-bora-bora/1.jpg",
+      "srcSmall": "/photos/four-seasons-resort-bora-bora/1-640.jpg",
+      "srcMid": "/photos/four-seasons-resort-bora-bora/1-1000.jpg",
+      "srcHero": "/photos/four-seasons-resort-bora-bora/1-2400.jpg",
+      "width": 1600,
+      "height": 1063,
+      "credit": "Four Seasons Hotels and Resorts",
+      "creditUrl": "https://www.fourseasons.com/borabora/photos-and-videos/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/content/dam/fourseasons/images/web/BOR/BOR_004_original.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/four-seasons-resort-bora-bora/2.jpg",
+      "srcSmall": "/photos/four-seasons-resort-bora-bora/2-640.jpg",
+      "srcMid": "/photos/four-seasons-resort-bora-bora/2-1000.jpg",
+      "srcHero": "/photos/four-seasons-resort-bora-bora/2-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Four Seasons Hotels and Resorts",
+      "creditUrl": "https://www.fourseasons.com/borabora/photos-and-videos/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/content/dam/fourseasons/images/web/BOR/BOR_1697_original.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/four-seasons-resort-bora-bora/3.jpg",
+      "srcSmall": "/photos/four-seasons-resort-bora-bora/3-640.jpg",
+      "srcMid": "/photos/four-seasons-resort-bora-bora/3-1000.jpg",
+      "srcHero": "/photos/four-seasons-resort-bora-bora/3-2400.jpg",
+      "width": 1600,
+      "height": 1068,
+      "credit": "Four Seasons Hotels and Resorts",
+      "creditUrl": "https://www.fourseasons.com/borabora/photos-and-videos/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/content/dam/fourseasons/images/web/BOR/BOR_1563_original.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/four-seasons-resort-bora-bora/4.jpg",
+      "srcSmall": "/photos/four-seasons-resort-bora-bora/4-640.jpg",
+      "srcMid": "/photos/four-seasons-resort-bora-bora/4-1000.jpg",
+      "srcHero": "/photos/four-seasons-resort-bora-bora/4-2400.jpg",
+      "width": 1600,
+      "height": 1068,
+      "credit": "Four Seasons Hotels and Resorts",
+      "creditUrl": "https://www.fourseasons.com/borabora/photos-and-videos/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/content/dam/fourseasons/images/web/BOR/BOR_1421_original.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/four-seasons-resort-bora-bora/5.jpg",
+      "srcSmall": "/photos/four-seasons-resort-bora-bora/5-640.jpg",
+      "srcMid": "/photos/four-seasons-resort-bora-bora/5-1000.jpg",
+      "srcHero": "/photos/four-seasons-resort-bora-bora/5-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Four Seasons Hotels and Resorts",
+      "creditUrl": "https://www.fourseasons.com/borabora/photos-and-videos/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/content/dam/fourseasons/images/web/BOR/BOR_1432_original.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/four-seasons-resort-bora-bora/6.jpg",
+      "srcSmall": "/photos/four-seasons-resort-bora-bora/6-640.jpg",
+      "srcMid": "/photos/four-seasons-resort-bora-bora/6-1000.jpg",
+      "srcHero": "/photos/four-seasons-resort-bora-bora/6-2400.jpg",
+      "width": 1600,
+      "height": 914,
+      "credit": "Four Seasons Hotels and Resorts",
+      "creditUrl": "https://www.fourseasons.com/borabora/photos-and-videos/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/content/dam/fourseasons/images/web/BOR/BOR_1599_original.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/four-seasons-resort-bora-bora/7.jpg",
+      "srcSmall": "/photos/four-seasons-resort-bora-bora/7-640.jpg",
+      "srcMid": "/photos/four-seasons-resort-bora-bora/7-1000.jpg",
+      "srcHero": "/photos/four-seasons-resort-bora-bora/7-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Four Seasons Hotels and Resorts",
+      "creditUrl": "https://www.fourseasons.com/borabora/photos-and-videos/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/content/dam/fourseasons/images/web/BOR/BOR_1622_original.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": "39659496.0000",
+  "rating": {
+    "score": 9.2,
+    "reviews": 125,
+    "source": "booking",
+    "date": "2026-11-08"
+  },
+  "price": {
+    "from": 3598,
+    "date": "2026-11-08"
+  },
+  "booking": {
+    "supplier": "booking"
+  },
+  "lastVerified": "2026-11-08"
+}

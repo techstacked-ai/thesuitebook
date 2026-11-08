@@ -1,0 +1,223 @@
+{
+  "slug": "longitude-131",
+  "name": "Longitude 131°",
+  "operator": "Beckons",
+  "brand": "Beckons",
+  "country": "Australia",
+  "region": "Oceania",
+  "city": "Uluru",
+  "area": "Uluru-Kata Tjuta National Park, Northern Territory",
+  "type": "wilderness",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "Uluru-Kata Tjuta National Park, Northern Territory, Australia",
+  "lat": -25.24999,
+  "lng": 131.0083,
+  "officialSite": "https://longitude131.com.au/",
+  "rooms": 16,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": null,
+  "tagline": "Sixteen tented pavilions on a dune, facing Uluru.",
+  "description": "Longitude 131° is a camp of sixteen tented pavilions on the red dunes of Australia's Central Desert, with Uluru in view from the end of every bed. It is run by Beckons, and its guided itinerary of the Red Centre is included in the tariff.\n\nUluru is visible from almost every angle: from the tents, from the Dune House and from the Dune Top lounge. Aboriginal artworks hang through the public spaces, beside relics from the region's explorers. The lodge will close from 25 January to 19 April 2027 for a soft refurbishment.\n\nFifteen luxury tents are gathered as if around a campfire. The Dune Pavilion, the premium accommodation, is the only one with views of both World Heritage-listed wonders, Uluru and Kata Tjuta.\n\nThe Dune House is the hub, with a restaurant, a bar and a lounge under a soaring canopy and a terrace over the desert. The menu is creative contemporary Australian cooking, combining premium produce with bush ingredients, including beef from Cape Grim in Tasmania, barramundi from Humpty Doo and shellfish from South Australia. Dinner alternates between the Dune House and Table 131°, the outdoor dinner served on a remote dune top under the stars with paired wines. The Dune Top has a help-yourself bar, a plunge spa and private dining pods.\n\nSpa Kinara, named for the Pitjantjatjara word for moon, is a cool retreat with a design based on a traditional Aboriginal shelter. Every treatment begins with an Aboriginal welcome ceremony, and the products use the bush plants of the Red Centre, such as Kakadu plum, desert lime and Scented Emu Bush, with alkeme spa care.\n\nDays go to guided walks with the lodge's naturalist guides, sunrise and sunset viewings, the Mala Walk and Kantju Gorge at the base of Uluru, Walpa Gorge at Kata Tjuta, and Bruce Munro's Field of Light installation of 50,000 stems.\n\nThe camp suits travellers who want a first view of the Red Centre with guides, and with the comforts of a luxury lodge.",
+  "highlights": [
+    {
+      "label": "Pavilions",
+      "value": "Sixteen tented pavilions among the red dunes.",
+      "sourceUrl": "https://longitude131.com.au/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Dune Pavilion",
+      "value": "The only accommodation with views of both Uluru and Kata Tjuta.",
+      "sourceUrl": "https://longitude131.com.au/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Table 131°",
+      "value": "Dinner on a remote dune top under the stars, with paired wines.",
+      "sourceUrl": "https://longitude131.com.au/dine/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa Kinara",
+      "value": "Treatments begin with an Aboriginal welcome ceremony and use bush ingredients.",
+      "sourceUrl": "https://longitude131.com.au/spa/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Dune Top",
+      "value": "A bar, outdoor lounges, a plunge spa and private dining pods with views of Uluru and Kata Tjuta.",
+      "sourceUrl": "https://longitude131.com.au/lodge/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Experiences",
+      "value": "Guided adventures are included in the tariff, including Field of Light by Bruce Munro.",
+      "sourceUrl": "https://longitude131.com.au/experience/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Tented pavilions",
+      "value": "16",
+      "sourceUrl": "https://longitude131.com.au/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Luxury tents",
+      "value": "15, plus the Dune Pavilion",
+      "sourceUrl": "https://longitude131.com.au/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Operator",
+      "value": "Beckons",
+      "sourceUrl": "https://longitude131.com.au/contact-us/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Closure",
+      "value": "25 January to 19 April 2027 for a soft refurbishment",
+      "sourceUrl": "https://longitude131.com.au/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/longitude-131/1.jpg",
+      "srcSmall": "/photos/longitude-131/1-640.jpg",
+      "srcMid": "/photos/longitude-131/1-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 987,
+      "credit": "Longitude 131°",
+      "creditUrl": "https://longitude131.com.au/lodge/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://longitude131.com.au/wp-content/uploads/2020/03/1.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/longitude-131/2.jpg",
+      "srcSmall": "/photos/longitude-131/2-640.jpg",
+      "srcMid": "/photos/longitude-131/2-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 987,
+      "credit": "Longitude 131°",
+      "creditUrl": "https://longitude131.com.au/lodge/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://longitude131.com.au/wp-content/uploads/2020/03/4.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/longitude-131/3.jpg",
+      "srcSmall": "/photos/longitude-131/3-640.jpg",
+      "srcMid": "/photos/longitude-131/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 987,
+      "credit": "Longitude 131°",
+      "creditUrl": "https://longitude131.com.au/lodge/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://longitude131.com.au/wp-content/uploads/2020/03/2.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/longitude-131/4.jpg",
+      "srcSmall": "/photos/longitude-131/4-640.jpg",
+      "srcMid": "/photos/longitude-131/4-1000.jpg",
+      "srcHero": "/photos/longitude-131/4-2400.jpg",
+      "width": 1600,
+      "height": 606,
+      "credit": "Longitude 131°",
+      "creditUrl": "https://longitude131.com.au/lodge/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://longitude131.com.au/wp-content/uploads/2020/03/L-131-2017-RM-EXTERIOR-FINAL-05-scaled.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/longitude-131/5.jpg",
+      "srcSmall": "/photos/longitude-131/5-640.jpg",
+      "srcMid": "/photos/longitude-131/5-1000.jpg",
+      "srcHero": "/photos/longitude-131/5-2400.jpg",
+      "width": 1600,
+      "height": 903,
+      "credit": "Longitude 131°",
+      "creditUrl": "https://longitude131.com.au/lodge/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://longitude131.com.au/wp-content/uploads/2020/03/1-Uluru-Sunset.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/longitude-131/6.jpg",
+      "srcSmall": "/photos/longitude-131/6-640.jpg",
+      "srcMid": "/photos/longitude-131/6-1000.jpg",
+      "srcHero": "/photos/longitude-131/6-2400.jpg",
+      "width": 1600,
+      "height": 903,
+      "credit": "Longitude 131°",
+      "creditUrl": "https://longitude131.com.au/lodge/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://longitude131.com.au/wp-content/uploads/2020/03/LONG131_30.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/longitude-131/7.jpg",
+      "srcSmall": "/photos/longitude-131/7-640.jpg",
+      "srcMid": "/photos/longitude-131/7-1000.jpg",
+      "srcHero": "/photos/longitude-131/7-2400.jpg",
+      "width": 1600,
+      "height": 606,
+      "credit": "Longitude 131°",
+      "creditUrl": "https://longitude131.com.au/lodge/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://longitude131.com.au/wp-content/uploads/2020/03/L-131-2017-RM-EXTERIOR-FINAL-13-scaled.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-08"
+}

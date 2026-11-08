@@ -1,0 +1,223 @@
+{
+  "slug": "qualia",
+  "name": "qualia",
+  "operator": "qualia",
+  "brand": "",
+  "country": "Australia",
+  "region": "Oceania",
+  "city": "Hamilton Island",
+  "area": "Whitsunday Islands, Queensland",
+  "type": "island",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "Northern tip of Hamilton Island, Whitsunday Islands, Queensland, Australia",
+  "lat": -20.33286,
+  "lng": 148.94937,
+  "officialSite": "https://www.qualia.com.au/",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": null,
+  "tagline": "Pavilions with plunge pools on the northern tip of Hamilton Island.",
+  "description": "qualia is a resort of private pavilions on the northern tip of Hamilton Island, in the Whitsunday group of the Great Barrier Reef Marine Park. It looks across the Coral Sea and the Whitsundays, and Hamilton Island Airport is minutes away by VIP transfer.\n\nThe designer Chris Beckingham realised the resort with the late Bob Oatley and his family, building each pavilion from local and imported timber and stone among native eucalypts. The idea was a retreat that draws the outside in, and the Long Pavilion, a frame of timber and glass open to the breeze, is the focal point. Guests arrive by air at Hamilton Island, by helicopter to qualia's own helipad, or by sea.\n\nThe Windward Pavilions face north-east with panoramic Whitsunday views, a terrace and a private infinity-edge plunge pool. The Seaward Pavilions also face north-east, with Coral Sea views from the bedroom. The Leeward Pavilions face south-west under eucalypts and take the afternoon light and the sunsets, and the Sunset Pavilion has self-catering features. The Beach House and The Residence are the largest. The Residence measures 400 square metres behind its own gates, with two bedrooms, a full kitchen, a standalone studio and a 25-metre infinity-edge lap pool. Every guest has a complimentary electric golf buggy for the island.\n\nPebble Beach Restaurant serves contemporary Australian cooking at the water's edge for lunch and dinner, based on seasonal, sustainable produce. Breakfast and high tea with Charles Heidsieck Champagne are served at the Long Pavilion. Talk and Taste is the signature food and wine pairing, with sake matched to sashimi-grade fish, and a sommelier gives one-to-one sessions.\n\nSpa qualia sits at the centre of the resort with facials, massage, yoga and a steam room, and Pebble Beach has a private gym, an infinity-edge pool with cabanas, and stand-up paddleboards, kayaks and catamarans. Days go to the Great Barrier Reef, Whitehaven Beach, guided walks and scenic flights.\n\nThe resort suits couples and small groups who want privacy and the reef close by.",
+  "highlights": [
+    {
+      "label": "Pavilions",
+      "value": "Windward, Seaward and Leeward Pavilions, each with its own view and plunge pool.",
+      "sourceUrl": "https://www.qualia.com.au/luxury-accommodation/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "The Residence",
+      "value": "400 square metres with two bedrooms, a studio and a 25-metre infinity-edge pool.",
+      "sourceUrl": "https://www.qualia.com.au/luxury-accommodation/the-residence/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Dining",
+      "value": "Pebble Beach Restaurant and the Long Pavilion, with the Talk and Taste pairing.",
+      "sourceUrl": "https://www.qualia.com.au/dining/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Design",
+      "value": "Designed by Chris Beckingham with Bob Oatley and family.",
+      "sourceUrl": "https://www.qualia.com.au/about/our-story/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Transport",
+      "value": "Each stay includes use of a private electric golf buggy.",
+      "sourceUrl": "https://www.qualia.com.au/about/getting-here-and-around/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Helipad",
+      "value": "qualia has its own helipad for arrivals from Australia's gateway airports.",
+      "sourceUrl": "https://www.qualia.com.au/about/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "The Residence",
+      "value": "400 square metres, two bedrooms plus studio, 25-metre infinity-edge pool",
+      "sourceUrl": "https://www.qualia.com.au/luxury-accommodation/the-residence/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Location",
+      "value": "Northern-most tip of Hamilton Island, 16 kilometres from the Queensland coastline",
+      "sourceUrl": "https://www.qualia.com.au/about/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Airport",
+      "value": "Hamilton Island Airport, minutes by VIP transfer",
+      "sourceUrl": "https://www.qualia.com.au/about/getting-here-and-around/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Designer",
+      "value": "Chris Beckingham, with the Oatley family",
+      "sourceUrl": "https://www.qualia.com.au/about/our-story/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/qualia/1.jpg",
+      "srcSmall": "/photos/qualia/1-640.jpg",
+      "srcMid": "/photos/qualia/1-1000.jpg",
+      "srcHero": "/photos/qualia/1-2400.jpg",
+      "width": 1600,
+      "height": 900,
+      "credit": "qualia",
+      "creditUrl": "https://www.qualia.com.au/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://qualia.imgix.net/qualia/media/a-features-(2560x1440)/dine/pebble-beach/qualia-resort-precincts-pebble-beach-pool.jpg?w=2560",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/qualia/2.jpg",
+      "srcSmall": "/photos/qualia/2-640.jpg",
+      "srcMid": "/photos/qualia/2-1000.jpg",
+      "srcHero": "/photos/qualia/2-2400.jpg",
+      "width": 1600,
+      "height": 900,
+      "credit": "qualia",
+      "creditUrl": "https://www.qualia.com.au/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://qualia.imgix.net/qualia/media/a-features-(2560x1440)/stay/the-residence/the-residence.jpg?w=2560",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/qualia/3.jpg",
+      "srcSmall": "/photos/qualia/3-640.jpg",
+      "srcMid": "/photos/qualia/3-1000.jpg",
+      "srcHero": "/photos/qualia/3-2400.jpg",
+      "width": 1600,
+      "height": 900,
+      "credit": "qualia",
+      "creditUrl": "https://www.qualia.com.au/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://qualia.imgix.net/qualia/media/a-features-(2560x1440)/dine/long-pavilion/qualia-resort-long-pavilion-entrance-sea-views.jpg?w=2560",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/qualia/4.jpg",
+      "srcSmall": "/photos/qualia/4-640.jpg",
+      "srcMid": "/photos/qualia/4-1000.jpg",
+      "srcHero": "/photos/qualia/4-2400.jpg",
+      "width": 1600,
+      "height": 900,
+      "credit": "qualia",
+      "creditUrl": "https://www.qualia.com.au/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://qualia.imgix.net/qualia/media/a-features-(2560x1440)/stay/windward/windward-pavilion-private-plunge-pool.jpg?w=2560",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/qualia/5.jpg",
+      "srcSmall": "/photos/qualia/5-640.jpg",
+      "srcMid": "/photos/qualia/5-1000.jpg",
+      "srcHero": "/photos/qualia/5-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "qualia",
+      "creditUrl": "https://www.qualia.com.au/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://qualia.imgix.net/qualia/media/a-features-(2560x1440)/stay/beach-house/qualia-resort-beach-house-patio-view.jpg?w=2560",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/qualia/6.jpg",
+      "srcSmall": "/photos/qualia/6-640.jpg",
+      "srcMid": "/photos/qualia/6-1000.jpg",
+      "srcHero": "/photos/qualia/6-2400.jpg",
+      "width": 1600,
+      "height": 900,
+      "credit": "qualia",
+      "creditUrl": "https://www.qualia.com.au/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://qualia.imgix.net/qualia/media/a-features-(2560x1440)/stay/leeward/qualia-resort-leeward-pavilion-bedroom-views.jpg?w=2560",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/qualia/7.jpg",
+      "srcSmall": "/photos/qualia/7-640.jpg",
+      "srcMid": "/photos/qualia/7-1000.jpg",
+      "srcHero": "/photos/qualia/7-2400.jpg",
+      "width": 1600,
+      "height": 900,
+      "credit": "qualia",
+      "creditUrl": "https://www.qualia.com.au/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://qualia.imgix.net/qualia/media/a-features-(2560x1440)/views/qualia-resort-destination-hamilton-island.jpg?w=2560",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-08"
+}
