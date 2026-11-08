@@ -11,7 +11,7 @@ Routes: oetkerhotels.com, dorchestercollection.com, chevalblanc.com, ritzparis.c
 - Al Maha, a Luxury Collection Desert Resort & Spa: marriott.com was blocking this machine (Akamai) on 8 and 9 Nov. Retry later.
 - Tawaraya Ryokan, Kyoto: kyoto-tawaraya.jp does not resolve from this machine (DNS, curl and the browser all fail).
 - laucala-island: description still 204 words; laucala.com publishes too little to reach 300 without padding.
-- hotel-du-cap-eden-roc: seasonal, open 18 Apr to 17 Oct 2027. It is published; add closedUntil if the owner wants it off the site while closed.
+- hotel-du-cap-eden-roc: seasonal, open 18 Apr to 17 Oct 2027. Stays published while closed (owner, 9 Nov 2026); no closedUntil.
 
 ## Held back
 - fregate-island-private: written with 6 photos, but the island is closed for a construction programme (bookings "reopen soon"); `closedUntil` keeps it off the site. Remove the field when it reopens.
