@@ -1,0 +1,240 @@
+{
+  "slug": "aman-venice",
+  "name": "Aman Venice",
+  "operator": "Aman",
+  "brand": "Aman",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "Venice",
+  "area": "San Polo",
+  "type": "city",
+  "themes": [
+    "palace"
+  ],
+  "adultsOnly": false,
+  "address": "Calle Tiepolo 1364, Sestiere San Polo, Venice, Italy",
+  "lat": 45.4367,
+  "lng": 12.33196,
+  "officialSite": "https://www.aman.com/hotels/aman-venice",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": {
+    "code": "VCE",
+    "minutes": 50
+  },
+  "tagline": "Palazzo Papadopoli on the Grand Canal, with a private garden.",
+  "description": "Aman Venice occupies Palazzo Papadopoli, one of the eight monumental palazzos on the Grand Canal, a short walk from Piazza San Marco. Rococo frescoes and sculpture sit against the restrained interiors of Jean-Michel Gathy, and a private canal-side garden, rare in Venice, is part of the house.\n\nThe palazzo holds 16th-century Sansovino sculptures and Tiepolo frescoes within gallery-like rooms. Almost every room has views of the Grand Canal, and the frescoes and reliefs are by revered Italian artists. The grand ballroom and the piano nobile are used for dinners and events, and the hotel's staircase leads up through painted halls.\n\nRooms start at 47 square metres. The Palazzo Bedroom overlooks the gardens, the Chamber Affresco keeps original frescoes, and the Chamber Luminoso faces southeast. The Palazzo Stanzas Canal Grande range from 57 to 89 square metres, with views over the Grand Canal and the garden terrace. Signature rooms and apartments sit above them.\n\nArva is the main restaurant, serving what the hotel calls harvest cuisine: pastas, risottos, meats, seafood and cicchetti-inspired small plates, with Adriatic fish, Tuscan and Ligurian olive oils and produce from the lagoon. The Palazzo Kitchen Table seats eight around an open teppanyaki-style counter, where Executive Chef Matteo Panfilio serves a ten-course Veneto menu that mixes Italian and Japanese techniques. The Bar sits beneath an original Rotta fresco. From May to October the Grand Canal Garden serves meals from morning to dusk, with a fluted timber bar for aperitivo.\n\nAman Venice also has an intimate spa, offers a Sunday brunch paired with a spa treatment, and arranges private boat tours and gondola outings across the lagoon.\n\nIt suits travellers who want to sleep inside a Venetian palazzo with a garden, near San Marco but on the Grand Canal. The journey from Marco Polo Airport takes 50 minutes, including a water taxi from the mainland dock.",
+  "highlights": [
+    {
+      "label": "Setting",
+      "value": "Palazzo Papadopoli, one of eight monumental palazzos on the Grand Canal.",
+      "sourceUrl": "https://www.aman.com/hotels/aman-venice",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Rooms",
+      "value": "Rooms start at 47 square metres; the Palazzo Stanzas Canal Grande run from 57 to 89.",
+      "sourceUrl": "https://www.aman.com/hotels/aman-venice/rooms",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Restaurant",
+      "value": "Arva serves harvest cuisine with produce from the lagoon.",
+      "sourceUrl": "https://www.aman.com/hotels/aman-venice/dining/arva",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Chef's table",
+      "value": "The Palazzo Kitchen Table seats eight for a ten-course Veneto menu.",
+      "sourceUrl": "https://www.aman.com/hotels/aman-venice/dining/palazzo-kitchen-table",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Garden",
+      "value": "A canal-side garden open for dining from May to October.",
+      "sourceUrl": "https://www.aman.com/hotels/aman-venice/dining",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Interiors",
+      "value": "Interiors by Jean-Michel Gathy among Rococo frescoes and reliefs.",
+      "sourceUrl": "https://www.aman.com/hotels/aman-venice",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Address",
+      "value": "Calle Tiepolo 1364, Sestiere San Polo, Venice, Italy",
+      "sourceUrl": "https://www.aman.com/hotels/aman-venice/contact-us",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Rooms",
+      "value": "From 47 square metres; Palazzo Stanzas Canal Grande 57 to 89 square metres",
+      "sourceUrl": "https://www.aman.com/hotels/aman-venice/rooms",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Interiors",
+      "value": "Jean-Michel Gathy",
+      "sourceUrl": "https://www.aman.com/hotels/aman-venice",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Airport transfer",
+      "value": "Marco Polo Airport (VCE), 50 minutes including a water taxi from the mainland dock",
+      "sourceUrl": "https://www.aman.com/hotels/aman-venice/getting-here-aman-venice",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Palazzo Kitchen Table",
+      "value": "Eight seats, ten-course tasting menu, Executive Chef Matteo Panfilio",
+      "sourceUrl": "https://www.aman.com/hotels/aman-venice/dining/palazzo-kitchen-table",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Garden dining",
+      "value": "May to October",
+      "sourceUrl": "https://www.aman.com/hotels/aman-venice/dining",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/aman-venice/1.jpg",
+      "srcSmall": "/photos/aman-venice/1-640.jpg",
+      "srcMid": "/photos/aman-venice/1-1000.jpg",
+      "srcHero": "/photos/aman-venice/1-2400.jpg",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/hotels/aman-venice",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2022-07/Aman%20Venice.-%20Garden%20-%20Landscape.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/aman-venice/2.jpg",
+      "srcSmall": "/photos/aman-venice/2-640.jpg",
+      "srcMid": "/photos/aman-venice/2-1000.jpg",
+      "srcHero": "/photos/aman-venice/2-2400.jpg",
+      "width": 1600,
+      "height": 987,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/hotels/aman-venice",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2026-05/Aman-Venice--Italy---Resort--The-Bar-2.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/aman-venice/3.jpg",
+      "srcSmall": "/photos/aman-venice/3-640.jpg",
+      "srcMid": "/photos/aman-venice/3-1000.jpg",
+      "srcHero": "/photos/aman-venice/3-2400.jpg",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/hotels/aman-venice",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2024-07/aman-venice_italy_-ballroom.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/aman-venice/4.jpg",
+      "srcSmall": "/photos/aman-venice/4-640.jpg",
+      "srcMid": "/photos/aman-venice/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/hotels/aman-venice",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2023-10/aman_venice_italy_-_exterior.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/aman-venice/5.jpg",
+      "srcSmall": "/photos/aman-venice/5-640.jpg",
+      "srcMid": "/photos/aman-venice/5-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/hotels/aman-venice",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2024-01/aman-venice-arva.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/aman-venice/6.jpg",
+      "srcSmall": "/photos/aman-venice/6-640.jpg",
+      "srcMid": "/photos/aman-venice/6-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/hotels/aman-venice",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2023-04/aman-venice-accommodation-coccinas-apartment-palazzo-stanza-bedroom.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/aman-venice/7.jpg",
+      "srcSmall": "/photos/aman-venice/7-640.jpg",
+      "srcMid": "/photos/aman-venice/7-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/hotels/aman-venice",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2023-05/aman-venice-fourth-floor.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-08"
+}

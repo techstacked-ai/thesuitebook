@@ -1,0 +1,244 @@
+{
+  "slug": "amanzoe",
+  "name": "Amanzoe",
+  "operator": "Aman",
+  "brand": "Aman",
+  "country": "Greece",
+  "region": "Europe",
+  "city": "Porto Heli",
+  "area": "Peloponnese",
+  "type": "resort",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "Porto Heli, Peloponnese, Greece",
+  "lat": null,
+  "lng": null,
+  "officialSite": "https://www.aman.com/resorts/amanzoe",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": {
+    "code": "ATH",
+    "minutes": 147
+  },
+  "tagline": "Pavilions and villas with private pools above the Aegean.",
+  "description": "Amanzoe is a hilltop resort on the east coast of the Peloponnese near Porto Heli, with 360-degree views over olive groves and the Aegean Sea. Pavilions and villas each have a private pool, and a beach club sits at the water below.\n\nThe resort rests among UNESCO-protected ruins and draws on classic Greek architecture, with strong lines and a pared-back look. Standalone Pavilions open onto terraces with private pools. Each is reached through a stone-walled courtyard into a high-ceilinged living area with a king-size bed set in a marble alcove. The Beach Pavilions stand just steps from the water.\n\nThe Villas are Mediterranean homes in extensive gardens, from one to nine bedrooms, each with a private pool and an open terrace with sand-coloured marble floors and dry stone walls. The largest has nine bedrooms over six levels, eleven swimming pools and a private spa. Other villas have 24-metre pools, a gym or an indoor basketball court, and one holds a Skyspace installation by James Turrell with a 22-metre pool.\n\nDining runs across five restaurants and a bar. The Restaurant serves Greek, Mediterranean and international dishes, including the catch of the day cooked in salt dough, with a Greek degustation menu. Akari, Aman's signature Japanese restaurant worldwide, serves washoku with near-360-degree views from the hilltop. Nura sits within the Beach Club with Greek, Spanish and Italian influences. The Pool Restaurant opens for lunch, vegetables come from the resort's own organic gardens, and dinners at the bostani farm are held seasonally. A Greek degustation menu is also served in an open-air amphitheatre.\n\nThe Greek Spa covers 2,850 square metres, takes its inspiration from Hippocrates, and has five indoor and two outdoor spa suites. Aman's wellness ambassador Novak Djokovic curates a longevity programme, and the resort arranges hiking routes to historic villages and monasteries, canoe trips along the bays and family activities.\n\nIt suits travellers who want a private pool and sea views, with the archaeological sites of the Peloponnese and the island of Spetses within reach. Athens is a 2.45-hour drive or a 25-minute helicopter flight away.",
+  "highlights": [
+    {
+      "label": "Pavilions",
+      "value": "Standalone Pavilions with private pools, set on the hillside or on the beach.",
+      "sourceUrl": "https://www.aman.com/resorts/amanzoe/accommodation/pavilions",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Villas",
+      "value": "One- to nine-bedroom villas, each with a private pool; the largest has eleven pools and a private spa.",
+      "sourceUrl": "https://www.aman.com/resorts/amanzoe/accommodation",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Art",
+      "value": "A James Turrell Skyspace installation in one villa, with a 22-metre pool.",
+      "sourceUrl": "https://www.aman.com/resorts/amanzoe/accommodation",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Restaurant",
+      "value": "Akari, Aman's signature Japanese restaurant worldwide, with 360-degree sea views.",
+      "sourceUrl": "https://www.aman.com/resorts/amanzoe/dining",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "A 2,850-square-metre Greek Spa with five indoor and two outdoor suites.",
+      "sourceUrl": "https://www.aman.com/resorts/amanzoe/wellness",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Arrival",
+      "value": "A 25-minute helicopter flight from Athens, or a 2.45-hour drive.",
+      "sourceUrl": "https://www.aman.com/resorts/amanzoe",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Location",
+      "value": "East coast of the Peloponnese near Porto Heli",
+      "sourceUrl": "https://www.aman.com/resorts/amanzoe",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Villas",
+      "value": "One to nine bedrooms, each with a private pool",
+      "sourceUrl": "https://www.aman.com/resorts/amanzoe/accommodation/villas",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Largest villa",
+      "value": "Nine bedrooms over six levels, 11 swimming pools, private spa",
+      "sourceUrl": "https://www.aman.com/resorts/amanzoe/accommodation",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "2,850 square metres; five indoor and two outdoor spa suites",
+      "sourceUrl": "https://www.aman.com/resorts/amanzoe/wellness",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Restaurants",
+      "value": "Five restaurants and a bar: Restaurant, Akari, Nura, Pool Restaurant, Bar",
+      "sourceUrl": "https://www.aman.com/resorts/amanzoe/dining",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Athens",
+      "value": "2.45-hour drive or 25-minute helicopter ride from Athens International Airport",
+      "sourceUrl": "https://www.aman.com/resorts/amanzoe",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Kalamata",
+      "value": "3-hour drive from Kalamata International Airport",
+      "sourceUrl": "https://www.aman.com/resorts/amanzoe",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/amanzoe/1.jpg",
+      "srcSmall": "/photos/amanzoe/1-640.jpg",
+      "srcMid": "/photos/amanzoe/1-1000.jpg",
+      "srcHero": "/photos/amanzoe/1-2400.jpg",
+      "width": 1600,
+      "height": 987,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanzoe",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2026-03/Amanzoe--Greece---Resort--Main-Pool.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/amanzoe/2.jpg",
+      "srcSmall": "/photos/amanzoe/2-640.jpg",
+      "srcMid": "/photos/amanzoe/2-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanzoe",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2023-08/amanzoe_greece_-_porto_heli_exterior.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/amanzoe/3.jpg",
+      "srcSmall": "/photos/amanzoe/3-640.jpg",
+      "srcMid": "/photos/amanzoe/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 987,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanzoe",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2021-03/Beach-Club-Amanzoe_3.jpg.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/amanzoe/4.jpg",
+      "srcSmall": "/photos/amanzoe/4-640.jpg",
+      "srcMid": "/photos/amanzoe/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanzoe",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2024-02/amanzoe-beach-club_1.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/amanzoe/5.jpg",
+      "srcSmall": "/photos/amanzoe/5-640.jpg",
+      "srcMid": "/photos/amanzoe/5-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanzoe",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2023-07/amanzoe-accommodation-villa-22_0.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/amanzoe/6.jpg",
+      "srcSmall": "/photos/amanzoe/6-640.jpg",
+      "srcMid": "/photos/amanzoe/6-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanzoe",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2024-02/amanzoe-main-restaurant.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/amanzoe/7.jpg",
+      "srcSmall": "/photos/amanzoe/7-640.jpg",
+      "srcMid": "/photos/amanzoe/7-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanzoe",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2023-11/amanzoe_greece_-_spa_treatment_room.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-08"
+}

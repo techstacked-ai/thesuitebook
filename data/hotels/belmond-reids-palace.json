@@ -1,0 +1,264 @@
+{
+  "slug": "belmond-reids-palace",
+  "name": "Belmond Reid's Palace",
+  "operator": "Belmond",
+  "brand": "Belmond",
+  "country": "Portugal",
+  "region": "Europe",
+  "city": "Funchal",
+  "area": "Madeira",
+  "type": "resort",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "Estrada Monumental 139, 9000-098 Funchal, Madeira, Portugal",
+  "lat": 32.64054,
+  "lng": -16.92379,
+  "officialSite": "https://www.belmond.com/en/hotels/europe/portugal/reids-palace-madeira",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": 1891,
+  "airport": {
+    "code": "FNC",
+    "minutes": 25
+  },
+  "tagline": "A clifftop grand hotel above Funchal Bay, open since 1891.",
+  "description": "Belmond Reid's Palace is a grand hotel on a clifftop promontory above Funchal Bay on Madeira, in ten acres of subtropical gardens. It has 126 rooms and suites, three swimming pools and a Michelin-starred restaurant, and it has stood since 1891.\n\nWilliam Reid, a Scottish entrepreneur who arrived in Madeira in 1836, conceived the hotel as a luxury destination. Construction began in 1887 and it opened as The New Hotel in 1891, though he died before it was finished. The building was designed as a hotel from the start. The gardens hold subtropical species and flora, and steps lead from them to the Atlantic.\n\nRooms and suites have high ceilings and traditional Madeiran decor, and many have a balcony or patio with views of the ocean, Funchal Bay or the gardens. Junior Suites each have a balcony, with sea views in most and garden views in some. Funchal's centre is a short walk or taxi ride away.\n\nWilliam Restaurant, named for the founder, holds one Michelin star and cooks the produce of Madeira with panoramic views of the coast, and sommelier Alberto Luz chooses the wines. Ristorante Villa Cipriani serves Italian dishes on its terrace, Chef Zélia Santos works with Portuguese cooking and a Mediterranean influence, and afternoon tea overlooking the ocean is a long-standing tradition. A bar, a gelateria from Portofino and breakfast by the heated pool complete the table.\n\nThe three pools are freshwater, saltwater and a natural sea pool, and there is a children's pool and the Fun@Reid's kids' club. The Maré Spa uses native botanicals, and a gym has views over the water. The concierge arranges levada walks, golf and boat trips.\n\nIt suits travellers who want a historic seaside hotel on Madeira with gardens and direct access to the sea. Madeira Airport is a 25-minute drive away.",
+  "highlights": [
+    {
+      "label": "Restaurant",
+      "value": "William Restaurant holds one Michelin star, with panoramic coastal views.",
+      "sourceUrl": "https://www.belmond.com/en/hotels/europe/portugal/reids-palace-madeira/restaurants-and-bars",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Pools",
+      "value": "Three pools: freshwater, saltwater and a natural sea pool.",
+      "sourceUrl": "https://www.belmond.com/en/hotels/europe/portugal/reids-palace-madeira/faqs",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Gardens",
+      "value": "Ten acres of subtropical gardens, with direct access to the Atlantic.",
+      "sourceUrl": "https://www.belmond.com/en/hotels/europe/portugal/reids-palace-madeira/faqs",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "History",
+      "value": "Founded by the Reid family; opened in 1891.",
+      "sourceUrl": "https://www.belmond.com/en/hotels/europe/portugal/reids-palace-madeira",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "The Maré Spa, with ocean-inspired treatments and native botanicals.",
+      "sourceUrl": "https://www.belmond.com/en/hotels/europe/portugal/reids-palace-madeira/wellness",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Arrival",
+      "value": "About 25 minutes by car from Madeira Airport.",
+      "sourceUrl": "https://www.belmond.com/en/hotels/europe/portugal/reids-palace-madeira/faqs",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Rooms and suites",
+      "value": "126 rooms and suites",
+      "sourceUrl": "https://www.belmond.com/en/hotels/europe/portugal/reids-palace-madeira",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Address",
+      "value": "Estrada Monumental 139, 9000-098 Funchal",
+      "sourceUrl": "https://www.belmond.com/en/hotels/europe/portugal/reids-palace-madeira",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Opened",
+      "value": "Construction began 1887; opened 1891 as The New Hotel",
+      "sourceUrl": "https://www.belmond.com/en/hotels/europe/portugal/reids-palace-madeira/faqs",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Gardens",
+      "value": "Ten acres",
+      "sourceUrl": "https://www.belmond.com/en/hotels/europe/portugal/reids-palace-madeira/faqs",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Airport transfer",
+      "value": "Madeira Cristiano Ronaldo International Airport (FNC), about 25 minutes by car",
+      "sourceUrl": "https://www.belmond.com/en/hotels/europe/portugal/reids-palace-madeira/faqs",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Michelin",
+      "value": "William Restaurant, one star",
+      "sourceUrl": "https://www.belmond.com/en/hotels/europe/portugal/reids-palace-madeira/restaurants-and-bars",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/belmond-reids-palace/1.jpg",
+      "srcSmall": "/photos/belmond-reids-palace/1-640.jpg",
+      "srcMid": "/photos/belmond-reids-palace/1-1000.jpg",
+      "srcHero": "/photos/belmond-reids-palace/1-2400.jpg",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Belmond",
+      "creditUrl": "https://www.belmond.com/en/hotels/europe/portugal/reids-palace-madeira",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://img.belmond.com/photos/rds/rds-din-restaurant-brisa-do-mar03.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/belmond-reids-palace/2.jpg",
+      "srcSmall": "/photos/belmond-reids-palace/2-640.jpg",
+      "srcMid": "/photos/belmond-reids-palace/2-1000.jpg",
+      "srcHero": "/photos/belmond-reids-palace/2-2400.jpg",
+      "width": 1600,
+      "height": 2133,
+      "credit": "Belmond",
+      "creditUrl": "https://www.belmond.com/en/hotels/europe/portugal/reids-palace-madeira",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://img.belmond.com/photos/rds/rds-ext24.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/belmond-reids-palace/3.jpg",
+      "srcSmall": "/photos/belmond-reids-palace/3-640.jpg",
+      "srcMid": "/photos/belmond-reids-palace/3-1000.jpg",
+      "srcHero": "/photos/belmond-reids-palace/3-2400.jpg",
+      "width": 1600,
+      "height": 2000,
+      "credit": "Belmond",
+      "creditUrl": "https://www.belmond.com/en/hotels/europe/portugal/reids-palace-madeira",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://img.belmond.com/photos/rds/rds-reids-palace-belmond-hotel-hero01.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/belmond-reids-palace/4.jpg",
+      "srcSmall": "/photos/belmond-reids-palace/4-640.jpg",
+      "srcMid": "/photos/belmond-reids-palace/4-1000.jpg",
+      "srcHero": "/photos/belmond-reids-palace/4-2400.jpg",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Belmond",
+      "creditUrl": "https://www.belmond.com/en/hotels/europe/portugal/reids-palace-madeira",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://img.belmond.com/photos/rds/rds-din-bar-189106.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/belmond-reids-palace/5.jpg",
+      "srcSmall": "/photos/belmond-reids-palace/5-640.jpg",
+      "srcMid": "/photos/belmond-reids-palace/5-1000.jpg",
+      "srcHero": "/photos/belmond-reids-palace/5-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Belmond",
+      "creditUrl": "https://www.belmond.com/en/hotels/europe/portugal/reids-palace-madeira",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://img.belmond.com/photos/rds/rds-acc-room-deluxe-seaview01.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/belmond-reids-palace/6.jpg",
+      "srcSmall": "/photos/belmond-reids-palace/6-640.jpg",
+      "srcMid": "/photos/belmond-reids-palace/6-1000.jpg",
+      "srcHero": "/photos/belmond-reids-palace/6-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Belmond",
+      "creditUrl": "https://www.belmond.com/en/hotels/europe/portugal/reids-palace-madeira",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://img.belmond.com/photos/rds/rds-acc-suite-deluxe06.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/belmond-reids-palace/7.jpg",
+      "srcSmall": "/photos/belmond-reids-palace/7-640.jpg",
+      "srcMid": "/photos/belmond-reids-palace/7-1000.jpg",
+      "srcHero": "/photos/belmond-reids-palace/7-2400.jpg",
+      "width": 1600,
+      "height": 2399,
+      "credit": "Belmond",
+      "creditUrl": "https://www.belmond.com/en/hotels/europe/portugal/reids-palace-madeira",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://img.belmond.com/photos/rds/rds-ext15.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/belmond-reids-palace/8.jpg",
+      "srcSmall": "/photos/belmond-reids-palace/8-640.jpg",
+      "srcMid": "/photos/belmond-reids-palace/8-1000.jpg",
+      "srcHero": "/photos/belmond-reids-palace/8-2400.jpg",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Belmond",
+      "creditUrl": "https://www.belmond.com/en/hotels/europe/portugal/reids-palace-madeira",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://img.belmond.com/photos/rds/rds-acc-suite-superior02.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": "39648259",
+  "rating": {
+    "score": 9.5,
+    "reviews": 519,
+    "source": "booking",
+    "date": "2026-11-08"
+  },
+  "price": {
+    "from": 1182,
+    "date": "2026-11-08"
+  },
+  "booking": {
+    "supplier": "booking"
+  },
+  "lastVerified": "2026-11-08"
+}

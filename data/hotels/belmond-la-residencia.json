@@ -1,0 +1,266 @@
+{
+  "slug": "belmond-la-residencia",
+  "name": "Belmond La Residencia",
+  "operator": "Belmond",
+  "brand": "Belmond",
+  "country": "Spain",
+  "region": "Europe",
+  "city": "Deià",
+  "area": "Mallorca",
+  "type": "resort",
+  "themes": [
+    "mountain"
+  ],
+  "adultsOnly": false,
+  "address": "Son Canals s/n, 07179 Deià, Mallorca, Spain",
+  "lat": 39.74973,
+  "lng": 2.64922,
+  "officialSite": "https://www.belmond.com/en/hotels/europe/spain/la-residencia-mallorca",
+  "rooms": null,
+  "suites": null,
+  "villas": 1,
+  "opened": 1984,
+  "airport": {
+    "code": "PMI",
+    "minutes": 40
+  },
+  "tagline": "Two 17th-century manor houses below the Tramuntana mountains.",
+  "description": "Belmond La Residencia is a mountainside hotel in the village of Deià on Mallorca, below the peaks of the Tramuntana range. It has 67 rooms and suites including one villa, and it opened as a hotel in 1984.\n\nThe core of the estate is a pair of 17th-century manor houses that once belonged to Cistercian monks. The land was irrigated into orchards and olive groves, and the property grew over the centuries alongside Deià's community of artists. The hotel is filled with art and antiques, and its terraces look down terraced gardens to the Mediterranean. The Tramuntana is a UNESCO World Heritage site, and Deià has around 600 inhabitants.\n\nRooms and suites follow the look of a traditional Mallorcan house, furnished with antiques and local artwork, and many have a private terrace or balcony. Among the suites are the Matthew Williamson Suite, the Miró and Sheridan Suites with village views and private gardens, and the secluded Villa Robert Graves, recently refreshed.\n\nDining is built around Mallorca's produce. El Olivo serves seasonal tasting menus inspired by the island's landscapes and history, and Restaurante Miró offers all-day dining with Spanish and Mallorcan flavours. Bar Miró makes cocktails and coffee with art and music in the room. Tramuntana Grill cooks selected meats, fish and vegetables on a Josper charcoal oven beside the pool, and breakfast is served at Son Fony with a buffet of local produce.\n\nThe spa follows the island's landscapes, and the hotel arranges mountain hiking, a poets' walk through Deià, yoga and a gym for the active. Gardens and pool lie below the main houses.\n\nIt suits travellers who want a quiet, artistic base in the mountains, with a bold villa or garden suite for longer stays. Palma de Mallorca Airport is a 40-minute drive, and the hotel offers complimentary valet parking.",
+  "highlights": [
+    {
+      "label": "Suites",
+      "value": "The Matthew Williamson Suite, the Miró and Sheridan Suites and the secluded Villa Robert Graves.",
+      "sourceUrl": "https://www.belmond.com/en/hotels/europe/spain/la-residencia-mallorca/accommodation",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Restaurant",
+      "value": "El Olivo serves seasonal tasting menus inspired by Mallorca.",
+      "sourceUrl": "https://www.belmond.com/en/hotels/europe/spain/la-residencia-mallorca/faqs",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Grill",
+      "value": "Tramuntana Grill cooks over a Josper charcoal oven.",
+      "sourceUrl": "https://www.belmond.com/en/hotels/europe/spain/la-residencia-mallorca/faqs",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "History",
+      "value": "Twin 17th-century manor houses, once a home of Cistercian monks; a hotel since 1984.",
+      "sourceUrl": "https://www.belmond.com/en/hotels/europe/spain/la-residencia-mallorca",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Setting",
+      "value": "Deià, beside the Tramuntana mountains, a UNESCO World Heritage site.",
+      "sourceUrl": "https://www.belmond.com/en/hotels/europe/spain/la-residencia-mallorca/faqs",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Arrival",
+      "value": "About 40 minutes by car from Palma de Mallorca Airport.",
+      "sourceUrl": "https://www.belmond.com/en/hotels/europe/spain/la-residencia-mallorca/faqs",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Rooms and suites",
+      "value": "67 rooms and suites, including 1 villa",
+      "sourceUrl": "https://www.belmond.com/en/hotels/europe/spain/la-residencia-mallorca",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Address",
+      "value": "Son Canals s/n, 07179 Deià, Mallorca",
+      "sourceUrl": "https://www.belmond.com/en/hotels/europe/spain/la-residencia-mallorca",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Opened as a hotel",
+      "value": "1984",
+      "sourceUrl": "https://www.belmond.com/en/hotels/europe/spain/la-residencia-mallorca",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Airport transfer",
+      "value": "Palma de Mallorca Airport (PMI), about 40 minutes by car",
+      "sourceUrl": "https://www.belmond.com/en/hotels/europe/spain/la-residencia-mallorca/faqs",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Parking",
+      "value": "Complimentary valet parking",
+      "sourceUrl": "https://www.belmond.com/en/hotels/europe/spain/la-residencia-mallorca/faqs",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Village",
+      "value": "Deià has around 600 inhabitants",
+      "sourceUrl": "https://www.belmond.com/en/hotels/europe/spain/la-residencia-mallorca/location",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/belmond-la-residencia/1.jpg",
+      "srcSmall": "/photos/belmond-la-residencia/1-640.jpg",
+      "srcMid": "/photos/belmond-la-residencia/1-1000.jpg",
+      "srcHero": "/photos/belmond-la-residencia/1-2400.jpg",
+      "width": 1600,
+      "height": 1200,
+      "credit": "Belmond",
+      "creditUrl": "https://www.belmond.com/en/hotels/europe/spain/la-residencia-mallorca",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://img.belmond.com/photos/lrs/lrs-din-restaurant-miro05.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/belmond-la-residencia/2.jpg",
+      "srcSmall": "/photos/belmond-la-residencia/2-640.jpg",
+      "srcMid": "/photos/belmond-la-residencia/2-1000.jpg",
+      "srcHero": "/photos/belmond-la-residencia/2-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Belmond",
+      "creditUrl": "https://www.belmond.com/en/hotels/europe/spain/la-residencia-mallorca",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://img.belmond.com/photos/lrs/lrs-acc-suite-exclusive06.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/belmond-la-residencia/3.jpg",
+      "srcSmall": "/photos/belmond-la-residencia/3-640.jpg",
+      "srcMid": "/photos/belmond-la-residencia/3-1000.jpg",
+      "srcHero": "/photos/belmond-la-residencia/3-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Belmond",
+      "creditUrl": "https://www.belmond.com/en/hotels/europe/spain/la-residencia-mallorca",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://img.belmond.com/photos/lrs/lrs-acc-suite-jrsuite-executive08.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/belmond-la-residencia/4.jpg",
+      "srcSmall": "/photos/belmond-la-residencia/4-640.jpg",
+      "srcMid": "/photos/belmond-la-residencia/4-1000.jpg",
+      "srcHero": "/photos/belmond-la-residencia/4-2400.jpg",
+      "width": 1600,
+      "height": 1084,
+      "credit": "Belmond",
+      "creditUrl": "https://www.belmond.com/en/hotels/europe/spain/la-residencia-mallorca",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://img.belmond.com/photos/lrs/lrs-acc-suite-presidential-bathroom04.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/belmond-la-residencia/5.jpg",
+      "srcSmall": "/photos/belmond-la-residencia/5-640.jpg",
+      "srcMid": "/photos/belmond-la-residencia/5-1000.jpg",
+      "srcHero": "/photos/belmond-la-residencia/5-2400.jpg",
+      "width": 1600,
+      "height": 1136,
+      "credit": "Belmond",
+      "creditUrl": "https://www.belmond.com/en/hotels/europe/spain/la-residencia-mallorca",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://img.belmond.com/photos/lrs/lrs-acc-room-superior-double07.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/belmond-la-residencia/6.jpg",
+      "srcSmall": "/photos/belmond-la-residencia/6-640.jpg",
+      "srcMid": "/photos/belmond-la-residencia/6-1000.jpg",
+      "srcHero": "/photos/belmond-la-residencia/6-2400.jpg",
+      "width": 1600,
+      "height": 2133,
+      "credit": "Belmond",
+      "creditUrl": "https://www.belmond.com/en/hotels/europe/spain/la-residencia-mallorca",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://img.belmond.com/photos/lrs/lrs-gst-pool26.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/belmond-la-residencia/7.jpg",
+      "srcSmall": "/photos/belmond-la-residencia/7-640.jpg",
+      "srcMid": "/photos/belmond-la-residencia/7-1000.jpg",
+      "srcHero": "/photos/belmond-la-residencia/7-2400.jpg",
+      "width": 1600,
+      "height": 2412,
+      "credit": "Belmond",
+      "creditUrl": "https://www.belmond.com/en/hotels/europe/spain/la-residencia-mallorca",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://img.belmond.com/photos/lrs/lrs-din-restaurant-el-olivo08.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/belmond-la-residencia/8.jpg",
+      "srcSmall": "/photos/belmond-la-residencia/8-640.jpg",
+      "srcMid": "/photos/belmond-la-residencia/8-1000.jpg",
+      "srcHero": "/photos/belmond-la-residencia/8-2400.jpg",
+      "width": 1600,
+      "height": 2324,
+      "credit": "Belmond",
+      "creditUrl": "https://www.belmond.com/en/hotels/europe/spain/la-residencia-mallorca",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://img.belmond.com/photos/lrs/lrs-acc-suite-exclusive14.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": "39108683",
+  "rating": {
+    "score": 9.7,
+    "reviews": 167,
+    "source": "booking",
+    "date": "2026-11-08"
+  },
+  "price": {
+    "from": 1823,
+    "date": "2026-11-08"
+  },
+  "booking": {
+    "supplier": "booking"
+  },
+  "lastVerified": "2026-11-08"
+}
