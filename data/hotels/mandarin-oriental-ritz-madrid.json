@@ -1,0 +1,248 @@
+{
+  "slug": "mandarin-oriental-ritz-madrid",
+  "name": "Mandarin Oriental Ritz, Madrid",
+  "operator": "Mandarin Oriental Hotel Group",
+  "brand": "Mandarin Oriental",
+  "country": "Spain",
+  "region": "Europe",
+  "city": "Madrid",
+  "area": "",
+  "type": "city",
+  "themes": [
+    "palace"
+  ],
+  "adultsOnly": false,
+  "address": "Plaza de la Lealtad 5, 28014 Madrid, Spain",
+  "lat": 40.41555,
+  "lng": -3.69273,
+  "officialSite": "https://www.mandarinoriental.com/en/madrid/hotel-ritz",
+  "rooms": 100,
+  "suites": 53,
+  "villas": null,
+  "opened": 1910,
+  "airport": {
+    "code": "",
+    "minutes": null
+  },
+  "tagline": "Madrid's grand hotel of 1910, beside the Prado, with a garden.",
+  "description": "Mandarin Oriental Ritz, Madrid is the city's grand hotel beside the Prado Museum, on Plaza de la Lealtad. It has 100 rooms and 53 suites, a two-Michelin-star restaurant by Quique Dacosta and a garden open all year round.\n\nThe Ritz opened on 2 October 1910, inaugurated by King Alfonso XIII and Queen Victoria Eugenia, as Spain's first true luxury hotel. It pioneered twenty-four-hour room service and offered ten bathrooms per floor, and a glass dome crowned its winter garden. The relationship with the Royal Household has continued ever since. After the largest renovation in the building's history, it reopened as Mandarin Oriental Ritz, Madrid, with architect Rafael de La-Hoz and the Parisian designers Gilles and Boissier.\n\nGilles and Boissier gave the rooms a residential style inspired by the hotel's history, Spanish culture and art. The Royal Suite and the Presidential Suite have views over the Prado Museum, and two Mandarin Suites in the top-floor turrets have private balconies over the museum and Lealtad Square. Rooms and suites have marble bathrooms, and some overlook the courtyard. The hotel keeps its own art collection, chosen to echo the Prado nearby.\n\nQuique Dacosta designed the culinary operations across the five restaurants and bars. Deessa, his first restaurant in the Spanish capital, sits in the Alfonso XIII room with a terrace over the Ritz Garden and holds two Michelin stars. Its Chronos menu lets guests build their own meal. Palm Court serves all-day dining and afternoon tea under a glass canopy ceiling, Pictura is a bar with a museum-inspired mural behind the counter, and a champagne bar pairs rare champagnes with tapas. The Ritz Garden serves tapas and cocktails outdoors all year, weather permitting.\n\nThe Beauty Concept Spa has a steam room, a Vitality Pool area, an indoor heated pool and a circuit of sensation showers, and a fitness centre is on site.\n\nIt suits travellers who want to walk to the Prado and the Retiro and return to a grand, historic hotel with a garden in the middle of Madrid.",
+  "highlights": [
+    {
+      "label": "Restaurant",
+      "value": "Deessa by Quique Dacosta holds two Michelin stars.",
+      "sourceUrl": "https://www.mandarinoriental.com/en/madrid/hotel-ritz/dine/deessa",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Suites",
+      "value": "The Royal Suite and Presidential Suite look over the Prado Museum.",
+      "sourceUrl": "https://www.mandarinoriental.com/en/madrid/hotel-ritz/about",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Turret suites",
+      "value": "Two Mandarin Suites in the top-floor turrets with private balconies.",
+      "sourceUrl": "https://www.mandarinoriental.com/en/madrid/hotel-ritz/about",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Palm Court",
+      "value": "All-day dining and afternoon tea under a glass canopy ceiling.",
+      "sourceUrl": "https://www.mandarinoriental.com/en/madrid/hotel-ritz/about",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Garden",
+      "value": "The Ritz Garden, open all year round, weather permitting.",
+      "sourceUrl": "https://www.mandarinoriental.com/en/madrid/hotel-ritz/dine/el-jardin-del-ritz",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "A Vitality Pool, an indoor heated pool, a steam room and sensation showers.",
+      "sourceUrl": "https://www.mandarinoriental.com/en/madrid/hotel-ritz/wellness/the-spa",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Rooms and suites",
+      "value": "100 rooms and 53 suites",
+      "sourceUrl": "https://www.mandarinoriental.com/en/madrid/hotel-ritz/about",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Opened",
+      "value": "2 October 1910, inaugurated by King Alfonso XIII",
+      "sourceUrl": "https://www.mandarinoriental.com/en/madrid/hotel-ritz/legacy",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Design",
+      "value": "Gilles & Boissier, with architect Rafael de La-Hoz",
+      "sourceUrl": "https://www.mandarinoriental.com/en/madrid/hotel-ritz/legacy",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Michelin",
+      "value": "Deessa, two stars",
+      "sourceUrl": "https://www.mandarinoriental.com/en/madrid/hotel-ritz/dine/deessa",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Address",
+      "value": "Plaza de la Lealtad 5, Madrid",
+      "sourceUrl": "https://www.mandarinoriental.com/en/madrid/hotel-ritz/about",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "The Beauty Concept Spa",
+      "sourceUrl": "https://www.mandarinoriental.com/en/madrid/hotel-ritz/wellness/the-spa",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/mandarin-oriental-ritz-madrid/1.jpg",
+      "srcSmall": "/photos/mandarin-oriental-ritz-madrid/1-640.jpg",
+      "srcMid": "/photos/mandarin-oriental-ritz-madrid/1-1000.jpg",
+      "srcHero": "/photos/mandarin-oriental-ritz-madrid/1-2400.jpg",
+      "width": 1600,
+      "height": 899,
+      "credit": "Mandarin Oriental Hotel Group",
+      "creditUrl": "https://www.mandarinoriental.com/en/madrid/hotel-ritz",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/RrsSio6SK6NNp9mGbe7M.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/mandarin-oriental-ritz-madrid/2.jpg",
+      "srcSmall": "/photos/mandarin-oriental-ritz-madrid/2-640.jpg",
+      "srcMid": "/photos/mandarin-oriental-ritz-madrid/2-1000.jpg",
+      "srcHero": "/photos/mandarin-oriental-ritz-madrid/2-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Mandarin Oriental Hotel Group",
+      "creditUrl": "https://www.mandarinoriental.com/en/madrid/hotel-ritz",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/Am7AGkhht7HwMdhNeFVe.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/mandarin-oriental-ritz-madrid/3.jpg",
+      "srcSmall": "/photos/mandarin-oriental-ritz-madrid/3-640.jpg",
+      "srcMid": "/photos/mandarin-oriental-ritz-madrid/3-1000.jpg",
+      "srcHero": "/photos/mandarin-oriental-ritz-madrid/3-2400.jpg",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Mandarin Oriental Hotel Group",
+      "creditUrl": "https://www.mandarinoriental.com/en/madrid/hotel-ritz",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/enYS3hSfrUBGecZ4mjqv.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/mandarin-oriental-ritz-madrid/4.jpg",
+      "srcSmall": "/photos/mandarin-oriental-ritz-madrid/4-640.jpg",
+      "srcMid": "/photos/mandarin-oriental-ritz-madrid/4-1000.jpg",
+      "srcHero": "/photos/mandarin-oriental-ritz-madrid/4-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Mandarin Oriental Hotel Group",
+      "creditUrl": "https://www.mandarinoriental.com/en/madrid/hotel-ritz",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/H8U5enphbFo3zGj8XfaK.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/mandarin-oriental-ritz-madrid/5.jpg",
+      "srcSmall": "/photos/mandarin-oriental-ritz-madrid/5-640.jpg",
+      "srcMid": "/photos/mandarin-oriental-ritz-madrid/5-1000.jpg",
+      "srcHero": "/photos/mandarin-oriental-ritz-madrid/5-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Mandarin Oriental Hotel Group",
+      "creditUrl": "https://www.mandarinoriental.com/en/madrid/hotel-ritz",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/HJCJWkxUMHE6wk5zhRiv.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/mandarin-oriental-ritz-madrid/6.jpg",
+      "srcSmall": "/photos/mandarin-oriental-ritz-madrid/6-640.jpg",
+      "srcMid": "/photos/mandarin-oriental-ritz-madrid/6-1000.jpg",
+      "srcHero": "/photos/mandarin-oriental-ritz-madrid/6-2400.jpg",
+      "width": 1600,
+      "height": 1026,
+      "credit": "Mandarin Oriental Hotel Group",
+      "creditUrl": "https://www.mandarinoriental.com/en/madrid/hotel-ritz",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/LM9Tm1bfjTdmgdF463Yy.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/mandarin-oriental-ritz-madrid/7.jpg",
+      "srcSmall": "/photos/mandarin-oriental-ritz-madrid/7-640.jpg",
+      "srcMid": "/photos/mandarin-oriental-ritz-madrid/7-1000.jpg",
+      "srcHero": "/photos/mandarin-oriental-ritz-madrid/7-2400.jpg",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Mandarin Oriental Hotel Group",
+      "creditUrl": "https://www.mandarinoriental.com/en/madrid/hotel-ritz",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/4EXKTXcRRJ7jVC8jd77G.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": "39755803",
+  "rating": {
+    "score": 9.3,
+    "reviews": 237,
+    "source": "booking",
+    "date": "2026-11-08"
+  },
+  "price": {
+    "from": 1621,
+    "date": "2026-11-08"
+  },
+  "booking": {
+    "supplier": "booking"
+  },
+  "lastVerified": "2026-11-08"
+}

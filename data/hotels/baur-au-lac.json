@@ -1,0 +1,266 @@
+{
+  "slug": "baur-au-lac",
+  "name": "Baur au Lac",
+  "operator": "Baur au Lac",
+  "brand": "",
+  "country": "Switzerland",
+  "region": "Europe",
+  "city": "Zurich",
+  "area": "",
+  "type": "city",
+  "themes": [
+    "palace"
+  ],
+  "adultsOnly": false,
+  "address": "Talstrasse 1, 8001 Zurich, Switzerland",
+  "lat": 47.36711,
+  "lng": 8.53934,
+  "officialSite": "https://www.bauraulac.ch/en/",
+  "rooms": 119,
+  "suites": 46,
+  "villas": null,
+  "opened": 1844,
+  "airport": {
+    "code": "",
+    "minutes": null
+  },
+  "tagline": "A family-run hotel in its own park on Lake Zurich since 1844.",
+  "description": "Baur au Lac is an independent, family-run hotel on Talstrasse in the centre of Zurich, set in its own private park beside the lake. It has 119 rooms, including 46 suites, and has been run by the same family since 1844.\n\nJohannes Baur founded the hotel in 1844 on the shore of Lake Zurich, on the remnants of the former war harbour, and placed it to frame the view of the Alps. Empress Elisabeth of Austria spent a whole summer here,. Management passed to Baur's son, then in 1889 to his daughter Emmy and her husband Karl Kracht, and the hotel is now in its seventh generation of the same family. The park gives views across Lake Zurich to the Swiss Alps, keeps 80,000 honey bees and hosts an open-air art programme that has run since 2007.\n\nRooms and suites are individually designed, with handcrafted furniture from fine ateliers. A Double Room is about 35 square metres and a Junior Suite about 50. The Lakeside Junior Suite and City Suite are about 60, the River Suite 65, the Lakeside Suite 70, and the Lakeside Corner Suite about 90 square metres with panoramic views of the park, the lake and the Schanzengraben. Up to seven rooms can be connected.\n\nThe family's own art collection hangs throughout the hotel, with works by Fernando Botero, Pablo Picasso, Louise Bourgeois, Nicolas Party and Annie Leibovitz, among others.\n\nMarguita serves Mediterranean dishes on the water. Baur's Brasserie and Bar is open for lunch and dinner, Le Hall is the all-day lobby restaurant, where afternoon tea runs from October to April. Baur au Lac Vins, the hotel's wine merchant, is selected by Managing Director Marc Almert. The hotel also has a fitness area with views of the lake and the Alps, and a historic electric saloon boat, the Tugenia, on Lake Zurich. Le Petit Palais, the main event space, holds up to 300 guests.\n\nIt suits travellers who want a central address in Zurich's financial district with the quiet of a private park. Bahnhofstrasse and the Old Town are a few minutes' walk, and the hotel arranges transfers from Zurich Airport.",
+  "highlights": [
+    {
+      "label": "Setting",
+      "value": "A private hotel park in the centre of Zurich, with views over the lake to the Alps.",
+      "sourceUrl": "https://www.bauraulac.ch/en/footer-navigation/facts.html",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Suites",
+      "value": "The Lakeside Corner Suite is about 90 square metres, with views of the park and the lake.",
+      "sourceUrl": "https://www.bauraulac.ch/en/footer-navigation/facts.html",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Art",
+      "value": "The family's own collection with works by Botero, Picasso and Bourgeois, and Art in the Park since 2007.",
+      "sourceUrl": "https://www.bauraulac.ch/en/footer-navigation/facts.html",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Restaurant",
+      "value": "Marguita serves Mediterranean dishes by the water.",
+      "sourceUrl": "https://www.bauraulac.ch/en/footer-navigation/facts.html",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Afternoon tea",
+      "value": "Served in Le Hall from October to April.",
+      "sourceUrl": "https://www.bauraulac.ch/en/footer-navigation/facts.html",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Heritage",
+      "value": "Run by the same family since 1844, now in its seventh generation.",
+      "sourceUrl": "https://www.bauraulac.ch/en/footer-navigation/facts.html",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Rooms and suites",
+      "value": "119 rooms, including 46 suites",
+      "sourceUrl": "https://www.bauraulac.ch/en/footer-navigation/facts.html",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Address",
+      "value": "Talstrasse 1, 8001 Zurich",
+      "sourceUrl": "https://www.bauraulac.ch/en/footer-navigation/facts.html",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Founded",
+      "value": "1844 by Johannes Baur; family-run in its seventh generation",
+      "sourceUrl": "https://www.bauraulac.ch/en/footer-navigation/facts.html",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Room sizes",
+      "value": "Double about 35 m²; Junior Suite about 50 m²; River Suite about 65 m²; Lakeside Corner Suite about 90 m²",
+      "sourceUrl": "https://www.bauraulac.ch/en/footer-navigation/facts.html",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Connecting rooms",
+      "value": "Up to seven rooms can be combined",
+      "sourceUrl": "https://www.bauraulac.ch/en/footer-navigation/facts.html",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Le Petit Palais",
+      "value": "Event space for up to 300 guests",
+      "sourceUrl": "https://www.bauraulac.ch/en/footer-navigation/facts.html",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/baur-au-lac/1.jpg",
+      "srcSmall": "/photos/baur-au-lac/1-640.jpg",
+      "srcMid": "/photos/baur-au-lac/1-1000.jpg",
+      "srcHero": "/photos/baur-au-lac/1-2400.jpg",
+      "width": 1600,
+      "height": 811,
+      "credit": "Baur au Lac",
+      "creditUrl": "https://www.bauraulac.ch/en/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.bauraulac.ch/upload/rm/20/25/2025-bal-river-suite-living-room-6.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/baur-au-lac/2.jpg",
+      "srcSmall": "/photos/baur-au-lac/2-640.jpg",
+      "srcMid": "/photos/baur-au-lac/2-1000.jpg",
+      "srcHero": "/photos/baur-au-lac/2-2400.jpg",
+      "width": 1600,
+      "height": 812,
+      "credit": "Baur au Lac",
+      "creditUrl": "https://www.bauraulac.ch/en/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.bauraulac.ch/upload/rm/20/25/2025-bal-lehall-afternoon-tea-005-1-3.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/baur-au-lac/3.jpg",
+      "srcSmall": "/photos/baur-au-lac/3-640.jpg",
+      "srcMid": "/photos/baur-au-lac/3-1000.jpg",
+      "srcHero": "",
+      "width": 1440,
+      "height": 730,
+      "credit": "Baur au Lac",
+      "creditUrl": "https://www.bauraulac.ch/en/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.bauraulac.ch/upload/rm/ba/lh/bal-hotel-entrance-exterior-christmas-winter-seaso-1.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/baur-au-lac/4.jpg",
+      "srcSmall": "/photos/baur-au-lac/4-640.jpg",
+      "srcMid": "/photos/baur-au-lac/4-1000.jpg",
+      "srcHero": "/photos/baur-au-lac/4-2400.jpg",
+      "width": 1600,
+      "height": 2181,
+      "credit": "Baur au Lac",
+      "creditUrl": "https://www.bauraulac.ch/en/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.bauraulac.ch/upload/rm/de/lu/deluxe-suite-salon-2-4.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/baur-au-lac/5.jpg",
+      "srcSmall": "/photos/baur-au-lac/5-640.jpg",
+      "srcMid": "/photos/baur-au-lac/5-1000.jpg",
+      "srcHero": "/photos/baur-au-lac/5-2400.jpg",
+      "width": 1600,
+      "height": 2181,
+      "credit": "Baur au Lac",
+      "creditUrl": "https://www.bauraulac.ch/en/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.bauraulac.ch/upload/rm/le/ha/le-halle-interieur-2236-srgb-dl-14.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/baur-au-lac/6.jpg",
+      "srcSmall": "/photos/baur-au-lac/6-640.jpg",
+      "srcMid": "/photos/baur-au-lac/6-1000.jpg",
+      "srcHero": "/photos/baur-au-lac/6-2400.jpg",
+      "width": 1600,
+      "height": 2181,
+      "credit": "Baur au Lac",
+      "creditUrl": "https://www.bauraulac.ch/en/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.bauraulac.ch/upload/rm/da/ch/dachzinne-rooftop-view-4-4.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/baur-au-lac/7.jpg",
+      "srcSmall": "/photos/baur-au-lac/7-640.jpg",
+      "srcMid": "/photos/baur-au-lac/7-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 2181,
+      "credit": "Baur au Lac",
+      "creditUrl": "https://www.bauraulac.ch/en/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.bauraulac.ch/upload/rm/20/25/2025-marguita-indoor-rotunda-02-web-1.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/baur-au-lac/8.jpg",
+      "srcSmall": "/photos/baur-au-lac/8-640.jpg",
+      "srcMid": "/photos/baur-au-lac/8-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 811,
+      "credit": "Baur au Lac",
+      "creditUrl": "https://www.bauraulac.ch/en/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.bauraulac.ch/upload/rm/ba/lp/bal-petit-palais-festive-setup-hero-shot-5.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": "15259686",
+  "rating": {
+    "score": 9.2,
+    "reviews": 402,
+    "source": "booking",
+    "date": "2026-11-08"
+  },
+  "price": {
+    "from": 1705,
+    "date": "2026-11-08"
+  },
+  "booking": {
+    "supplier": "booking"
+  },
+  "lastVerified": "2026-11-08"
+}
