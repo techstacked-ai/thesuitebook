@@ -63,9 +63,11 @@ const description = open
   .hero { position: relative; height: 100svh; min-height: 560px; overflow: hidden; background: var(--midnight); color: var(--on-dark); }
   .hero img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; animation: arrive 2.8s var(--ease) both; }
   @keyframes arrive { from { opacity: 0; } to { opacity: 1; } }
-  .veil { position: absolute; inset: 0; background: rgba(10, 14, 20, 0.22); }
+  .veil { position: absolute; inset: 0; background: rgba(10, 14, 20, 0.34); }
   .title { position: absolute; inset: 0; display: grid; place-content: center; text-align: center; padding: var(--pad); }
-  .wordmark { font-size: clamp(40px, 7.4vw, 112px); letter-spacing: 0.12em; line-height: 1; margin-right: -0.12em; text-shadow: 0 2px 40px rgba(0, 0, 0, 0.2); }
+  .wordmark { font-size: clamp(40px, 7.4vw, 112px); letter-spacing: 0.07em; line-height: 1; margin-right: -0.07em; }
+  .hero .wordmark { text-shadow: 0 2px 48px rgba(0, 0, 0, 0.3); }
+  .hero .line { text-shadow: 0 1px 24px rgba(0, 0, 0, 0.45); }
   .line { margin-top: clamp(18px, 2.2vw, 30px); font-family: var(--serif); font-style: italic; font-size: clamp(17px, 1.7vw, 23px); }
   .cap { position: absolute; left: var(--pad); bottom: 28px; font-size: 13px; color: var(--on-dark-soft); transition: color 300ms var(--ease); }
   .cap:hover { color: var(--on-dark); }

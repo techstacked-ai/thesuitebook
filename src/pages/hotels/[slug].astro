@@ -22,7 +22,7 @@ if (h.suites) rows.push(['Suites', num(h.suites)]);
 if (h.villas) rows.push(['Villas', num(h.villas)]);
 if (h.opened) rows.push(['Opened', String(h.opened)]);
 if (h.operator || h.brand) rows.push(['Operator', [h.operator, h.brand && h.brand !== h.operator ? `(${h.brand})` : ''].filter(Boolean).join(' ')]);
-if (h.price?.from) rows.push(['Nightly from', `About US$${num(Math.round(h.price.from / 10) * 10)}${h.price.date ? `, ${longDate(h.price.date)}` : ''}`]);
+if (h.price?.from) rows.push(['Nightly from', `About US$${num(Math.round(h.price.from / 10) * 10)}`]);
 if (h.airport?.code) rows.push(['Nearest airport', `${h.airport.code}${h.airport.minutes ? `, ${h.airport.minutes} minutes` : ''}`]);
 if (h.adultsOnly) rows.push(['Guests', 'Adults only']);
 if (h.address) rows.push(['Address', h.address]);
@@ -153,6 +153,7 @@ const description = (h.tagline ? `${h.tagline} ` : '') + (answer || '').slice(0,
   details[open] summary::after { content: '\2212'; }
   details p { padding-bottom: 20px; font-family: var(--serif); font-size: 17px; line-height: 1.6; }
   .sources { margin-top: 88px; }
+  .sources h2 { font-family: var(--sans); font-size: 13px; color: var(--soft); letter-spacing: 0.01em; }
   .sources ul { list-style: none; padding: 0; margin: 14px 0 0; font-size: 13px; display: grid; gap: 6px; overflow-wrap: anywhere; }
   .sources a { border-bottom: 1px solid var(--line); }
   .sources a:hover { border-color: var(--ink); }
