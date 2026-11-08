@@ -1,0 +1,222 @@
+{
+  "slug": "hotel-de-crillon",
+  "name": "Hôtel de Crillon, A Rosewood Hotel",
+  "operator": "Rosewood",
+  "brand": "Rosewood",
+  "country": "France",
+  "region": "Europe",
+  "city": "Paris",
+  "area": "",
+  "type": "city",
+  "themes": [
+    "palace"
+  ],
+  "adultsOnly": false,
+  "address": "10 Place de la Concorde, 75008 Paris, France",
+  "lat": 48.86762,
+  "lng": 2.32137,
+  "officialSite": "https://www.rosewoodhotels.com/en/hotel-de-crillon",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": {
+    "code": "CDG",
+    "minutes": 45
+  },
+  "tagline": "A former royal palace on the Place de la Concorde.",
+  "description": "Hôtel de Crillon is a former royal palace on the Place de la Concorde, run by Rosewood. Its neoclassical façade faces the square, with the Metro stop 20 metres from the door.\n\nThe palace was born from the vision of Louis XV and has received monarchs, artists and tastemakers for centuries. Inside, the Grands Appartements were restored and reimagined by Karl Lagerfeld, and the salons keep their historic character. The Salon des Aigles covers 84 square metres in a setting classified as a Historic Monument, and the Salon Marie-Antoinette opens onto a 34 square metre terrace with views of the Eiffel Tower, the Invalides and the Grand Palais.\n\nAccommodation runs from rooms to suites, signature suites and family suites. The Grand Premier Suites measure 72 square metres, with a separate lounge, a bedroom with a king-size bed and a large marble bathroom. A personal butler and Clefs d'Or concierges look after each stay, and the hotel welcomes pets up to 10 kilograms.\n\nDining is built around Chef Paul Pairet, whose Nonos par Paul Pairet is a lively dining room of revisited classics such as eggs mayonnaise and a roast of the day sliced from the plate. Jardin d'Hiver serves all-day dining and afternoon tea, with desserts by Head Pastry Chef Matthieu Carlin. Bar Les Ambassadeurs has a terrace under the arcades and live music overlooking the square, Butterfly Pâtisserie sells cakes and chocolates, and La Cave holds the wine collection for private dinners.\n\nSense, A Rosewood Spa has a pool, steam room, sauna and experience showers, with a resting area built around a Himalayan salt wall. A hair salon by David Lucas, a fitness studio and monthly wellness sessions complete it. Le Petit Crillon gives children their own welcome, menus, amenities and a costume closet.\n\nIt suits travellers who want a central Paris address with the grandeur of a palace and a family-friendly side, and who plan to move between the Tuileries, the Champs-Élysées and the Right Bank on foot. Charles de Gaulle is 45 to 60 minutes by car, and Orly 30 to 45.",
+  "highlights": [
+    {
+      "label": "Signature suite",
+      "value": "The Grand Premier Suites measure 72 square metres, with a separate lounge and marble bathroom.",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/hotel-de-crillon/accommodation/suites/grand-premier-suite",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Restaurant",
+      "value": "Nonos par Paul Pairet, a dining room of revisited classics by the chef.",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/hotel-de-crillon/dining/nonos-comestibles-paul-pairet",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Tea room",
+      "value": "Jardin d'Hiver serves all-day dining and afternoon tea, with desserts by Matthieu Carlin.",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/hotel-de-crillon/dining/jardin-d-hiver",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Bar",
+      "value": "Bar Les Ambassadeurs has a terrace under the arcades and live music over the Place de la Concorde.",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/hotel-de-crillon/dining/bar-les-ambassadeurs",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "Sense, A Rosewood Spa, with a pool, steam room, sauna and a Himalayan salt wall.",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/hotel-de-crillon/wellness",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Salons",
+      "value": "The Salon des Aigles covers 84 square metres in a setting classified as a Historic Monument.",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/hotel-de-crillon/events/event-space-listing/our-salons-historiques",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Address",
+      "value": "10 Place de la Concorde, 75008 Paris, France",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/hotel-de-crillon/overview/location",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Airport transfer",
+      "value": "Paris Charles de Gaulle 45 to 60 minutes by car; Orly 30 to 45 minutes",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/hotel-de-crillon/overview/location",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Metro",
+      "value": "Concorde station (Line 1), 20 metres from the hotel",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/hotel-de-crillon/overview/location",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Grand Premier Suite",
+      "value": "72 square metres (775 square feet), separate lounge, king-size bed, marble bathroom",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/hotel-de-crillon/accommodation/suites/grand-premier-suite",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "History",
+      "value": "Born from the vision of Louis XV; the Grands Appartements were reimagined by Karl Lagerfeld",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/hotel-de-crillon/overview/our-story",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Salon des Aigles",
+      "value": "84 square metres, classified Historic Monument, up to 240 guests with the connected salons",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/hotel-de-crillon/events/event-space-listing/our-salons-historiques",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Pets",
+      "value": "Pets up to 10 kg are welcome in the rooms",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/hotel-de-crillon/accommodation/suites/grand-premier-suite",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/hotel-de-crillon/1.jpg",
+      "srcSmall": "/photos/hotel-de-crillon/1-640.jpg",
+      "srcMid": "/photos/hotel-de-crillon/1-1000.jpg",
+      "srcHero": "/photos/hotel-de-crillon/1-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Rosewood Hotel Group",
+      "creditUrl": "https://www.rosewoodhotels.com/en/hotel-de-crillon",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.rosewoodhotels.com/is/image/rwhg/crl-83117484-h-tel-de-crillon-facade?wid=2400&fmt=jpeg&qlt=90",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/hotel-de-crillon/2.jpg",
+      "srcSmall": "/photos/hotel-de-crillon/2-640.jpg",
+      "srcMid": "/photos/hotel-de-crillon/2-1000.jpg",
+      "srcHero": "/photos/hotel-de-crillon/2-2400.jpg",
+      "width": 1600,
+      "height": 1068,
+      "credit": "Rosewood Hotel Group",
+      "creditUrl": "https://www.rosewoodhotels.com/en/hotel-de-crillon",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.rosewoodhotels.com/is/image/rwhg/rwcri-jardin-dhiver-2reto-guntli?wid=2400&fmt=jpeg&qlt=90",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/hotel-de-crillon/3.jpg",
+      "srcSmall": "/photos/hotel-de-crillon/3-640.jpg",
+      "srcMid": "/photos/hotel-de-crillon/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Rosewood Hotel Group",
+      "creditUrl": "https://www.rosewoodhotels.com/en/hotel-de-crillon",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.rosewoodhotels.com/is/image/rwhg/htel-de-crillon-suite-duc-de-crillon-209-living-by-reto-guntli?wid=2400&fmt=jpeg&qlt=90",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/hotel-de-crillon/4.jpg",
+      "srcSmall": "/photos/hotel-de-crillon/4-640.jpg",
+      "srcMid": "/photos/hotel-de-crillon/4-1000.jpg",
+      "srcHero": "/photos/hotel-de-crillon/4-2400.jpg",
+      "width": 1600,
+      "height": 1065,
+      "credit": "Rosewood Hotel Group",
+      "creditUrl": "https://www.rosewoodhotels.com/en/hotel-de-crillon",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.rosewoodhotels.com/is/image/rwhg/rwcri-sense-a-rosewood-spa-pool-2020piergab-12?wid=2400&fmt=jpeg&qlt=90",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/hotel-de-crillon/5.jpg",
+      "srcSmall": "/photos/hotel-de-crillon/5-640.jpg",
+      "srcMid": "/photos/hotel-de-crillon/5-1000.jpg",
+      "srcHero": "/photos/hotel-de-crillon/5-2400.jpg",
+      "width": 1600,
+      "height": 1200,
+      "credit": "Rosewood Hotel Group",
+      "creditUrl": "https://www.rosewoodhotels.com/en/hotel-de-crillon",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.rosewoodhotels.com/is/image/rwhg/hotel-de-crillon-328-grand-premier-suite-adrian-houston-2019-2?wid=2400&fmt=jpeg&qlt=90",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/hotel-de-crillon/6.jpg",
+      "srcSmall": "/photos/hotel-de-crillon/6-640.jpg",
+      "srcMid": "/photos/hotel-de-crillon/6-1000.jpg",
+      "srcHero": "/photos/hotel-de-crillon/6-2400.jpg",
+      "width": 1600,
+      "height": 1065,
+      "credit": "Rosewood Hotel Group",
+      "creditUrl": "https://www.rosewoodhotels.com/en/hotel-de-crillon",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.rosewoodhotels.com/is/image/rwhg/hi-crl-83117928-suite-bernstein-605-bedroom?wid=2400&fmt=jpeg&qlt=90",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-08"
+}

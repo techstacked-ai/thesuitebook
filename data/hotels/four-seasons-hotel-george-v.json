@@ -1,0 +1,234 @@
+{
+  "slug": "four-seasons-hotel-george-v",
+  "name": "Four Seasons Hotel George V",
+  "operator": "Four Seasons",
+  "brand": "Four Seasons",
+  "country": "France",
+  "region": "Europe",
+  "city": "Paris",
+  "area": "",
+  "type": "city",
+  "themes": [
+    "palace"
+  ],
+  "adultsOnly": false,
+  "address": "31 Avenue George V, 75008 Paris, France",
+  "lat": 48.86878,
+  "lng": 2.30068,
+  "officialSite": "https://www.fourseasons.com/paris/",
+  "rooms": 243,
+  "suites": null,
+  "villas": null,
+  "opened": 1928,
+  "airport": {
+    "code": "",
+    "minutes": null
+  },
+  "tagline": "An art deco palace of 243 rooms off the Champs-Élysées.",
+  "description": "Four Seasons Hotel George V is an art deco palace in the Golden Triangle, just off the Champs-Élysées. It has 243 rooms, three Michelin-starred restaurants and a spa with a swimming pool, and it was built in 1928.\n\nArrival is through a marble courtyard where the hotel serves wine and tea beneath a glass canopy, in a house hung with 19th-century art. From the upper floors, the terraces look across rooftops to the Eiffel Tower, and many rooms have a private terrace or balcony.\n\nThe 243 rooms include oversized suites with Eiffel Tower views. The signature suites read like Parisian apartments, with classical or Empire-style works of art and balconies over the marble courtyard. The Royal Suites have an oversized living room with a marble fireplace, a dining area that seats up to eight and a 60 square metre private terrace. The Penthouse adds a private conservatory and a bedroom balcony with a four-poster daybed, and breakfast is taken on a terrace backed by the Eiffel Tower.\n\nFood is the reason many guests choose the hotel. Le Cinq, led by Christian Le Squer, holds three Michelin stars for modern French cooking. L'Orangerie, beneath its glass canopy over the courtyard, follows the seasons under Chef Bertrand Noeureuil. Le George holds one star for Italian and Mediterranean cooking by Simone Zanoni. Le Bar, guided by Thibault Méquignon, keeps a rare list of spirits, and La Galerie serves tea and French dishes in the heart of the hotel, with pastry by Michael Bartocetti.\n\nThe Spa has an indoor pool, marble and mosaic-tiled hammams, a fitness centre overlooking the pool, a hair salon and facial, massage and body treatments. Experiences arranged through the hotel include a private visit inside the Eiffel Tower, a private Seine river cruise and wine masterclasses led by the hotel's sommeliers. Small and medium-size pets up to 11 kilograms are welcome.\n\nIt suits travellers who want a grand hotel for a long weekend or a longer stay in central Paris, and who plan to eat at the hotel at least once.",
+  "highlights": [
+    {
+      "label": "Restaurant",
+      "value": "Le Cinq by Christian Le Squer holds three Michelin stars.",
+      "sourceUrl": "https://www.fourseasons.com/paris/dining/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Restaurants",
+      "value": "L'Orangerie and Le George add further Michelin-starred tables under the same roof.",
+      "sourceUrl": "https://www.fourseasons.com/paris/dining/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Royal Suite",
+      "value": "An oversized living room with a marble fireplace, a dining area for eight and a 60 square metre terrace.",
+      "sourceUrl": "https://www.fourseasons.com/paris/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Penthouse",
+      "value": "A private conservatory and a bedroom balcony with a four-poster daybed, facing the Eiffel Tower.",
+      "sourceUrl": "https://www.fourseasons.com/paris/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "An indoor pool, marble and mosaic hammams and a fitness centre overlooking the pool.",
+      "sourceUrl": "https://www.fourseasons.com/paris/spa/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Experience",
+      "value": "A private river cruise on the Seine and a private visit inside the Eiffel Tower.",
+      "sourceUrl": "https://www.fourseasons.com/paris/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Rooms",
+      "value": "243 rooms, including oversized suites with Eiffel Tower views",
+      "sourceUrl": "https://www.fourseasons.com/paris/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Built",
+      "value": "1928, art deco",
+      "sourceUrl": "https://www.fourseasons.com/paris/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Michelin stars",
+      "value": "Three restaurants with six Michelin stars among them",
+      "sourceUrl": "https://www.fourseasons.com/paris/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Royal Suite terrace",
+      "value": "60 square metres",
+      "sourceUrl": "https://www.fourseasons.com/paris/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Pets",
+      "value": "Small and medium-size pets up to 11 kg",
+      "sourceUrl": "https://www.fourseasons.com/paris/accommodations/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/four-seasons-hotel-george-v/1.jpg",
+      "srcSmall": "/photos/four-seasons-hotel-george-v/1-640.jpg",
+      "srcMid": "/photos/four-seasons-hotel-george-v/1-1000.jpg",
+      "srcHero": "/photos/four-seasons-hotel-george-v/1-2400.jpg",
+      "width": 1600,
+      "height": 854,
+      "credit": "Four Seasons Hotels and Resorts",
+      "creditUrl": "https://www.fourseasons.com/paris/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/content/dam/fourseasons/images/web/PAR/PAR_384_original.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/four-seasons-hotel-george-v/2.jpg",
+      "srcSmall": "/photos/four-seasons-hotel-george-v/2-640.jpg",
+      "srcMid": "/photos/four-seasons-hotel-george-v/2-1000.jpg",
+      "srcHero": "/photos/four-seasons-hotel-george-v/2-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Four Seasons Hotels and Resorts",
+      "creditUrl": "https://www.fourseasons.com/paris/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/content/dam/fourseasons/images/web/PAR/PAR_937_original.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/four-seasons-hotel-george-v/3.jpg",
+      "srcSmall": "/photos/four-seasons-hotel-george-v/3-640.jpg",
+      "srcMid": "/photos/four-seasons-hotel-george-v/3-1000.jpg",
+      "srcHero": "/photos/four-seasons-hotel-george-v/3-2400.jpg",
+      "width": 1600,
+      "height": 1068,
+      "credit": "Four Seasons Hotels and Resorts",
+      "creditUrl": "https://www.fourseasons.com/paris/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/content/dam/fourseasons/images/web/PAR/PAR_1678_original.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/four-seasons-hotel-george-v/4.jpg",
+      "srcSmall": "/photos/four-seasons-hotel-george-v/4-640.jpg",
+      "srcMid": "/photos/four-seasons-hotel-george-v/4-1000.jpg",
+      "srcHero": "/photos/four-seasons-hotel-george-v/4-2400.jpg",
+      "width": 1600,
+      "height": 1095,
+      "credit": "Four Seasons Hotels and Resorts",
+      "creditUrl": "https://www.fourseasons.com/paris/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/content/dam/fourseasons/images/web/PAR/PAR_1697_original.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/four-seasons-hotel-george-v/5.jpg",
+      "srcSmall": "/photos/four-seasons-hotel-george-v/5-640.jpg",
+      "srcMid": "/photos/four-seasons-hotel-george-v/5-1000.jpg",
+      "srcHero": "/photos/four-seasons-hotel-george-v/5-2400.jpg",
+      "width": 1600,
+      "height": 903,
+      "credit": "Four Seasons Hotels and Resorts",
+      "creditUrl": "https://www.fourseasons.com/paris/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/content/dam/fourseasons/images/web/PAR/PAR_1384_original.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/four-seasons-hotel-george-v/6.jpg",
+      "srcSmall": "/photos/four-seasons-hotel-george-v/6-640.jpg",
+      "srcMid": "/photos/four-seasons-hotel-george-v/6-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Four Seasons Hotels and Resorts",
+      "creditUrl": "https://www.fourseasons.com/paris/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/content/dam/fourseasons/images/web/PAR/PAR_3633_original.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/four-seasons-hotel-george-v/7.jpg",
+      "srcSmall": "/photos/four-seasons-hotel-george-v/7-640.jpg",
+      "srcMid": "/photos/four-seasons-hotel-george-v/7-1000.jpg",
+      "srcHero": "/photos/four-seasons-hotel-george-v/7-2400.jpg",
+      "width": 1600,
+      "height": 1065,
+      "credit": "Four Seasons Hotels and Resorts",
+      "creditUrl": "https://www.fourseasons.com/paris/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/content/dam/fourseasons/images/web/PAR/PAR_1638_original.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-08"
+}

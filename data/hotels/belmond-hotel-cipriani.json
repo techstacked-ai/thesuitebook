@@ -1,0 +1,238 @@
+{
+  "slug": "belmond-hotel-cipriani",
+  "name": "Belmond Hotel Cipriani",
+  "operator": "Belmond",
+  "brand": "Belmond",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "Venice",
+  "area": "Giudecca",
+  "type": "resort",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "Giudecca 10, 30133 Venice, Italy",
+  "lat": 45.42746,
+  "lng": 12.34054,
+  "officialSite": "https://www.belmond.com/en/hotels/europe/italy/hotel-cipriani-venice",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": 1958,
+  "airport": {
+    "code": "VCE",
+    "minutes": 40
+  },
+  "tagline": "A garden hotel on Giudecca, minutes by launch from St Mark's Square.",
+  "description": "Belmond Hotel Cipriani stands on the eastern tip of Giudecca Island, across the lagoon from St Mark's Square. It has 55 rooms, 20 suites and four signature suites, a seawater pool that is the largest in central Venice, and a Michelin-starred restaurant.\n\nGiuseppe Cipriani began the hotel in 1956 for guests who wanted to be near St Mark's but away from the city's bustle, and it opened two years later. Guests arrive by private launch to the hotel's own pier, and the crossing from the piazza takes minutes. Behind the building lie private gardens, a pool, a library and a red-clay tennis court reserved for guests.\n\nThe rooms and suites carry 18th-century Venetian design and lagoon views, with marbled bathrooms and private balconies or gardens. The four signature suites are named Laguna, Serenissima, Palladio and Dogaressa. The first two take their cues from the lagoon, and the last two hold original artwork and 18th-century antiques. Peter Marino reimagined the suites this year. Junior Suites add a sitting area with a private balcony or garden.\n\nOro is the Michelin-starred restaurant, renovated by Peter Marino, with a menu by Vania Ghedini under the culinary direction of Massimo Bottura, blending Venetian cooking with Moroccan notes. Cip's Club has a wooden terrace with views of St Mark's Square, Il Porticciolo serves lunch by the pool, San Giorgio is a trattoria, and Bar Gabbiano sits beside the pool. Dior runs a Bacaro on the property as well.\n\nThe pool is heated, filtered seawater, and an architectural mix-up between feet and metres made it far larger than planned. The new Dior Spa Hotel Cipriani sits in the gardens, with a gym overlooking them. Activities include open-air yoga, cycling around Venice and visits arranged through the hotel.\n\nIt suits travellers who want gardens and a pool within a short boat ride of Venice's sights. From Marco Polo Airport the private water taxi takes 35 to 45 minutes.",
+  "highlights": [
+    {
+      "label": "Restaurant",
+      "value": "Oro holds a Michelin star, with a menu by Vania Ghedini under Massimo Bottura.",
+      "sourceUrl": "https://www.belmond.com/en/hotels/europe/italy/hotel-cipriani-venice/restaurants-and-bars",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Pool",
+      "value": "The largest pool in central Venice, heated and filled with filtered seawater.",
+      "sourceUrl": "https://www.belmond.com/en/hotels/europe/italy/hotel-cipriani-venice/faqs",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Signature suites",
+      "value": "Laguna, Serenissima, Palladio and Dogaressa.",
+      "sourceUrl": "https://www.belmond.com/en/hotels/europe/italy/hotel-cipriani-venice/accommodation",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "The Dior Spa Hotel Cipriani, set in the gardens.",
+      "sourceUrl": "https://www.belmond.com/en/hotels/europe/italy/hotel-cipriani-venice/wellness",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Tennis",
+      "value": "A red-clay tennis court reserved for guests.",
+      "sourceUrl": "https://www.belmond.com/en/hotels/europe/italy/hotel-cipriani-venice/faqs",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Arrival",
+      "value": "A private water taxi from Marco Polo Airport takes 35 to 45 minutes.",
+      "sourceUrl": "https://www.belmond.com/en/hotels/europe/italy/hotel-cipriani-venice/faqs",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Rooms and suites",
+      "value": "55 rooms, 20 suites, 4 signature suites",
+      "sourceUrl": "https://www.belmond.com/en/hotels/europe/italy/hotel-cipriani-venice/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Address",
+      "value": "Giudecca 10, 30133 Venice, Italy",
+      "sourceUrl": "https://www.belmond.com/en/hotels/europe/italy/hotel-cipriani-venice/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "History",
+      "value": "Founded by Giuseppe Cipriani in 1956; opened two years later",
+      "sourceUrl": "https://www.belmond.com/en/hotels/europe/italy/hotel-cipriani-venice/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Airport transfer",
+      "value": "Marco Polo Airport (VCE) by private water taxi, 35 to 45 minutes",
+      "sourceUrl": "https://www.belmond.com/en/hotels/europe/italy/hotel-cipriani-venice/faqs",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Santa Lucia station",
+      "value": "Private water taxi, 20 to 25 minutes",
+      "sourceUrl": "https://www.belmond.com/en/hotels/europe/italy/hotel-cipriani-venice/faqs",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Suites redesign",
+      "value": "Suites reimagined by Peter Marino",
+      "sourceUrl": "https://www.belmond.com/en/hotels/europe/italy/hotel-cipriani-venice/accommodation",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/belmond-hotel-cipriani/1.jpg",
+      "srcSmall": "/photos/belmond-hotel-cipriani/1-640.jpg",
+      "srcMid": "/photos/belmond-hotel-cipriani/1-1000.jpg",
+      "srcHero": "/photos/belmond-hotel-cipriani/1-2400.jpg",
+      "width": 1600,
+      "height": 850,
+      "credit": "Belmond",
+      "creditUrl": "/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://img.belmond.com/photos/cip/cip-ext-aerial02.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/belmond-hotel-cipriani/2.jpg",
+      "srcSmall": "/photos/belmond-hotel-cipriani/2-640.jpg",
+      "srcMid": "/photos/belmond-hotel-cipriani/2-1000.jpg",
+      "srcHero": "/photos/belmond-hotel-cipriani/2-2400.jpg",
+      "width": 1600,
+      "height": 1200,
+      "credit": "Belmond",
+      "creditUrl": "/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://img.belmond.com/photos/cip/cip-gst-pool20.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/belmond-hotel-cipriani/3.jpg",
+      "srcSmall": "/photos/belmond-hotel-cipriani/3-640.jpg",
+      "srcMid": "/photos/belmond-hotel-cipriani/3-1000.jpg",
+      "srcHero": "/photos/belmond-hotel-cipriani/3-2400.jpg",
+      "width": 1600,
+      "height": 987,
+      "credit": "Belmond",
+      "creditUrl": "/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://img.belmond.com/photos/cip/cip-gst-cabana03.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/belmond-hotel-cipriani/4.jpg",
+      "srcSmall": "/photos/belmond-hotel-cipriani/4-640.jpg",
+      "srcMid": "/photos/belmond-hotel-cipriani/4-1000.jpg",
+      "srcHero": "/photos/belmond-hotel-cipriani/4-2400.jpg",
+      "width": 1600,
+      "height": 2400,
+      "credit": "Belmond",
+      "creditUrl": "/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://img.belmond.com/photos/cip/cip-ext32.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/belmond-hotel-cipriani/5.jpg",
+      "srcSmall": "/photos/belmond-hotel-cipriani/5-640.jpg",
+      "srcMid": "/photos/belmond-hotel-cipriani/5-1000.jpg",
+      "srcHero": "/photos/belmond-hotel-cipriani/5-2400.jpg",
+      "width": 1600,
+      "height": 2142,
+      "credit": "Belmond",
+      "creditUrl": "/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://img.belmond.com/photos/cip/cip-ext27.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/belmond-hotel-cipriani/6.jpg",
+      "srcSmall": "/photos/belmond-hotel-cipriani/6-640.jpg",
+      "srcMid": "/photos/belmond-hotel-cipriani/6-1000.jpg",
+      "srcHero": "/photos/belmond-hotel-cipriani/6-2400.jpg",
+      "width": 1600,
+      "height": 2133,
+      "credit": "Belmond",
+      "creditUrl": "/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://img.belmond.com/photos/cip/cip-din-restaurant-oro35.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/belmond-hotel-cipriani/7.jpg",
+      "srcSmall": "/photos/belmond-hotel-cipriani/7-640.jpg",
+      "srcMid": "/photos/belmond-hotel-cipriani/7-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 2184,
+      "credit": "Belmond",
+      "creditUrl": "/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://img.belmond.com/photos/cip/cip-ext-view02.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-08"
+}

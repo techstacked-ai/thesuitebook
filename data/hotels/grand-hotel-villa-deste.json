@@ -1,0 +1,258 @@
+{
+  "slug": "grand-hotel-villa-deste",
+  "name": "Grand Hotel Villa d'Este",
+  "operator": "Villa d'Este S.p.A.",
+  "brand": "",
+  "country": "Italy",
+  "region": "Europe",
+  "city": "Cernobbio",
+  "area": "Lake Como",
+  "type": "resort",
+  "themes": [
+    "palace"
+  ],
+  "adultsOnly": false,
+  "address": "Via Regina 40, Cernobbio (CO), Italy",
+  "lat": 45.84493,
+  "lng": 9.07982,
+  "officialSite": "https://www.villadeste.com/",
+  "rooms": 151,
+  "suites": null,
+  "villas": 4,
+  "opened": null,
+  "airport": {
+    "code": "",
+    "minutes": null
+  },
+  "tagline": "A 16th-century villa and ten-hectare park on Lake Como.",
+  "description": "Grand Hotel Villa d'Este is a 16th-century villa on the shore of Lake Como in Cernobbio, set in a ten-hectare park. Its 151 rooms and suites are divided between two historic buildings, the Cardinal's Building and the Queen's Pavilion.\n\nThe Cardinal's Building was the summer residence of Cardinal Tolomeo Gallio and was designed in 1568 by Pellegrino Pellegrini, known as Il Tibaldi. It holds 124 rooms, the lobby, the Veranda restaurant and the Canova Bar, and on the piano nobile the Cardinal Suite and two Presidential Rooms. The Queen's Pavilion dates from 1856 and is named after Caroline of Brunswick, Princess of Wales, who owned the villa from 1815 to 1820. Its red trompe-l'oeil façade shelters 27 rooms and suites in pastel tones, with lake views from small balconies.\n\nThe park mixes Baroque, Renaissance and Romantic gardens, with chestnut and magnolia trees, wisteria, citrus groves, camellias, the Fountain of Hercules and the Temple of Telemachus. It belongs to the Grandi Giardini Italiani network.\n\nRooms face the Renaissance courtyard, the gardens or the lake, in warm tones with antique furnishings. The suites are decorated in red, yellow and blue, and the Cardinal Suite measures 108 square metres with a lakeside terrace. Four separate villas stand in the old park for longer stays.\n\nLa Veranda is the main restaurant, where Executive Chef Andrea Guerini, who joined the hotel in 2004 and leads a brigade of 60 chefs, cooks classical Italian dishes with seasonal produce from the sea, the land and the lake. Glass walls open onto a terrace over the water in summer. The Grill serves meat, fish and Mediterranean dishes under old trees near the Queen's Pavilion, and a sundeck stands by the lake. Smart casual is asked at lunch and elegant dress at dinner, with a jacket for men.\n\nThe Sporting Club opened in 1966 with the lake's first floating pool. The estate has eight tennis courts, six of them clay, with Lux Tennis coaches, a gym open around the clock, water sports, a spa with green marble, and a par-69 golf course designed in 1926, 14 kilometres away. Guests can arrive by private boat at the hotel's dock, by helicopter at its helipad, or by ferry to the Cernobbio pier, five minutes on foot.\n\nIt suits travellers who want a historic lakeside estate with sport and gardens, within about an hour and forty minutes by car of the Milan airports.",
+  "highlights": [
+    {
+      "label": "Suite",
+      "value": "The Cardinal Suite measures 108 square metres, with a lakeside terrace.",
+      "sourceUrl": "https://www.villadeste.com/rooms-and-suites",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Restaurant",
+      "value": "La Veranda, with classical Italian cooking by Executive Chef Andrea Guerini.",
+      "sourceUrl": "https://www.villadeste.com/restaurants-and-bars/veranda",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Grill",
+      "value": "The Grill serves meat, fish and Mediterranean dishes in the garden.",
+      "sourceUrl": "https://www.villadeste.com/restaurants-and-bars/grill",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Park",
+      "value": "Ten hectares of gardens with the Fountain of Hercules and the Temple of Telemachus.",
+      "sourceUrl": "https://www.villadeste.com/5-star-hotel-on-como-lake",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Sport",
+      "value": "Eight tennis courts, six of them clay, and the lake's first floating pool from 1966.",
+      "sourceUrl": "https://www.villadeste.com/sport-and-wellness",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Villas",
+      "value": "Four villas in the centuries-old park.",
+      "sourceUrl": "https://www.villadeste.com/rooms-and-suites",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Rooms",
+      "value": "151 rooms: 124 in the Cardinal's Building and 27 in the Queen's Pavilion",
+      "sourceUrl": "https://www.villadeste.com/5-star-hotel-on-como-lake",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Address",
+      "value": "Via Regina 40, Cernobbio (CO), Italy",
+      "sourceUrl": "https://www.villadeste.com/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Cardinal's Building",
+      "value": "Designed in 1568 by Pellegrino Pellegrini; summer residence of Cardinal Tolomeo Gallio",
+      "sourceUrl": "https://www.villadeste.com/5-star-hotel-on-como-lake",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Queen's Pavilion",
+      "value": "Built in 1856 by Baron Ippolito Ciani; named after Caroline of Brunswick",
+      "sourceUrl": "https://www.villadeste.com/5-star-hotel-on-como-lake",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Park",
+      "value": "Ten hectares; member of the Grandi Giardini Italiani network",
+      "sourceUrl": "https://www.villadeste.com/5-star-hotel-on-como-lake",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Cardinal Suite",
+      "value": "108 square metres",
+      "sourceUrl": "https://www.villadeste.com/rooms-and-suites",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Villas",
+      "value": "Four villas in the park",
+      "sourceUrl": "https://www.villadeste.com/rooms-and-suites",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Golf",
+      "value": "Par-69 course designed in 1926, 14 km from the hotel",
+      "sourceUrl": "https://www.villadeste.com/sport-and-wellness",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Access",
+      "value": "Private helipad and private dock; ferry pier five minutes on foot; 100 km from Milan airports, about 1 hour 40 minutes by car",
+      "sourceUrl": "https://www.villadeste.com/how-to-reach-us",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/grand-hotel-villa-deste/1.jpg",
+      "srcSmall": "/photos/grand-hotel-villa-deste/1-640.jpg",
+      "srcMid": "/photos/grand-hotel-villa-deste/1-1000.jpg",
+      "srcHero": "/photos/grand-hotel-villa-deste/1-2400.jpg",
+      "width": 1600,
+      "height": 792,
+      "credit": "Villa d'Este",
+      "creditUrl": "https://www.villadeste.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.villadeste.com/assets/img/00-landing-hero-media-full-desktop-villa-deste_2025-07-31-133900_yxmw.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/grand-hotel-villa-deste/2.jpg",
+      "srcSmall": "/photos/grand-hotel-villa-deste/2-640.jpg",
+      "srcMid": "/photos/grand-hotel-villa-deste/2-1000.jpg",
+      "srcHero": "/photos/grand-hotel-villa-deste/2-2400.jpg",
+      "width": 1600,
+      "height": 792,
+      "credit": "Villa d'Este",
+      "creditUrl": "https://www.villadeste.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.villadeste.com/assets/img/landing-hero-media-full-desktop_2025-07-31-101023_wrzw.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/grand-hotel-villa-deste/3.jpg",
+      "srcSmall": "/photos/grand-hotel-villa-deste/3-640.jpg",
+      "srcMid": "/photos/grand-hotel-villa-deste/3-1000.jpg",
+      "srcHero": "/photos/grand-hotel-villa-deste/3-2400.jpg",
+      "width": 1600,
+      "height": 792,
+      "credit": "Villa d'Este",
+      "creditUrl": "https://www.villadeste.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.villadeste.com/assets/img/00-hero-media-full-room-suite-desktop_2025-07-30-080901_qszj.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/grand-hotel-villa-deste/4.jpg",
+      "srcSmall": "/photos/grand-hotel-villa-deste/4-640.jpg",
+      "srcMid": "/photos/grand-hotel-villa-deste/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Villa d'Este",
+      "creditUrl": "https://www.villadeste.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.villadeste.com/assets/img/06-gallery-veranda.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/grand-hotel-villa-deste/5.jpg",
+      "srcSmall": "/photos/grand-hotel-villa-deste/5-640.jpg",
+      "srcMid": "/photos/grand-hotel-villa-deste/5-1000.jpg",
+      "srcHero": "/photos/grand-hotel-villa-deste/5-2400.jpg",
+      "width": 1600,
+      "height": 792,
+      "credit": "Villa d'Este",
+      "creditUrl": "https://www.villadeste.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.villadeste.com/assets/img/00-landing-hero-media-full-sundeck.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/grand-hotel-villa-deste/6.jpg",
+      "srcSmall": "/photos/grand-hotel-villa-deste/6-640.jpg",
+      "srcMid": "/photos/grand-hotel-villa-deste/6-1000.jpg",
+      "srcHero": "",
+      "width": 1300,
+      "height": 700,
+      "credit": "Villa d'Este",
+      "creditUrl": "https://www.villadeste.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.villadeste.com/assets/img/05-card-carosello-blu-grill.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/grand-hotel-villa-deste/7.jpg",
+      "srcSmall": "/photos/grand-hotel-villa-deste/7-640.jpg",
+      "srcMid": "/photos/grand-hotel-villa-deste/7-1000.jpg",
+      "srcHero": "",
+      "width": 929,
+      "height": 1400,
+      "credit": "Villa d'Este",
+      "creditUrl": "https://www.villadeste.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.villadeste.com/assets/img/07-gallery-cardinale.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-08"
+}
