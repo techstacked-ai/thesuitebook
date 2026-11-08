@@ -1,0 +1,239 @@
+{
+  "slug": "nihi-sumba",
+  "name": "Nihi Sumba",
+  "operator": "NIHI Hotels",
+  "brand": "NIHI",
+  "country": "Indonesia",
+  "region": "Asia",
+  "city": "Sumba",
+  "area": "Nihiwatu Beach, West Sumba",
+  "type": "resort",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "Hoba Wawi, Wanokaka, West Sumba Regency, East Nusa Tenggara 87272, Indonesia",
+  "lat": -9.77796,
+  "lng": 119.37628,
+  "officialSite": "https://nihi.com/sumba/",
+  "rooms": null,
+  "suites": null,
+  "villas": 31,
+  "opened": null,
+  "airport": {
+    "code": "TMC",
+    "minutes": 90
+  },
+  "tagline": "Thirty-one villas and estates along a two-and-a-half-kilometre beach on Sumba.",
+  "description": "Nihi Sumba is a resort of 31 villas and estates on the west coast of Sumba, an Indonesian island twice the size of Bali. It looks onto Nihiwatu Beach, which runs for two and a half kilometres, and to the surf break known as Occy's Left. Guests fly from Bali to Sumba, then travel about 90 minutes by road.\n\nThe resort was shaped by the vision of the entrepreneur and philanthropist Chris Burch, and it holds Three MICHELIN Keys. Horses run free on the beach, and the Sandalwood ponies have been part of the resort since the start. Round-trip transfers from Lede Kalumbang Airport, formerly Tambolaka, are included, in open-air safari vehicles.\n\nNo two villas are alike. Most have a private deck, an indoor-outdoor living space and a plunge pool, and from many the surf at Occy's Left is in view. Raja Mandaka is the principal residence of the estate, with an uninterrupted view of the coast. Marangga Estate stands high above the surf break, and Kanatar Sumba House has privacy and space on the hill above the other villas. The Treehouse sits in ancient forest, with three king bedrooms raised among the trees and looking out on the Indian Ocean, and Mandaka Sumba House has two bedrooms on a jungle slope. Villa Rahasia is the remote, romantic villa at the end of the Spa Safari.\n\nThe Spa Safari is the signature journey. Guests walk 120 minutes along the coast, ride for 90 minutes or drive 15 minutes to the Nihioka Valley, where breakfast is served on a treehouse platform above a private cove. Therapists then work in a private bale on emerald cliffs, with an infinity pool and wild beaches nearby, over a half or a full day. A therapeutic massage for horses can be added.\n\nThe Riding and Racquet Club opened in June 2026 beside the newest villas. It has the Sandalwood Stables, an international tennis court, a clubhouse lounge and bar, and a Monday evening barbecue on the beach beside the horses. Other days go to surfing, paddle boarding, polo on the beach, trekking to waterfalls, and visits to the hilltop villages of Lamboya and the rice fields of Wanukaka.\n\nThe resort suits families, honeymooners, surfers and riders who want an island that few people visit.",
+  "highlights": [
+    {
+      "label": "Villas",
+      "value": "31 villas and estates, no two alike, along Nihiwatu Beach.",
+      "sourceUrl": "https://nihi.com/sumba/villas/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Treehouse",
+      "value": "The Treehouse has three king bedrooms raised in ancient forest.",
+      "sourceUrl": "https://nihi.com/sumba/villas/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Surf",
+      "value": "Occy's Left breaks in front of the resort.",
+      "sourceUrl": "https://nihi.com/sumba/experiences/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa Safari",
+      "value": "A half or full day of treatments at Nihioka, reached on foot, on horseback or by safari vehicle.",
+      "sourceUrl": "https://nihi.com/sumba/experience/spa-safari/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Riding and Racquet Club",
+      "value": "Opened in June 2026 with the Sandalwood Stables, a tennis court and a clubhouse bar.",
+      "sourceUrl": "https://nihi.com/sumba/riding-racquet-club/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Recognition",
+      "value": "Awarded Three MICHELIN Keys.",
+      "sourceUrl": "https://nihi.com/sumba/experiences/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Villas and estates",
+      "value": "31",
+      "sourceUrl": "https://nihi.com/sumba/villas/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Beach",
+      "value": "Nihiwatu Beach, 2.5 kilometres",
+      "sourceUrl": "https://nihi.com/sumba/villas/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Flights",
+      "value": "Daily flights from Bali (DPS) to Sumba (TMC)",
+      "sourceUrl": "https://nihi.com/sumba/how-to-get-here/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Road transfer",
+      "value": "90 minutes from Lede Kalumbang Airport, included in the nightly rate",
+      "sourceUrl": "https://nihi.com/sumba/how-to-get-here/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Address",
+      "value": "Hoba Wawi, Wanokaka, West Sumba Regency, East Nusa Tenggara 87272",
+      "sourceUrl": "https://nihi.com/sumba/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "MICHELIN Keys",
+      "value": "Three",
+      "sourceUrl": "https://nihi.com/sumba/experiences/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/nihi-sumba/1.jpg",
+      "srcSmall": "/photos/nihi-sumba/1-640.jpg",
+      "srcMid": "/photos/nihi-sumba/1-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 978,
+      "credit": "NIHI Sumba",
+      "creditUrl": "https://nihi.com/sumba/villas/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://nihi.com/sumba/wp-content/uploads/sites/2/2025/09/raja-mandaka-aerial-nihi-sumba.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/nihi-sumba/2.jpg",
+      "srcSmall": "/photos/nihi-sumba/2-640.jpg",
+      "srcMid": "/photos/nihi-sumba/2-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "NIHI Sumba",
+      "creditUrl": "https://nihi.com/sumba/villas/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://nihi.com/sumba/wp-content/uploads/sites/2/2025/10/mamole-treehouse-nihi-sumba-1.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/nihi-sumba/3.jpg",
+      "srcSmall": "/photos/nihi-sumba/3-640.jpg",
+      "srcMid": "/photos/nihi-sumba/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "NIHI Sumba",
+      "creditUrl": "https://nihi.com/sumba/villas/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://nihi.com/sumba/wp-content/uploads/sites/2/2026/02/putri-hillrise-villa-nihi-sumba-aerial.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/nihi-sumba/4.jpg",
+      "srcSmall": "/photos/nihi-sumba/4-640.jpg",
+      "srcMid": "/photos/nihi-sumba/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "NIHI Sumba",
+      "creditUrl": "https://nihi.com/sumba/villas/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://nihi.com/sumba/wp-content/uploads/sites/2/2025/10/horses-running-on-nihiwatu-beach.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/nihi-sumba/5.jpg",
+      "srcSmall": "/photos/nihi-sumba/5-640.jpg",
+      "srcMid": "/photos/nihi-sumba/5-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "NIHI Sumba",
+      "creditUrl": "https://nihi.com/sumba/villas/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://nihi.com/sumba/wp-content/uploads/sites/2/2025/09/nihi-sumba-hillrise-villa-bedroom-with-ocean-view.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/nihi-sumba/6.jpg",
+      "srcSmall": "/photos/nihi-sumba/6-640.jpg",
+      "srcMid": "/photos/nihi-sumba/6-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "NIHI Sumba",
+      "creditUrl": "https://nihi.com/sumba/villas/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://nihi.com/sumba/wp-content/uploads/sites/2/2025/10/wulla-marapu-nihi-sumba-aerial-view-2.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/nihi-sumba/7.jpg",
+      "srcSmall": "/photos/nihi-sumba/7-640.jpg",
+      "srcMid": "/photos/nihi-sumba/7-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 978,
+      "credit": "NIHI Sumba",
+      "creditUrl": "https://nihi.com/sumba/villas/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://nihi.com/sumba/wp-content/uploads/sites/2/2025/10/nihi-sumba-beach.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": "39618489.0000",
+  "rating": {
+    "score": 9.7,
+    "reviews": 35,
+    "source": "booking",
+    "date": "2026-11-08"
+  },
+  "price": {
+    "from": 2519,
+    "date": "2026-11-08"
+  },
+  "booking": {
+    "supplier": "booking"
+  },
+  "lastVerified": "2026-11-08"
+}

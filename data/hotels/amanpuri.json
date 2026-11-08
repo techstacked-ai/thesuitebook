@@ -1,0 +1,231 @@
+{
+  "slug": "amanpuri",
+  "name": "Amanpuri",
+  "operator": "Aman",
+  "brand": "Aman",
+  "country": "Thailand",
+  "region": "Asia",
+  "city": "Phuket",
+  "area": "Pansea Beach",
+  "type": "resort",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "Pansea Beach, Cherngtalay, Thalang District, Phuket 83110, Thailand",
+  "lat": 7.9862,
+  "lng": 98.2728,
+  "officialSite": "https://www.aman.com/resorts/amanpuri",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": {
+    "code": "HKT",
+    "minutes": 30
+  },
+  "tagline": "Aman's first resort, on a private peninsula above Pansea Beach in Phuket.",
+  "description": "Amanpuri is Aman's first resort, on a peninsula on the west coast of Phuket, above the white sand of Pansea Beach. It has pavilions and villas among coconut palms, four restaurants, and a Holistic Wellness Centre with twelve treatment rooms. Phuket International Airport is a 30-minute drive.\n\nThe resort sits on a hillside over a private stretch of the Andaman Sea. Pavilions are connected by raised walkways through the greenery. Most have terraces over the sea or the garden, and many have private pools. Round-trip airport transfers from Phuket are included for stays of three nights or more.\n\nThe Pavilions have oversized bathrooms and dressing areas. They range from the Deluxe Ocean Pool Pavilion to the Two-Bedroom Pool Pavilion, which has two free-standing bedrooms, a terrace and a private pool. At the tip of the peninsula stand the Villas, in seclusion, each with its own pool and personal chef. The largest are the Five-Bedroom Ocean Villa and the Nine-Bedroom Ocean Villa, both facing the Andaman Sea with a private swimming pool. Breakfast, afternoon tea, in-room refreshments and daily movement classes are included, together with the gym, infrared sauna, steam room, cold plunge pool and tennis courts.\n\nThe restaurants cover Thailand, Japan, Italy and the Mediterranean. Buabok, beside the pool, is the main restaurant and serves southern Thai dishes. Akari is Japanese, Arva is Italian, and Nura sits on Pansea Beach with Mediterranean dishes through the day. The Sunset Terrace is the bar for the view over the Andaman Sea, and the Beach Terrace, open seasonally, adds wood-fired pizzas. Between November and March the Ocean Platform Sunset Experience takes guests to a private platform on the water for canapes and Champagne.\n\nThe Holistic Wellness Centre offers spa and medical treatments, wellness immersions of three nights or more, traditional Chinese medicine and a Mobility and Recovery Programme by Novak Djokovic. It also has hydrotherapy rooms, a glass-walled gym over the sea, Pilates and yoga studios, a Muay Thai ring and four floodlit tennis courts.\n\nThe resort suits travellers who want a long beach holiday with privacy, wellness programmes and a villa for a family or a group.",
+  "highlights": [
+    {
+      "label": "Villas",
+      "value": "The Five-Bedroom and Nine-Bedroom Ocean Villas face the Andaman Sea, each with a private pool.",
+      "sourceUrl": "https://www.aman.com/resorts/amanpuri/accommodation",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Pavilions",
+      "value": "Pavilions are linked by raised walkways, and many have private pools.",
+      "sourceUrl": "https://www.aman.com/resorts/amanpuri",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Wellness",
+      "value": "The Holistic Wellness Centre has 12 treatment rooms, hydrotherapy and a Muay Thai ring.",
+      "sourceUrl": "https://www.aman.com/resorts/amanpuri/wellness",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Thai dining",
+      "value": "Buabok, beside the pool, is the main restaurant, serving southern Thai cooking.",
+      "sourceUrl": "https://www.aman.com/resorts/amanpuri/dining",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Ocean Platform",
+      "value": "From November to March, a private platform on the sea serves canapes and Champagne at sunset.",
+      "sourceUrl": "https://www.aman.com/resorts/amanpuri/dining",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Tennis",
+      "value": "Four floodlit tennis courts, with lessons.",
+      "sourceUrl": "https://www.aman.com/resorts/amanpuri/wellness",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Wellness treatment rooms",
+      "value": "12",
+      "sourceUrl": "https://www.aman.com/resorts/amanpuri/wellness",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Tennis courts",
+      "value": "4, floodlit",
+      "sourceUrl": "https://www.aman.com/resorts/amanpuri/wellness",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Airport transfer",
+      "value": "30-minute drive from Phuket International Airport (HKT); round-trip transfers included for stays of three nights or more",
+      "sourceUrl": "https://www.aman.com/resorts/amanpuri",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Restaurants",
+      "value": "Akari, Arva, Buabok and Nura",
+      "sourceUrl": "https://www.aman.com/resorts/amanpuri/dining",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Address",
+      "value": "Pansea Beach, Cherngtalay, Thalang District, Phuket 83110",
+      "sourceUrl": "https://www.aman.com/resorts/amanpuri",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Aman's first resort",
+      "value": "Amanpuri",
+      "sourceUrl": "https://www.aman.com/resorts/amanpuri",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/amanpuri/1.jpg",
+      "srcSmall": "/photos/amanpuri/1-640.jpg",
+      "srcMid": "/photos/amanpuri/1-1000.jpg",
+      "srcHero": "/photos/amanpuri/1-2400.jpg",
+      "width": 1600,
+      "height": 987,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanpuri/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2025-09/Amanpuri%2C%20Thailand_003.tif_.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/amanpuri/2.jpg",
+      "srcSmall": "/photos/amanpuri/2-640.jpg",
+      "srcMid": "/photos/amanpuri/2-1000.jpg",
+      "srcHero": "/photos/amanpuri/2-2400.jpg",
+      "width": 1600,
+      "height": 987,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanpuri/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2025-09/Amanpuri%2C%20Thailand_095.tif_.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/amanpuri/3.jpg",
+      "srcSmall": "/photos/amanpuri/3-640.jpg",
+      "srcMid": "/photos/amanpuri/3-1000.jpg",
+      "srcHero": "/photos/amanpuri/3-2400.jpg",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanpuri/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2025-09/Amanpuri-_Thailand_-_Resort-_Pavilion-_Main_Pool-_Lobby.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/amanpuri/4.jpg",
+      "srcSmall": "/photos/amanpuri/4-640.jpg",
+      "srcMid": "/photos/amanpuri/4-1000.jpg",
+      "srcHero": "/photos/amanpuri/4-2400.jpg",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanpuri/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2025-09/Amanpuri-_Thailand_-_Resort-_Villa_7-_Outdoor-_Sunset_0.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/amanpuri/5.jpg",
+      "srcSmall": "/photos/amanpuri/5-640.jpg",
+      "srcMid": "/photos/amanpuri/5-1000.jpg",
+      "srcHero": "/photos/amanpuri/5-2400.jpg",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanpuri/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2025-09/Amanpuri-_Thailand_-_Resort-_Villa_35-_7-Bedroom_Ocean_Villa-_Outdoor-_Pool.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/amanpuri/6.jpg",
+      "srcSmall": "/photos/amanpuri/6-640.jpg",
+      "srcMid": "/photos/amanpuri/6-1000.jpg",
+      "srcHero": "/photos/amanpuri/6-2400.jpg",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanpuri/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2025-09/Amanpuri-_Thailand_-_Dining-_Arva-_Interior-_Table_Set_Up.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/amanpuri/7.jpg",
+      "srcSmall": "/photos/amanpuri/7-640.jpg",
+      "srcMid": "/photos/amanpuri/7-1000.jpg",
+      "srcHero": "/photos/amanpuri/7-2400.jpg",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanpuri/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2025-09/Amanpuri-_Thailand_-_Resort-_Pool_Terrace-_Pool.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-08"
+}
