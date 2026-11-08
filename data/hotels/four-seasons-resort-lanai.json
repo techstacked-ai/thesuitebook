@@ -1,0 +1,253 @@
+{
+  "slug": "four-seasons-resort-lanai",
+  "name": "Four Seasons Resort Lanai",
+  "operator": "Four Seasons Hotels and Resorts",
+  "brand": "Four Seasons",
+  "country": "United States",
+  "region": "North America",
+  "city": "Lanai City",
+  "area": "Lanai, Hawaii",
+  "type": "island",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "1 Manele Bay Road, Lanai City, Hawaii 96763, United States",
+  "lat": 20.74157,
+  "lng": -156.89642,
+  "officialSite": "https://www.fourseasons.com/lanai/",
+  "rooms": 213,
+  "suites": 45,
+  "villas": null,
+  "opened": null,
+  "airport": null,
+  "tagline": "An oceanfront resort above Hulopoe Bay on Hawaii's last unspoiled island.",
+  "description": "Four Seasons Resort Lanai sits on the southeastern coast of Lanai, above Hulopoe Bay, with 213 guest rooms including 45 suites. The island is Hawaii's smallest publicly accessible inhabited island, with 30 miles of paved road and no traffic lights.\n\nThe resort overlooks the bay, with lagoon-style pools, botanical gardens with koi ponds and waterfalls, and a Jack Nicklaus-designed golf course beside it. It is a five-minute drive from the harbour and 20 minutes from Lanai City, the former plantation town.\n\nRooms are Garden View rooms, Ocean View rooms, and oceanfront rooms with balconies, with larger suites above them. The corner suites have a wall of windows opening to a private lanai and a separate living area. The Penthouse Suites are the most expansive on the resort, with private balconies over the Pacific and full marble bathrooms. The two-bedroom Alii Suite has a media room, a library and three open-air lanais, and the Ohana suites are made for families of four or five.\n\nNobu Lanai, run by Chef Nobu Matsuhisa, serves Japanese cooking above the ocean, with an interactive 15-course teppanyaki dinner. Osteria Mozza Lanai brings Nancy Silverton's Italian menu to the island with local ingredients. A poolside restaurant above Hulopoe Bay serves lunch, Malibu Farm Bar serves coffee by day and cocktails by night, and a restaurant at Manele Golf Course looks across 180 degrees of water.\n\nHawanawana Spa offers scrubs, wraps, facials and treatments inspired by the island, with AntiGravity yoga in silk hammocks. The golf course has ocean views on every hole. Guests can book a private catamaran charter, a sloop cruise to snorkel and listen for humpback whales, a 4x4 Jeep tour and sessions with the resort's Lanai cultural advisors.\n\nLanai Air flies round trip between Honolulu and Lanai, included with every stay, and shuttles on the island are complimentary. The resort suits couples, families and golfers who want an island with no crowds.",
+  "highlights": [
+    {
+      "label": "Rooms and suites",
+      "value": "213 guest rooms, 45 of them suites.",
+      "sourceUrl": "https://www.fourseasons.com/lanai/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Penthouse Suites",
+      "value": "The most expansive on the resort, with private balconies over the Pacific.",
+      "sourceUrl": "https://www.fourseasons.com/lanai/accommodations/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Nobu Lanai",
+      "value": "Japanese cuisine by Chef Nobu Matsuhisa, with a 15-course teppanyaki dinner.",
+      "sourceUrl": "https://www.fourseasons.com/lanai/dining/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Osteria Mozza Lanai",
+      "value": "Nancy Silverton's Italian menu with island ingredients.",
+      "sourceUrl": "https://www.fourseasons.com/lanai/dining/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Manele Golf Course",
+      "value": "A Jack Nicklaus-designed course with ocean views on every hole.",
+      "sourceUrl": "https://www.fourseasons.com/lanai/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Lanai Air",
+      "value": "Round-trip flights from Honolulu included in every booking.",
+      "sourceUrl": "https://www.fourseasons.com/lanai/getting-here/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Guest rooms",
+      "value": "213, including 45 suites",
+      "sourceUrl": "https://www.fourseasons.com/lanai/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Island roads",
+      "value": "30 miles (48 kilometres) of paved roads and no traffic lights",
+      "sourceUrl": "https://www.fourseasons.com/lanai/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Alii Suite",
+      "value": "Two bedrooms, media room, library and three open-air lanais",
+      "sourceUrl": "https://www.fourseasons.com/lanai/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Harbour and town",
+      "value": "Five minutes from the harbour, 20 minutes from Lanai City",
+      "sourceUrl": "https://www.fourseasons.com/lanai/getting-here/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Lanai Air",
+      "value": "Round-trip flights from Honolulu (HNL) to Lanai (LNY) included with arrivals by 31 December 2027",
+      "sourceUrl": "https://www.fourseasons.com/lanai/getting-here/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Address",
+      "value": "1 Manele Bay Road, Lanai City, Hawaii 96763",
+      "sourceUrl": "https://www.fourseasons.com/lanai/contact-us/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/four-seasons-resort-lanai/1.jpg",
+      "srcSmall": "/photos/four-seasons-resort-lanai/1-640.jpg",
+      "srcMid": "/photos/four-seasons-resort-lanai/1-1000.jpg",
+      "srcHero": "/photos/four-seasons-resort-lanai/1-2400.jpg",
+      "width": 1600,
+      "height": 1043,
+      "credit": "Four Seasons Hotels and Resorts",
+      "creditUrl": "https://www.fourseasons.com/lanai/photos-and-videos/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/alt/img-opt/~80.2400/publish/content/dam/fourseasons/images/web/MAN/MAN_1803_original.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/four-seasons-resort-lanai/2.jpg",
+      "srcSmall": "/photos/four-seasons-resort-lanai/2-640.jpg",
+      "srcMid": "/photos/four-seasons-resort-lanai/2-1000.jpg",
+      "srcHero": "/photos/four-seasons-resort-lanai/2-2400.jpg",
+      "width": 1600,
+      "height": 900,
+      "credit": "Four Seasons Hotels and Resorts",
+      "creditUrl": "https://www.fourseasons.com/lanai/photos-and-videos/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/alt/img-opt/~80.2400/publish/content/dam/fourseasons/images/web/MAN/MAN_1135_aspect16x9.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/four-seasons-resort-lanai/3.jpg",
+      "srcSmall": "/photos/four-seasons-resort-lanai/3-640.jpg",
+      "srcMid": "/photos/four-seasons-resort-lanai/3-1000.jpg",
+      "srcHero": "/photos/four-seasons-resort-lanai/3-2400.jpg",
+      "width": 1600,
+      "height": 1185,
+      "credit": "Four Seasons Hotels and Resorts",
+      "creditUrl": "https://www.fourseasons.com/lanai/photos-and-videos/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/alt/img-opt/~80.2400/publish/content/dam/fourseasons/images/web/MAN/MAN_1257_original.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/four-seasons-resort-lanai/4.jpg",
+      "srcSmall": "/photos/four-seasons-resort-lanai/4-640.jpg",
+      "srcMid": "/photos/four-seasons-resort-lanai/4-1000.jpg",
+      "srcHero": "/photos/four-seasons-resort-lanai/4-2400.jpg",
+      "width": 1600,
+      "height": 1005,
+      "credit": "Four Seasons Hotels and Resorts",
+      "creditUrl": "https://www.fourseasons.com/lanai/photos-and-videos/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/alt/img-opt/~80.2400/publish/content/dam/fourseasons/images/web/MAN/MAN_1700_original.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/four-seasons-resort-lanai/5.jpg",
+      "srcSmall": "/photos/four-seasons-resort-lanai/5-640.jpg",
+      "srcMid": "/photos/four-seasons-resort-lanai/5-1000.jpg",
+      "srcHero": "/photos/four-seasons-resort-lanai/5-2400.jpg",
+      "width": 1600,
+      "height": 1131,
+      "credit": "Four Seasons Hotels and Resorts",
+      "creditUrl": "https://www.fourseasons.com/lanai/photos-and-videos/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/alt/img-opt/~80.2400/publish/content/dam/fourseasons/images/web/MAN/MAN_1808_original.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/four-seasons-resort-lanai/6.jpg",
+      "srcSmall": "/photos/four-seasons-resort-lanai/6-640.jpg",
+      "srcMid": "/photos/four-seasons-resort-lanai/6-1000.jpg",
+      "srcHero": "/photos/four-seasons-resort-lanai/6-2400.jpg",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Four Seasons Hotels and Resorts",
+      "creditUrl": "https://www.fourseasons.com/lanai/photos-and-videos/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/alt/img-opt/~80.2400/publish/content/dam/fourseasons/images/web/MAN/MAN_1858_original.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/four-seasons-resort-lanai/7.jpg",
+      "srcSmall": "/photos/four-seasons-resort-lanai/7-640.jpg",
+      "srcMid": "/photos/four-seasons-resort-lanai/7-1000.jpg",
+      "srcHero": "/photos/four-seasons-resort-lanai/7-2400.jpg",
+      "width": 1600,
+      "height": 1147,
+      "credit": "Four Seasons Hotels and Resorts",
+      "creditUrl": "https://www.fourseasons.com/lanai/photos-and-videos/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/alt/img-opt/~80.2400/publish/content/dam/fourseasons/images/web/MAN/MAN_1265_original.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/four-seasons-resort-lanai/8.jpg",
+      "srcSmall": "/photos/four-seasons-resort-lanai/8-640.jpg",
+      "srcMid": "/photos/four-seasons-resort-lanai/8-1000.jpg",
+      "srcHero": "/photos/four-seasons-resort-lanai/8-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Four Seasons Hotels and Resorts",
+      "creditUrl": "https://www.fourseasons.com/lanai/photos-and-videos/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/alt/img-opt/~80.2400/publish/content/dam/fourseasons/images/web/MAN/MAN_1429_original.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-08"
+}

@@ -1,0 +1,247 @@
+{
+  "slug": "one-and-only-palmilla",
+  "name": "One&Only Palmilla",
+  "operator": "Kerzner International",
+  "brand": "One&Only",
+  "country": "Mexico",
+  "region": "Caribbean & Latin America",
+  "city": "San José del Cabo",
+  "area": "Los Cabos, Baja California Sur",
+  "type": "resort",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "Carretera Transpeninsular, Tourist Corridor, San José del Cabo, Baja California Sur 23400, Mexico",
+  "lat": 23.00668,
+  "lng": -109.71403,
+  "officialSite": "https://www.oneandonlyresorts.com/palmilla",
+  "rooms": null,
+  "suites": null,
+  "villas": 2,
+  "opened": null,
+  "airport": null,
+  "tagline": "A beachfront resort on swimmable water in Los Cabos, with two private villas.",
+  "description": "One&Only Palmilla is a beachfront resort on the Tourist Corridor of Los Cabos, on the Baja peninsula. Its shores are swimmable, and it has rooms, suites and two private villas, a 22,000 square foot spa and a golf club beside it.\n\nThe resort looks over Palmilla Bay and the Sea of Cortez, with Palmilla Golf Club alongside. Its rooms, suites and restaurants are built around terraces and balconies facing the water.\n\nThe Oceanfront Palmilla Room measures 56 to 65 square metres and has an alfresco daybed, and a version with a plunge pool has its own terrace. The Oceanfront Junior Suites measure 70 square metres, with a sea-facing terrace or balcony, and the Grand One-Bedroom Suite with a plunge pool is 140 square metres. Two-Bedroom Oceanfront Family Rooms have separate sleeping quarters and adjoining terraces. Villa One covers 1,390 square metres and Villa Cortez 975 square metres, each with four bedrooms and a private pool, sleeping ten or twelve guests.\n\nAgua sits above the Sea of Cortez for breakfast, lunch and dinner. Breeze is an open-air brasserie serving Baja cooking and local seafood, and the Pelican Beach Bar and Grill serves Mediterranean-inspired dishes steps from the water. SEARED is a steakhouse built around a wood-fired grill, and Hoshi serves Nikkei cuisine. Sala 56, Lucille's Kitchen and Lucille's Cafe overlook Palmilla Golf Club.\n\nThe One&Only Spa covers 22,000 square feet of indoor and outdoor space, and its hydrotherapy facilities include a sauna, steam room, cold plunge and jacuzzi. Mexican spiritual healers lead temazcal and other ceremonies rooted in Mayan heritage, and the Baja Wellness Collective brings visiting practitioners. The fitness studio and hydrotherapy facilities are complimentary to resort guests, and there is a beauty salon, a pedicure studio and a barber. Golf is played at Palmilla Golf Club next door.\n\nThe resort suits couples and families, and larger groups who take one of the villas.",
+  "highlights": [
+    {
+      "label": "Villa One",
+      "value": "A four-bedroom villa of 1,390 square metres with a private pool.",
+      "sourceUrl": "https://www.oneandonlyresorts.com/palmilla/stays",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Villa Cortez",
+      "value": "A four-bedroom villa of 975 square metres with a private pool.",
+      "sourceUrl": "https://www.oneandonlyresorts.com/palmilla/stays",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Swimmable beach",
+      "value": "A beachfront on swimmable shores in Los Cabos.",
+      "sourceUrl": "https://www.oneandonlyresorts.com/palmilla",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "22,000 square feet, with temazcal and Mexican healing ceremonies.",
+      "sourceUrl": "https://www.oneandonlyresorts.com/palmilla/wellness",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Agua",
+      "value": "Mexican cuisine above the Sea of Cortez.",
+      "sourceUrl": "https://www.oneandonlyresorts.com/palmilla/dining",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "SEARED",
+      "value": "A steakhouse built around a wood-fired grill.",
+      "sourceUrl": "https://www.oneandonlyresorts.com/palmilla/dining",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Villas",
+      "value": "Two: Villa One (1,390 sq m) and Villa Cortez (975 sq m), four bedrooms each",
+      "sourceUrl": "https://www.oneandonlyresorts.com/palmilla/accommodation/villas",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Oceanfront Palmilla Room",
+      "value": "56 to 65 square metres",
+      "sourceUrl": "https://www.oneandonlyresorts.com/palmilla/accommodation/rooms",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Oceanfront Junior Suite",
+      "value": "70 square metres",
+      "sourceUrl": "https://www.oneandonlyresorts.com/palmilla/accommodation/suites",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "22,000 square feet (2,044 square metres)",
+      "sourceUrl": "https://www.oneandonlyresorts.com/palmilla/wellness",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Address",
+      "value": "Carr. Transpeninsular, Tourist Corridor, San José del Cabo, Baja California Sur 23400",
+      "sourceUrl": "https://www.oneandonlyresorts.com/palmilla/contact-us",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/one-and-only-palmilla/1.jpg",
+      "srcSmall": "/photos/one-and-only-palmilla/1-640.jpg",
+      "srcMid": "/photos/one-and-only-palmilla/1-1000.jpg",
+      "srcHero": "/photos/one-and-only-palmilla/1-2400.jpg",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Kerzner International",
+      "creditUrl": "https://www.oneandonlyresorts.com/palmilla",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://dam.kerzner.com/i/kerzner/OO_Palmilla_Drone_Morning_0875_MASTER%20(1)?wid=2400",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/one-and-only-palmilla/2.jpg",
+      "srcSmall": "/photos/one-and-only-palmilla/2-640.jpg",
+      "srcMid": "/photos/one-and-only-palmilla/2-1000.jpg",
+      "srcHero": "/photos/one-and-only-palmilla/2-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Kerzner International",
+      "creditUrl": "https://www.oneandonlyresorts.com/palmilla",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://dam.kerzner.com/i/kerzner/HotelOne%26OnlyPalmillaVillaCortez_11?wid=2400",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/one-and-only-palmilla/3.jpg",
+      "srcSmall": "/photos/one-and-only-palmilla/3-640.jpg",
+      "srcMid": "/photos/one-and-only-palmilla/3-1000.jpg",
+      "srcHero": "/photos/one-and-only-palmilla/3-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Kerzner International",
+      "creditUrl": "https://www.oneandonlyresorts.com/palmilla",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://dam.kerzner.com/i/kerzner/OO_Palmilla_Agua_Pool_and_Bar_3155_MASTER?wid=2400",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/one-and-only-palmilla/4.jpg",
+      "srcSmall": "/photos/one-and-only-palmilla/4-640.jpg",
+      "srcMid": "/photos/one-and-only-palmilla/4-1000.jpg",
+      "srcHero": "/photos/one-and-only-palmilla/4-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Kerzner International",
+      "creditUrl": "https://www.oneandonlyresorts.com/palmilla",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://dam.kerzner.com/i/kerzner/OO_Palmilla_Suite_Ocean_View_Double_Bedroom_2675_MASTER?wid=2400",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/one-and-only-palmilla/5.jpg",
+      "srcSmall": "/photos/one-and-only-palmilla/5-640.jpg",
+      "srcMid": "/photos/one-and-only-palmilla/5-1000.jpg",
+      "srcHero": "/photos/one-and-only-palmilla/5-2400.jpg",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Kerzner International",
+      "creditUrl": "https://www.oneandonlyresorts.com/palmilla",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://dam.kerzner.com/i/kerzner/OO_Palmilla_F%26B_Breeze_Sea_1464_MASTER?wid=2400",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/one-and-only-palmilla/6.jpg",
+      "srcSmall": "/photos/one-and-only-palmilla/6-640.jpg",
+      "srcMid": "/photos/one-and-only-palmilla/6-1000.jpg",
+      "srcHero": "/photos/one-and-only-palmilla/6-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Kerzner International",
+      "creditUrl": "https://www.oneandonlyresorts.com/palmilla",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://dam.kerzner.com/i/kerzner/OO_Palmilla_Agua_Garden_Tables_Wide_Evening_0639_MASTER?wid=2400",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/one-and-only-palmilla/7.jpg",
+      "srcSmall": "/photos/one-and-only-palmilla/7-640.jpg",
+      "srcMid": "/photos/one-and-only-palmilla/7-1000.jpg",
+      "srcHero": "/photos/one-and-only-palmilla/7-2400.jpg",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Kerzner International",
+      "creditUrl": "https://www.oneandonlyresorts.com/palmilla",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://dam.kerzner.com/i/kerzner/OO_Palmilla_Villa_One_Drone_2895_MASTER?wid=2400",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/one-and-only-palmilla/8.jpg",
+      "srcSmall": "/photos/one-and-only-palmilla/8-640.jpg",
+      "srcMid": "/photos/one-and-only-palmilla/8-1000.jpg",
+      "srcHero": "/photos/one-and-only-palmilla/8-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Kerzner International",
+      "creditUrl": "https://www.oneandonlyresorts.com/palmilla",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://dam.kerzner.com/i/kerzner/OO_Palmilla_JR_Suite_Pelican_View_Terrace_1462_MASTER?wid=2400",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-08"
+}
