@@ -1,0 +1,241 @@
+{
+  "slug": "soneva-jani",
+  "name": "Soneva Jani",
+  "operator": "Soneva",
+  "brand": "Soneva",
+  "country": "Maldives",
+  "region": "Indian Ocean",
+  "city": "Noonu Atoll",
+  "area": "Noonu Atoll",
+  "type": "island",
+  "themes": [
+    "overwater"
+  ],
+  "adultsOnly": false,
+  "address": "Soneva Jani, Noonu Atoll, Maldives",
+  "lat": 5.7216,
+  "lng": 73.41469,
+  "officialSite": "https://soneva.com/resorts/soneva-jani/",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": {},
+  "tagline": "Overwater reserves with retractable roofs and slides, on a Noonu lagoon.",
+  "description": "Soneva Jani is an overwater resort in the Noonu Atoll of the Maldives, where villas with retractable roofs and slides into the lagoon stand on water and on the island's own beach. Each villa has a private pool, and the lagoon is never more than a slide away.\n\nThe resort is arranged around a turquoise lagoon, with villas positioned for light, water and horizon. The air is salt-tinged, the paddleboards go out at sunrise, and the stars over the Indian Ocean draw guests out at night. Soneva built the first overwater villas with slides, and they remain the resort's signature.\n\nThe Water Reserves are overwater villas of one to four bedrooms. A one-bedroom reserve measures 555 square metres, the two-bedroom Water Reserves with Slide 772 square metres, and the four-bedroom Sunset Water Reserve 1,421 square metres. On the island side, the Island Reserves with Slide run to three bedrooms of 1,796 square metres and four bedrooms of 1,788 square metres, set in gardens by the beach. Each villa has a private pool and a deck. A Barefoot Butler runs each day.\n\nThe kitchens offer culinary experiences from seafood shack lunches with toes in the sand to farm-to-table feasts. There are Indonesian flavours shaped by Chef Ben, Maldivian dishes cooked over open fire on the sand, breakfast overwater, and cheese, chocolate and ice cream rooms open around the clock. Organic gardens and the lagoon supply the kitchens, and a sommelier chooses the wine.\n\nActivities range across the lagoon, with stand-up paddleboarding, sailing, watersports, snorkelling with turtles and tennis, padel and an outdoor cinema. Soneva Soul offers breathwork, pilates and recovery, and private Wellbeing Studios arrive in villas from October 2026. The Den is the children's world, with a zipline, a pirate ship and a swim-up mocktail bar.\n\nIt suits couples who want a villa over the lagoon, and families who want a slide, a pool and a children's club.",
+  "highlights": [
+    {
+      "label": "Water Reserves",
+      "value": "Overwater villas of one to four bedrooms, each with a private pool and a slide",
+      "sourceUrl": "https://soneva.com/resorts/soneva-jani/villas/overwater-villas/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Island Reserves",
+      "value": "Three- and four-bedroom villas of about 1,800 square metres by the beach",
+      "sourceUrl": "https://soneva.com/resorts/soneva-jani/villas/signature-villas/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Dining",
+      "value": "Seafood shack lunches, Indonesian flavours, and treat rooms open around the clock",
+      "sourceUrl": "https://soneva.com/resorts/soneva-jani/dining/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "The Den",
+      "value": "A children's world with a zipline, a pirate ship and a swim-up mocktail bar",
+      "sourceUrl": "https://soneva.com/resorts/soneva-jani/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Lagoon",
+      "value": "Sailing, paddleboarding, snorkelling and watersports",
+      "sourceUrl": "https://soneva.com/resorts/soneva-jani/experiences/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Soneva Soul",
+      "value": "Breathwork, pilates and recovery, with private Wellbeing Studios from October 2026",
+      "sourceUrl": "https://soneva.com/resorts/soneva-jani/wellness/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Water Reserve",
+      "value": "One bedroom, 555 square metres",
+      "sourceUrl": "https://soneva.com/resorts/soneva-jani/villas/overwater-villas/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "2 Bedroom Water Reserve with Slide",
+      "value": "772 square metres",
+      "sourceUrl": "https://soneva.com/resorts/soneva-jani/villas/overwater-villas/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "4 Bedroom Sunset Water Reserve",
+      "value": "1,421 square metres, sleeping nine adults",
+      "sourceUrl": "https://soneva.com/resorts/soneva-jani/villas/overwater-villas/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "3 Bedroom Island Reserve with Slide",
+      "value": "1,796 square metres",
+      "sourceUrl": "https://soneva.com/resorts/soneva-jani/villas/signature-villas/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "4 Bedroom Island Reserve with Slide",
+      "value": "1,788 square metres",
+      "sourceUrl": "https://soneva.com/resorts/soneva-jani/villas/signature-villas/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/soneva-jani/1.jpg",
+      "srcSmall": "/photos/soneva-jani/1-640.jpg",
+      "srcMid": "/photos/soneva-jani/1-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 936,
+      "credit": "Soneva",
+      "creditUrl": "https://soneva.com/resorts/soneva-jani/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://soneva-offload-media-library.storage.googleapis.com/wp-content/uploads/2026/06/03164624/Soneva-Jani-North-Jetty-Water-Retreat-Aerial-1-Large-scaled-e1780490906866.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/soneva-jani/2.jpg",
+      "srcSmall": "/photos/soneva-jani/2-640.jpg",
+      "srcMid": "/photos/soneva-jani/2-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1121,
+      "credit": "Soneva",
+      "creditUrl": "https://soneva.com/resorts/soneva-jani/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://soneva-offload-media-library.storage.googleapis.com/wp-content/uploads/2021/03/26121038/Soneva-Jani-Villa-105-Aerial-1-1-scaled.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/soneva-jani/3.jpg",
+      "srcSmall": "/photos/soneva-jani/3-640.jpg",
+      "srcMid": "/photos/soneva-jani/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Soneva",
+      "creditUrl": "https://soneva.com/resorts/soneva-jani/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://soneva-offload-media-library.storage.googleapis.com/wp-content/uploads/2026/01/14182919/Villa-30-at-soneva-Jani9-scaled.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/soneva-jani/4.jpg",
+      "srcSmall": "/photos/soneva-jani/4-640.jpg",
+      "srcMid": "/photos/soneva-jani/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Soneva",
+      "creditUrl": "https://soneva.com/resorts/soneva-jani/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://soneva-offload-media-library.storage.googleapis.com/wp-content/uploads/2021/03/02130415/Soneva-Jani-Three-Bedroom-Island-Reserve-with-Slide-Villa-34-Exteriors-7.webp",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/soneva-jani/5.jpg",
+      "srcSmall": "/photos/soneva-jani/5-640.jpg",
+      "srcMid": "/photos/soneva-jani/5-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Soneva",
+      "creditUrl": "https://soneva.com/resorts/soneva-jani/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://soneva-offload-media-library.storage.googleapis.com/wp-content/uploads/2025/10/02154242/SonevaJani-2BedroomWaterReservewithSlide1.webp",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/soneva-jani/6.jpg",
+      "srcSmall": "/photos/soneva-jani/6-640.jpg",
+      "srcMid": "/photos/soneva-jani/6-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "Soneva",
+      "creditUrl": "https://soneva.com/resorts/soneva-jani/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://soneva-offload-media-library.storage.googleapis.com/wp-content/uploads/2025/03/14231246/Retractable-Roof_-1600x900.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/soneva-jani/7.jpg",
+      "srcSmall": "/photos/soneva-jani/7-640.jpg",
+      "srcMid": "/photos/soneva-jani/7-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "Soneva",
+      "creditUrl": "https://soneva.com/resorts/soneva-jani/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://soneva-offload-media-library.storage.googleapis.com/wp-content/uploads/2023/08/30172435/Soneva-Jani-The-Den-Architecture-3-Large-1-1600x900.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/soneva-jani/8.jpg",
+      "srcSmall": "/photos/soneva-jani/8-640.jpg",
+      "srcMid": "/photos/soneva-jani/8-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Soneva",
+      "creditUrl": "https://soneva.com/resorts/soneva-jani/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://soneva-offload-media-library.storage.googleapis.com/wp-content/uploads/2025/12/02132555/Soneva-Jani-Three-Bedroom-Beach-Villa-with-Pool-and-Slide-Villa-29-Exteriors3.webp",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "direct"
+  },
+  "lastVerified": "2026-11-08"
+}

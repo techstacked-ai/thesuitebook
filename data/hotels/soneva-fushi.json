@@ -1,0 +1,241 @@
+{
+  "slug": "soneva-fushi",
+  "name": "Soneva Fushi",
+  "operator": "Soneva",
+  "brand": "Soneva",
+  "country": "Maldives",
+  "region": "Indian Ocean",
+  "city": "Baa Atoll",
+  "area": "Baa Atoll",
+  "type": "island",
+  "themes": [
+    "overwater"
+  ],
+  "adultsOnly": false,
+  "address": "Soneva Fushi, Baa Atoll, Maldives",
+  "lat": 5.11259,
+  "lng": 73.07714,
+  "officialSite": "https://soneva.com/resorts/soneva-fushi/",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": {},
+  "tagline": "The original Soneva island: jungle villas and overwater reserves in Baa Atoll.",
+  "description": "Soneva Fushi is the original Soneva island, a barefoot resort in the Baa Atoll of the Maldives where jungle villas stand in the canopy and overwater villas meet the reef. Villas run from one bedroom up to eleven, each with its own pool.\n\nThe island is built around nature. Paths wind through the trees to villas that open to the outdoors, with room to gather or be alone. Conservation shapes the resort: recycled waste becomes art at The Glass Studio and Maker's Place, Aquaterra runs a coral regeneration programme, and a resident astronomer tells the night sky at The Observatory.\n\nAccommodation is a range of island and overwater villas. The one-bedroom Crusoe villas and suites with pools start at 145 square metres, and the Crusoe Residences have two bedrooms. The Soneva Fushi Family Suite measures 360 square metres. Three- to five-bedroom residences run from about 1,140 to 1,800 square metres, and the Reserves reach seven and nine bedrooms, with the largest villas on the island sleeping sixteen adults. The overwater Water Reserves have retractable roofs, wide decks, a private pool and a slide into the ocean. Every guest has a Barefoot Butler.\n\nDining offers more than ten experiences, from reef lunches and farm-to-table feasts to dinners in the treetops and lunch by zip-line. The Cheese, Chocolate and Ice Cream Rooms stay open around the clock. Organic gardens supply the kitchens, the island keeps a wine cellar, and the sommelier chooses the bottle.\n\nSoneva Soul runs the wellness programme, with open-air treatments, yoga, pilates, tennis and padel. Guests can snorkel with mantas in the Baa Atoll, take a floating breakfast in the villa pool, or send children to The Den.\n\nIt suits families across generations, given villas of up to eleven bedrooms, and travellers who want a large villa with its own pool on an island that does little to dress itself up.",
+  "highlights": [
+    {
+      "label": "Villas",
+      "value": "Island and overwater villas from one to eleven bedrooms, each with its own pool",
+      "sourceUrl": "https://soneva.com/resorts/soneva-fushi/villas/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Water Reserves",
+      "value": "Overwater villas with retractable roofs, private pools and a slide into the sea",
+      "sourceUrl": "https://soneva.com/resorts/soneva-fushi/villas/overwater-villas/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Dining",
+      "value": "More than ten culinary experiences, and treat rooms open around the clock",
+      "sourceUrl": "https://soneva.com/resorts/soneva-fushi/dining/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Soneva Soul",
+      "value": "Open-air treatments, yoga, pilates, tennis and padel",
+      "sourceUrl": "https://soneva.com/resorts/soneva-fushi/wellness/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Conservation",
+      "value": "Aquaterra coral regeneration and The Glass Studio, which turns waste into art",
+      "sourceUrl": "https://soneva.com/resorts/soneva-fushi/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "The Observatory",
+      "value": "A resident astronomer and night-sky stories",
+      "sourceUrl": "https://soneva.com/resorts/soneva-fushi/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Largest villas",
+      "value": "Up to 11 bedrooms",
+      "sourceUrl": "https://soneva.com/resorts/soneva-fushi/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Family Suite",
+      "value": "1 bedroom, 360 square metres",
+      "sourceUrl": "https://soneva.com/resorts/soneva-fushi/villas/beach-villas/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Crusoe villas",
+      "value": "One bedroom, from 145 square metres, with a private pool",
+      "sourceUrl": "https://soneva.com/resorts/soneva-fushi/villas/beach-villas/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Largest island villa",
+      "value": "Nine bedrooms, sleeping 16 adults",
+      "sourceUrl": "https://soneva.com/resorts/soneva-fushi/villas/signature-villas/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Dining experiences",
+      "value": "More than ten",
+      "sourceUrl": "https://soneva.com/resorts/soneva-fushi/dining/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/soneva-fushi/1.jpg",
+      "srcSmall": "/photos/soneva-fushi/1-640.jpg",
+      "srcMid": "/photos/soneva-fushi/1-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 899,
+      "credit": "Soneva",
+      "creditUrl": "https://soneva.com/resorts/soneva-fushi/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://soneva-offload-media-library.storage.googleapis.com/wp-content/uploads/2026/05/07154116/SonevaFushi-FloatingBreakfast-1-scaled.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/soneva-fushi/2.jpg",
+      "srcSmall": "/photos/soneva-fushi/2-640.jpg",
+      "srcMid": "/photos/soneva-fushi/2-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Soneva",
+      "creditUrl": "https://soneva.com/resorts/soneva-fushi/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://soneva-offload-media-library.storage.googleapis.com/wp-content/uploads/2021/03/21215620/45477_Soneva-Fushi-Sunset-Reserve-_7-Bedroom-Reserve_-scaled.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/soneva-fushi/3.jpg",
+      "srcSmall": "/photos/soneva-fushi/3-640.jpg",
+      "srcMid": "/photos/soneva-fushi/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1200,
+      "credit": "Soneva",
+      "creditUrl": "https://soneva.com/resorts/soneva-fushi/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://soneva-offload-media-library.storage.googleapis.com/wp-content/uploads/2021/03/08120458/SonevaFushi-Villa11_9BedroomReserve-scaled.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/soneva-fushi/4.jpg",
+      "srcSmall": "/photos/soneva-fushi/4-640.jpg",
+      "srcMid": "/photos/soneva-fushi/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Soneva",
+      "creditUrl": "https://soneva.com/resorts/soneva-fushi/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://soneva-offload-media-library.storage.googleapis.com/wp-content/uploads/2021/03/23142625/Soneva-Fushi-5-Bedroom-Private-Residence-_Villa-38_17.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/soneva-fushi/5.jpg",
+      "srcSmall": "/photos/soneva-fushi/5-640.jpg",
+      "srcMid": "/photos/soneva-fushi/5-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Soneva",
+      "creditUrl": "https://soneva.com/resorts/soneva-fushi/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://soneva-offload-media-library.storage.googleapis.com/wp-content/uploads/2021/03/01230750/6067_SFR_Villas_Villa-15.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/soneva-fushi/6.jpg",
+      "srcSmall": "/photos/soneva-fushi/6-640.jpg",
+      "srcMid": "/photos/soneva-fushi/6-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1003,
+      "credit": "Soneva",
+      "creditUrl": "https://soneva.com/resorts/soneva-fushi/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://soneva-offload-media-library.storage.googleapis.com/wp-content/uploads/2021/03/03102316/Soneva-Fushi-2-Bedroom-Crusoe-Suite-with-Pool-_Villa-8_-1-1-scaled.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/soneva-fushi/7.jpg",
+      "srcSmall": "/photos/soneva-fushi/7-640.jpg",
+      "srcMid": "/photos/soneva-fushi/7-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Soneva",
+      "creditUrl": "https://soneva.com/resorts/soneva-fushi/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://soneva-offload-media-library.storage.googleapis.com/wp-content/uploads/2021/03/01235316/Villa-2-3rd-Bedroom-Exterior-2CC.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/soneva-fushi/8.jpg",
+      "srcSmall": "/photos/soneva-fushi/8-640.jpg",
+      "srcMid": "/photos/soneva-fushi/8-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "Soneva",
+      "creditUrl": "https://soneva.com/resorts/soneva-fushi/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://soneva-offload-media-library.storage.googleapis.com/wp-content/uploads/2026/04/23193404/SonevaFushi-Villa37Aerial-1600x900.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "direct"
+  },
+  "lastVerified": "2026-11-08"
+}
