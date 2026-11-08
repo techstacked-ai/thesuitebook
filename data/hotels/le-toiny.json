@@ -1,0 +1,241 @@
+{
+  "slug": "le-toiny",
+  "name": "Le Toiny",
+  "operator": "Le Toiny Hotel",
+  "brand": "",
+  "country": "Saint Barthélemy",
+  "region": "Caribbean & Latin America",
+  "city": "Saint Barthélemy",
+  "area": "Anse de Toiny",
+  "type": "resort",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "Toiny, 97133 Saint Barthélemy",
+  "lat": 17.8997,
+  "lng": -62.79782,
+  "officialSite": "https://letoiny.com/",
+  "rooms": null,
+  "suites": 22,
+  "villas": null,
+  "opened": null,
+  "airport": null,
+  "tagline": "Twenty-two suites, each with a heated pool, above Toiny Bay.",
+  "description": "Le Toiny is a hotel of 22 suites on the hillside above Anse de Toiny, on Saint Barthelemy. Every suite has a private heated pool, a terrace and views over the Caribbean, and the grounds are a protected 17-hectare palm grove.\n\nPalms and flowers give privacy between the suites. A beach club on the shore is open to hotel guests, villa renters and visitors,.\n\nThe suites come in four kinds: one Junior Suite, 13 Signature Suites, seven Spirit Suites, three of them Duplex Suites, and one Two-Bedroom Villa Suite. Every suite has more than 1,600 square feet of living space, and the Junior Suite has a partial sea view. A pavilion that joins a Spirit and a Duplex Suite sleeps up to six, and the two-pavilion villa has a large private pool and room for families or groups. Massages and treatments are given in the suite.\n\nLa Table, the signature restaurant, looks over the ocean and serves shared dishes inspired by Japanese technique and Latin American flavours. The Beach Club serves Mediterranean lunches from the grill, with sunbeds, a swimming pool, a treatment room and hammocks, and a beach store run by the co-owner, Mandie, that stocks custom Smathers and Branson pieces made for the hotel and designers such as Ortigia. The Full Moon Parties, launched in 2019, became a Thursday evening beach party with a fire show, and the Beach Club opens for them every Thursday. Dinner at La Table is built to be shared across the table.\n\nThe resort has a fitness room and a surf shack with private and group lessons, and the Le Toiny Defender takes guests around the island. The day can begin at 6am by the suite's private pool.\n\nLe Toiny suits couples, families and friends who want space and privacy rather than a crowded beach.",
+  "highlights": [
+    {
+      "label": "Private pools",
+      "value": "Every one of the 22 suites has a private heated pool.",
+      "sourceUrl": "https://letoiny.com/the-suites/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Suite size",
+      "value": "More than 1,600 square feet of living space in every suite.",
+      "sourceUrl": "https://letoiny.com/the-suites/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "La Table",
+      "value": "Shared dishes inspired by Japanese technique and Latin American flavours.",
+      "sourceUrl": "https://letoiny.com/the-restaurants/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Beach Club",
+      "value": "Mediterranean grill lunches on the shore, open to visitors.",
+      "sourceUrl": "https://letoiny.com/the-restaurants/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Grounds",
+      "value": "A protected 17-hectare palm grove above Toiny Bay.",
+      "sourceUrl": "https://letoiny.com/experiences/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Surf Shack",
+      "value": "Private and group surf lessons.",
+      "sourceUrl": "https://letoiny.com/experiences/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Suites",
+      "value": "22: 1 Junior Suite, 13 Signature Suites, 7 Spirit Suites (including 3 Duplex Suites) and 1 Two-Bedroom Villa Suite",
+      "sourceUrl": "https://letoiny.com/the-suites/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Suite size",
+      "value": "Over 1,600 square feet",
+      "sourceUrl": "https://letoiny.com/the-suites/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Grounds",
+      "value": "17 hectares of protected palm grove",
+      "sourceUrl": "https://letoiny.com/experiences/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Address",
+      "value": "Toiny, 97133 Saint Barthelemy",
+      "sourceUrl": "https://letoiny.com/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/le-toiny/1.jpg",
+      "srcSmall": "/photos/le-toiny/1-640.jpg",
+      "srcMid": "/photos/le-toiny/1-1000.jpg",
+      "srcHero": "/photos/le-toiny/1-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Le Toiny Hotel",
+      "creditUrl": "https://letoiny.com/the-hotel/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://letoiny.com/wp-content/uploads/2026/02/a2-3-suites-hero-scaled.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/le-toiny/2.jpg",
+      "srcSmall": "/photos/le-toiny/2-640.jpg",
+      "srcMid": "/photos/le-toiny/2-1000.jpg",
+      "srcHero": "/photos/le-toiny/2-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Le Toiny Hotel",
+      "creditUrl": "https://letoiny.com/the-hotel/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://letoiny.com/wp-content/uploads/2026/02/a2-2-restaurants-hero-scaled.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/le-toiny/3.jpg",
+      "srcSmall": "/photos/le-toiny/3-640.jpg",
+      "srcMid": "/photos/le-toiny/3-1000.jpg",
+      "srcHero": "/photos/le-toiny/3-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Le Toiny Hotel",
+      "creditUrl": "https://letoiny.com/the-hotel/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://letoiny.com/wp-content/uploads/2026/02/c6-p1-beach-club-scaled.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/le-toiny/4.jpg",
+      "srcSmall": "/photos/le-toiny/4-640.jpg",
+      "srcMid": "/photos/le-toiny/4-1000.jpg",
+      "srcHero": "",
+      "width": 1440,
+      "height": 960,
+      "credit": "Le Toiny Hotel",
+      "creditUrl": "https://letoiny.com/the-hotel/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://letoiny.com/wp-content/uploads/2026/02/1771614040488_cpfyz3_photo-beach-club-new.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/le-toiny/5.jpg",
+      "srcSmall": "/photos/le-toiny/5-640.jpg",
+      "srcMid": "/photos/le-toiny/5-1000.jpg",
+      "srcHero": "/photos/le-toiny/5-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Le Toiny Hotel",
+      "creditUrl": "https://letoiny.com/the-hotel/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://letoiny.com/wp-content/uploads/2026/02/a218_bandeau-scaled.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/le-toiny/6.jpg",
+      "srcSmall": "/photos/le-toiny/6-640.jpg",
+      "srcMid": "/photos/le-toiny/6-1000.jpg",
+      "srcHero": "/photos/le-toiny/6-2400.jpg",
+      "width": 1600,
+      "height": 1068,
+      "credit": "Le Toiny Hotel",
+      "creditUrl": "https://letoiny.com/the-hotel/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://letoiny.com/wp-content/uploads/2026/02/photo-hotel-hero-scaled.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/le-toiny/7.jpg",
+      "srcSmall": "/photos/le-toiny/7-640.jpg",
+      "srcMid": "/photos/le-toiny/7-1000.jpg",
+      "srcHero": "/photos/le-toiny/7-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Le Toiny Hotel",
+      "creditUrl": "https://letoiny.com/the-hotel/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://letoiny.com/wp-content/uploads/2026/02/c7-p1-la-table-scaled.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/le-toiny/8.jpg",
+      "srcSmall": "/photos/le-toiny/8-640.jpg",
+      "srcMid": "/photos/le-toiny/8-1000.jpg",
+      "srcHero": "/photos/le-toiny/8-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Le Toiny Hotel",
+      "creditUrl": "https://letoiny.com/the-hotel/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://letoiny.com/wp-content/uploads/2026/02/a2-4-suites-duplex-scaled.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-08"
+}
