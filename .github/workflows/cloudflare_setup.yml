@@ -1,0 +1,35 @@
+name: Cloudflare setup
+
+# Runs scripts/cloudflare_setup.mjs <step> with the Cloudflare secrets:
+# project (the Pages project), zone (the DNS zone, prints its nameservers),
+# dns (the Google verification TXT), domains (apex and www as custom
+# domains), pagesdns (proxied CNAMEs to the project), markdown (Accept:
+# text/markdown serves <page>/index.md), bots (AI crawlers welcome; "bots check"
+# only prints the settings), activate, status, all.
+# Every step is idempotent.
+
+on:
+  workflow_dispatch:
+    inputs:
+      step:
+        description: 'project, zone, dns, domains, pagesdns, markdown, bots, bots check, activate, status or all'
+        default: status
+        type: string
+
+permissions:
+  contents: read
+
+jobs:
+  setup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          STEP: ${{ inputs.step }}
+        run: node scripts/cloudflare_setup.mjs $STEP | tee -a "$GITHUB_STEP_SUMMARY"

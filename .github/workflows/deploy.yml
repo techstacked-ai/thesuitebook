@@ -1,0 +1,87 @@
+name: Deploy
+
+# Builds the site and uploads dist to the Cloudflare Pages project
+# "thesuitebook" with wrangler, the same way the Roam sites deploy
+# (GoTokyo docs/ops/cloudflare.md). Needs the repo secrets
+# CLOUDFLARE_API_TOKEN and CLOUDFLARE_ACCOUNT_ID; without them the build
+# still runs and the deploy step leaves a notice.
+
+on:
+  # Daily rebuild (owner, 1 Nov 2026: "setup a recurring update so this stays live"): the lists move with the
+  # calendar even when nothing was pushed (a stated date passing, an opening month arriving).
+  schedule:
+    - cron: '41 4 * * *'
+  push:
+    branches: [main]
+    paths:
+      - 'src/**'
+      - 'data/**'
+      - 'public/**'
+      - 'astro.config.mjs'
+      - 'package.json'
+      - 'package-lock.json'
+      - 'tsconfig.json'
+      - 'scripts/cloudflare_setup.mjs'
+      - 'scripts/markdown/**'
+      - 'scripts/indexnow_submit.mjs'
+      - 'scripts/check_links.mjs'
+      - 'scripts/photos/**'
+      - '.github/workflows/deploy.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: deploy
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      ASTRO_TELEMETRY_DISABLED: '1'
+      PROJECT: thesuitebook
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+      - run: npm ci --no-audit --no-fund
+      - name: Check the data
+        run: node scripts/check_data.mjs
+      - name: Build
+        run: |
+          npx astro build
+          printf '{"commit":"%s","built":"%s"}\n' "$GITHUB_SHA" "$(date -u +%FT%TZ)" > dist/build.json
+      # Markdown for agents: <page>/index.md next to every built page (each page links it as text/markdown).
+      - name: Markdown copies
+        run: node scripts/markdown/build.mjs --dist dist --site https://thesuitebook.com
+      - name: Check the links
+        run: node scripts/check_links.mjs dist
+      - name: Deploy to Cloudflare Pages
+        id: deploy
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          if [ -z "$CLOUDFLARE_API_TOKEN" ] || [ -z "$CLOUDFLARE_ACCOUNT_ID" ]; then
+            echo "::notice title=Deploy skipped::Add CLOUDFLARE_API_TOKEN and CLOUDFLARE_ACCOUNT_ID to this repo's Actions secrets (the same values as GoTokyo's)."
+            exit 0
+          fi
+          node scripts/cloudflare_setup.mjs project
+          npx -y wrangler@3.114.0 pages deploy dist --project-name "$PROJECT" --branch main --commit-hash "$GITHUB_SHA" --commit-dirty=true
+          for i in 1 2 3 4 5 6; do
+            got=$(curl -fsS -H 'cache-control: no-cache' "https://$PROJECT.pages.dev/build.json" | jq -r .commit || true)
+            [ "$got" = "$GITHUB_SHA" ] && { echo "$PROJECT.pages.dev serves $GITHUB_SHA" | tee -a "$GITHUB_STEP_SUMMARY"; echo "result=prod" >> "$GITHUB_OUTPUT"; exit 0; }
+            sleep 10
+          done
+          echo "::error::$PROJECT.pages.dev/build.json says '$got', expected $GITHUB_SHA"; exit 1
+
+      # IndexNow (Bing, which ChatGPT search and Copilot draw on, plus Yandex, Seznam, Naver): every sitemap URL,
+      # only after a real production deploy on a push to main or the daily run.
+      - name: IndexNow
+        if: ${{ steps.deploy.outputs.result == 'prod' && github.ref == 'refs/heads/main' && (github.event_name == 'push' || github.event_name == 'schedule') }}
+        run: node scripts/indexnow_submit.mjs --dist dist

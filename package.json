@@ -1,0 +1,19 @@
+{
+  "name": "thesuitebook",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "check": "node scripts/check_data.mjs"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.7.4",
+    "astro": "^5.0.0",
+    "parse5": "^7.3.0"
+  },
+  "devDependencies": {
+    "sharp": "^0.35.5"
+  }
+}
