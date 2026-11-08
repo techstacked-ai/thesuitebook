@@ -1,0 +1,339 @@
+{
+  "slug": "cheval-blanc-randheli",
+  "name": "Cheval Blanc Randheli",
+  "operator": "LVMH Hotel Management",
+  "brand": "Cheval Blanc",
+  "country": "Maldives",
+  "region": "Indian Ocean",
+  "city": "Randheli",
+  "area": "Noonu Atoll",
+  "type": "island",
+  "themes": [
+    "private-island",
+    "overwater"
+  ],
+  "adultsOnly": false,
+  "address": "H. Fairlin, 8th Floor, Hithigas Magu, 20009 Malé, Republic of Maldives",
+  "lat": 5.69196,
+  "lng": 73.34099,
+  "officialSite": "https://www.chevalblanc.com/en/maison/randheli/",
+  "rooms": null,
+  "suites": null,
+  "villas": 46,
+  "opened": null,
+  "airport": null,
+  "tagline": "Forty-six villas with private pools on a lagoon island, reached by seaplane.",
+  "description": "Cheval Blanc Randheli is a Maldivian island hotel of 46 villas, each with an infinity-edge pool, designed by the architect Jean-Michel Gathy. Guests arrive by seaplane or speedboat from Malé, and the hotel runs its own seaplane in the brand's taupe and yellow.\n\nThe hotel spreads across six islands in a turquoise lagoon, with ivory beaches and a spa on an island of its own. Gathy designed the villas as private residences open to the outdoors, with furnishings of rattan, bamboo and mother of pearl in pop yellow, taupe and white. Vincent Beaurin's Arch, a monumental copper form, rises from the lagoon, and each villa carries a work called Couronne.\n\nThe villas include the 1-Bedroom Water Villa, 220 square metres on stilts over the water, with an overwater deck and a 12.5-metre private infinity pool. The 1-Bedroom Island Villa covers 240 square metres on the beach, with a garden, a dining pergola and a pool of the same length. Other types are Lagoon, Horizon and Garden Water Villas, and the two-bedroom Island, Garden Water and Lagoon Garden Villas, for four guests. Each villa has a dedicated majordome.\n\nFive restaurants and three bars serve the island. Deelani stands over the water and serves Italian cooking. Diptyque serves Japanese and East Asian dishes at dinner from Friday to Sunday, and Le 1947 offers an 11-course French tasting menu from Monday to Wednesday. A wine museum and cigar lounge, and in-villa dining at any hour, complete the choice.\n\nThe Cheval Blanc Spa offers Guerlain treatments and is open from 10 am to 9 pm, with a hair spa by Leonor Greyl on the spa island. The White has an infinity pool and a bar, yoga is taught on the sand and in an overwater pavilion, and there is a surf simulator, the only one in the Maldives. Guests can drift through the coral gardens, take a Dhoni cruise at sunset or watch a film under the stars, and Le Carrousel looks after children.\n\nThe island suits couples and families who want a private villa with its own pool and a beach in front of it.",
+  "highlights": [
+    {
+      "label": "Villas",
+      "value": "46 villas, each with an infinity-edge pool, designed by Jean-Michel Gathy.",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/randheli/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Water Villa",
+      "value": "220 square metres on stilts, with a 12.5-metre private infinity pool.",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/water-villa/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Island Villa",
+      "value": "240 square metres on the beach, with a garden and a 12.5-metre infinity pool.",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/island-villa-1-bedroom/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Dining",
+      "value": "Five restaurants and three bars, including Deelani over the water and Le 1947.",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Spa",
+      "value": "Guerlain treatments on a dedicated spa island, open daily 10 am to 9 pm.",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/randheli/wellness/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Arrival",
+      "value": "By seaplane or speedboat, with a private seaplane salon in Malé.",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/randheli/experiences/art-and-design-randheli/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Art",
+      "value": "Vincent Beaurin's Arch, a copper form rising from the lagoon.",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/randheli/experiences/art-and-design-randheli/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Villas",
+      "value": "46, including Cheval Blanc Randheli Private Island",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/randheli/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Architect",
+      "value": "Jean-Michel Gathy",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/randheli/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "1-Bedroom Water Villa",
+      "value": "220 square metres, 1 bedroom, 2 guests, overwater deck, 12.5-metre private infinity pool",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/water-villa/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "1-Bedroom Island Villa",
+      "value": "240 square metres, 1 bedroom, 2 guests, beachfront, 12.5-metre infinity pool",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/island-villa-1-bedroom/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "2-Bedroom villas",
+      "value": "2 bedrooms, 4 guests, with infinity pool (Garden Water Villa)",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Restaurants and bars",
+      "value": "5 restaurants and 3 bars",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Deelani",
+      "value": "Italian cuisine over the water, open daily 12 pm to 4 pm and 7 pm to 10:30 pm",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Diptyque",
+      "value": "Japanese and East Asian dinner, Friday to Sunday 7 pm to 10:30 pm",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Le 1947",
+      "value": "11-course tasting menu, Monday to Wednesday 7 pm to 10:30 pm",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "In-villa dining",
+      "value": "Available 24/7",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Spa",
+      "value": "Cheval Blanc Spa with Guerlain rituals on its own island, open daily 10 am to 9 pm",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/randheli/wellness/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Hair spa",
+      "value": "Leonor Greyl, open daily 10 am to 8 pm",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/randheli/wellness/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Islands",
+      "value": "The hotel spreads across six islands",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/randheli/wellness/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Getting there",
+      "value": "Seaplane or speedboat from Malé, by reservation; private Seaplane Salon in Malé",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/randheli/contact/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Art",
+      "value": "Vincent Beaurin's Arch, and Couronne in each villa",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/randheli/experiences/art-and-design-randheli/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Surf simulator",
+      "value": "Described as the only one in the Maldives",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/randheli/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "stay22Id": "15362359",
+  "rating": {
+    "score": 7.8,
+    "reviews": 4,
+    "source": "booking",
+    "date": "2026-11-08"
+  },
+  "price": {
+    "from": 7598,
+    "date": "2026-11-08"
+  },
+  "booking": {
+    "supplier": "booking"
+  },
+  "photos": [
+    {
+      "src": "/photos/cheval-blanc-randheli/1.jpg",
+      "srcSmall": "/photos/cheval-blanc-randheli/1-640.jpg",
+      "srcMid": "/photos/cheval-blanc-randheli/1-1000.jpg",
+      "srcHero": "/photos/cheval-blanc-randheli/1-2400.jpg",
+      "width": 1600,
+      "height": 1200,
+      "credit": "Cheval Blanc Randheli",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/Z88InRsAHJWomSkz_WebRGB-ChevalBlancRandheli-LagoonVilla-OliverFly-2024.jpg?auto=format%2Ccompress&fit=max&w=3840",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/cheval-blanc-randheli/2.jpg",
+      "srcSmall": "/photos/cheval-blanc-randheli/2-640.jpg",
+      "srcMid": "/photos/cheval-blanc-randheli/2-1000.jpg",
+      "srcHero": "/photos/cheval-blanc-randheli/2-2400.jpg",
+      "width": 1600,
+      "height": 1200,
+      "credit": "Cheval Blanc Randheli",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/randheli/experiences/art-and-design-randheli/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/aFlTRXfc4bHWineD_ChevalBlancRandheli-TheArch-OliverFly-2024.jpg?auto=format%2Ccompress&fit=max&w=3840",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/cheval-blanc-randheli/3.jpg",
+      "srcSmall": "/photos/cheval-blanc-randheli/3-640.jpg",
+      "srcMid": "/photos/cheval-blanc-randheli/3-1000.jpg",
+      "srcHero": "/photos/cheval-blanc-randheli/3-2400.jpg",
+      "width": 1600,
+      "height": 2133,
+      "credit": "Cheval Blanc Randheli",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/Z_6GoOvxEdbNPFNn_WebRGB-ChevalBlancRandheli-HorizonVilla-OliverFly-March2023-2-.jpg?auto=format%2Ccompress&fit=max&w=3840",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/cheval-blanc-randheli/4.jpg",
+      "srcSmall": "/photos/cheval-blanc-randheli/4-640.jpg",
+      "srcMid": "/photos/cheval-blanc-randheli/4-1000.jpg",
+      "srcHero": "/photos/cheval-blanc-randheli/4-2400.jpg",
+      "width": 1600,
+      "height": 2133,
+      "credit": "Cheval Blanc Randheli",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/water-villa/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/Z_6EL-vxEdbNPFLm_WebRGB-ChevalBlancRandheli-WaterVilla-OliverFly-March2023.jpg?auto=format%2Ccompress&fit=max&w=3840",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/cheval-blanc-randheli/5.jpg",
+      "srcSmall": "/photos/cheval-blanc-randheli/5-640.jpg",
+      "srcMid": "/photos/cheval-blanc-randheli/5-1000.jpg",
+      "srcHero": "/photos/cheval-blanc-randheli/5-2400.jpg",
+      "width": 1600,
+      "height": 2133,
+      "credit": "Cheval Blanc Randheli",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/island-villa-1-bedroom/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/Z_6CtOvxEdbNPFKz_WebRGB-ChevalBlancRandheli-IslandVilla-OliverFly-2024-8-.jpg?auto=format%2Ccompress&fit=max&w=3840",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/cheval-blanc-randheli/6.jpg",
+      "srcSmall": "/photos/cheval-blanc-randheli/6-640.jpg",
+      "srcMid": "/photos/cheval-blanc-randheli/6-1000.jpg",
+      "srcHero": "/photos/cheval-blanc-randheli/6-2400.jpg",
+      "width": 1600,
+      "height": 2134,
+      "credit": "Cheval Blanc Randheli",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/randheli/restaurants-and-bars/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/aFQVSHfc4bHWiiqd_Light-ChevalBlancRandheli-Deelani-OliverFly-March2023-2.jpg?auto=format%2Ccompress&fit=max&w=3840",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/cheval-blanc-randheli/7.jpg",
+      "srcSmall": "/photos/cheval-blanc-randheli/7-640.jpg",
+      "srcMid": "/photos/cheval-blanc-randheli/7-1000.jpg",
+      "srcHero": "/photos/cheval-blanc-randheli/7-2400.jpg",
+      "width": 1600,
+      "height": 2133,
+      "credit": "Cheval Blanc Randheli",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/randheli/experiences/art-and-design-randheli/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/aFlSLHfc4bHWinc4_ChevalBlancRandheli-Seaplane-OliverFly-2024.jpg?auto=format%2Ccompress&fit=max&w=3840",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/cheval-blanc-randheli/8.jpg",
+      "srcSmall": "/photos/cheval-blanc-randheli/8-640.jpg",
+      "srcMid": "/photos/cheval-blanc-randheli/8-1000.jpg",
+      "srcHero": "/photos/cheval-blanc-randheli/8-2400.jpg",
+      "width": 1600,
+      "height": 2133,
+      "credit": "Cheval Blanc Randheli",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/aFlRv3fc4bHWinck_ChevalBlancRandheli-LagoonVilla-OliverFly-2024.jpg?auto=format%2Ccompress&fit=max&w=3840",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/cheval-blanc-randheli/9.jpg",
+      "srcSmall": "/photos/cheval-blanc-randheli/9-640.jpg",
+      "srcMid": "/photos/cheval-blanc-randheli/9-1000.jpg",
+      "srcHero": "/photos/cheval-blanc-randheli/9-2400.jpg",
+      "width": 1600,
+      "height": 2133,
+      "credit": "Cheval Blanc Randheli",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/randheli/rooms-and-suites/water-villa/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/Z_6GX-vxEdbNPFNR_WebRGB-ChevalBlancRandheli-WaterVilla-OliverFly-2024-1-.jpg?auto=format%2Ccompress&fit=max&w=3840",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "lastVerified": "2026-11-09"
+}

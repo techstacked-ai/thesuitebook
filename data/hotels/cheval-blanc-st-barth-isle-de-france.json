@@ -1,0 +1,318 @@
+{
+  "slug": "cheval-blanc-st-barth-isle-de-france",
+  "name": "Cheval Blanc St-Barth Isle de France",
+  "operator": "LVMH Hotel Management",
+  "brand": "Cheval Blanc",
+  "country": "Saint Barthélemy",
+  "region": "Caribbean & Latin America",
+  "city": "Saint-Barthélemy",
+  "area": "Baie des Flamands",
+  "type": "resort",
+  "themes": [
+    "palace"
+  ],
+  "adultsOnly": false,
+  "address": "Baie des Flamands, 97133 Saint-Barthélemy, French West Indies",
+  "lat": 17.91914,
+  "lng": -62.85449,
+  "officialSite": "https://www.chevalblanc.com/en/maison/st-barth/",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": null,
+  "tagline": "Sixty rooms, suites and one villa on Flamands Beach, in gardens by Madison Cox.",
+  "description": "Cheval Blanc St-Barth is a hotel of 60 rooms, suites and bungalows, plus the five-bedroom Villa de France, on Flamands Beach in Saint-Barthélemy. It is the only Palace in the Caribbean, and has been an institution on the island for 35 years.\n\nThe hotel stands on the beach at the Baie des Flamands, a few minutes by car from the airport and the harbour at Gustavia, with gardens designed by Madison Cox. Jacques Grange has redesigned the interiors, with handcrafted furniture in natural materials, and Jean-Michel Othoniel's mobile sculpture of coloured glass pearls, The Constellation of Pegasus, hangs in the hotel. Blush pink is the signature colour of the house.\n\nThe rooms range from the Tropical Room and the Ocean Room to garden and hillside bungalows with pools. The Garden Junior Suite measures 70 square metres including its terrace and has a private or shared pool. The 2-Bedroom Beach House covers 160 square metres, with a terrace that opens onto the sand through a few steps and a private hot tub. The Villa de France stands in front of the ocean on two floors and 650 square metres, with five bedrooms, a private spa and fitness room, a dining room for ten and two private infinity-edge pools, and a dedicated majordome.\n\nLangosteria serves Italian cooking daily for lunch and dinner. La Cabane sits beside Flamands Beach and is open from noon to 8 pm, the Tiki Bar opens from 10 am to 6 pm, and Le Kiosque is the bakery. In-room dining runs around the clock.\n\nThe Cheval Blanc Spa uses Guerlain treatments and opens daily from 10 am to 8 pm. The beach and pools are open from 8 am to sunset, the fitness studio is open at all hours and yoga takes place in the Tropical Pavilion. The hotel arranges Mini-Moke drives, hikes and sailing at sunset.\n\nThe hotel suits those who want a beach hotel with a house feel, in bungalows set among the gardens or on the sand itself.",
+  "highlights": [
+    {
+      "label": "Setting",
+      "value": "On Flamands Beach, a few minutes by car from the airport and Gustavia harbour.",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-barth/contact/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Palace",
+      "value": "The only Palace in the Caribbean.",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-barth/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "2-Bedroom Beach House",
+      "value": "160 square metres with a terrace opening directly onto Flamands Beach and a private hot tub.",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-barth/rooms-and-suites/2-bedroom-beach-house/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Villa de France",
+      "value": "Five bedrooms over 650 square metres, with two private infinity-edge pools and a private spa.",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-barth/rooms-and-suites/villa-de-france/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Dining",
+      "value": "Langosteria for Italian cooking, and La Cabane by the sea's edge.",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-barth/restaurants-and-bars/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Spa",
+      "value": "Cheval Blanc Spa by Guerlain, open daily from 10 am to 8 pm.",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-barth/wellness/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Design",
+      "value": "Interiors by Jacques Grange and gardens by Madison Cox.",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-barth/experiences/art-and-design-st-barth/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Rooms, suites and villa",
+      "value": "60 rooms, suites and bungalows, plus the Villa de France",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-barth/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Address",
+      "value": "Baie des Flamands, 97133 Saint-Barthélemy, French West Indies",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-barth/contact/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Location",
+      "value": "On Flamands Beach, a few minutes by car from the airport and Gustavia harbour; airport and harbour transfers offered",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-barth/contact/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Garden Junior Suite",
+      "value": "70 square metres including the terrace, 1 bedroom, 2 guests, private or shared pool",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-barth/rooms-and-suites/garden-suite/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "2-Bedroom Beach House",
+      "value": "160 square metres including the terrace, 2 bedrooms, 4 guests, private hot tub",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-barth/rooms-and-suites/2-bedroom-beach-house/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Villa de France",
+      "value": "650 square metres over two floors, 5 bedrooms, dining room for 10, two private infinity-edge pools",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-barth/rooms-and-suites/villa-de-france/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Langosteria",
+      "value": "Open daily 12:00 pm to 3:30 pm and 6:00 pm to 11:00 pm",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-barth/restaurants-and-bars/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "La Cabane",
+      "value": "Open daily 12:00 pm to 8:00 pm, beside Flamands Beach",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-barth/restaurants-and-bars/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Tiki Bar",
+      "value": "Open daily 10 am to 6 pm",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-barth/restaurants-and-bars/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "In-room dining",
+      "value": "Available 24/7",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-barth/restaurants-and-bars/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Spa",
+      "value": "Cheval Blanc Spa by Guerlain, open daily 10 am to 8 pm",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-barth/wellness/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Beach and pools",
+      "value": "Open daily from 8 am to sunset",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-barth/wellness/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Fitness",
+      "value": "Fitness studio open 24/7; yoga in the Tropical Pavilion",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-barth/wellness/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Design",
+      "value": "Redesign by Jacques Grange; gardens by Madison Cox; The Constellation of Pegasus by Jean-Michel Othoniel",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-barth/experiences/art-and-design-st-barth/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Palace",
+      "value": "Described by the hotel as the only Palace in the Caribbean",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-barth/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/cheval-blanc-st-barth-isle-de-france/1.jpg",
+      "srcSmall": "/photos/cheval-blanc-st-barth-isle-de-france/1-640.jpg",
+      "srcMid": "/photos/cheval-blanc-st-barth-isle-de-france/1-1000.jpg",
+      "srcHero": "/photos/cheval-blanc-st-barth-isle-de-france/1-2400.jpg",
+      "width": 1600,
+      "height": 1200,
+      "credit": "Cheval Blanc St-Barth Isle de France",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/st-barth/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/aADwTOvxEdbNPMIS_WebRGB-ChevalBlancSt-Barth-VueChambres-OliverFly.jpg?auto=format%2Ccompress&fit=max&w=3840",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/cheval-blanc-st-barth-isle-de-france/2.jpg",
+      "srcSmall": "/photos/cheval-blanc-st-barth-isle-de-france/2-640.jpg",
+      "srcMid": "/photos/cheval-blanc-st-barth-isle-de-france/2-1000.jpg",
+      "srcHero": "/photos/cheval-blanc-st-barth-isle-de-france/2-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Cheval Blanc St-Barth Isle de France",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/st-barth/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/aErs-7NJEFaPX6bO_Light-ChevalBlancSt-Barth-PlagedesFlamands-OliverFly2024.jpg?auto=format%2Ccompress&fit=max&w=3840",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/cheval-blanc-st-barth-isle-de-france/3.jpg",
+      "srcSmall": "/photos/cheval-blanc-st-barth-isle-de-france/3-640.jpg",
+      "srcMid": "/photos/cheval-blanc-st-barth-isle-de-france/3-1000.jpg",
+      "srcHero": "/photos/cheval-blanc-st-barth-isle-de-france/3-2400.jpg",
+      "width": 1600,
+      "height": 1200,
+      "credit": "Cheval Blanc St-Barth Isle de France",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/st-barth/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/aADwTevxEdbNPMIT_WebRGB-ChevalBlancSt-Barth-PaysageSt-Barth-OliverFly-5-.jpg?auto=format%2Ccompress&fit=max&w=3840",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/cheval-blanc-st-barth-isle-de-france/4.jpg",
+      "srcSmall": "/photos/cheval-blanc-st-barth-isle-de-france/4-640.jpg",
+      "srcMid": "/photos/cheval-blanc-st-barth-isle-de-france/4-1000.jpg",
+      "srcHero": "/photos/cheval-blanc-st-barth-isle-de-france/4-2400.jpg",
+      "width": 1600,
+      "height": 2845,
+      "credit": "Cheval Blanc St-Barth Isle de France",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/st-barth/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/aFAkMrNJEFaPX_mC_Light-ChevalBlancSt-Barth2-PiscineCase-OliverFly.jpg?auto=format%2Ccompress&fit=max&w=3840",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/cheval-blanc-st-barth-isle-de-france/5.jpg",
+      "srcSmall": "/photos/cheval-blanc-st-barth-isle-de-france/5-640.jpg",
+      "srcMid": "/photos/cheval-blanc-st-barth-isle-de-france/5-1000.jpg",
+      "srcHero": "/photos/cheval-blanc-st-barth-isle-de-france/5-2400.jpg",
+      "width": 1600,
+      "height": 2000,
+      "credit": "Cheval Blanc St-Barth Isle de France",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/st-barth/rooms-and-suites/2-bedroom-beach-house/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/aAEBx-vxEdbNPMe1_WebRGB-ChevalBlancSt-Barth-2bedroomBeachHouse-JeanneLeMenn2.jpg?auto=format%2Ccompress&fit=max&w=3840",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/cheval-blanc-st-barth-isle-de-france/6.jpg",
+      "srcSmall": "/photos/cheval-blanc-st-barth-isle-de-france/6-640.jpg",
+      "srcMid": "/photos/cheval-blanc-st-barth-isle-de-france/6-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 2134,
+      "credit": "Cheval Blanc St-Barth Isle de France",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/st-barth/rooms-and-suites/villa-de-france/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/aADwz-vxEdbNPMJm_WebRGB-ChevalBlancSt-Barth-VilladeFrance-OliverFly-12-.jpg?auto=format%2Ccompress&fit=max&w=3840",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/cheval-blanc-st-barth-isle-de-france/7.jpg",
+      "srcSmall": "/photos/cheval-blanc-st-barth-isle-de-france/7-640.jpg",
+      "srcMid": "/photos/cheval-blanc-st-barth-isle-de-france/7-1000.jpg",
+      "srcHero": "/photos/cheval-blanc-st-barth-isle-de-france/7-2400.jpg",
+      "width": 1600,
+      "height": 2133,
+      "credit": "Cheval Blanc St-Barth Isle de France",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/st-barth/rooms-and-suites/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/aicWSgeQX7-eW_CE_ChevalBlancSt-Barth-TropicalJrSuitewithpool-JeanneLeMenn-2-.jpg?auto=format%2Ccompress&fit=max&w=3840",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/cheval-blanc-st-barth-isle-de-france/8.jpg",
+      "srcSmall": "/photos/cheval-blanc-st-barth-isle-de-france/8-640.jpg",
+      "srcMid": "/photos/cheval-blanc-st-barth-isle-de-france/8-1000.jpg",
+      "srcHero": "/photos/cheval-blanc-st-barth-isle-de-france/8-2400.jpg",
+      "width": 1600,
+      "height": 2399,
+      "credit": "Cheval Blanc St-Barth Isle de France",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/st-barth/restaurants-and-bars/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/VBQMROaNC5zJLCJY_Light-ChevalBlancSt-Barth-Langosteria-DianeCoriat.jpg?auto=format%2Ccompress&fit=max&w=3840",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/cheval-blanc-st-barth-isle-de-france/9.jpg",
+      "srcSmall": "/photos/cheval-blanc-st-barth-isle-de-france/9-640.jpg",
+      "srcMid": "/photos/cheval-blanc-st-barth-isle-de-france/9-1000.jpg",
+      "srcHero": "/photos/cheval-blanc-st-barth-isle-de-france/9-2400.jpg",
+      "width": 1600,
+      "height": 2133,
+      "credit": "Cheval Blanc St-Barth Isle de France",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/st-barth/wellness/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/Z-Fv6HdAxsiBv0KN_WebRGB-ChevalBlancSt-Barth-Spa-OliverFly-4.jpg?auto=format%2Ccompress&fit=max&w=3840",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "lastVerified": "2026-11-09"
+}
