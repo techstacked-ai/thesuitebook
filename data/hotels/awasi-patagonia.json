@@ -1,0 +1,255 @@
+{
+  "slug": "awasi-patagonia",
+  "name": "Awasi Patagonia",
+  "operator": "Awasi Lodges",
+  "brand": "Awasi",
+  "country": "Chile",
+  "region": "Caribbean & Latin America",
+  "city": "Torres del Paine",
+  "area": "Patagonia",
+  "type": "wilderness",
+  "themes": [
+    "safari"
+  ],
+  "adultsOnly": false,
+  "address": "Torres del Paine National Park, Magallanes Region, Chile",
+  "lat": -50.91131,
+  "lng": -72.63894,
+  "officialSite": "https://awasi.com/patagonia/",
+  "rooms": null,
+  "suites": null,
+  "villas": 16,
+  "opened": null,
+  "airport": null,
+  "tagline": "Sixteen oval villas on a private reserve facing Torres del Paine.",
+  "description": "Awasi Patagonia is a lodge of 16 stand-alone villas on a 7,000-acre private reserve within Torres del Paine National Park in Chilean Patagonia. Each villa has a direct view of the Torres del Paine range and Lake Sarmiento, and each room is assigned its own guide and 4x4 vehicle.\n\nA dense native forest of lenga and nirre trees shelters the lodge from the strong Patagonian wind. Guanacos, nandus, foxes and condors are seen often on the reserve, and pumas now and then. The lodge sits away from the main tourist routes, among the open plains and granite towers of the park.\n\nThe villas are oval and span nearly 180 square metres, each built as a private house. Each has one king bed or two twins, a wood-burning fireplace and central heating. The Master Villa has two bedrooms, two en-suite bathrooms and an outdoor hot tub with a view of the park, and sleeps up to five.\n\nThe restaurant is for Awasi guests only. Chefs work with fish from the South Pacific fjords, Patagonian lamb, king crab and calafate berries, and the menus follow the season and each guest's tastes. Picnics and lunches are prepared and carried out for days in the landscape, and there is a fireside bar for the evening.\n\nEvery stay is tailor-made, so the days are built with the private guide. Options include the Base Torres trail through the Ascencio Valley, a boat and hike to the Grey Glacier, horseback riding with a nearby estancia, fossil hikes, puma tracking on the reserve at an extra cost, and drives in an INEOS Grenadier. In winter, guests can follow tracks through snow, snowshoe or ride.\n\nThe lodge operates from October to April. A flight from Santiago to Puerto Natales takes just over three hours, and the private transfer from there takes about an hour and 45 minutes. All transfers and excursions are included in the rate. Awasi Patagonia suits couples and families who want their own guide in the national park.",
+  "highlights": [
+    {
+      "label": "Villas",
+      "value": "Sixteen oval, stand-alone villas of nearly 180 square metres, each facing Torres del Paine.",
+      "sourceUrl": "https://awasi.com/patagonia/accommodations/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Private guide",
+      "value": "Each room has its own guide and a 4x4 vehicle.",
+      "sourceUrl": "https://awasi.com/patagonia/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Master Villa",
+      "value": "Two bedrooms, two bathrooms and an outdoor hot tub facing the park.",
+      "sourceUrl": "https://awasi.com/patagonia/accommodations/master-villa/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Private reserve",
+      "value": "A 7,000-acre reserve with lenga forest and wildlife.",
+      "sourceUrl": "https://awasi.com/patagonia/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Puma tracking",
+      "value": "Pre-dawn tracking with wildlife trackers on the reserve, at extra cost.",
+      "sourceUrl": "https://awasi.com/patagonia/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Restaurant",
+      "value": "Fjord fish, Patagonian lamb, king crab and calafate berries, for guests only.",
+      "sourceUrl": "https://awasi.com/patagonia/restaurant/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Villas",
+      "value": "16 stand-alone villas",
+      "sourceUrl": "https://awasi.com/patagonia/accommodations/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Villa size",
+      "value": "Nearly 180 square metres, oval-shaped",
+      "sourceUrl": "https://awasi.com/patagonia/accommodations/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Private reserve",
+      "value": "7,000 acres",
+      "sourceUrl": "https://awasi.com/patagonia/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Season",
+      "value": "October through April",
+      "sourceUrl": "https://awasi.com/patagonia/getting-here/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Transfer",
+      "value": "Puerto Natales Airport to the lodge, about 1 hour 45 minutes; Punta Arenas about 5 hours",
+      "sourceUrl": "https://awasi.com/patagonia/getting-here/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Inclusions",
+      "value": "Private excursions, cuisine, accommodation and all transfers",
+      "sourceUrl": "https://awasi.com/patagonia/getting-here/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/awasi-patagonia/1.jpg",
+      "srcSmall": "/photos/awasi-patagonia/1-640.jpg",
+      "srcMid": "/photos/awasi-patagonia/1-1000.jpg",
+      "srcHero": "/photos/awasi-patagonia/1-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Awasi Lodges",
+      "creditUrl": "https://awasi.com/patagonia/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://awasi.com/wp-content/uploads/2026/01/19182234/AWASI-PATAGONIA-DEZ-2025-343-1-scaled.webp",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/awasi-patagonia/2.jpg",
+      "srcSmall": "/photos/awasi-patagonia/2-640.jpg",
+      "srcMid": "/photos/awasi-patagonia/2-1000.jpg",
+      "srcHero": "/photos/awasi-patagonia/2-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Awasi Lodges",
+      "creditUrl": "https://awasi.com/patagonia/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://awasi.com/wp-content/uploads/2026/09/PATAGONIA-INVERNO-2026-174-scaled.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/awasi-patagonia/3.jpg",
+      "srcSmall": "/photos/awasi-patagonia/3-640.jpg",
+      "srcMid": "/photos/awasi-patagonia/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Awasi Lodges",
+      "creditUrl": "https://awasi.com/patagonia/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://awasi.com/wp-content/uploads/2025/10/patagonia-instagram-03.webp",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/awasi-patagonia/4.jpg",
+      "srcSmall": "/photos/awasi-patagonia/4-640.jpg",
+      "srcMid": "/photos/awasi-patagonia/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Awasi Lodges",
+      "creditUrl": "https://awasi.com/patagonia/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://awasi.com/wp-content/uploads/2026/03/04093509/AWASI-PATAGONIA-DEZ-2025-337-scaled-1.webp",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/awasi-patagonia/5.jpg",
+      "srcSmall": "/photos/awasi-patagonia/5-640.jpg",
+      "srcMid": "/photos/awasi-patagonia/5-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Awasi Lodges",
+      "creditUrl": "https://awasi.com/patagonia/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://awasi.com/wp-content/uploads/2026/03/04155419/AWASI-PATAGONIA-DEZ-2025-336-1-scaled-1.webp",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/awasi-patagonia/6.jpg",
+      "srcSmall": "/photos/awasi-patagonia/6-640.jpg",
+      "srcMid": "/photos/awasi-patagonia/6-1000.jpg",
+      "srcHero": "/photos/awasi-patagonia/6-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Awasi Lodges",
+      "creditUrl": "https://awasi.com/patagonia/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://awasi.com/wp-content/uploads/2026/03/19214405/AWASI-PATAGONIA-DEZ-2025-255-scaled.webp",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/awasi-patagonia/7.jpg",
+      "srcSmall": "/photos/awasi-patagonia/7-640.jpg",
+      "srcMid": "/photos/awasi-patagonia/7-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1069,
+      "credit": "Awasi Lodges",
+      "creditUrl": "https://awasi.com/patagonia/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://awasi.com/wp-content/uploads/2025/12/PATAGONIA-183.webp",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/awasi-patagonia/8.jpg",
+      "srcSmall": "/photos/awasi-patagonia/8-640.jpg",
+      "srcMid": "/photos/awasi-patagonia/8-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Awasi Lodges",
+      "creditUrl": "https://awasi.com/patagonia/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://awasi.com/wp-content/uploads/2025/12/03174806/Base-Torres.webp",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-08"
+}

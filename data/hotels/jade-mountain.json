@@ -1,0 +1,247 @@
+{
+  "slug": "jade-mountain",
+  "name": "Jade Mountain",
+  "operator": "Jade Mountain Club",
+  "brand": "",
+  "country": "Saint Lucia",
+  "region": "Caribbean & Latin America",
+  "city": "Anse Chastanet",
+  "area": "",
+  "type": "resort",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "Anse Chastanet, Saint Lucia",
+  "lat": 13.86449,
+  "lng": -61.07562,
+  "officialSite": "https://jademountain.com/",
+  "rooms": null,
+  "suites": 29,
+  "villas": null,
+  "opened": null,
+  "airport": null,
+  "tagline": "Twenty-nine open-walled sanctuaries facing the Pitons of Saint Lucia.",
+  "description": "Jade Mountain is a resort of 29 sanctuaries above the Anse Chastanet estate on the Caribbean coast of Saint Lucia. Each sanctuary has one open wall facing the Pitons and the sea, and 24 of them have a private infinity pool.\n\nNick Troubetzkoy, the architect and owner, designed the resort, which rises up the hillside on 600 acres of beachfront estate. Individual bridges lead to each sanctuary, and rugged stone columns climb into the sky. The Pitons are a UNESCO World Heritage Site and are in view from every sanctuary.\n\nNo two sanctuaries are alike, and the ceilings reach 15 feet. The fourth wall is deliberately absent, so the bedroom, the living area and the pool become one space open to the view. The pool sanctuaries come in four categories, Star, Moon, Sun and Galaxy, graded by the size of the sanctuary and its pool. The Galaxy sanctuaries sit on the south-west corner and average 2,000 square feet, with an infinity pool of about 900 square feet. The five Sky sanctuaries have a large whirlpool bath for two in place of a pool. A butler, called a major domo, looks after each stay.\n\nThe Jade Mountain Club is open to resident guests for breakfast, lunch and dinner, built around a colourful infinity pool. Chef Allen Susser, a James Beard Award winner, created its Jade Cuisine, a tropical fusion with Caribbean influences. The Celestial Terrace above it serves sunset cocktails and dinner under the stars. Guests can take a cooking class, visit the chocolate lab or walk the organic farm that supplies the kitchen, and private dining is offered.\n\nKai en Ciel, the spa, has two treatment rooms and hair, manicure and pedicure stations, and treatments can also be given inside the sanctuary. Yoga runs at sunrise and sunset. The concierge team arranges walks in the rainforest, the Botanical Gardens and the Sulphur Springs, and a helipad in the hills behind the resort handles helicopter transfers in daylight.\n\nHewanorra International Airport is 18 miles away. Jade Mountain suits couples, honeymooners and anyone who wants a private pool facing the Pitons.",
+  "highlights": [
+    {
+      "label": "Sanctuaries",
+      "value": "Twenty-nine, each with an open fourth wall and 15-foot ceilings.",
+      "sourceUrl": "https://jademountain.com/sanctuaries/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Private pools",
+      "value": "Twenty-four sanctuaries have a private infinity pool, up to about 900 square feet.",
+      "sourceUrl": "https://jademountain.com/sanctuaries/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Jade Mountain Club",
+      "value": "Jade Cuisine by James Beard Award winner Chef Allen Susser.",
+      "sourceUrl": "https://jademountain.com/jade-club/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Celestial Terrace",
+      "value": "Sunset cocktails and dining under the stars above the Club.",
+      "sourceUrl": "https://jademountain.com/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Kai en Ciel",
+      "value": "The resort spa, with treatments also given inside the sanctuary.",
+      "sourceUrl": "https://jademountain.com/spa/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Helipad",
+      "value": "A helipad in the hills behind the resort, for daylight transfers.",
+      "sourceUrl": "https://jademountain.com/contact-us/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Sanctuaries",
+      "value": "29; 24 with a private infinity pool and five Sky sanctuaries with a whirlpool bath",
+      "sourceUrl": "https://jademountain.com/sanctuaries/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Galaxy sanctuaries",
+      "value": "About 2,000 square feet with an infinity pool averaging 900 square feet",
+      "sourceUrl": "https://jademountain.com/sanctuaries/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Estate",
+      "value": "600-acre beachfront estate at Anse Chastanet",
+      "sourceUrl": "https://jademountain.com/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Architect",
+      "value": "Nick Troubetzkoy, architect and owner",
+      "sourceUrl": "https://jademountain.com/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Airport",
+      "value": "Hewanorra International Airport, 18 miles",
+      "sourceUrl": "https://jademountain.com/contact-us/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/jade-mountain/1.jpg",
+      "srcSmall": "/photos/jade-mountain/1-640.jpg",
+      "srcMid": "/photos/jade-mountain/1-1000.jpg",
+      "srcHero": "",
+      "width": 1170,
+      "height": 600,
+      "credit": "Jade Mountain",
+      "creditUrl": "https://jademountain.com/sanctuaries/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://jademountain.com/wp-content/uploads/2026/06/sanctuaries-galaxy-01.webp",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/jade-mountain/2.jpg",
+      "srcSmall": "/photos/jade-mountain/2-640.jpg",
+      "srcMid": "/photos/jade-mountain/2-1000.jpg",
+      "srcHero": "",
+      "width": 1300,
+      "height": 600,
+      "credit": "Jade Mountain",
+      "creditUrl": "https://jademountain.com/sanctuaries/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://jademountain.com/wp-content/uploads/2026/06/jade-news.webp",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/jade-mountain/3.jpg",
+      "srcSmall": "/photos/jade-mountain/3-640.jpg",
+      "srcMid": "/photos/jade-mountain/3-1000.jpg",
+      "srcHero": "",
+      "width": 1300,
+      "height": 600,
+      "credit": "Jade Mountain",
+      "creditUrl": "https://jademountain.com/sanctuaries/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://jademountain.com/wp-content/uploads/2026/06/jade-night-dining.webp",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/jade-mountain/4.jpg",
+      "srcSmall": "/photos/jade-mountain/4-640.jpg",
+      "srcMid": "/photos/jade-mountain/4-1000.jpg",
+      "srcHero": "",
+      "width": 1300,
+      "height": 600,
+      "credit": "Jade Mountain",
+      "creditUrl": "https://jademountain.com/sanctuaries/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://jademountain.com/wp-content/uploads/2026/06/jade-night-lights.webp",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/jade-mountain/5.jpg",
+      "srcSmall": "/photos/jade-mountain/5-640.jpg",
+      "srcMid": "/photos/jade-mountain/5-1000.jpg",
+      "srcHero": "",
+      "width": 1170,
+      "height": 600,
+      "credit": "Jade Mountain",
+      "creditUrl": "https://jademountain.com/sanctuaries/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://jademountain.com/wp-content/uploads/2026/06/sanctuaries-galaxy-03.webp",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/jade-mountain/6.jpg",
+      "srcSmall": "/photos/jade-mountain/6-640.jpg",
+      "srcMid": "/photos/jade-mountain/6-1000.jpg",
+      "srcHero": "",
+      "width": 1170,
+      "height": 600,
+      "credit": "Jade Mountain",
+      "creditUrl": "https://jademountain.com/sanctuaries/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://jademountain.com/wp-content/uploads/2026/06/sanctuaries-moon-2.webp",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/jade-mountain/7.jpg",
+      "srcSmall": "/photos/jade-mountain/7-640.jpg",
+      "srcMid": "/photos/jade-mountain/7-1000.jpg",
+      "srcHero": "",
+      "width": 1170,
+      "height": 600,
+      "credit": "Jade Mountain",
+      "creditUrl": "https://jademountain.com/sanctuaries/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://jademountain.com/wp-content/uploads/2026/06/sanctuaries-moon-1.webp",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/jade-mountain/8.jpg",
+      "srcSmall": "/photos/jade-mountain/8-640.jpg",
+      "srcMid": "/photos/jade-mountain/8-1000.jpg",
+      "srcHero": "",
+      "width": 1170,
+      "height": 600,
+      "credit": "Jade Mountain",
+      "creditUrl": "https://jademountain.com/sanctuaries/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://jademountain.com/wp-content/uploads/2026/06/sanctuaries-galaxy-02.webp",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-08"
+}

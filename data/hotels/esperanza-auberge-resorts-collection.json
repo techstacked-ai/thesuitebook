@@ -1,0 +1,253 @@
+{
+  "slug": "esperanza-auberge-resorts-collection",
+  "name": "Esperanza, Auberge Resorts Collection",
+  "operator": "Auberge Resorts Collection",
+  "brand": "Auberge Resorts Collection",
+  "country": "Mexico",
+  "region": "Caribbean & Latin America",
+  "city": "Cabo San Lucas",
+  "area": "Punta Ballena, Los Cabos",
+  "type": "resort",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "Carretera Transpeninsular KM 7, Manzana 10, Punta Ballena, Cabo San Lucas, Mexico 23410",
+  "lat": 22.90208,
+  "lng": -109.85313,
+  "officialSite": "https://auberge.com/esperanza/",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": null,
+  "tagline": "Casitas, casonas and villas on the Punta Ballena coast of Los Cabos.",
+  "description": "Esperanza is an Auberge resort on the Punta Ballena coast of Los Cabos, named for its resemblance to a whale's tail. The resort describes itself as the only private beach resort in Los Cabos, and it holds casitas, suites, casonas, villas and haciendas above rocky coves.\n\nWaves break on the rocks along this stretch of the Sea of Cortez. The grounds are laid out in stone-walled gardens and courtyards, with palm-fringed pools, an infinity-edge pool beside the beach and a spa entered through wooden gates under a palapa roof.\n\nThe Casitas measure 925 square feet, each with a large private terrace and many with an infinity-edge hot tub. The suites range from 1,200 to 2,000 square feet, with views of the Sea of Cortez from the bed or from a hot tub on the terrace. The one-, three- and four-bedroom casonas have a living room, dining table, full kitchen, washer and dryer and a terrace with a grill, and include airport transfers, bicycles and s'mores kits. Villas run from two bedrooms at 2,400 square feet to four bedrooms at 4,000 square feet, and a Hacienda comes with its own Hacienda Host and twice-daily housekeeping.\n\nThe resort has five restaurants, and Chef Orli Del Angel designs the menus around contemporary Mexican cooking and Baja ingredients. Cocina del Mar stands on a rocky promontory surrounded by crashing waves and serves just-caught seafood. La Palapa is a casual spot for ceviche and tacos with a swim-up bar, Las Estrellas is Mediterranean-inspired, and La Terraza Americana sits among the family pools.\n\nThe Spa at Esperanza is built on the Medicine Wheel, with Wellness Journeys, oceanfront massage cabanas and the Pasaje de Agua hydrotherapy circuit. The resort arranges whale watching on the Sea of Cortez, horseback riding through a desert canyon, sea foraging with the chef and a kids' and teens' club.\n\nEsperanza suits families and groups who want space, as well as couples who want a stretch of private coast.",
+  "highlights": [
+    {
+      "label": "Casitas",
+      "value": "925 square feet each, with a large terrace and often an infinity-edge hot tub.",
+      "sourceUrl": "https://auberge.com/esperanza/stay/casitas-and-suites/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Villas",
+      "value": "Two to four bedrooms, from 2,400 to 4,000 square feet.",
+      "sourceUrl": "https://auberge.com/esperanza/stay/villas/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Cocina del Mar",
+      "value": "Seafood on a rocky promontory surrounded by crashing waves.",
+      "sourceUrl": "https://auberge.com/esperanza/dine/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "Built on the Medicine Wheel, with oceanfront massage cabanas.",
+      "sourceUrl": "https://auberge.com/esperanza/wellness/spa/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Private beach",
+      "value": "Described by the resort as the only private beach resort in Los Cabos.",
+      "sourceUrl": "https://auberge.com/esperanza/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Family programme",
+      "value": "A kids' and teens' club, sea foraging and horseback riding.",
+      "sourceUrl": "https://auberge.com/esperanza/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Casitas",
+      "value": "925 square feet",
+      "sourceUrl": "https://auberge.com/esperanza/stay/casitas-and-suites/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Suites",
+      "value": "1,200 to 2,000 square feet",
+      "sourceUrl": "https://auberge.com/esperanza/stay/casitas-and-suites/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Casonas",
+      "value": "One, three and four bedrooms",
+      "sourceUrl": "https://auberge.com/esperanza/stay/casonas/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Villas",
+      "value": "Two bedrooms (2,400 sq ft) to four bedrooms (4,000 sq ft)",
+      "sourceUrl": "https://auberge.com/esperanza/stay/villas/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Restaurants",
+      "value": "Five",
+      "sourceUrl": "https://auberge.com/esperanza/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Address",
+      "value": "Carretera Transpeninsular KM 7, Manzana 10, Punta Ballena, Cabo San Lucas 23410",
+      "sourceUrl": "https://auberge.com/esperanza/contact-us/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/esperanza-auberge-resorts-collection/1.jpg",
+      "srcSmall": "/photos/esperanza-auberge-resorts-collection/1-640.jpg",
+      "srcMid": "/photos/esperanza-auberge-resorts-collection/1-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1064,
+      "credit": "Auberge Resorts Collection",
+      "creditUrl": "https://auberge.com/esperanza/galleries/resort/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://dreffui1gbt6t.cloudfront.net/images/esp/esp-8.24-home-feature-bottom-upsize.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/esperanza-auberge-resorts-collection/2.jpg",
+      "srcSmall": "/photos/esperanza-auberge-resorts-collection/2-640.jpg",
+      "srcMid": "/photos/esperanza-auberge-resorts-collection/2-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "Auberge Resorts Collection",
+      "creditUrl": "https://auberge.com/esperanza/galleries/resort/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://d2kybo6dnmhj82.cloudfront.net/images/esp/esp-gallery-seasidepool.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/esperanza-auberge-resorts-collection/3.jpg",
+      "srcSmall": "/photos/esperanza-auberge-resorts-collection/3-640.jpg",
+      "srcMid": "/photos/esperanza-auberge-resorts-collection/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1064,
+      "credit": "Auberge Resorts Collection",
+      "creditUrl": "https://auberge.com/esperanza/galleries/resort/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://dreffui1gbt6t.cloudfront.net/images/esp/cbr-1.26-dine-cocinafeat-b-upsize-min.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/esperanza-auberge-resorts-collection/4.jpg",
+      "srcSmall": "/photos/esperanza-auberge-resorts-collection/4-640.jpg",
+      "srcMid": "/photos/esperanza-auberge-resorts-collection/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1064,
+      "credit": "Auberge Resorts Collection",
+      "creditUrl": "https://auberge.com/esperanza/galleries/resort/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://dreffui1gbt6t.cloudfront.net/images/esp/cbr-1.26-spa-feature-b-upsize-min.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/esperanza-auberge-resorts-collection/5.jpg",
+      "srcSmall": "/photos/esperanza-auberge-resorts-collection/5-640.jpg",
+      "srcMid": "/photos/esperanza-auberge-resorts-collection/5-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "Auberge Resorts Collection",
+      "creditUrl": "https://auberge.com/esperanza/galleries/resort/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://dreffui1gbt6t.cloudfront.net/images/esp/esp-8.24-gal-aerial.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/esperanza-auberge-resorts-collection/6.jpg",
+      "srcSmall": "/photos/esperanza-auberge-resorts-collection/6-640.jpg",
+      "srcMid": "/photos/esperanza-auberge-resorts-collection/6-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1064,
+      "credit": "Auberge Resorts Collection",
+      "creditUrl": "https://auberge.com/esperanza/galleries/resort/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://dreffui1gbt6t.cloudfront.net/images/esp/esp-1.26v2-home-fam-b.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/esperanza-auberge-resorts-collection/7.jpg",
+      "srcSmall": "/photos/esperanza-auberge-resorts-collection/7-640.jpg",
+      "srcMid": "/photos/esperanza-auberge-resorts-collection/7-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "Auberge Resorts Collection",
+      "creditUrl": "https://auberge.com/esperanza/galleries/resort/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://dreffui1gbt6t.cloudfront.net/images/esp/esp-9.24-gal-resort-haciendabed-land.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/esperanza-auberge-resorts-collection/8.jpg",
+      "srcSmall": "/photos/esperanza-auberge-resorts-collection/8-640.jpg",
+      "srcMid": "/photos/esperanza-auberge-resorts-collection/8-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "Auberge Resorts Collection",
+      "creditUrl": "https://auberge.com/esperanza/galleries/resort/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://dreffui1gbt6t.cloudfront.net/images/esp/ESP_Villa_Four-Bedroom-Ocean-View-Villa_404_2020_3492.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-08"
+}
