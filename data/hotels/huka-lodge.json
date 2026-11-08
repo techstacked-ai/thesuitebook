@@ -1,0 +1,237 @@
+{
+  "slug": "huka-lodge",
+  "name": "Huka Lodge",
+  "operator": "Beckons",
+  "brand": "Beckons",
+  "country": "New Zealand",
+  "region": "Oceania",
+  "city": "Taupō",
+  "area": "Waikato River",
+  "type": "resort",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "Taupō, North Island, New Zealand",
+  "lat": -38.65469,
+  "lng": 176.08686,
+  "officialSite": "https://hukalodge.com/",
+  "rooms": null,
+  "suites": 20,
+  "villas": null,
+  "opened": 1924,
+  "airport": null,
+  "tagline": "Twenty suites and two cottages on 17 acres beside the Waikato River.",
+  "description": "Huka Lodge is a riverside lodge of 20 suites and two private residences on 17 acres of gardens along the Waikato River, upstream from Huka Falls, near Lake Taupō on New Zealand's North Island. It began in 1924 as a fisherman's camp and is now run by Beckons.\n\nAlan Pye set up the camp with white canvas tents pegged beside the trout-rich river, and anglers kept it a secret until guests arrived from around the world for the chequered lawns that run down to the swirling water. A year-long NZ$25 million transformation by Beckons and Virginia Fisher has since expanded the suites, added bold interiors and opened a wellness offering. The lodge is styled as a grand estate, with a central lodge, a restaurant and terraces among established gardens and dining nooks.\n\nThe 20 suites and the two cottages are dotted along the river and among the gardens, each opening onto lawns. The Lodge Suite has a gauze-draped canopy and French doors to the garden and river, and other suites have raked ceilings, an open fire and a chaise longue by the hearth. The Alan Pye Cottage is a private residence of scale above the river, with an infinity pool, a heated spa and an outdoor pavilion. The Alex van Heeren Cottage sits on a bluff, with a view downstream to Huka Falls.\n\nA stay includes a full country breakfast, pre-dinner drinks and canapés, a four-course dinner with a daily-changing menu and matched premium wines, use of all lodge facilities and return transfers from Taupō Airport. Dinner is built on New Zealand produce, such as beef and lamb from the North Island, Tora crayfish and Mount Cook Alpine Salmon, with native kawakawa and pāua. The underground Wine Cellar holds about 4,500 bottles and seats from two to ten for private dinners. Other private settings include the Library, the Loft, the River Deck and the Orchard.\n\nThe Huka Spa, reserved for in-house guests, stands among the Wellness Grounds, with huts for a gym, two treatment rooms, a sauna, an ice contrast shower and a hot pool. Treatments use manuka honey, greenstone and thermal mud. There is tennis, croquet and pétanque on site, and the lodge arranges fly fishing for trout, jet boating, white-water rafting, golf, hiking, luxury cruising and helicopter flights.\n\nThe lodge suits guests who want a historic, quiet base in Taupō, with the river outside the door.",
+  "highlights": [
+    {
+      "label": "Founded",
+      "value": "A fisherman's camp in 1924 beside the Waikato River.",
+      "sourceUrl": "https://hukalodge.com/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Suites",
+      "value": "Twenty suites and two private residences, the Alan Pye and Alex van Heeren Cottages.",
+      "sourceUrl": "https://hukalodge.com/stay/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Wine Cellar",
+      "value": "An underground cellar of about 4,500 bottles, with private dinners for two to ten.",
+      "sourceUrl": "https://hukalodge.com/dine/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Inclusions",
+      "value": "Breakfast, pre-dinner drinks, four-course dinner with matched wines and airport transfers.",
+      "sourceUrl": "https://hukalodge.com/faq/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "Huka Spa, reserved for in-house guests, with a sauna, ice contrast shower and hot pool.",
+      "sourceUrl": "https://hukalodge.com/spa/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Renovation",
+      "value": "A year-long NZ$25 million transformation by Beckons and Virginia Fisher.",
+      "sourceUrl": "https://hukalodge.com/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Suites",
+      "value": "20",
+      "sourceUrl": "https://hukalodge.com/stay/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Private residences",
+      "value": "2",
+      "sourceUrl": "https://hukalodge.com/stay/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Grounds",
+      "value": "17 acres",
+      "sourceUrl": "https://hukalodge.com/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Founded",
+      "value": "1924",
+      "sourceUrl": "https://hukalodge.com/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Wine cellar",
+      "value": "about 4,500 bottles",
+      "sourceUrl": "https://hukalodge.com/dine/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/huka-lodge/1.jpg",
+      "srcSmall": "/photos/huka-lodge/1-640.jpg",
+      "srcMid": "/photos/huka-lodge/1-1000.jpg",
+      "srcHero": "/photos/huka-lodge/1-2400.jpg",
+      "width": 1600,
+      "height": 903,
+      "credit": "Huka Lodge",
+      "creditUrl": "https://hukalodge.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://hukalodge.com/wp-content/uploads/2025/03/Lodge-Banner.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/huka-lodge/2.jpg",
+      "srcSmall": "/photos/huka-lodge/2-640.jpg",
+      "srcMid": "/photos/huka-lodge/2-1000.jpg",
+      "srcHero": "/photos/huka-lodge/2-2400.jpg",
+      "width": 1600,
+      "height": 903,
+      "credit": "Huka Lodge",
+      "creditUrl": "https://hukalodge.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://hukalodge.com/wp-content/uploads/2025/03/Gallery-Lodge-Aerial.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/huka-lodge/3.jpg",
+      "srcSmall": "/photos/huka-lodge/3-640.jpg",
+      "srcMid": "/photos/huka-lodge/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 987,
+      "credit": "Huka Lodge",
+      "creditUrl": "https://hukalodge.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://hukalodge.com/wp-content/uploads/2019/05/Alan-Pye-Cottage-Feature.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/huka-lodge/4.jpg",
+      "srcSmall": "/photos/huka-lodge/4-640.jpg",
+      "srcMid": "/photos/huka-lodge/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 987,
+      "credit": "Huka Lodge",
+      "creditUrl": "https://hukalodge.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://hukalodge.com/wp-content/uploads/2019/05/Lodge-Suite-Feature.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/huka-lodge/5.jpg",
+      "srcSmall": "/photos/huka-lodge/5-640.jpg",
+      "srcMid": "/photos/huka-lodge/5-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 987,
+      "credit": "Huka Lodge",
+      "creditUrl": "https://hukalodge.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://hukalodge.com/wp-content/uploads/2021/04/Alex-van-Heeren-Cottage-Feature.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/huka-lodge/6.jpg",
+      "srcSmall": "/photos/huka-lodge/6-640.jpg",
+      "srcMid": "/photos/huka-lodge/6-1000.jpg",
+      "srcHero": "/photos/huka-lodge/6-2400.jpg",
+      "width": 1600,
+      "height": 903,
+      "credit": "Huka Lodge",
+      "creditUrl": "https://hukalodge.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://hukalodge.com/wp-content/uploads/2025/03/Dine-Banner.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/huka-lodge/7.jpg",
+      "srcSmall": "/photos/huka-lodge/7-640.jpg",
+      "srcMid": "/photos/huka-lodge/7-1000.jpg",
+      "srcHero": "/photos/huka-lodge/7-2400.jpg",
+      "width": 1600,
+      "height": 903,
+      "credit": "Huka Lodge",
+      "creditUrl": "https://hukalodge.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://hukalodge.com/wp-content/uploads/2025/03/Gallery-Wine-Cellar.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": "15231208.0000",
+  "rating": {
+    "score": 9.6,
+    "reviews": 25,
+    "source": "booking",
+    "date": "2026-11-08"
+  },
+  "price": {
+    "from": 1562,
+    "date": "2026-11-08"
+  },
+  "booking": {
+    "supplier": "booking"
+  },
+  "lastVerified": "2026-11-08"
+}

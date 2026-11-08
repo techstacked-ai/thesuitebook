@@ -1,0 +1,244 @@
+{
+  "slug": "lizard-island",
+  "name": "Lizard Island",
+  "operator": "Lizard Island Resort",
+  "brand": "",
+  "country": "Australia",
+  "region": "Oceania",
+  "city": "Lizard Island",
+  "area": "Great Barrier Reef, Queensland",
+  "type": "island",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "Lizard Island, Great Barrier Reef, Queensland, Australia",
+  "lat": -14.66832,
+  "lng": 145.46092,
+  "officialSite": "https://www.lizardisland.com.au/",
+  "rooms": 40,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": {
+    "code": "CNS",
+    "minutes": 60
+  },
+  "tagline": "Forty rooms, suites and villas on the Great Barrier Reef, with everything included.",
+  "description": "Lizard Island Resort has 40 rooms, suites and villas on a 1,013-hectare national park at the northern end of the Great Barrier Reef, 240 kilometres north of Cairns. It is an all-inclusive resort, surrounded by 24 white-sand beaches, and guests arrive by a one-hour scenic flight from Cairns. Children must be 10 or over.\n\nThe resort sits directly on the reef and is a member of Relais and Châteaux. It holds the Michelin Three-Key distinction, the highest in the Michelin Guide's first Oceania selection. Anchor Bay and the house reef lie at the front, and the Research Station, Cook's Look and the beaches can be reached on guided tours or on foot.\n\nThe accommodation is spread between Garden View rooms and suites, Beachfront Suites along the arc of Anchor Bay with direct beach access, Ocean View Villas, some with plunge pools, and the larger Pavilion, Villa and House. The Pavilion sits on a ridge with glass sliding doors onto a wrap-around deck, a deep standalone bath, a private plunge pool and panoramic views of the reef, and a bottle of Billecart-Salmon Champagne waits on ice. The Villa has three bedrooms. The House is a three-storey, three-bedroom residence of 260 square metres on a private peninsula, with a rooftop of 106 square metres, an outdoor bath, a private pool, a dedicated private host and a minimum stay of four nights. The Cottage, a self-contained cottage with a king suite, sits close by.\n\nDining is included in the nightly rate, along with wines and beverages from the standard list. Salt Water serves breakfast, lunch and dinner on a deck with 180-degree ocean views, with menus that change daily and fresh produce from the island's waters and the mainland that arrives on daily flights. Driftwood Bar is the place for sunset drinks, and picnics are packed for private beaches. Essentia Day Spa uses the Sodashi range and has private and couples treatment rooms.\n\nDays go to snorkelling from the beach, diving, motorised dinghies to a private beach, stand-up paddleboards, and the walk to the top of Cook's Look.\n\nThe resort suits couples and adults travelling together who want the reef at the door and a small island to themselves.",
+  "highlights": [
+    {
+      "label": "Setting",
+      "value": "The only resort on a 1,013-hectare national park, directly on the Great Barrier Reef.",
+      "sourceUrl": "https://www.lizardisland.com.au/about/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Recognition",
+      "value": "Awarded the Michelin Three-Key distinction in the Oceania selection.",
+      "sourceUrl": "https://www.lizardisland.com.au/about/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "The House",
+      "value": "A three-bedroom residence of 260 square metres on a private peninsula, with a private pool and host.",
+      "sourceUrl": "https://www.lizardisland.com.au/accommodation/the-house/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "The Pavilion",
+      "value": "A ridge-top suite with a wrap-around deck and a private plunge pool.",
+      "sourceUrl": "https://www.lizardisland.com.au/accommodation/the-pavilion/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Dining",
+      "value": "Salt Water serves daily-changing menus with 180-degree ocean views.",
+      "sourceUrl": "https://www.lizardisland.com.au/gourmet-restaurants-and-bars/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Arrival",
+      "value": "A one-hour scenic flight from Cairns over the reef.",
+      "sourceUrl": "https://www.lizardisland.com.au/resort-map-and-directions/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Rooms, suites and villas",
+      "value": "40",
+      "sourceUrl": "https://www.lizardisland.com.au/about/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "National park",
+      "value": "1,013 hectares",
+      "sourceUrl": "https://www.lizardisland.com.au/about/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Beaches",
+      "value": "24 white-sand beaches",
+      "sourceUrl": "https://www.lizardisland.com.au/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Distance from Cairns",
+      "value": "240 kilometres north, 27 kilometres off the Queensland coast",
+      "sourceUrl": "https://www.lizardisland.com.au/about/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Flight from Cairns",
+      "value": "one hour",
+      "sourceUrl": "https://www.lizardisland.com.au/resort-map-and-directions/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Minimum age",
+      "value": "10 years",
+      "sourceUrl": "https://www.lizardisland.com.au/about/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "The House",
+      "value": "260 square metres, three bedrooms, 106 square metre rooftop, minimum four nights",
+      "sourceUrl": "https://www.lizardisland.com.au/accommodation/the-house/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/lizard-island/1.jpg",
+      "srcSmall": "/photos/lizard-island/1-640.jpg",
+      "srcMid": "/photos/lizard-island/1-1000.jpg",
+      "srcHero": "/photos/lizard-island/1-2400.jpg",
+      "width": 1600,
+      "height": 1068,
+      "credit": "Lizard Island Resort",
+      "creditUrl": "https://www.lizardisland.com.au/photo-gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.lizardisland.com.au/wp-content/uploads/2026/09/EliseHassey_LizardIsland7150.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/lizard-island/2.jpg",
+      "srcSmall": "/photos/lizard-island/2-640.jpg",
+      "srcMid": "/photos/lizard-island/2-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Lizard Island Resort",
+      "creditUrl": "https://www.lizardisland.com.au/photo-gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.lizardisland.com.au/wp-content/uploads/2026/09/EliseHassey_LizardIsland7190.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/lizard-island/3.jpg",
+      "srcSmall": "/photos/lizard-island/3-640.jpg",
+      "srcMid": "/photos/lizard-island/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Lizard Island Resort",
+      "creditUrl": "https://www.lizardisland.com.au/photo-gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.lizardisland.com.au/wp-content/uploads/2026/09/EliseHassey_LizardIsland7195.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/lizard-island/4.jpg",
+      "srcSmall": "/photos/lizard-island/4-640.jpg",
+      "srcMid": "/photos/lizard-island/4-1000.jpg",
+      "srcHero": "/photos/lizard-island/4-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Lizard Island Resort",
+      "creditUrl": "https://www.lizardisland.com.au/photo-gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.lizardisland.com.au/wp-content/uploads/2026/09/EliseHassey_LizardIsland7256.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/lizard-island/5.jpg",
+      "srcSmall": "/photos/lizard-island/5-640.jpg",
+      "srcMid": "/photos/lizard-island/5-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Lizard Island Resort",
+      "creditUrl": "https://www.lizardisland.com.au/photo-gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.lizardisland.com.au/wp-content/uploads/2026/09/EliseHassey_LizardIsland7411.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/lizard-island/6.jpg",
+      "srcSmall": "/photos/lizard-island/6-640.jpg",
+      "srcMid": "/photos/lizard-island/6-1000.jpg",
+      "srcHero": "/photos/lizard-island/6-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Lizard Island Resort",
+      "creditUrl": "https://www.lizardisland.com.au/photo-gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.lizardisland.com.au/wp-content/uploads/2022/07/gardenview_suite-3.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/lizard-island/7.jpg",
+      "srcSmall": "/photos/lizard-island/7-640.jpg",
+      "srcMid": "/photos/lizard-island/7-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Lizard Island Resort",
+      "creditUrl": "https://www.lizardisland.com.au/photo-gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.lizardisland.com.au/wp-content/uploads/2026/09/EliseHassey_LizardIsland7337-1.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-08"
+}
