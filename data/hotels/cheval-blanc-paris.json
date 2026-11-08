@@ -1,0 +1,316 @@
+{
+  "slug": "cheval-blanc-paris",
+  "name": "Cheval Blanc Paris",
+  "operator": "LVMH Hotel Management",
+  "brand": "Cheval Blanc",
+  "country": "France",
+  "region": "Europe",
+  "city": "Paris",
+  "area": "",
+  "type": "city",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "8 quai du Louvre, 75001 Paris, France",
+  "lat": 48.85886,
+  "lng": 2.34218,
+  "officialSite": "https://www.chevalblanc.com/en/maison/paris/",
+  "rooms": 72,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": null,
+  "tagline": "Seventy-two rooms and suites in La Samaritaine, facing the Pont Neuf.",
+  "description": "Cheval Blanc Paris is a 72-room hotel inside the Art Deco building of La Samaritaine, at 8 quai du Louvre, between the Louvre and Le Marais. It faces the Pont Neuf and the Seine, and holds a Dior spa, a 30-metre pool and five restaurants with six Michelin stars between them.\n\nLa Samaritaine was designed by Henri Sauvage in 1928, and the hotel occupies the part of it that looks onto the river. The interiors are by Peter Marino, who planned the house in the spirit of a private apartment, with furniture drawn for it and works by Sonia Delaunay, Vik Muniz and Claude and François-Xavier Lalanne. A horse sculpture by Frank Gehry stands in the hotel, and a woven-metal staircase by Sophie Mallebranche runs from the entrance hall to the spa.\n\nThe 72 rooms and suites start with the Deluxe Room at 45 square metres, which has a marble bathroom with a bath and a hammam shower, a dressing room and a desk. Four room types differ by view: the Haussmann rooftops, the Louvre colonnade, a side view of the Seine and the Pont Neuf. The Seine Suite measures 105 square metres, and the Notre-Dame Suite and the Eiffel Suite 100 square metres each, with views of the cathedral towers and the Eiffel Tower. On the eighth and ninth floors the Quintessence Suite covers 650 square metres with four bedrooms, a pool and a terrace, and joined to the Ravel Suite it becomes L'Appartement, a 1,000-square-metre duplex with seven bedrooms and a private entrance and lift.\n\nPlénitude, on the first floor, is the three-Michelin-star restaurant of Arnaud Donckele and Maxime Frédéric. Hakuba is a Japanese restaurant with two stars, open for dinner Tuesday to Saturday. Le Tout-Paris on the seventh floor is a brasserie and cocktail bar with one star and a terrace over the Seine, open every day from 7 am to 1 am. Langosteria serves Italian cooking, and Carte Blanche is the in-room dining.\n\nDior Spa Cheval Blanc has treatment suites, and guests have the curved infinity pool with its handmade mosaics, a hammam, a sauna and a snow shower. The pool is open from 6:30 am to 10 pm. Le Carrousel is a children's club, and there is a Rossano Ferretti hair salon. A private boat takes guests along the Seine at twilight.\n\nThe hotel suits visitors who want the centre of Paris on the doorstep, with the Louvre across the road and the river below the window.",
+  "highlights": [
+    {
+      "label": "Setting",
+      "value": "Inside La Samaritaine, designed by Henri Sauvage in 1928, facing the Pont Neuf and the Seine.",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/paris/experiences/art-design/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Suites",
+      "value": "The Seine Suite measures 105 square metres; the Notre-Dame and Eiffel Suites 100 square metres each.",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/paris/rooms-and-suites/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "L'Appartement",
+      "value": "The Ravel and Quintessence Suites join to form a 1,000 square metre duplex with seven bedrooms and a private pool.",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/paris/rooms-and-suites/theapartment/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Dining",
+      "value": "Plénitude holds three Michelin stars, Hakuba two and Le Tout-Paris one.",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/paris/restaurants-and-bars/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Spa",
+      "value": "Dior Spa Cheval Blanc, with an infinity pool, hammam, sauna and snow shower.",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/paris/wellness/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Design",
+      "value": "Interiors by Peter Marino, with works by Frank Gehry, Sophie Mallebranche and Les Lalanne.",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/paris/experiences/art-design/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Seine by boat",
+      "value": "A private boat trip along the Seine at twilight.",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/paris/rooms-and-suites/seine-suite/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Rooms and suites",
+      "value": "72",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/paris/rooms-and-suites/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Address",
+      "value": "8 quai du Louvre, 75001 Paris, in front of the Pont-Neuf, between the Louvre and Le Marais",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/paris/contact/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Deluxe Room",
+      "value": "45 square metres, up to 3 guests",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/paris/rooms-and-suites/deluxe-room/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Seine Suite",
+      "value": "105 square metres, 1 bedroom, 3 guests, view of the Seine",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/paris/rooms-and-suites/seine-suite/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Notre-Dame Suite",
+      "value": "100 square metres, 1 bedroom, 3 guests",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/paris/rooms-and-suites/notre-dame-suite/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Eiffel Suite",
+      "value": "100 square metres, 1 bedroom, 3 guests, balcony over the Eiffel Tower and the Seine",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/paris/rooms-and-suites/eiffel-suite/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Quintessence Suite",
+      "value": "650 square metres, 4 bedrooms, up to 10 guests, on the 8th and 9th floors",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/paris/rooms-and-suites/quintessence-suite/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "L'Appartement",
+      "value": "1,000 square metres, 7 bedrooms, up to 17 guests, private pool, hammam, sauna and projection room",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/paris/rooms-and-suites/theapartment/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Restaurants",
+      "value": "Plénitude (3 Michelin stars), Hakuba (2), Le Tout-Paris (1), Langosteria",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/paris/restaurants-and-bars/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Le Tout-Paris",
+      "value": "7th floor, open every day 7 am to 1 am",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/paris/restaurants-and-bars/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Pool",
+      "value": "30 metres, with Dior Spa Cheval Blanc access, sauna and hammam",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/paris/rooms-and-suites/seine-suite/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Pool hours",
+      "value": "6:30 am to 10 pm for hotel guests",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/paris/wellness/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Spa hours",
+      "value": "Open every day 10 am to 8 pm",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/paris/wellness/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Architecture",
+      "value": "La Samaritaine by Henri Sauvage, 1928; renewal by Edouard François; interiors by Peter Marino",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/paris/experiences/art-design/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Children",
+      "value": "Le Carrousel kids' club, complimentary on site",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/paris/rooms-and-suites/seine-suite/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/cheval-blanc-paris/1.jpg",
+      "srcSmall": "/photos/cheval-blanc-paris/1-640.jpg",
+      "srcMid": "/photos/cheval-blanc-paris/1-1000.jpg",
+      "srcHero": "/photos/cheval-blanc-paris/1-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Cheval Blanc Paris",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/paris/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/oJe_Zu-G4CDJvwk4_Light-ChevalBlancParis_LeTout-Paris_Terrasses_2026_OliverFly-2.jpg?auto=format%2Ccompress&fit=max&w=3840",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/cheval-blanc-paris/2.jpg",
+      "srcSmall": "/photos/cheval-blanc-paris/2-640.jpg",
+      "srcMid": "/photos/cheval-blanc-paris/2-1000.jpg",
+      "srcHero": "/photos/cheval-blanc-paris/2-2400.jpg",
+      "width": 1600,
+      "height": 2400,
+      "credit": "Cheval Blanc Paris",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/paris/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/aEb52Lh8WN-LV5rR_ChevalBlancParis_Fa%C3%A7ade3_Oliver_Fly_Photography_32025.jpg?auto=format%2Ccompress&fit=max&w=3840",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/cheval-blanc-paris/3.jpg",
+      "srcSmall": "/photos/cheval-blanc-paris/3-640.jpg",
+      "srcMid": "/photos/cheval-blanc-paris/3-1000.jpg",
+      "srcHero": "/photos/cheval-blanc-paris/3-2400.jpg",
+      "width": 1600,
+      "height": 1068,
+      "credit": "Cheval Blanc Paris",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/paris/rooms-and-suites/eiffel-suite/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/Z_kS8evxEdbNO6gd_WebRGB-ChevalBlancParis_SuiteEiffel_Salon_VincentLeroux-1-.jpg?auto=format%2Ccompress&fit=max&w=3840",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/cheval-blanc-paris/4.jpg",
+      "srcSmall": "/photos/cheval-blanc-paris/4-640.jpg",
+      "srcMid": "/photos/cheval-blanc-paris/4-1000.jpg",
+      "srcHero": "/photos/cheval-blanc-paris/4-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Cheval Blanc Paris",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/paris/wellness/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/ajqF11bRV8_QfxFW_Light-ChevalBlancParis_DiorSpa_PiscineInfinie_2026_OliverFly-2-.jpg?auto=format%2Ccompress&fit=max&w=3840",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/cheval-blanc-paris/5.jpg",
+      "srcSmall": "/photos/cheval-blanc-paris/5-640.jpg",
+      "srcMid": "/photos/cheval-blanc-paris/5-1000.jpg",
+      "srcHero": "/photos/cheval-blanc-paris/5-2400.jpg",
+      "width": 1600,
+      "height": 1068,
+      "credit": "Cheval Blanc Paris",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/paris/restaurants-and-bars/le-tout-paris/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/424RxhQPU4Mz1vro_Light-ChevalBlancParis_LeTout-Paris_Salle_2026_OliverFly.jpg?auto=format%2Ccompress&fit=max&w=3840",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/cheval-blanc-paris/6.jpg",
+      "srcSmall": "/photos/cheval-blanc-paris/6-640.jpg",
+      "srcMid": "/photos/cheval-blanc-paris/6-1000.jpg",
+      "srcHero": "/photos/cheval-blanc-paris/6-2400.jpg",
+      "width": 1600,
+      "height": 2133,
+      "credit": "Cheval Blanc Paris",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/paris/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/ajp9GFbRV8_Qfwwx_Light-ChevalBlancParis_Salond%27accueil_2026_OliverFly.jpg?auto=format%2Ccompress&fit=max&w=3840",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/cheval-blanc-paris/7.jpg",
+      "srcSmall": "/photos/cheval-blanc-paris/7-640.jpg",
+      "srcMid": "/photos/cheval-blanc-paris/7-1000.jpg",
+      "srcHero": "/photos/cheval-blanc-paris/7-2400.jpg",
+      "width": 1600,
+      "height": 2000,
+      "credit": "Cheval Blanc Paris",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/paris/rooms-and-suites/seine-suite/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/Z_kNXOvxEdbNO6Up_WebRGB-ChevalBlancParis_SuiteSeine_Jardind%27Hiver_511_VincentLeroux-1-.jpg?auto=format%2Ccompress&fit=max&w=3840",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/cheval-blanc-paris/8.jpg",
+      "srcSmall": "/photos/cheval-blanc-paris/8-640.jpg",
+      "srcMid": "/photos/cheval-blanc-paris/8-1000.jpg",
+      "srcHero": "/photos/cheval-blanc-paris/8-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Cheval Blanc Paris",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/paris/wellness/spa-dior/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/Z9RJ8jiBA97GigBz_WebRGB-ChevalBlancParis_DiorSpa_SuiteBonheur_MathieuSalvaing.jpg?auto=format%2Ccompress&fit=max&w=3840",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/cheval-blanc-paris/9.jpg",
+      "srcSmall": "/photos/cheval-blanc-paris/9-640.jpg",
+      "srcMid": "/photos/cheval-blanc-paris/9-1000.jpg",
+      "srcHero": "/photos/cheval-blanc-paris/9-2400.jpg",
+      "width": 1600,
+      "height": 2000,
+      "credit": "Cheval Blanc Paris",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/paris/rooms-and-suites/seine-suite/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/Z_kTl-vxEdbNO6hh_WebRGB-ChevalBlancParis_SuiteSeine_VincentLeroux-1-.jpg?auto=format%2Ccompress&fit=max&w=3840",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "lastVerified": "2026-11-09"
+}

@@ -1,0 +1,313 @@
+{
+  "slug": "cheval-blanc-courchevel",
+  "name": "Cheval Blanc Courchevel",
+  "operator": "LVMH Hotel Management",
+  "brand": "Cheval Blanc",
+  "country": "France",
+  "region": "Europe",
+  "city": "Courchevel",
+  "area": "Courchevel 1850",
+  "type": "resort",
+  "themes": [
+    "palace",
+    "mountain"
+  ],
+  "adultsOnly": false,
+  "address": "Le Jardin Alpin, 73120 Courchevel 1850, France",
+  "lat": 45.4095,
+  "lng": 6.63363,
+  "officialSite": "https://www.chevalblanc.com/en/maison/courchevel/",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": null,
+  "tagline": "Thirty-six keys at the top of Courchevel 1850, with skiing from the door.",
+  "description": "Cheval Blanc Courchevel is a 36-key Palace hotel in Le Jardin Alpin, at the top of Courchevel 1850 in Les Trois Vallées. It is the first maison of the Cheval Blanc brand, with ski-in, ski-out access and the only three-Michelin-star restaurant in Courchevel.\n\nThe house is imagined as a family home in the brand's signature taupe, with modern design and raw natural materials. A mirrored horse by Bruno Peinado stands outside, and Xavier Veilhan's bear, L'Ours, is among more than 200 works by artists including Jean-Michel Othoniel. The interiors are by Sybille de Margerie.\n\nThe 36 keys include the Apartment and Le Chalet, and every room and suite opens onto the mountains. The Superior Room measures 40 to 42 square metres, with a balcony or terrace and a bathroom with a bath and a hammam shower with chromotherapy. The Junior Suite is 50 square metres and each one has its own colour, from volcanic orange to plum and green. The Duplex Suite covers 75 square metres over two floors, with a library and a living room below and the bedroom and terrace above, and it can connect to one or two further rooms.\n\nLe 1947 à Cheval Blanc is the gastronomic restaurant of Yannick Alléno, named for the 1947 vintage of Château Cheval Blanc and open for dinner from Wednesday to Sunday. Le Grill Alpin serves from morning to night in a red room, La Terrasse looks over the slopes around a bonfire, and there are also Le Bar, a Cigar Yurt and in-room dining.\n\nThe Cheval Blanc Spa uses Guerlain treatments, and John Nollet runs a hair room service. The indoor infinity-edge pool is joined by a jacuzzi, a sauna, a chromotherapy hammam, an outdoor Russian banya and hot tub, and an ice fountain. The fitness room is open around the clock. On the mountain there is skiing, picnics by snowmobile, snowshoeing at Lac de la Rosière and dog sledding, and Le Carrousel takes care of younger guests.\n\nThe house suits skiers who want to leave from the front door and return to a small hotel with a three-star table.",
+  "highlights": [
+    {
+      "label": "Setting",
+      "value": "Ski-in, ski-out at the top of Courchevel 1850, in Les Trois Vallées.",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/courchevel/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Keys",
+      "value": "36 rooms and suites, including the Apartment and Le Chalet.",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/courchevel/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Duplex Suite",
+      "value": "75 square metres over two floors, with a library, a terrace and a double dressing room.",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/courchevel/rooms-and-suites/duplex-suite/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Le 1947",
+      "value": "The only three-Michelin-star restaurant in Courchevel, with Chef Yannick Alléno.",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/courchevel/restaurants-and-bars/le-1947-cheval-blanc/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Spa",
+      "value": "Cheval Blanc Spa by Guerlain, with an indoor infinity pool, outdoor Russian banya and ice fountain.",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/courchevel/wellness/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Art",
+      "value": "More than 200 works, including a mirrored horse by Bruno Peinado and L'Ours by Xavier Veilhan.",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/courchevel/rooms-and-suites/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Mountain days",
+      "value": "Skiing, snowmobile picnics, snowshoeing and dog sledding arranged by the hotel.",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/courchevel/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Keys",
+      "value": "36, including the Apartment and Le Chalet",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/courchevel/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Address",
+      "value": "Le Jardin Alpin, 73120 Courchevel 1850, France",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/courchevel/contact/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Superior Room",
+      "value": "40 to 42 square metres, 1 bedroom, 2 guests, balcony or terrace",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/courchevel/rooms-and-suites/superior-room/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Junior Suite",
+      "value": "50 square metres, 1 bedroom, 2 guests, balcony or terrace",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/courchevel/rooms-and-suites/junior-suite/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Duplex Suite",
+      "value": "75 square metres over two floors, 1 bedroom, 2 guests, terrace",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/courchevel/rooms-and-suites/duplex-suite/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Le 1947 à Cheval Blanc",
+      "value": "Three Michelin stars, Chef Yannick Alléno, dinner Wednesday to Sunday 7:30 pm to 9:00 pm",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/courchevel/restaurants-and-bars/le-1947-cheval-blanc/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Other dining",
+      "value": "Le Grill Alpin, La Terrasse de Cheval Blanc, Le Bar, the Cigar Yurt, in-room dining",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/courchevel/restaurants-and-bars/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Spa",
+      "value": "Cheval Blanc Spa by Guerlain, open every day 10 am to 8 pm",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/courchevel/wellness/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Pool and baths",
+      "value": "Indoor infinity-edge pool, indoor jacuzzi, outdoor Russian banya and hot tub, ice fountain; open daily 10 am to 8 pm",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/courchevel/wellness/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Fitness",
+      "value": "Le Salon d'Entrainement, open 24 hours",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/courchevel/wellness/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Hair salon",
+      "value": "Hair Room Service by John Nollet, open every day 11 am to 8 pm",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/courchevel/wellness/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Interior design",
+      "value": "Sybille de Margerie",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/courchevel/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Art",
+      "value": "More than 200 pieces, including works by Jean-Michel Othoniel and Bruno Peinado",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/courchevel/rooms-and-suites/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Children",
+      "value": "Le Carrousel",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/courchevel/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/cheval-blanc-courchevel/1.jpg",
+      "srcSmall": "/photos/cheval-blanc-courchevel/1-640.jpg",
+      "srcMid": "/photos/cheval-blanc-courchevel/1-1000.jpg",
+      "srcHero": "/photos/cheval-blanc-courchevel/1-2400.jpg",
+      "width": 1600,
+      "height": 1200,
+      "credit": "Cheval Blanc Courchevel",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/courchevel/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/aAo-jfIqRLdaBk_F_WebRGB-ChevalBlancCourchevel-Ext%C3%A9rieur-EliseQuiniou.jpg?auto=format%2Ccompress&fit=max&w=3840",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/cheval-blanc-courchevel/2.jpg",
+      "srcSmall": "/photos/cheval-blanc-courchevel/2-640.jpg",
+      "srcMid": "/photos/cheval-blanc-courchevel/2-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 2133,
+      "credit": "Cheval Blanc Courchevel",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/courchevel/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/aH9JLkMqNJQqIMc2_Light-ChevalblancCourchevel_DroneViewsV2_byRR7.jpg?auto=format%2Ccompress&fit=max&w=3840",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/cheval-blanc-courchevel/3.jpg",
+      "srcSmall": "/photos/cheval-blanc-courchevel/3-640.jpg",
+      "srcMid": "/photos/cheval-blanc-courchevel/3-1000.jpg",
+      "srcHero": "/photos/cheval-blanc-courchevel/3-2400.jpg",
+      "width": 1600,
+      "height": 2132,
+      "credit": "Cheval Blanc Courchevel",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/courchevel/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/aH9KlUMqNJQqIMdp_Light-ChevalBlancCourchevel-Ext%C3%A9rieur-EliseQuiniou-3.jpg?auto=format%2Ccompress&fit=max&w=3840",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/cheval-blanc-courchevel/4.jpg",
+      "srcSmall": "/photos/cheval-blanc-courchevel/4-640.jpg",
+      "srcMid": "/photos/cheval-blanc-courchevel/4-1000.jpg",
+      "srcHero": "/photos/cheval-blanc-courchevel/4-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Cheval Blanc Courchevel",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/courchevel/rooms-and-suites/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/aCb_CidWJ-7kSM7w_ChevalBlancCourchevel-Chambre306-FlorianPeallat-9-.jpg?auto=format%2Ccompress&fit=max&w=3840",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/cheval-blanc-courchevel/5.jpg",
+      "srcSmall": "/photos/cheval-blanc-courchevel/5-640.jpg",
+      "srcMid": "/photos/cheval-blanc-courchevel/5-1000.jpg",
+      "srcHero": "/photos/cheval-blanc-courchevel/5-2400.jpg",
+      "width": 1600,
+      "height": 1200,
+      "credit": "Cheval Blanc Courchevel",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/courchevel/rooms-and-suites/duplex-suite/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/Z-EjEHdAxsiBvy4P_WebRGB-ChevalBlancCourchevel-ChambreDuplexDeluxe111-AndreyZouari-2021.jpg?auto=format%2Ccompress&fit=max&w=3840",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/cheval-blanc-courchevel/6.jpg",
+      "srcSmall": "/photos/cheval-blanc-courchevel/6-640.jpg",
+      "srcMid": "/photos/cheval-blanc-courchevel/6-1000.jpg",
+      "srcHero": "/photos/cheval-blanc-courchevel/6-2400.jpg",
+      "width": 1600,
+      "height": 2398,
+      "credit": "Cheval Blanc Courchevel",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/courchevel/restaurants-and-bars/le-1947-cheval-blanc/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/aH9OX0MqNJQqIMf9_Light-ChevalBlancCourchevel-Le1947-F.Nannini-2017.jpg?auto=format%2Ccompress&fit=max&w=3840",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/cheval-blanc-courchevel/7.jpg",
+      "srcSmall": "/photos/cheval-blanc-courchevel/7-640.jpg",
+      "srcMid": "/photos/cheval-blanc-courchevel/7-1000.jpg",
+      "srcHero": "/photos/cheval-blanc-courchevel/7-2400.jpg",
+      "width": 1600,
+      "height": 2245,
+      "credit": "Cheval Blanc Courchevel",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/courchevel/restaurants-and-bars/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/aCc-TSdWJ-7kSOQV_ChevalBlancCourchevel-LaTerrasse-LeBarnStudio-2022-24-.jpg?auto=format%2Ccompress&fit=max&w=3840",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/cheval-blanc-courchevel/8.jpg",
+      "srcSmall": "/photos/cheval-blanc-courchevel/8-640.jpg",
+      "srcMid": "/photos/cheval-blanc-courchevel/8-1000.jpg",
+      "srcHero": "/photos/cheval-blanc-courchevel/8-2400.jpg",
+      "width": 1600,
+      "height": 2133,
+      "credit": "Cheval Blanc Courchevel",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/courchevel/wellness/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/Z-Z9n3dAxsiBwB87_WebRGB-ChevalBlancCourchevel-EspaceduNageur-OliverFly-2.jpg?auto=format%2Ccompress&fit=max&w=3840",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/cheval-blanc-courchevel/9.jpg",
+      "srcSmall": "/photos/cheval-blanc-courchevel/9-640.jpg",
+      "srcMid": "/photos/cheval-blanc-courchevel/9-1000.jpg",
+      "srcHero": "/photos/cheval-blanc-courchevel/9-2400.jpg",
+      "width": 1600,
+      "height": 2133,
+      "credit": "Cheval Blanc Courchevel",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/courchevel/rooms-and-suites/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/aCcAsSdWJ-7kSM-6_ChevalBlancCourchevel-Chambre110-OliverFly-31-.jpg?auto=format%2Ccompress&fit=max&w=3840",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "lastVerified": "2026-11-09"
+}
