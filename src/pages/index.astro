@@ -20,13 +20,13 @@ const description = open
     <>
       <section class="hero">
         <img id="hero-img" src={first.src} srcset={first.set} sizes="100vw" alt="" fetchpriority="high" decoding="async" />
-        <script is:inline set:html={pick} />
         <div class="veil"></div>
         <div class="title">
           <h1 class="wordmark">The Suite Book</h1>
           <p class="line">{line}</p>
         </div>
         <a id="hero-cap" class="cap" href={first.href}><span>{first.name}</span>, <span>{first.place}</span></a>
+        <script is:inline set:html={pick} />
       </section>
       <section class="index wrap" aria-labelledby="index-h">
         <h2 id="index-h" class="sr">The hundred, by region</h2>
