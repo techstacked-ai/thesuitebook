@@ -1,0 +1,227 @@
+{
+  "slug": "the-brando",
+  "name": "The Brando",
+  "operator": "The Brando",
+  "brand": "",
+  "country": "French Polynesia",
+  "region": "Oceania",
+  "city": "Tetiaroa",
+  "area": "Onetahi, Tetiaroa Atoll",
+  "type": "island",
+  "themes": [
+    "private-island"
+  ],
+  "adultsOnly": false,
+  "address": "Tetiaroa Atoll, French Polynesia",
+  "lat": -17.02279,
+  "lng": -149.59616,
+  "officialSite": "https://thebrando.com/",
+  "rooms": null,
+  "suites": null,
+  "villas": 35,
+  "opened": null,
+  "airport": {
+    "code": "PPT",
+    "minutes": 20
+  },
+  "tagline": "Thirty-five villas on Tetiaroa, the atoll Marlon Brando found in the 1960s.",
+  "description": "The Brando is a resort of 35 private villas and one private residence on Onetahi, a motu of Tetiaroa Atoll in French Polynesia. The atoll is encircled by a coral reef and holds 12 motus, and Air Tetiaroa flies guests there from Tahiti in 20 minutes.\n\nTetiaroa emerged as a volcano three million years ago, like Tahiti, Moorea and Bora Bora, and in the past it was a retreat for Tahitian royalty. Marlon Brando first saw it on a hike in Tahiti while filming Mutiny on the Bounty in the early 1960s. The Tetiaroa Society looks after the atoll, in partnership with the resort and the Brando Family Trust, and its guides lead excursions on the atoll.\n\nThe villas stand on the Onetahi motu just off the beach. Doors fold open into breezeways, and the architecture joins traditional materials with modern design and insulation. Every villa has an outdoor lounge, a covered dining area and an infinity plunge pool, and the family villas have separate bedrooms with adjacent twin beds for children. The largest villas have a primary bedroom on the second level with a private study. The Brando was the first resort in the world to receive LEED Platinum certification, and buildings cool with seawater and run on solar panels.\n\nThe kitchen blends Polynesian flavours with classical French technique, under a chef whose career includes the Plaza Athénée, Maison Christian Dior, Cheval Blanc St-Barth and the Venice Simplon-Orient-Express. Bob's Bar, Nami Teppanyaki, the Beachcomber Cafe, Te Manu Bar and Les Mutinés are the places to eat and drink, and private dinners can be arranged.\n\nThe Varua Te Ora Polynesian Spa winds along raised paths through the undergrowth, with Fare Mana for meditation, yoga and sound baths and Fare Manu, the bird house, for couples. Days go to kayaking, diving, guided walks, learning to make art from palm fronds, and watching green turtles nest.\n\nThe resort suits families and couples who want an atoll to themselves, and children under 12 stay, dine and play free on some offers.",
+  "highlights": [
+    {
+      "label": "Villas",
+      "value": "35 private villas and one private residence, each with an infinity plunge pool.",
+      "sourceUrl": "https://thebrando.com/accommodations/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Certification",
+      "value": "The first resort in the world to receive LEED Platinum certification.",
+      "sourceUrl": "https://thebrando.com/accommodations/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "Varua Te Ora Polynesian Spa, with Fare Mana for meditation and sound baths.",
+      "sourceUrl": "https://thebrando.com/spa-wellness/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Dining",
+      "value": "Bob's Bar, Nami Teppanyaki, the Beachcomber Cafe, Te Manu Bar and Les Mutinés.",
+      "sourceUrl": "https://thebrando.com/dining/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Arrival",
+      "value": "Air Tetiaroa flies Twin Otters from Faa'a, Tahiti, in 20 minutes.",
+      "sourceUrl": "https://thebrando.com/location/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Atoll",
+      "value": "Tetiaroa has 12 motus inside a ring of coral reef.",
+      "sourceUrl": "https://thebrando.com/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Villas",
+      "value": "35 private villas and one private residence",
+      "sourceUrl": "https://thebrando.com/accommodations/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Motus",
+      "value": "12",
+      "sourceUrl": "https://thebrando.com/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Flight",
+      "value": "20 minutes from Faa'a International Airport, Papeete, by Air Tetiaroa",
+      "sourceUrl": "https://thebrando.com/location/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Fleet",
+      "value": "Two Twin Otter aircraft, 14 passengers each",
+      "sourceUrl": "https://thebrando.com/location/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Certification",
+      "value": "LEED Platinum",
+      "sourceUrl": "https://thebrando.com/accommodations/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/the-brando/1.jpg",
+      "srcSmall": "/photos/the-brando/1-640.jpg",
+      "srcMid": "/photos/the-brando/1-1000.jpg",
+      "srcHero": "/photos/the-brando/1-2400.jpg",
+      "width": 1600,
+      "height": 1063,
+      "credit": "The Brando",
+      "creditUrl": "https://thebrando.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://thebrando.com/wp-content/uploads/2023/02/Aerial_DSC0094-resample.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-brando/2.jpg",
+      "srcSmall": "/photos/the-brando/2-640.jpg",
+      "srcMid": "/photos/the-brando/2-1000.jpg",
+      "srcHero": "/photos/the-brando/2-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "The Brando",
+      "creditUrl": "https://thebrando.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://thebrando.com/wp-content/uploads/2023/02/15-03-TET-0452©tim-mckenna.com_.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-brando/3.jpg",
+      "srcSmall": "/photos/the-brando/3-640.jpg",
+      "srcMid": "/photos/the-brando/3-1000.jpg",
+      "srcHero": "/photos/the-brando/3-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "The Brando",
+      "creditUrl": "https://thebrando.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://thebrando.com/wp-content/uploads/2023/02/3-Bedroom-Villa-Exterior-Sunrise-01.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-brando/4.jpg",
+      "srcSmall": "/photos/the-brando/4-640.jpg",
+      "srcMid": "/photos/the-brando/4-1000.jpg",
+      "srcHero": "/photos/the-brando/4-2400.jpg",
+      "width": 1600,
+      "height": 1199,
+      "credit": "The Brando",
+      "creditUrl": "https://thebrando.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://thebrando.com/wp-content/uploads/2023/02/BRANDO_3Bedroom-Pool-2.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-brando/5.jpg",
+      "srcSmall": "/photos/the-brando/5-640.jpg",
+      "srcMid": "/photos/the-brando/5-1000.jpg",
+      "srcHero": "/photos/the-brando/5-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "The Brando",
+      "creditUrl": "https://thebrando.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://thebrando.com/wp-content/uploads/2023/02/3-Bedroom-Villa-Outdoor-Dining.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-brando/6.jpg",
+      "srcSmall": "/photos/the-brando/6-640.jpg",
+      "srcMid": "/photos/the-brando/6-1000.jpg",
+      "srcHero": "/photos/the-brando/6-2400.jpg",
+      "width": 1600,
+      "height": 1027,
+      "credit": "The Brando",
+      "creditUrl": "https://thebrando.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://thebrando.com/wp-content/uploads/2023/02/Exterior-04.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-brando/7.jpg",
+      "srcSmall": "/photos/the-brando/7-640.jpg",
+      "srcMid": "/photos/the-brando/7-1000.jpg",
+      "srcHero": "/photos/the-brando/7-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "The Brando",
+      "creditUrl": "https://thebrando.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://thebrando.com/wp-content/uploads/2023/02/3-Bedroom-Villa-Details-01.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-08"
+}

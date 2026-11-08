@@ -1,0 +1,239 @@
+{
+  "slug": "amankora",
+  "name": "Amankora",
+  "operator": "Aman",
+  "brand": "Aman",
+  "country": "Bhutan",
+  "region": "Asia",
+  "city": "Paro",
+  "area": "Paro, Thimphu, Punakha, Gangtey and Bumthang",
+  "type": "resort",
+  "themes": [
+    "mountain"
+  ],
+  "adultsOnly": false,
+  "address": "Paro Valley, Bhutan (Amankora Paro Lodge)",
+  "lat": 27.47847,
+  "lng": 89.61262,
+  "officialSite": "https://www.aman.com/resorts/amankora",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": {
+    "code": "PBH",
+    "minutes": 20
+  },
+  "tagline": "Five lodges across the valleys of Bhutan, joined by a single journey.",
+  "description": "Amankora is a series of five lodges in the central and western valleys of Bhutan: Paro, Thimphu, Punakha, Gangtey and Bumthang. Guests travel between them in a journey of three to sixteen nights, and Paro Lodge is a 20-minute drive from Paro International Airport.\n\nEach lodge sits in its own landscape. Paro is hidden in pine forest at 2,250 metres, with a view of snow-covered Jomolhari and a dining room terrace facing the 17th-century Drukgyel Dzong. Thimphu looks over the capital from a forest. Punakha is a 300-year-old farmhouse above rice paddies near Punakha Dzong, Gangtey overlooks the 16th-century Gangtey Goemba monastery from farmland, and Bumthang stands beside Wandichholing Palace in the town of Jakar.\n\nParo has 24 suites, Thimphu and Bumthang 16 each, and Punakha and Gangtey eight each. At Paro and Bumthang every suite measures 52 square metres, with an open-plan bedroom, a king-size bed, a wood-burning stove and a banquette window seat. The bathrooms have terrazzo-clad bathtubs, and at Bumthang twin vanities and a separate shower and toilet. Bumthang adds a terrace courtyard with a firepit and a private dining room for groups of up to 32.\n\nMeals blend Bhutanese, Western and Indian dishes made from local ingredients. Each lodge has a dining room, and private dining includes candlelit meals. Paro has a guest lounge with a bar, and a library bar that can serve as a private dining room.\n\nWellness is led by Paro, where a two-storey spa has five treatment rooms, a hot stone bath, a sauna, a steam room and a yoga studio. The Banya Spa House and the Hammam Spa House stand in the pine forest, and a Himalayan hot stone bath is infused with local Khempa herbs. Morning yoga and sound baths are offered at every lodge. Days go to hiking and mountain biking from the door, archery, rafting on the Mo Chuu or Pho Chu, golf on Thimphu's nine-hole course at 2,350 metres, and the hike to the Tiger's Nest.\n\nThe journeys suit travellers who want to see Bhutan's valleys and monasteries in comfort. The shortest, Tiger's Odyssey, takes three or four nights and joins two lodges.",
+  "highlights": [
+    {
+      "label": "Lodges",
+      "value": "Five lodges: Paro, Thimphu, Punakha, Gangtey and Bumthang.",
+      "sourceUrl": "https://www.aman.com/resorts/amankora",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Suites",
+      "value": "Paro has 24 suites; Thimphu and Bumthang 16 each; Punakha and Gangtey eight each.",
+      "sourceUrl": "https://www.aman.com/resorts/amankora",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Paro spa",
+      "value": "A two-storey spa with five treatment rooms, plus Banya and Hammam Spa Houses in the pine forest.",
+      "sourceUrl": "https://www.aman.com/resorts/amankora/accommodation/lodges/paro",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Punakha",
+      "value": "The Punakha Lodge occupies a 300-year-old farmhouse above rice paddies.",
+      "sourceUrl": "https://www.aman.com/resorts/amankora",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Journeys",
+      "value": "Journeys run from three nights (Tiger's Odyssey) to sixteen (Quest for Happiness).",
+      "sourceUrl": "https://www.aman.com/resorts/amankora",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Golf",
+      "value": "Nine holes at 2,350 metres in Thimphu, beneath the Thimphu Dzong.",
+      "sourceUrl": "https://www.aman.com/resorts/amankora/experiences",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Paro suites",
+      "value": "24, each 52 square metres",
+      "sourceUrl": "https://www.aman.com/resorts/amankora/accommodation/lodges/paro",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Thimphu suites",
+      "value": "16",
+      "sourceUrl": "https://www.aman.com/resorts/amankora",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Bumthang suites",
+      "value": "16, each 52 square metres",
+      "sourceUrl": "https://www.aman.com/resorts/amankora/accommodation/lodges/bumthang",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Punakha suites",
+      "value": "8",
+      "sourceUrl": "https://www.aman.com/resorts/amankora",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Gangtey suites",
+      "value": "8",
+      "sourceUrl": "https://www.aman.com/resorts/amankora",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Paro Lodge altitude",
+      "value": "2,250 metres",
+      "sourceUrl": "https://www.aman.com/resorts/amankora/accommodation/lodges/paro",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Airport transfer",
+      "value": "20-minute drive from Paro International Airport to Paro Lodge",
+      "sourceUrl": "https://www.aman.com/resorts/amankora/getting-here",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/amankora/1.jpg",
+      "srcSmall": "/photos/amankora/1-640.jpg",
+      "srcMid": "/photos/amankora/1-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amankora/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2024-01/amankora-bhutan-gangtey-lodge_0.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/amankora/2.jpg",
+      "srcSmall": "/photos/amankora/2-640.jpg",
+      "srcMid": "/photos/amankora/2-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amankora/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2021-01/Punakha%20Lodge%2C%20Amankora%2C%20Bhutan_13.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/amankora/3.jpg",
+      "srcSmall": "/photos/amankora/3-640.jpg",
+      "srcMid": "/photos/amankora/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amankora/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2024-01/amankora-bhutan-bumthang-lodge-outdoor.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/amankora/4.jpg",
+      "srcSmall": "/photos/amankora/4-640.jpg",
+      "srcMid": "/photos/amankora/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amankora/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2024-01/amankora-bhutan-paro-lodge-exterior-pine-forest.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/amankora/5.jpg",
+      "srcSmall": "/photos/amankora/5-640.jpg",
+      "srcMid": "/photos/amankora/5-1000.jpg",
+      "srcHero": "/photos/amankora/5-2400.jpg",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amankora/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2025-02/amankora_bhutan_-_paro_exterior_0.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/amankora/6.jpg",
+      "srcSmall": "/photos/amankora/6-640.jpg",
+      "srcMid": "/photos/amankora/6-1000.jpg",
+      "srcHero": "/photos/amankora/6-2400.jpg",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amankora/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2025-02/amankora_bhutan_-_paro_exterior_2.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/amankora/7.jpg",
+      "srcSmall": "/photos/amankora/7-640.jpg",
+      "srcMid": "/photos/amankora/7-1000.jpg",
+      "srcHero": "/photos/amankora/7-2400.jpg",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amankora/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2025-02/amankora_bhutan_-_bumthang_9.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-08"
+}

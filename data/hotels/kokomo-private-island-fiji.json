@@ -1,0 +1,240 @@
+{
+  "slug": "kokomo-private-island-fiji",
+  "name": "Kokomo Private Island Fiji",
+  "operator": "Kokomo Private Island Fiji",
+  "brand": "",
+  "country": "Fiji",
+  "region": "Oceania",
+  "city": "Yaukuve Levu",
+  "area": "Great Astrolabe Reef",
+  "type": "island",
+  "themes": [
+    "private-island"
+  ],
+  "adultsOnly": false,
+  "address": "Yaukuve Levu Island, Fiji",
+  "lat": -18.79925,
+  "lng": 178.52775,
+  "officialSite": "https://www.kokomoislandfiji.com/",
+  "rooms": null,
+  "suites": null,
+  "villas": 26,
+  "opened": null,
+  "airport": {
+    "code": "NAN",
+    "minutes": 60
+  },
+  "tagline": "Twenty-one beachfront villas and five residences on a Fijian island of their own.",
+  "description": "Kokomo Private Island Fiji has 21 beachfront villas and five hilltop residences on Yaukuve Levu, an island by the Great Astrolabe Reef, one of the planet's largest marine wonders. Guests arrive from Nadi by the resort's own seaplane or helicopter in 45 to 60 minutes.\n\nThe aircraft are owned and operated by the resort, a Twin Otter seaplane and an AS350 helicopter, and the flight gives a first view of the reef. A dedicated transfer lounge at Nadi Airport serves guests before and after the flight, and same-day connections are possible for international arrivals landing before 3pm.\n\nEach of the 21 beachfront villas stands on the sand on either side of the island and has an infinity pool, a tropical garden, an ocean view and beach access, with nanny and laundry services. There are seven villa types, from a one-bedroom villa facing the sunrise to larger family houses. Fijian and contemporary design meet in stonework and in artwork by Chris Kenyon. The five residences stand in the hilltops among the greenery, for multi-generational families and groups, each with a butler, a nanny, an infinity pool, a deck and a buggy. They include Astrolabe, a multi-bedroom estate with a large infinity pool and an ocean view, and a split-level residence built to face the sunset.\n\nDining is included, with à la carte breakfast, lunch and dinner and in-villa dining. Walker D'Plank, over the water in a quiet cove, serves Asian-style street food and cocktails under Head Chef Caroline Oakley, with a daily-changing menu. Beach Shack has a relaxed menu that evolves daily, and Kokocabana Pool Club serves Italian and Mediterranean cooking under Chef Vincenzo Maione, with a wood-fired oven for pizza.\n\nThe Yaukuve Spa Sanctuary has five treatment rooms, a wet and dry hammam, a hair salon and a relaxation pavilion, and treatments use the Sodashi range and the Fijian Bobo massage. The water is the main attraction, with snorkelling on the reef at the villa doorstep, diving, fishing, watersports from the Baywatch bure, and a kava ceremony.\n\nThe resort suits families and groups who want a whole island of beaches and reef, with private houses and a team on hand.",
+  "highlights": [
+    {
+      "label": "Villas",
+      "value": "21 Beachfront Villas, each with an infinity pool and beach access.",
+      "sourceUrl": "https://www.kokomoislandfiji.com/stay/beachfront-villas",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Residences",
+      "value": "Five hilltop residences for families and groups, each with a butler and a nanny.",
+      "sourceUrl": "https://www.kokomoislandfiji.com/stay/residences",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Arrival",
+      "value": "Seaplane or helicopter from Nadi, 45 to 60 minutes, owned and operated by the resort.",
+      "sourceUrl": "https://www.kokomoislandfiji.com/discover/arrival-experience",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "The Yaukuve Spa Sanctuary has five treatment rooms and a wet and dry hammam.",
+      "sourceUrl": "https://www.kokomoislandfiji.com/wellness/yaukuve-spa-sanctuary",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Dining",
+      "value": "Walker D'Plank sits over the water, serving Asian-style street food and cocktails.",
+      "sourceUrl": "https://www.kokomoislandfiji.com/culinary/walker-dplank",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Pizza",
+      "value": "Kokocabana Pool Club has a wood-fired oven, a Josper grill and a butcher's block.",
+      "sourceUrl": "https://www.kokomoislandfiji.com/culinary/kokocabana",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Beachfront villas",
+      "value": "21",
+      "sourceUrl": "https://www.kokomoislandfiji.com/stay/beachfront-villas",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Residences",
+      "value": "5",
+      "sourceUrl": "https://www.kokomoislandfiji.com/stay/residences",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Villa types",
+      "value": "seven beachfront villa types",
+      "sourceUrl": "https://www.kokomoislandfiji.com/stay/beachfront-villas",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Transfer",
+      "value": "45 to 60 minutes from Nadi by seaplane or helicopter",
+      "sourceUrl": "https://www.kokomoislandfiji.com/discover/arrival-experience",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa treatment rooms",
+      "value": "5",
+      "sourceUrl": "https://www.kokomoislandfiji.com/wellness/yaukuve-spa-sanctuary",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Inclusions",
+      "value": "À la carte meals including in-villa dining, personal bar with non-alcoholic drinks, land-based activities",
+      "sourceUrl": "https://www.kokomoislandfiji.com/stay/inclusions",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/kokomo-private-island-fiji/1.jpg",
+      "srcSmall": "/photos/kokomo-private-island-fiji/1-640.jpg",
+      "srcMid": "/photos/kokomo-private-island-fiji/1-1000.jpg",
+      "srcHero": "/photos/kokomo-private-island-fiji/1-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Kokomo Private Island Fiji",
+      "creditUrl": "https://www.kokomoislandfiji.com/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.kokomoislandfiji.com/media/a2wdghlf/kokomo_islandbeauty_wholeisland_aerial-1.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/kokomo-private-island-fiji/2.jpg",
+      "srcSmall": "/photos/kokomo-private-island-fiji/2-640.jpg",
+      "srcMid": "/photos/kokomo-private-island-fiji/2-1000.jpg",
+      "srcHero": "/photos/kokomo-private-island-fiji/2-2400.jpg",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Kokomo Private Island Fiji",
+      "creditUrl": "https://www.kokomoislandfiji.com/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.kokomoislandfiji.com/media/eksn1r0g/kokomo_highres_beachfront_aerial_jv-12.png",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/kokomo-private-island-fiji/3.jpg",
+      "srcSmall": "/photos/kokomo-private-island-fiji/3-640.jpg",
+      "srcMid": "/photos/kokomo-private-island-fiji/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Kokomo Private Island Fiji",
+      "creditUrl": "https://www.kokomoislandfiji.com/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.kokomoislandfiji.com/media/dsblfyxi/kokomo_accommodation_residences_dravuni_aerial-2.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/kokomo-private-island-fiji/4.jpg",
+      "srcSmall": "/photos/kokomo-private-island-fiji/4-640.jpg",
+      "srcMid": "/photos/kokomo-private-island-fiji/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Kokomo Private Island Fiji",
+      "creditUrl": "https://www.kokomoislandfiji.com/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.kokomoislandfiji.com/media/g22hruwz/namara_grand-residence_accommodation_22.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/kokomo-private-island-fiji/5.jpg",
+      "srcSmall": "/photos/kokomo-private-island-fiji/5-640.jpg",
+      "srcMid": "/photos/kokomo-private-island-fiji/5-1000.jpg",
+      "srcHero": "/photos/kokomo-private-island-fiji/5-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Kokomo Private Island Fiji",
+      "creditUrl": "https://www.kokomoislandfiji.com/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.kokomoislandfiji.com/media/i1olqji0/villa6_kokomo_highres-13.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/kokomo-private-island-fiji/6.jpg",
+      "srcSmall": "/photos/kokomo-private-island-fiji/6-640.jpg",
+      "srcMid": "/photos/kokomo-private-island-fiji/6-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Kokomo Private Island Fiji",
+      "creditUrl": "https://www.kokomoislandfiji.com/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.kokomoislandfiji.com/media/hopn5l1c/kokomo_accommodation_villa_1bsr_-bedroom.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/kokomo-private-island-fiji/7.jpg",
+      "srcSmall": "/photos/kokomo-private-island-fiji/7-640.jpg",
+      "srcMid": "/photos/kokomo-private-island-fiji/7-1000.jpg",
+      "srcHero": "/photos/kokomo-private-island-fiji/7-2400.jpg",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Kokomo Private Island Fiji",
+      "creditUrl": "https://www.kokomoislandfiji.com/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.kokomoislandfiji.com/media/1klja4qy/dji_0008-enhanced-nr.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-08"
+}

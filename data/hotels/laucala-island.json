@@ -1,0 +1,127 @@
+{
+  "slug": "laucala-island",
+  "name": "Laucala Island",
+  "operator": "LAUCALA Island Resort Pte Limited",
+  "brand": "",
+  "country": "Fiji",
+  "region": "Oceania",
+  "city": "Laucala Island",
+  "area": "Vanua Levu",
+  "type": "island",
+  "themes": [
+    "private-island"
+  ],
+  "adultsOnly": false,
+  "address": "Cakaudrove, Vanua Levu, Fiji",
+  "lat": -18.14191,
+  "lng": 178.51633,
+  "officialSite": "https://www.laucala.com/",
+  "rooms": null,
+  "suites": null,
+  "villas": 24,
+  "opened": null,
+  "airport": null,
+  "tagline": "Twenty-four villas, each with its own pool, on a private island in Vanua Levu.",
+  "description": "Laucala is a private island in Fiji, in Vanua Levu, with 24 private villas. Each villa has its own pool, indoor and outdoor living spaces and large private grounds, facing the ocean, the lagoon or the rainforest.\n\nThe island is a large landscape of rainforest, coral reef, sandy beaches, volcanic mountains, farmland and gardens, and it operates as a self-contained destination. Guests arrive by Air Laucala, a dedicated shuttle flight from Fiji's international gateway, or on a private jet to the island's own runway. Each guest or villa group has a personal host who arranges the stay.\n\nDining follows a farm-to-table approach, and much of the produce is grown on the island's own farms and gardens. Meals are taken on beaches, in restaurants or in private settings, and the stay includes dining, refreshments and most of the experiences on the island.\n\nDays are open. On the water there is snorkelling, diving, sailing, fishing and boat excursions. On land there are rainforest trails, horseback riding, golf and wildlife observation, and the island offers spa treatments, yoga and wellness programmes.\n\nThe island suits guests who want complete privacy and a great deal of space, and who prefer to set their own rhythm over a fixed programme.",
+  "highlights": [
+    {
+      "label": "Villas",
+      "value": "24 private villas, each with its own pool.",
+      "sourceUrl": "https://www.laucala.com/llms-full.txt",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Arrival",
+      "value": "Air Laucala shuttle flights, or private jets to the island runway.",
+      "sourceUrl": "https://www.laucala.com/llms-full.txt",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Dining",
+      "value": "Farm-to-table dining, with produce from the island's farms and gardens.",
+      "sourceUrl": "https://www.laucala.com/llms-full.txt",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Inclusions",
+      "value": "Dining, refreshments and most on-island experiences are included.",
+      "sourceUrl": "https://www.laucala.com/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Days",
+      "value": "Reef, golf, horses and rainforest trails are among the activities.",
+      "sourceUrl": "https://www.laucala.com/llms-full.txt",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Villas",
+      "value": "24",
+      "sourceUrl": "https://www.laucala.com/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Location",
+      "value": "Private island in Vanua Levu, Fiji",
+      "sourceUrl": "https://www.laucala.com/llms-full.txt",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Runway",
+      "value": "Private runway on the island",
+      "sourceUrl": "https://www.laucala.com/llms-full.txt",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Operator",
+      "value": "LAUCALA Island Resort Pte Limited, Cakaudrove, Vanua Levu",
+      "sourceUrl": "https://www.laucala.com/imprint",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/laucala-island/1.jpg",
+      "srcSmall": "/photos/laucala-island/1-640.jpg",
+      "srcMid": "/photos/laucala-island/1-1000.jpg",
+      "srcHero": "/photos/laucala-island/1-2400.jpg",
+      "width": 1600,
+      "height": 844,
+      "credit": "LAUCALA",
+      "creditUrl": "https://www.laucala.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.laucala.com/videos/laucala_hero_desktop_poster.webp",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/laucala-island/2.jpg",
+      "srcSmall": "/photos/laucala-island/2-640.jpg",
+      "srcMid": "/photos/laucala-island/2-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 843,
+      "credit": "LAUCALA",
+      "creditUrl": "https://www.laucala.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.laucala.com/videos/Reels_10.poster.webp",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-08"
+}
