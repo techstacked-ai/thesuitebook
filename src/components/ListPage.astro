@@ -1,0 +1,32 @@
+---
+/* Region, destination and theme pages: a quiet title, a line, then the list. */
+import Base from '../layouts/Base.astro';
+import HotelList from './HotelList.astro';
+import type { Hotel } from '../lib/hotels';
+import { SITE, hotelPath, leadOf, newest } from '../lib/hotels';
+interface Props { title: string; h1: string; intro: string; description: string; list: Hotel[]; numbered?: boolean; crumbs?: { href: string; label: string }[] }
+const { title, h1, intro, description, list, numbered = false, crumbs = [] } = Astro.props;
+const url = new URL(Astro.url.pathname, SITE).href;
+const ld = [
+  { '@context': 'https://schema.org', '@type': 'CollectionPage', name: h1, url, description, isPartOf: { '@id': `${SITE}/#site` },
+    mainEntity: { '@type': 'ItemList', numberOfItems: list.length, itemListElement: list.map((h, i) => ({ '@type': 'ListItem', position: i + 1, url: new URL(hotelPath(h), SITE).href, name: h.name })) } },
+  { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [{ href: '/', label: 'The Suite Book' }, ...crumbs, { href: Astro.url.pathname, label: h1 }].map((c, i) => ({ '@type': 'ListItem', position: i + 1, name: c.label, item: new URL(c.href, SITE).href })) },
+];
+---
+<Base title={title} description={description} image={leadOf(list[0])?.src} updated={newest(list)} ld={ld}>
+  <header class="head measure">
+    {crumbs.length ? <nav class="label crumbs" aria-label="Breadcrumb">{crumbs.map((c) => <a href={c.href}>{c.label}</a>)}</nav> : null}
+    <h1>{h1}</h1>
+    <p class="intro">{intro}</p>
+  </header>
+  <div class="wrap"><HotelList list={list} numbered={numbered} /></div>
+  <slot />
+</Base>
+
+<style>
+  .head { text-align: center; padding-block: clamp(80px, 11vw, 160px) clamp(64px, 8vw, 120px); }
+  .crumbs { display: flex; justify-content: center; gap: 18px; margin-bottom: 28px; }
+  .crumbs a:hover { color: var(--ink); }
+  h1 { font-size: clamp(36px, 4.6vw, 64px); }
+  .intro { margin: 28px auto 0; max-width: 46ch; font-family: var(--serif); font-size: clamp(18px, 1.5vw, 21px); line-height: 1.6; color: var(--soft); }
+</style>

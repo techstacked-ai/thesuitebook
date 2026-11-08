@@ -1,0 +1,12 @@
+---
+import ListPage from '../../components/ListPage.astro';
+import { places, regionPath } from '../../lib/hotels';
+import type { Place } from '../../lib/hotels';
+export function getStaticPaths() { return places().map((p) => ({ params: { slug: p.path.split('/')[2] }, props: { p } })); }
+const { p } = Astro.props as { p: Place };
+const region = p.list[0].region;
+const intro = p.kind === 'city' ? `${p.list.length} hotels in ${p.name}, ${p.country}.` : `${p.list.length} hotels across ${p.name}, in ${[...new Set(p.list.map((h) => h.city).filter(Boolean))].join(', ')}.`;
+---
+<ListPage title={`The most luxurious hotels in ${p.name} | The Suite Book`} h1={`The most luxurious hotels in ${p.name}`} intro={intro}
+  description={`The ${p.list.length} most luxurious hotels in ${p.name}: ${p.list.map((h) => h.name).join(', ')}.`.slice(0, 160)}
+  list={p.list} crumbs={[{ href: '/destinations/', label: 'Destinations' }, { href: regionPath(region), label: region }]} />

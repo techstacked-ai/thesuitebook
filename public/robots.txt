@@ -1,0 +1,23 @@
+User-agent: *
+# Search engines, AI search and AI assistants may read, index and quote these pages.
+Allow: /
+
+# AI search, assistant and training crawlers, named so they need not guess. Every page also has a Markdown
+# copy at <page>/index.md, and /llms.txt and /llms-full.txt describe the site.
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: Bingbot
+User-agent: CCBot
+User-agent: meta-externalagent
+User-agent: DuckAssistBot
+Allow: /
+
+Sitemap: https://thesuitebook.com/sitemap-index.xml

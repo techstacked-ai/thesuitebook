@@ -1,0 +1,32 @@
+---
+interface Props { overlay?: boolean; home?: boolean }
+const { overlay = false, home = false } = Astro.props;
+const path = Astro.url.pathname;
+const links = [{ href: '/hotels/', label: 'The hundred' }, { href: '/destinations/', label: 'Destinations' }, { href: '/about/', label: 'About' }];
+---
+<header class:list={['top', { overlay }]}>
+  <div class="bar">
+    {home ? <span class="mark-gap" aria-hidden="true"></span> : <a class="mark" href="/">The Suite Book</a>}
+    <nav aria-label="Main">
+      {links.map((l) => <a href={l.href} aria-current={path.startsWith(l.href) ? 'page' : undefined}>{l.label}</a>)}
+    </nav>
+  </div>
+</header>
+
+<style>
+  .top { position: relative; z-index: 10; border-bottom: 1px solid var(--line); background: var(--paper); }
+  .top.overlay { position: absolute; inset: 0 0 auto 0; background: transparent; border-bottom-color: transparent; color: var(--on-dark); }
+  .bar { display: flex; align-items: center; justify-content: space-between; gap: 24px; min-height: 76px; padding-inline: var(--pad); }
+  .mark { font-family: var(--serif); font-size: 19px; letter-spacing: 0.14em; white-space: nowrap; }
+  nav { display: flex; gap: clamp(18px, 2.6vw, 40px); font-size: 13px; letter-spacing: 0.02em; }
+  nav a { padding-block: 10px; border-bottom: 1px solid transparent; transition: border-color 300ms var(--ease); }
+  nav a:hover, nav a[aria-current='page'] { border-bottom-color: currentColor; }
+  .overlay nav a, .overlay .mark { text-shadow: 0 1px 16px rgba(0, 0, 0, 0.5); }
+  @media (max-width: 640px) {
+    .bar { min-height: 64px; }
+    .mark { font-size: 16px; letter-spacing: 0.1em; }
+    nav { gap: 16px; font-size: 12.5px; }
+    nav a:nth-child(2) { display: none; }
+  }
+  @media (pointer: coarse) { nav a { padding-block: 13px; } }
+</style>

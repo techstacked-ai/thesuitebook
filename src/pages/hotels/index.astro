@@ -1,0 +1,111 @@
+---
+import Base from '../../layouts/Base.astro';
+import { hotels, REGIONS, BANDS, bandOf, hotelPath, placeLine, leadOf, srcset, SITE } from '../../lib/hotels';
+const TYPES = [['city', 'City'], ['resort', 'Resort'], ['island', 'Island'], ['safari', 'Safari'], ['wilderness', 'Wilderness']].filter(([t]) => hotels.some((h) => h.type === t));
+const regions = REGIONS.filter((r) => hotels.some((h) => h.region === r));
+const countries = [...new Set(hotels.map((h) => h.country))].sort();
+const bands = BANDS.filter((b) => hotels.some((h) => bandOf(h) === b.id));
+const toggles = [
+  { id: 'island', label: 'Private island', test: (h: any) => h.themes?.includes('private-island') || h.type === 'island' },
+  { id: 'safari', label: 'Safari', test: (h: any) => h.themes?.includes('safari') || h.type === 'safari' },
+  { id: 'adults', label: 'Adults only', test: (h: any) => !!h.adultsOnly },
+].filter((t) => hotels.some(t.test));
+const flags = (h: any) => toggles.filter((t) => t.test(h)).map((t) => t.id).join(' ');
+const ld = [{ '@context': 'https://schema.org', '@type': 'CollectionPage', name: 'The hundred', url: `${SITE}/hotels/`, isPartOf: { '@id': `${SITE}/#site` },
+  mainEntity: { '@type': 'ItemList', numberOfItems: hotels.length, itemListElement: hotels.map((h, i) => ({ '@type': 'ListItem', position: i + 1, url: new URL(hotelPath(h), SITE).href, name: h.name })) } }];
+---
+<Base title="The most luxurious hotels in the world, by region and type | The Suite Book" description={`All ${hotels.length || 'hundred'} hotels in The Suite Book, by region, country, type and price: city palaces, private islands, safari lodges and mountain hotels.`} ld={ld}>
+  <header class="head wrap">
+    <h1>The hundred</h1>
+    <p class="label"><span id="count">{hotels.length}</span> <span id="noun">{hotels.length === 1 ? 'hotel' : 'hotels'}</span></p>
+  </header>
+
+  {hotels.length ? (
+    <>
+      <form class="filters wrap" id="filters" role="search" aria-label="Filter the hotels">
+        <label><span class="sr">Search</span><input type="search" name="q" placeholder="Search by name or place" autocomplete="off" /></label>
+        <label><span class="sr">Region</span><select name="region"><option value="">All regions</option>{regions.map((r) => <option value={r}>{r}</option>)}</select></label>
+        <label><span class="sr">Country</span><select name="country"><option value="">All countries</option>{countries.map((c) => <option value={c}>{c}</option>)}</select></label>
+        <label><span class="sr">Type</span><select name="type"><option value="">Every type</option>{TYPES.map(([v, l]) => <option value={v}>{l}</option>)}</select></label>
+        {bands.length ? <label><span class="sr">Price</span><select name="price"><option value="">Any price</option>{bands.map((b) => <option value={b.id}>{b.label}</option>)}</select></label> : null}
+        {toggles.map((t) => <label class="check"><input type="checkbox" name={t.id} value="1" /><span>{t.label}</span></label>)}
+        <button type="reset" class="clear" id="clear" hidden>Clear</button>
+      </form>
+
+      <ul class="grid wrap" id="grid">
+        {hotels.map((h) => { const p = leadOf(h)!; return (
+          <li data-region={h.region} data-country={h.country} data-type={h.type} data-price={bandOf(h)} data-flags={flags(h)} data-text={`${h.name} ${placeLine(h)} ${h.operator || ''}`.toLowerCase()}>
+            <a href={hotelPath(h)}>
+              <img src={p.srcSmall || p.src} srcset={srcset(p)} sizes="(max-width: 640px) 100vw, (max-width: 1100px) 50vw, 30vw" width={p.width} height={p.height} alt={`${h.name}, ${placeLine(h)}`} loading="lazy" decoding="async" />
+              <h2>{h.name}</h2>
+              <p class="label">{placeLine(h)}</p>
+            </a>
+          </li>
+        ); })}
+      </ul>
+      <p class="none wrap" id="none" hidden>No hotel matches all of these. <button type="button" class="quiet-link" id="clear2">Clear the filters</button></p>
+    </>
+  ) : (
+    <p class="none wrap">The first hotels arrive soon.</p>
+  )}
+</Base>
+
+<script>
+  const form = document.getElementById('filters') as HTMLFormElement | null;
+  if (form) {
+    const items = [...document.querySelectorAll<HTMLLIElement>('#grid li')];
+    const count = document.getElementById('count')!, noun = document.getElementById('noun')!, none = document.getElementById('none')!, clear = document.getElementById('clear')!;
+    const keys = ['q', 'region', 'country', 'type', 'price', 'island', 'safari', 'adults'];
+    const read = () => { const d = new FormData(form); const s: Record<string, string> = {}; for (const k of keys) { const v = String(d.get(k) || '').trim(); if (v) s[k] = v; } return s; };
+    const apply = (push: boolean) => {
+      const s = read(); let n = 0;
+      for (const li of items) {
+        const d = li.dataset, f = (d.flags || '').split(' ');
+        const ok = (!s.q || (d.text || '').includes(s.q.toLowerCase())) && (!s.region || d.region === s.region) && (!s.country || d.country === s.country)
+          && (!s.type || d.type === s.type) && (!s.price || d.price === s.price) && ['island', 'safari', 'adults'].every((k) => !s[k] || f.includes(k));
+        li.hidden = !ok; if (ok) n++;
+      }
+      count.textContent = String(n); noun.textContent = n === 1 ? 'hotel' : 'hotels';
+      none.hidden = n > 0; clear.hidden = !Object.keys(s).length;
+      if (push) { const q = new URLSearchParams(s).toString(); history.replaceState(null, '', q ? `?${q}` : location.pathname); }
+    };
+    const params = new URLSearchParams(location.search);
+    for (const k of keys) { const el = form.elements.namedItem(k) as HTMLInputElement | HTMLSelectElement | null; const v = params.get(k); if (!el || !v) continue; if (el instanceof HTMLInputElement && el.type === 'checkbox') el.checked = true; else el.value = v; }
+    apply(false);
+    form.addEventListener('input', () => apply(true));
+    form.addEventListener('submit', (e) => { e.preventDefault(); apply(true); });
+    form.addEventListener('reset', () => setTimeout(() => apply(true)));
+    document.getElementById('clear2')?.addEventListener('click', () => form.reset());
+  }
+</script>
+
+<style>
+  .head { display: flex; align-items: baseline; justify-content: space-between; gap: 24px; padding-block: clamp(64px, 8vw, 120px) 40px; }
+  h1 { font-size: clamp(40px, 5vw, 72px); }
+  .filters { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 28px; padding-block: 18px; border-block: 1px solid var(--line); position: sticky; top: 0; z-index: 5; background: var(--paper); }
+  input[type='search'], select { font: inherit; font-size: 14px; color: var(--ink); background: transparent; border: 0; border-radius: 0; padding: 10px 0; min-height: 44px; }
+  input[type='search'] { width: 15em; border-bottom: 1px solid var(--line); }
+  input[type='search']:focus { outline: none; border-bottom-color: var(--ink); }
+  select { -webkit-appearance: none; appearance: none; padding-right: 18px; cursor: pointer; background-image: linear-gradient(45deg, transparent 50%, currentColor 50%), linear-gradient(135deg, currentColor 50%, transparent 50%); background-position: right 6px center, right 2px center; background-size: 4px 4px; background-repeat: no-repeat; }
+  .check { display: inline-flex; align-items: center; gap: 9px; font-size: 14px; cursor: pointer; min-height: 44px; }
+  .check input { appearance: none; -webkit-appearance: none; width: 14px; height: 14px; margin: 0; border: 1px solid var(--ink); border-radius: 0; display: grid; place-content: center; cursor: pointer; }
+  .check input:checked { background: var(--midnight); border-color: var(--midnight); box-shadow: inset 0 0 0 2px var(--paper); }
+  .clear { margin-left: auto; font: inherit; font-size: 13px; color: var(--soft); background: none; border: 0; cursor: pointer; padding: 10px 0; }
+  .clear:hover { color: var(--ink); }
+  .grid { list-style: none; padding: 0; margin-top: 64px; display: grid; grid-template-columns: repeat(3, 1fr); gap: 72px clamp(24px, 3vw, 48px); }
+  .grid li[hidden] { display: none; }
+  .grid img { width: 100%; aspect-ratio: 4 / 5; object-fit: cover; background: var(--line); }
+  .grid h2 { margin-top: 22px; font-size: clamp(21px, 1.7vw, 25px); line-height: 1.2; }
+  .grid .label { margin-top: 6px; }
+  .grid a:hover h2 { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 6px; }
+  .none { margin-top: 64px; font-family: var(--serif); font-size: 19px; }
+  .none button { font: inherit; background: none; border-top: 0; border-inline: 0; cursor: pointer; padding: 0; }
+  @media (max-width: 1100px) { .grid { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 640px) {
+    .filters { position: static; gap: 0 22px; }
+    input[type='search'] { width: 100%; }
+    .filters label:first-child { flex-basis: 100%; }
+    .grid { grid-template-columns: 1fr; gap: 56px; margin-top: 44px; }
+    .grid img { aspect-ratio: 4 / 3; }
+  }
+</style>

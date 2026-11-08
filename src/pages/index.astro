@@ -1,5 +1,93 @@
 ---
+import Base from '../layouts/Base.astro';
+import { hotels, REGIONS, regionPath, hotelPath, placeLine, leadOf, srcset } from '../lib/hotels';
+const line = 'The hundred most extraordinary hotels in the world';
+const open = hotels.length > 0;
+const groups = REGIONS.map((r) => ({ region: r, list: hotels.filter((h) => h.region === r) })).filter((g) => g.list.length);
+/* The lead photograph of every hotel; one is chosen at random on each visit, the first is the no-JS default. */
+const heroes = hotels.map((h) => { const p = leadOf(h)!; return { src: p.srcHero || p.src, set: srcset(p, true), name: h.name, place: placeLine(h), href: hotelPath(h) }; });
+const first = heroes[0];
+const pick = `(function () { var l = ${JSON.stringify(heroes)}; if (l.length < 2) return; var h = l[Math.floor(Math.random() * l.length)];
+  var i = document.getElementById('hero-img'), c = document.getElementById('hero-cap');
+  i.srcset = h.set; i.src = h.src; c.href = h.href; c.firstChild.textContent = h.name; c.lastChild.textContent = h.place; })();`;
+const title = open ? 'The Suite Book: the hundred most luxurious hotels in the world' : 'The Suite Book';
+const description = open
+  ? `The hundred most extraordinary hotels in the world, from the palaces of Paris to private islands and safari lodges: ${hotels.length} hotels, each with its own photographs, rooms, restaurants and the facts that matter.`
+  : 'The hundred most extraordinary hotels in the world. Opening soon.';
 ---
-<!doctype html>
-<html lang="en"><head><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><title>The Suite Book</title></head>
-<body><main><h1>The Suite Book</h1><p>The hundred most extraordinary hotels in the world. Opening soon.</p></main></body></html>
+<Base title={title} description={description} overlay={open} home image={first?.src}>
+  {open ? (
+    <>
+      <section class="hero">
+        <img id="hero-img" src={first.src} srcset={first.set} sizes="100vw" alt="" fetchpriority="high" decoding="async" />
+        <script is:inline set:html={pick} />
+        <div class="veil"></div>
+        <div class="title">
+          <h1 class="wordmark">The Suite Book</h1>
+          <p class="line">{line}</p>
+        </div>
+        <a id="hero-cap" class="cap" href={first.href}><span>{first.name}</span>, <span>{first.place}</span></a>
+      </section>
+      <section class="index wrap" aria-labelledby="index-h">
+        <h2 id="index-h" class="sr">The hundred, by region</h2>
+        {groups.map((g) => (
+          <div class="region">
+            <h3><a href={regionPath(g.region)}>{g.region}</a></h3>
+            <ol>
+              {g.list.map((h) => { const p = leadOf(h)!; return (
+                <li>
+                  <a href={hotelPath(h)}>
+                    <span class="name">{h.name}</span>
+                    <span class="place">{placeLine(h)}</span>
+                    <img class="peek" src={p.srcSmall || p.src} alt="" loading="lazy" decoding="async" width="320" height="213" />
+                  </a>
+                </li>
+              ); })}
+            </ol>
+          </div>
+        ))}
+        <p class="all"><a class="quiet-link" href="/hotels/">Browse the hundred by region, type and price</a></p>
+      </section>
+    </>
+  ) : (
+    <section class="soon">
+      <h1 class="wordmark">The Suite Book</h1>
+      <p class="line">{line}</p>
+      <hr class="short" />
+      <p class="label">Opening soon</p>
+    </section>
+  )}
+</Base>
+
+<style>
+  .hero { position: relative; height: 100svh; min-height: 560px; overflow: hidden; background: var(--midnight); color: var(--on-dark); }
+  .hero img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; animation: arrive 2.8s var(--ease) both; }
+  @keyframes arrive { from { opacity: 0; } to { opacity: 1; } }
+  .veil { position: absolute; inset: 0; background: rgba(10, 14, 20, 0.22); }
+  .title { position: absolute; inset: 0; display: grid; place-content: center; text-align: center; padding: var(--pad); }
+  .wordmark { font-size: clamp(40px, 7.4vw, 112px); letter-spacing: 0.12em; line-height: 1; margin-right: -0.12em; text-shadow: 0 2px 40px rgba(0, 0, 0, 0.2); }
+  .line { margin-top: clamp(18px, 2.2vw, 30px); font-family: var(--serif); font-style: italic; font-size: clamp(17px, 1.7vw, 23px); }
+  .cap { position: absolute; left: var(--pad); bottom: 28px; font-size: 13px; color: var(--on-dark-soft); transition: color 300ms var(--ease); }
+  .cap:hover { color: var(--on-dark); }
+  .index { padding-top: var(--pause); }
+  .region { display: grid; grid-template-columns: minmax(180px, 1fr) 3fr; gap: 40px; padding-block: 56px; border-top: 1px solid var(--line); }
+  .region:first-of-type { border-top: 0; padding-top: 0; }
+  .region h3 { font-size: clamp(24px, 2.2vw, 32px); align-self: start; position: sticky; top: 32px; }
+  ol { list-style: none; margin: 0; padding: 0; }
+  li a { position: relative; display: flex; align-items: baseline; justify-content: space-between; gap: 24px; padding-block: 15px; border-bottom: 1px solid var(--line); }
+  li:first-child a { padding-top: 0; }
+  .name { font-family: var(--serif); font-size: clamp(20px, 1.9vw, 27px); line-height: 1.2; }
+  .place { font-size: 13px; color: var(--soft); text-align: right; white-space: nowrap; }
+  .peek { display: none; position: absolute; z-index: 2; right: 0; bottom: calc(100% - 10px); width: 280px; height: auto; aspect-ratio: 3 / 2; object-fit: cover; pointer-events: none; }
+  @media (hover: hover) and (min-width: 1000px) { li a:hover .peek { display: block; } li a:hover .name { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 6px; } }
+  .all { margin-top: 48px; text-align: center; font-size: 14px; }
+  .soon { min-height: calc(100svh - 77px); display: grid; place-content: center; justify-items: center; text-align: center; padding: var(--pad); }
+  .soon .line { color: var(--soft); }
+  .short { width: 56px; border: 0; border-top: 1px solid var(--ink); margin: 48px 0 22px; }
+  @media (max-width: 760px) {
+    .region { grid-template-columns: 1fr; gap: 20px; padding-block: 44px; }
+    .region h3 { position: static; }
+    li a { flex-direction: column; gap: 4px; }
+    .place { text-align: left; white-space: normal; }
+  }
+</style>

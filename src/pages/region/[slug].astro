@@ -1,0 +1,18 @@
+---
+import ListPage from '../../components/ListPage.astro';
+import { hotels, REGIONS, slugify, places } from '../../lib/hotels';
+export function getStaticPaths() {
+  return REGIONS.filter((r) => hotels.some((h) => h.region === r)).map((r) => ({ params: { slug: slugify(r) }, props: { region: r } }));
+}
+const { region } = Astro.props as { region: string };
+const list = hotels.filter((h) => h.region === region);
+const countries = [...new Set(list.map((h) => h.country))];
+const sub = places().filter((p) => p.list.every((h) => h.region === region));
+const intro = `${list.length} ${list.length === 1 ? 'hotel' : 'hotels'} in ${countries.length === 1 ? countries[0] : `${countries.length} countries`}${countries.length > 1 ? `, from ${countries.slice(0, 3).join(', ')}${countries.length > 3 ? ' and more' : ''}` : ''}.`;
+---
+<ListPage title={`The most luxurious hotels in ${region} | The Suite Book`} h1={`The most luxurious hotels in ${region}`} intro={intro}
+  description={`The ${list.length} hotels in ${region} in The Suite Book, the hundred most extraordinary hotels in the world: ${list.slice(0, 4).map((h) => h.name).join(', ')}.`.slice(0, 160)}
+  list={list} crumbs={[{ href: '/destinations/', label: 'Destinations' }]}>
+  {sub.length ? <nav class="sub measure label" aria-label="Destinations">{sub.map((p) => <a class="quiet-link" href={p.path}>{p.name}</a>)}</nav> : null}
+</ListPage>
+<style>.sub { display: flex; flex-wrap: wrap; justify-content: center; gap: 12px 32px; margin-top: var(--pause); }</style>

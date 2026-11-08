@@ -1,0 +1,40 @@
+---
+import Base from '../layouts/Base.astro';
+import { hotels, MIN_PHOTOS } from '../lib/hotels';
+const ld = [{ '@context': 'https://schema.org', '@type': 'AboutPage', name: 'About The Suite Book', url: 'https://thesuitebook.com/about/', isPartOf: { '@id': 'https://thesuitebook.com/#site' } }];
+---
+<Base title="About The Suite Book, and how the hundred are chosen" description="What The Suite Book is, how the hundred hotels are chosen, where every fact and photograph comes from, and how the booking links work." ld={ld}>
+  <header class="head measure"><h1>About</h1></header>
+  <div class="prose measure body">
+    <p>The Suite Book is a list of one hundred hotels: the palaces of the great cities, the private islands, the safari lodges and the mountain hotels that stand apart from everything else in their class. Each one has a page with its own photographs, its rooms and suites, its restaurants, the facts a guest would ask for, and a way to reserve.</p>
+    <p>It is not a review site. No stays are claimed and no scores are given. The pages describe the hotels and cite where every fact comes from.</p>
+
+    <h2 id="chosen">How the hundred are chosen</h2>
+    <p>The list started from about two hundred candidates, the hotels that come up again and again when the question is where to spend the most extraordinary night of a year. One hundred were kept, on four things:</p>
+    <ul>
+      <li>The level of the place itself: the rooms and suites, the service, the food and the spa, as the hotel presents them.</li>
+      <li>The setting: a building or a piece of land that could not be anywhere else.</li>
+      <li>Scale: most of the hundred are small, and many have fewer than a hundred rooms.</li>
+      <li>Range: city palaces, island resorts, safari lodges, wilderness lodges and mountain hotels, across every region, so the list answers more than one kind of trip.</li>
+    </ul>
+    <p>No hotel pays to be listed, and no hotel can buy a place. The list changes when a hotel closes, slips, or a new one opens that belongs on it.</p>
+
+    <h2 id="sources">Where the facts come from</h2>
+    <p>Every fact on a hotel page comes from the hotel's own website or its operator's pages, press room and fact sheets, and carries a link to that page and the date it was read. These are listed under Sources at the foot of each hotel page. Travel agencies, booking sites, review sites and other directories are never a source. When a hotel does not publish a fact, the page leaves it out.</p>
+    <p>Nightly prices, where shown, are the lowest rate for two adults sampled on Booking.com through Stay22, with the date of the sample. They move with the season and are a guide only.</p>
+
+    <h2 id="photographs">The photographs</h2>
+    <p>Every photograph is the hotel's own, from its website or its operator's media library, credited on the page. A hotel appears only once it has at least {MIN_PHOTOS} of them.</p>
+
+    <h2 id="booking">Booking</h2>
+    <p>The button on each hotel page opens the hotel on Booking.com or Expedia through Stay22, which may pay The Suite Book a commission at no cost to the guest. Where neither lists the hotel, the button goes to the hotel's own reservations page, with no commission. Each page also links the hotel's own site.</p>
+  </div>
+</Base>
+<style>
+  .head { text-align: center; padding-block: clamp(80px, 11vw, 160px) clamp(56px, 7vw, 96px); }
+  h1 { font-size: clamp(40px, 5vw, 72px); }
+  .body h2 { font-size: clamp(26px, 2.4vw, 34px); margin: 2.4em 0 0.8em; scroll-margin-top: 24px; }
+  .body ul { margin: 1.1em 0; padding-left: 1.1em; }
+  .body li + li { margin-top: 0.5em; }
+  .body ul + p { margin-top: 1.1em; }
+</style>

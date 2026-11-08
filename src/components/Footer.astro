@@ -1,0 +1,40 @@
+---
+import { REGIONS, regionPath, hotels, THEMES, themeHotels } from '../lib/hotels';
+const regions = REGIONS.filter((r) => hotels.some((h) => h.region === r));
+const themes = THEMES.filter((t) => themeHotels(t).length >= 3);
+const year = new Date().getFullYear();
+---
+<footer>
+  <div class="wrap grid">
+    <div class="id">
+      <a class="mark" href="/">The Suite Book</a>
+      <p>The hundred most extraordinary hotels in the world.</p>
+    </div>
+    {regions.length ? (
+      <nav aria-label="Regions"><p class="h">Regions</p>{regions.map((r) => <a href={regionPath(r)}>{r}</a>)}</nav>
+    ) : null}
+    {themes.length ? (
+      <nav aria-label="Themes"><p class="h">Themes</p>{themes.map((t) => <a href={t.path}>{t.short}</a>)}</nav>
+    ) : null}
+    <nav aria-label="Site"><p class="h">The book</p><a href="/hotels/">The hundred</a><a href="/destinations/">Destinations</a><a href="/about/">About</a><a href="/about/#chosen">How the hundred are chosen</a></nav>
+  </div>
+  <div class="wrap small">
+    <p>Booking links go through Stay22 to Booking.com or Expedia, which may pay a commission at no cost to the guest. No hotel pays to be listed.</p>
+    <p>&copy; {year} The Suite Book</p>
+  </div>
+</footer>
+
+<style>
+  footer { background: var(--midnight); color: var(--on-dark); padding-block: clamp(72px, 9vw, 120px) 40px; margin-top: var(--pause); }
+  .grid { display: grid; grid-template-columns: 2fr repeat(3, 1fr); gap: 48px; }
+  .mark { font-family: var(--serif); font-size: 24px; letter-spacing: 0.14em; }
+  .id p { margin-top: 18px; max-width: 30ch; color: var(--on-dark-soft); font-family: var(--serif); font-size: 17px; }
+  nav { display: flex; flex-direction: column; gap: 10px; font-size: 13.5px; }
+  nav a { color: var(--on-dark-soft); transition: color 300ms var(--ease); width: fit-content; }
+  nav a:hover { color: var(--on-dark); }
+  .h { color: var(--on-dark); margin-bottom: 6px; font-size: 13px; }
+  .small { display: flex; justify-content: space-between; gap: 32px; margin-top: 88px; padding-top: 24px; border-top: 1px solid rgba(255, 255, 255, 0.14); font-size: 12.5px; color: var(--on-dark-soft); }
+  .small p:first-child { max-width: 68ch; }
+  @media (max-width: 900px) { .grid { grid-template-columns: 1fr 1fr; } .id { grid-column: 1 / -1; } .small { flex-direction: column; } }
+  @media (pointer: coarse) { nav a { padding-block: 8px; } }
+</style>

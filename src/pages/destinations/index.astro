@@ -1,0 +1,40 @@
+---
+import Base from '../../layouts/Base.astro';
+import { hotels, REGIONS, regionPath, places, THEMES, themeHotels } from '../../lib/hotels';
+const regions = REGIONS.map((r) => ({ r, n: hotels.filter((h) => h.region === r).length, sub: places().filter((p) => p.list[0].region === r) })).filter((x) => x.n);
+const themes = THEMES.map((t) => ({ t, n: themeHotels(t).length })).filter((x) => x.n >= 3);
+---
+<Base title="Destinations: the most luxurious hotels by region | The Suite Book" description="The hundred most extraordinary hotels in the world by region, country and city, and by kind: private islands, safari lodges, palaces, overwater villas and mountain hotels.">
+  <header class="head measure"><h1>Destinations</h1></header>
+  {regions.length ? (
+    <div class="wrap cols">
+      <section aria-labelledby="by-region">
+        <h2 id="by-region" class="label">By region</h2>
+        <ul>{regions.map(({ r, n, sub }) => (
+          <li><a href={regionPath(r)}><span class="n">{r}</span><span class="label">{n}</span></a>
+            {sub.length ? <p class="label sub">{sub.map((p) => <a href={p.path}>{p.name}</a>)}</p> : null}</li>
+        ))}</ul>
+      </section>
+      {themes.length ? (
+        <section aria-labelledby="by-kind">
+          <h2 id="by-kind" class="label">By kind</h2>
+          <ul>{themes.map(({ t, n }) => <li><a href={t.path}><span class="n">{t.short}</span><span class="label">{n}</span></a></li>)}</ul>
+        </section>
+      ) : null}
+    </div>
+  ) : <p class="measure soon">The first hotels arrive soon.</p>}
+</Base>
+<style>
+  .head { text-align: center; padding-block: clamp(80px, 11vw, 160px) clamp(56px, 7vw, 96px); }
+  h1 { font-size: clamp(40px, 5vw, 72px); }
+  .cols { display: grid; grid-template-columns: 3fr 2fr; gap: clamp(48px, 8vw, 140px); }
+  ul { list-style: none; padding: 0; margin: 20px 0 0; border-top: 1px solid var(--line); }
+  li { border-bottom: 1px solid var(--line); padding-block: 18px; }
+  li > a { display: flex; justify-content: space-between; align-items: baseline; gap: 24px; }
+  .n { font-family: var(--serif); font-size: clamp(22px, 2vw, 28px); }
+  li > a:hover .n { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 6px; }
+  .sub { display: flex; flex-wrap: wrap; gap: 4px 20px; margin-top: 8px; }
+  .sub a:hover { color: var(--ink); }
+  .soon { text-align: center; font-family: var(--serif); font-size: 19px; color: var(--soft); }
+  @media (max-width: 800px) { .cols { grid-template-columns: 1fr; } }
+</style>

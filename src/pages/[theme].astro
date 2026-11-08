@@ -1,0 +1,10 @@
+---
+import ListPage from '../components/ListPage.astro';
+import { THEMES, themeHotels } from '../lib/hotels';
+export function getStaticPaths() { return THEMES.filter((t) => themeHotels(t).length >= 3).map((t) => ({ params: { theme: t.path.replace(/\//g, '') }, props: { id: t.id } })); }
+const t = THEMES.find((x) => x.id === Astro.props.id)!;
+const list = themeHotels(t);
+---
+<ListPage title={`${t.title} | The Suite Book`} h1={t.title} intro={t.intro}
+  description={`${t.title}: ${list.length} hotels, ${list.slice(0, 4).map((h) => h.name).join(', ')} and more.`.slice(0, 160)}
+  list={list} crumbs={[{ href: '/destinations/', label: 'Destinations' }]} />
