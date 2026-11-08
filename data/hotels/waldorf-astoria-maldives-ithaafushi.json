@@ -1,0 +1,236 @@
+{
+  "slug": "waldorf-astoria-maldives-ithaafushi",
+  "name": "Waldorf Astoria Maldives Ithaafushi",
+  "operator": "Hilton",
+  "brand": "Waldorf Astoria",
+  "country": "Maldives",
+  "region": "Indian Ocean",
+  "city": "South Malé Atoll",
+  "area": "",
+  "type": "island",
+  "themes": [
+    "overwater",
+    "private-island"
+  ],
+  "adultsOnly": false,
+  "address": "Ithaafushi, South Malé Atoll, Maldives",
+  "lat": 4.01486,
+  "lng": 73.38376,
+  "officialSite": "https://www.waldorfastoriamaldives.com/",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": {},
+  "tagline": "A three-island resort in the South Malé Atoll, 45 minutes by yacht from Velana.",
+  "description": "Waldorf Astoria Maldives Ithaafushi is a three-island resort in the South Malé Atoll, 45 minutes by yacht from Velana International Airport. Its villas stand over the lagoon, on the beach and on the reef, and each has a private pool.\n\nThe resort describes its private island as the largest in the Maldives, and the villas have direct access to the sea and the surrounding reef. The resort has an aqua wellness centre, and Terra, high in the island's canopy, is built from bamboo.\n\nAccommodation comes as overwater villas, beach villas and reef villas. The overwater villas have a private deck, an infinity pool, a dressing room with a glass floor over the lagoon and floor-to-ceiling windows, and a larger honeymoon villa adds living space for in-villa dining. The beach villas have a private pool, indoor and outdoor rain showers, a garden and a deep-soaking tub, a few steps from the shore. The reef villas have a sundeck, a private pool and direct lagoon access. Villas take two adults and two children under 12, and the overwater villas range from 283 to 1,113 square metres.\n\nDining is spread across the island with treetop tasting menus, Japanese izakaya cooking at Zuma, Lebanese hospitality at Em Sherif and wood-fired barbecue at The Ledge by the Michelin-star chef Dave Pynt. Terra serves seven-course menus in seven bamboo pods high in the canopy, hand-crafted and the only ones of their kind in the Maldives.\n\nThe Wellness Concierge, exclusive to Waldorf Astoria Maldives, plans treatments and fitness around each guest in a one-to-one consultation. The spa menu draws on earth, water, fire, metal and wood, from Himalayan stone rituals to Balinese massage and hydrotherapy, and programmes of two, five or seven days cover Ayurveda, detox, anti-stress, pain relief and beauty.\n\nIt suits couples after a quiet villa with its own pool, and guests who want a long dining list on an island of their own.",
+  "highlights": [
+    {
+      "label": "Villas",
+      "value": "Overwater, beach and reef villas, each with a private pool",
+      "sourceUrl": "https://www.waldorfastoriamaldives.com/over-the-water/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Terra",
+      "value": "Seven bamboo dining pods in the canopy, with seven-course menus",
+      "sourceUrl": "https://www.waldorfastoriamaldives.com/cuisine/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Restaurants",
+      "value": "Zuma, Em Sherif and The Ledge by Dave Pynt",
+      "sourceUrl": "https://www.waldorfastoriamaldives.com/cuisine/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Wellness",
+      "value": "A Wellness Concierge, aqua wellness centre and programmes of two to seven days",
+      "sourceUrl": "https://www.waldorfastoriamaldives.com/wellness/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Private island",
+      "value": "Described as the largest in the Maldives",
+      "sourceUrl": "https://www.waldorfastoriamaldives.com/resort/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Arrival",
+      "value": "A 45-minute yacht journey from Velana International Airport",
+      "sourceUrl": "https://www.waldorfastoriamaldives.com/resort/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Islands",
+      "value": "Three",
+      "sourceUrl": "https://www.waldorfastoriamaldives.com/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Overwater villa size",
+      "value": "283 to 1,113 square metres",
+      "sourceUrl": "https://www.waldorfastoriamaldives.com/over-the-water/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Terra pods",
+      "value": "Seven bamboo dining pods",
+      "sourceUrl": "https://www.waldorfastoriamaldives.com/cuisine/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Wellness programmes",
+      "value": "Two, five or seven days",
+      "sourceUrl": "https://www.waldorfastoriamaldives.com/wellness/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/waldorf-astoria-maldives-ithaafushi/1.jpg",
+      "srcSmall": "/photos/waldorf-astoria-maldives-ithaafushi/1-640.jpg",
+      "srcMid": "/photos/waldorf-astoria-maldives-ithaafushi/1-1000.jpg",
+      "srcHero": "/photos/waldorf-astoria-maldives-ithaafushi/1-2400.jpg",
+      "width": 1600,
+      "height": 1198,
+      "credit": "Waldorf Astoria Maldives Ithaafushi",
+      "creditUrl": "https://www.waldorfastoriamaldives.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/05/Waldorf-Astoria-Drone-0855-2-scaled.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/waldorf-astoria-maldives-ithaafushi/2.jpg",
+      "srcSmall": "/photos/waldorf-astoria-maldives-ithaafushi/2-640.jpg",
+      "srcMid": "/photos/waldorf-astoria-maldives-ithaafushi/2-1000.jpg",
+      "srcHero": "/photos/waldorf-astoria-maldives-ithaafushi/2-2400.jpg",
+      "width": 1600,
+      "height": 1198,
+      "credit": "Waldorf Astoria Maldives Ithaafushi",
+      "creditUrl": "https://www.waldorfastoriamaldives.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/05/Private-Island-1-scaled.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/waldorf-astoria-maldives-ithaafushi/3.jpg",
+      "srcSmall": "/photos/waldorf-astoria-maldives-ithaafushi/3-640.jpg",
+      "srcMid": "/photos/waldorf-astoria-maldives-ithaafushi/3-1000.jpg",
+      "srcHero": "/photos/waldorf-astoria-maldives-ithaafushi/3-2400.jpg",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Waldorf Astoria Maldives Ithaafushi",
+      "creditUrl": "https://www.waldorfastoriamaldives.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/05/WA_MI_Drone_TwoBedroom_ReefVilla_6254_FINAL-scaled.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/waldorf-astoria-maldives-ithaafushi/4.jpg",
+      "srcSmall": "/photos/waldorf-astoria-maldives-ithaafushi/4-640.jpg",
+      "srcMid": "/photos/waldorf-astoria-maldives-ithaafushi/4-1000.jpg",
+      "srcHero": "/photos/waldorf-astoria-maldives-ithaafushi/4-2400.jpg",
+      "width": 1600,
+      "height": 860,
+      "credit": "Waldorf Astoria Maldives Ithaafushi",
+      "creditUrl": "https://www.waldorfastoriamaldives.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/05/Overwater-Way-scaled.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/waldorf-astoria-maldives-ithaafushi/5.jpg",
+      "srcSmall": "/photos/waldorf-astoria-maldives-ithaafushi/5-640.jpg",
+      "srcMid": "/photos/waldorf-astoria-maldives-ithaafushi/5-1000.jpg",
+      "srcHero": "/photos/waldorf-astoria-maldives-ithaafushi/5-2400.jpg",
+      "width": 1600,
+      "height": 948,
+      "credit": "Waldorf Astoria Maldives Ithaafushi",
+      "creditUrl": "https://www.waldorfastoriamaldives.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/06/2.-King-Grand-Overwater-Villa_Pool-at-Sunset-scaled.webp",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/waldorf-astoria-maldives-ithaafushi/6.jpg",
+      "srcSmall": "/photos/waldorf-astoria-maldives-ithaafushi/6-640.jpg",
+      "srcMid": "/photos/waldorf-astoria-maldives-ithaafushi/6-1000.jpg",
+      "srcHero": "/photos/waldorf-astoria-maldives-ithaafushi/6-2400.jpg",
+      "width": 1600,
+      "height": 948,
+      "credit": "Waldorf Astoria Maldives Ithaafushi",
+      "creditUrl": "https://www.waldorfastoriamaldives.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/06/2.-Two-Queen-Bedded-Grand-Beach-Villa_Bedroom-scaled.webp",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/waldorf-astoria-maldives-ithaafushi/7.jpg",
+      "srcSmall": "/photos/waldorf-astoria-maldives-ithaafushi/7-640.jpg",
+      "srcMid": "/photos/waldorf-astoria-maldives-ithaafushi/7-1000.jpg",
+      "srcHero": "/photos/waldorf-astoria-maldives-ithaafushi/7-2400.jpg",
+      "width": 1600,
+      "height": 1068,
+      "credit": "Waldorf Astoria Maldives Ithaafushi",
+      "creditUrl": "https://www.waldorfastoriamaldives.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/06/4.-Two-Queen-Beddded-Grand-Overwater-Villa_Bathroom-scaled.webp",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/waldorf-astoria-maldives-ithaafushi/8.jpg",
+      "srcSmall": "/photos/waldorf-astoria-maldives-ithaafushi/8-640.jpg",
+      "srcMid": "/photos/waldorf-astoria-maldives-ithaafushi/8-1000.jpg",
+      "srcHero": "/photos/waldorf-astoria-maldives-ithaafushi/8-2400.jpg",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Waldorf Astoria Maldives Ithaafushi",
+      "creditUrl": "https://www.waldorfastoriamaldives.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.waldorfastoriamaldives.com/wp-content/uploads/2025/05/WA_MI_Drone_ThreeBedroom_BeachVilla_2213_FINAL-scaled.jpg",
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "direct"
+  },
+  "lastVerified": "2026-11-08"
+}

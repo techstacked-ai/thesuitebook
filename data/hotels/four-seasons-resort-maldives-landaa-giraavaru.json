@@ -1,0 +1,264 @@
+{
+  "slug": "four-seasons-resort-maldives-landaa-giraavaru",
+  "name": "Four Seasons Resort Maldives at Landaa Giraavaru",
+  "operator": "Four Seasons",
+  "brand": "Four Seasons",
+  "country": "Maldives",
+  "region": "Indian Ocean",
+  "city": "Baa Atoll",
+  "area": "Baa Atoll",
+  "type": "island",
+  "themes": [
+    "overwater"
+  ],
+  "adultsOnly": false,
+  "address": "Landaa Giraavaru, Baa Atoll, Maldives",
+  "lat": 5.28636,
+  "lng": 73.11208,
+  "officialSite": "https://www.fourseasons.com/maldiveslg/",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": {
+    "code": "MLE",
+    "minutes": 35
+  },
+  "tagline": "An island in Baa Atoll with an Olympic-size pool, Ayurvedic spa and its own seaplanes.",
+  "description": "Four Seasons Resort Maldives at Landaa Giraavaru is an island resort in the Baa Atoll, 35 minutes by seaplane from Velana International Airport. Its main infinity pool is the only Olympic-size pool in the Maldives, and the resort has its own marine discovery centre.\n\nThe island has white beaches, calm lagoons and jungle, with sandbanks for picnics and a reef of unusual thilas around it. Water villas stand over the lagoon on private decks, and beach villas sit among the palms. Guests arrive on the resort's own seaplanes, the eight-seat Flying Triggerfish or the ten-seat Flying Boxfish, or on a Trans Maldivian Airways seaplane.\n\nAccommodation runs from bungalows to two-bedroom villas, and most of the categories listed have a pool. The Sunrise and Sunset Water Villas with Pool measure 90 square metres with 183 square metres of outdoor space, and the Family Water Villas 112 square metres. The Premier Oceanfront Bungalow with Pool is 77 square metres and the Beach Villa with Pool 137 square metres, with 260 square metres of outdoors. The Two-Bedroom Oceanfront Villa measures 312 square metres, and the Sunset Two-Bedroom Water Suite 182 square metres. There are seven specialty suites as well.\n\nAl Barakat, the overwater restaurant, serves the cuisine of the Levant in cooperation with Chef Aline Kamakian of Beirut's Mayrig. Café Landaa has three thatched pavilions for Asian and regional dishes from a tandoor and a teppanyaki counter in a water garden. Fuego Grill serves steak and seafood with toes in the sand, Seabar is an overwater tapas bar above lemon sharks and reef fish, and Blu is the Italian restaurant, with Blu Bar next door.\n\nAyurMa is the spa, built on Ayurveda, yoga therapy, wellness and planetary wellbeing, with a team of Ayurvedic doctors, naturopaths and yoga therapists. The resort has four pools, a padel court, a water sports centre with free snorkels, kayaks, catamarans and windsurfing gear, and diving among turtles and manta rays. Marine biologists lead the Marine Discovery Centre, and the Kuda Velaa Kids' Club looks after children. Guests can also book Voavah, a private island of two hectares with seven bedrooms and a staff of 28.\n\nIt suits families, with water villas that sleep up to five, and couples who dive or want a spa programme built on Ayurveda.",
+  "highlights": [
+    {
+      "label": "Water Villas",
+      "value": "Sunrise and Sunset Water Villas with Pool, 90 square metres, with 183 square metres outdoors",
+      "sourceUrl": "https://www.fourseasons.com/maldiveslg/accommodations/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Two-Bedroom Oceanfront Villa",
+      "value": "312 square metres, plus 312 square metres outdoors",
+      "sourceUrl": "https://www.fourseasons.com/maldiveslg/accommodations/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Olympic-size pool",
+      "value": "The only Olympic-size pool in the Maldives, one of four pools",
+      "sourceUrl": "https://www.fourseasons.com/maldiveslg/services-and-amenities/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Dining",
+      "value": "Al Barakat, Café Landaa, Fuego Grill, Blu and Seabar",
+      "sourceUrl": "https://www.fourseasons.com/maldiveslg/dining/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "AyurMa",
+      "value": "A spa built on Ayurveda, yoga therapy, wellness and planetary wellbeing",
+      "sourceUrl": "https://www.fourseasons.com/maldiveslg/spa/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Marine Discovery Centre",
+      "value": "An on-island research centre led by marine biologists",
+      "sourceUrl": "https://www.fourseasons.com/maldiveslg/services-and-amenities/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Seaplane transfer",
+      "value": "35 minutes from Male International Airport",
+      "sourceUrl": "https://www.fourseasons.com/maldiveslg/getting-here/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Resort seaplanes",
+      "value": "8-seat Flying Triggerfish and 10-seat Flying Boxfish",
+      "sourceUrl": "https://www.fourseasons.com/maldiveslg/getting-here/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Specialty Suites",
+      "value": "7",
+      "sourceUrl": "https://www.fourseasons.com/maldiveslg/accommodations/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Pools",
+      "value": "Four",
+      "sourceUrl": "https://www.fourseasons.com/maldiveslg/services-and-amenities/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Beach Villa with Pool",
+      "value": "137 square metres plus 260 square metres outdoors",
+      "sourceUrl": "https://www.fourseasons.com/maldiveslg/accommodations/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Premier Oceanfront Bungalow with Pool",
+      "value": "77 square metres plus 91 square metres outdoors",
+      "sourceUrl": "https://www.fourseasons.com/maldiveslg/accommodations/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Voavah Private Island",
+      "value": "Two hectares, seven bedrooms, a staff of 28",
+      "sourceUrl": "https://www.fourseasons.com/maldiveslg/services-and-amenities/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/four-seasons-resort-maldives-landaa-giraavaru/1.jpg",
+      "srcSmall": "/photos/four-seasons-resort-maldives-landaa-giraavaru/1-640.jpg",
+      "srcMid": "/photos/four-seasons-resort-maldives-landaa-giraavaru/1-1000.jpg",
+      "srcHero": "/photos/four-seasons-resort-maldives-landaa-giraavaru/1-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Four Seasons Resorts and Hotels",
+      "creditUrl": "https://www.fourseasons.com/maldiveslg/photos-and-videos/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/content/dam/fourseasons/images/web/MLG/MLG_1317_original.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/four-seasons-resort-maldives-landaa-giraavaru/2.jpg",
+      "srcSmall": "/photos/four-seasons-resort-maldives-landaa-giraavaru/2-640.jpg",
+      "srcMid": "/photos/four-seasons-resort-maldives-landaa-giraavaru/2-1000.jpg",
+      "srcHero": "/photos/four-seasons-resort-maldives-landaa-giraavaru/2-2400.jpg",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Four Seasons Resorts and Hotels",
+      "creditUrl": "https://www.fourseasons.com/maldiveslg/photos-and-videos/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/content/dam/fourseasons/images/web/MLG/MLG_1159_original.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/four-seasons-resort-maldives-landaa-giraavaru/3.jpg",
+      "srcSmall": "/photos/four-seasons-resort-maldives-landaa-giraavaru/3-640.jpg",
+      "srcMid": "/photos/four-seasons-resort-maldives-landaa-giraavaru/3-1000.jpg",
+      "srcHero": "/photos/four-seasons-resort-maldives-landaa-giraavaru/3-2400.jpg",
+      "width": 1600,
+      "height": 897,
+      "credit": "Four Seasons Resorts and Hotels",
+      "creditUrl": "https://www.fourseasons.com/maldiveslg/photos-and-videos/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/content/dam/fourseasons/images/web/MLG/MLG_1441_original.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/four-seasons-resort-maldives-landaa-giraavaru/4.jpg",
+      "srcSmall": "/photos/four-seasons-resort-maldives-landaa-giraavaru/4-640.jpg",
+      "srcMid": "/photos/four-seasons-resort-maldives-landaa-giraavaru/4-1000.jpg",
+      "srcHero": "/photos/four-seasons-resort-maldives-landaa-giraavaru/4-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Four Seasons Resorts and Hotels",
+      "creditUrl": "https://www.fourseasons.com/maldiveslg/photos-and-videos/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/content/dam/fourseasons/images/web/MLG/MLG_1378_original.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/four-seasons-resort-maldives-landaa-giraavaru/5.jpg",
+      "srcSmall": "/photos/four-seasons-resort-maldives-landaa-giraavaru/5-640.jpg",
+      "srcMid": "/photos/four-seasons-resort-maldives-landaa-giraavaru/5-1000.jpg",
+      "srcHero": "/photos/four-seasons-resort-maldives-landaa-giraavaru/5-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Four Seasons Resorts and Hotels",
+      "creditUrl": "https://www.fourseasons.com/maldiveslg/photos-and-videos/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/content/dam/fourseasons/images/web/MLG/MLG_1171_original.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/four-seasons-resort-maldives-landaa-giraavaru/6.jpg",
+      "srcSmall": "/photos/four-seasons-resort-maldives-landaa-giraavaru/6-640.jpg",
+      "srcMid": "/photos/four-seasons-resort-maldives-landaa-giraavaru/6-1000.jpg",
+      "srcHero": "/photos/four-seasons-resort-maldives-landaa-giraavaru/6-2400.jpg",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Four Seasons Resorts and Hotels",
+      "creditUrl": "https://www.fourseasons.com/maldiveslg/photos-and-videos/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/content/dam/fourseasons/images/web/MLG/MLG_1188_original.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/four-seasons-resort-maldives-landaa-giraavaru/7.jpg",
+      "srcSmall": "/photos/four-seasons-resort-maldives-landaa-giraavaru/7-640.jpg",
+      "srcMid": "/photos/four-seasons-resort-maldives-landaa-giraavaru/7-1000.jpg",
+      "srcHero": "/photos/four-seasons-resort-maldives-landaa-giraavaru/7-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Four Seasons Resorts and Hotels",
+      "creditUrl": "https://www.fourseasons.com/maldiveslg/photos-and-videos/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/content/dam/fourseasons/images/web/MLG/MLG_1488_original.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/four-seasons-resort-maldives-landaa-giraavaru/8.jpg",
+      "srcSmall": "/photos/four-seasons-resort-maldives-landaa-giraavaru/8-640.jpg",
+      "srcMid": "/photos/four-seasons-resort-maldives-landaa-giraavaru/8-1000.jpg",
+      "srcHero": "/photos/four-seasons-resort-maldives-landaa-giraavaru/8-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Four Seasons Resorts and Hotels",
+      "creditUrl": "https://www.fourseasons.com/maldiveslg/photos-and-videos/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/content/dam/fourseasons/images/web/MLG/MLG_1194_original.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "direct"
+  },
+  "lastVerified": "2026-11-08"
+}
