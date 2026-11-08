@@ -1,0 +1,19 @@
+---
+import Base from '../layouts/Base.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+---
+<Base title="Page not found" description="This page does not exist." noindex>
+  <Header />
+  <main class="nf">
+    <h1>This page does not exist.</h1>
+    <p><a href="/">Back to the home page</a></p>
+  </main>
+  <Footer />
+</Base>
+
+<style>
+  .nf { max-width: 680px; margin: 0 auto; padding: 120px 24px 160px; text-align: center; }
+  .nf h1 { font-size: 40px; font-weight: 400; margin: 0 0 24px; }
+  .nf a { text-decoration: underline; text-underline-offset: 4px; }
+</style>
