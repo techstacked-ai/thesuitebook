@@ -1,0 +1,248 @@
+{
+  "slug": "raffles-london-at-the-owo",
+  "name": "Raffles London at The OWO",
+  "operator": "Raffles (Accor)",
+  "brand": "Raffles",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "London",
+  "area": "Whitehall",
+  "type": "city",
+  "themes": [
+    "palace"
+  ],
+  "adultsOnly": false,
+  "address": "Whitehall, London SW1A 2BX, United Kingdom",
+  "lat": 51.50566,
+  "lng": -0.12465,
+  "officialSite": "https://www.raffles.com/london/",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": {
+    "code": "LHR",
+    "minutes": 60
+  },
+  "tagline": "The Old War Office on Whitehall, with nine restaurants and a spa.",
+  "description": "Raffles London at The OWO occupies the Old War Office, a Grade II* Edwardian Baroque building on Whitehall, across from Horse Guards. It has 120 rooms and suites, nine restaurants and three bars, a Guerlain Spa and a Michelin-starred table by Mauro Colagreco.\n\nThe building was designed by William Young as the New War Office and opened to house 2,500 government and military officials, with over 1,000 rooms and 2.5 miles of corridor. Winston Churchill worked here as Secretary of State for War from 1919 to 1921, and the Special Operations Executive interviewed candidate spies in its rooms. Ian Fleming drew on the building for his stories. The Hinduja Group and ONEX bought it and carried out a long restoration with thousands of craftsmen and women.\n\nThe 120 rooms and suites carry Thierry Despont's contemporary take on Edwardian style, with customised carpets, fabrics and wallcoverings, and views of Whitehall and Horse Guards. The five Heritage Suites occupy the building's most storied rooms, formerly the offices of political and military leaders, and keep their heritage features. The Royal Spa Suite is designed as a retreat for one.\n\nDining is extensive. Mauro Colagreco's Michelin-starred restaurant draws on the English garden through the seasons, and he also runs a relaxed all-day Mediterranean restaurant. Endo Kazutoshi, a Michelin-starred chef, serves Japanese-inspired cooking. Other rooms serve Milanese cuisine and Italian fine dining, and Secrets and Spies pays homage to the building's history. A British-style lounge serves the Secrets and Spies Afternoon Tea, and the wine list is organised by the old British trade routes.\n\nThe Guerlain Spa has nine treatment rooms and hydrothermal facilities, and a members' health club is run by movement specialist Pillar Wellbeing. Raffles butlers arrange the stay. The hotel offers a historical tour of the building, and 85 private residences share the address.\n\nIt suits travellers who want London's government district on the doorstep, with the Thames and Westminster nearby. Heathrow is 60 minutes by car.",
+  "highlights": [
+    {
+      "label": "Suites",
+      "value": "Five Heritage Suites in the building's most storied rooms, once political and military offices.",
+      "sourceUrl": "https://www.raffles.com/london/rooms-suites/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Design",
+      "value": "Interiors by Thierry Despont.",
+      "sourceUrl": "https://www.raffles.com/london/rooms-suites/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Restaurant",
+      "value": "Mauro Colagreco's Michelin-starred restaurant, drawing on the English garden.",
+      "sourceUrl": "https://www.raffles.com/london/dining/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "A Guerlain Spa with nine treatment rooms and hydrothermal facilities.",
+      "sourceUrl": "https://www.raffles.com/london/about/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Afternoon tea",
+      "value": "The Secrets and Spies Afternoon Tea, inspired by the building's history.",
+      "sourceUrl": "https://www.raffles.com/london/dining/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Building",
+      "value": "A Grade II* Edwardian Baroque landmark designed by William Young.",
+      "sourceUrl": "https://www.raffles.com/london/about/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Rooms and suites",
+      "value": "120 rooms and suites; 85 private residences; nine restaurants and three bars",
+      "sourceUrl": "https://www.raffles.com/london/location/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Heathrow",
+      "value": "60 minutes by car",
+      "sourceUrl": "https://www.raffles.com/london/location/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Design",
+      "value": "Thierry Despont",
+      "sourceUrl": "https://www.raffles.com/london/rooms-suites/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Heritage Suites",
+      "value": "Five",
+      "sourceUrl": "https://www.raffles.com/london/rooms-suites/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "Guerlain Spa; nine treatment rooms",
+      "sourceUrl": "https://www.raffles.com/london/about/",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Building",
+      "value": "Grade II* Edwardian Baroque, Whitehall; over 1,000 rooms and 2.5 miles of corridor when built",
+      "sourceUrl": "https://www.raffles.com/london/about/",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/raffles-london-at-the-owo/1.jpg",
+      "srcSmall": "/photos/raffles-london-at-the-owo/1-640.jpg",
+      "srcMid": "/photos/raffles-london-at-the-owo/1-1000.jpg",
+      "srcHero": "/photos/raffles-london-at-the-owo/1-2400.jpg",
+      "width": 1600,
+      "height": 1200,
+      "credit": "Raffles London at The OWO",
+      "creditUrl": "https://www.raffles.com/london/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.raffles.com/content/dam/remote/brands/raf/hotels/europe/gb/london/b1c0/aja_p_6549-43.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/raffles-london-at-the-owo/2.jpg",
+      "srcSmall": "/photos/raffles-london-at-the-owo/2-640.jpg",
+      "srcMid": "/photos/raffles-london-at-the-owo/2-1000.jpg",
+      "srcHero": "/photos/raffles-london-at-the-owo/2-2400.jpg",
+      "width": 1600,
+      "height": 1200,
+      "credit": "Raffles London at The OWO",
+      "creditUrl": "https://www.raffles.com/london/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.raffles.com/content/dam/remote/brands/raf/hotels/europe/gb/london/b1c0/2604_acf_741.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/raffles-london-at-the-owo/3.jpg",
+      "srcSmall": "/photos/raffles-london-at-the-owo/3-640.jpg",
+      "srcMid": "/photos/raffles-london-at-the-owo/3-1000.jpg",
+      "srcHero": "/photos/raffles-london-at-the-owo/3-2400.jpg",
+      "width": 1600,
+      "height": 1200,
+      "credit": "Raffles London at The OWO",
+      "creditUrl": "https://www.raffles.com/london/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.raffles.com/content/dam/remote/brands/raf/hotels/europe/gb/london/b1c0/aja_p_7109-32.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/raffles-london-at-the-owo/4.jpg",
+      "srcSmall": "/photos/raffles-london-at-the-owo/4-640.jpg",
+      "srcMid": "/photos/raffles-london-at-the-owo/4-1000.jpg",
+      "srcHero": "/photos/raffles-london-at-the-owo/4-2400.jpg",
+      "width": 1600,
+      "height": 1200,
+      "credit": "Raffles London at The OWO",
+      "creditUrl": "https://www.raffles.com/london/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.raffles.com/content/dam/remote/brands/raf/hotels/europe/gb/london/b1c0/aja_p_7109-43.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/raffles-london-at-the-owo/5.jpg",
+      "srcSmall": "/photos/raffles-london-at-the-owo/5-640.jpg",
+      "srcMid": "/photos/raffles-london-at-the-owo/5-1000.jpg",
+      "srcHero": "/photos/raffles-london-at-the-owo/5-2400.jpg",
+      "width": 1600,
+      "height": 2132,
+      "credit": "Raffles London at The OWO",
+      "creditUrl": "https://www.raffles.com/london/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.raffles.com/content/dam/remote/brands/raf/hotels/europe/gb/london/b1c0/aja_p_6892-81.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/raffles-london-at-the-owo/6.jpg",
+      "srcSmall": "/photos/raffles-london-at-the-owo/6-640.jpg",
+      "srcMid": "/photos/raffles-london-at-the-owo/6-1000.jpg",
+      "srcHero": "/photos/raffles-london-at-the-owo/6-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Raffles London at The OWO",
+      "creditUrl": "https://www.raffles.com/london/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.raffles.com/content/dam/remote/brands/raf/hotels/europe/gb/london/b1c0/2508_acf_287.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/raffles-london-at-the-owo/7.jpg",
+      "srcSmall": "/photos/raffles-london-at-the-owo/7-640.jpg",
+      "srcMid": "/photos/raffles-london-at-the-owo/7-1000.jpg",
+      "srcHero": "/photos/raffles-london-at-the-owo/7-2400.jpg",
+      "width": 1600,
+      "height": 1600,
+      "credit": "Raffles London at The OWO",
+      "creditUrl": "https://www.raffles.com/london/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.raffles.com/content/dam/remote/brands/raf/hotels/europe/gb/london/b1c0/aja_p_6549-22.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": "41613515",
+  "rating": {
+    "score": 9.5,
+    "reviews": 234,
+    "source": "booking",
+    "date": "2026-11-08"
+  },
+  "price": {
+    "from": 1506,
+    "date": "2026-11-08"
+  },
+  "booking": {
+    "supplier": "booking"
+  },
+  "lastVerified": "2026-11-08"
+}

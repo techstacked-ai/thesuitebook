@@ -1,0 +1,266 @@
+{
+  "slug": "the-connaught",
+  "name": "The Connaught",
+  "operator": "Maybourne Hotel Collection",
+  "brand": "Maybourne",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "London",
+  "area": "Mayfair",
+  "type": "city",
+  "themes": [
+    "palace"
+  ],
+  "adultsOnly": false,
+  "address": "Carlos Place, Mayfair, London W1K 2AL, United Kingdom",
+  "lat": 51.51018,
+  "lng": -0.15022,
+  "officialSite": "https://www.maybourne.com/en/hotels/the-connaught",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": {
+    "code": "LHR",
+    "minutes": 45
+  },
+  "tagline": "A discreet Mayfair house with a three-star restaurant and an Aman Spa.",
+  "description": "The Connaught is a Mayfair hotel on Carlos Place, just off Mount Street in London, run by Maybourne. It holds Hélène Darroze's three-Michelin-star restaurant, the award-winning Connaught Bar and the first Aman Spa built outside an Aman resort.\n\nThe hotel has stood at the centre of Mayfair Village since the early part of the 19th century. Guests climb a historic staircase beneath original artworks, and the interiors draw on British and international art and design. Bond Street, Hyde Park and the boutiques of Mount Street are moments away, and the hotel keeps its own gallery of photography and artwork.\n\nSuites and rooms combine traditional detail with modern comfort, and every guest has a butler. Several suites have private terraces above the skyline, and the larger suites include a two-bedroom suite filled with natural light and original artworks. A terrace suite looks along a hedged roof terrace over the Mayfair rooftops.\n\nHélène Darroze at The Connaught holds three Michelin stars, with menus built on seasonal produce from the farmers, makers and growers she selects, and a chef's table inside the kitchen. Jean-Georges at The Connaught serves British favourites with Asian inspiration from breakfast through supper. The Connaught Grill is a bar and grill with a rosewood-clad approach, The Red Room is an intimate wine bar behind a velvet curtain, and the Coburg Bar overlooks Carlos Place with rare spirits. The Connaught Bar has platinum-leaf walls, Cubist-inspired design and a Martini Trolley, and Master Pâtissier Nicolas Rouzaud bakes for the hotel.\n\nAman Spa lies deep within the building, with a pool and treatment rooms. A cigar merchant, private chauffeurs and Flexjet helicopter transfers complete the services.\n\nIt suits travellers who want a discreet Mayfair address, serious food and a butler, close to the shops of Bond Street. Heathrow is 45 minutes by car, and Bond Street station is a five-minute walk.",
+  "highlights": [
+    {
+      "label": "Restaurant",
+      "value": "Hélène Darroze at The Connaught holds three Michelin stars.",
+      "sourceUrl": "https://www.maybourne.com/en/hotels/the-connaught/restaurants-bars",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Bar",
+      "value": "The Connaught Bar has platinum-leaf walls and a Martini Trolley.",
+      "sourceUrl": "https://www.maybourne.com/en/hotels/the-connaught/restaurants-bars",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "The first Aman Spa built outside the Aman resorts.",
+      "sourceUrl": "https://www.maybourne.com/en/hotels/the-connaught/about/getting-here",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Restaurant",
+      "value": "Jean-Georges at The Connaught serves British favourites with Asian inspiration.",
+      "sourceUrl": "https://www.maybourne.com/en/hotels/the-connaught/restaurants-bars",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Wine bar",
+      "value": "The Red Room, hidden beyond a velvet curtain.",
+      "sourceUrl": "https://www.maybourne.com/en/hotels/the-connaught/restaurants-bars",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Service",
+      "value": "A butler for every guest.",
+      "sourceUrl": "https://www.maybourne.com/en/hotels/the-connaught/about",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Address",
+      "value": "Carlos Place, Mayfair, London W1K 2AL",
+      "sourceUrl": "https://www.maybourne.com/en/hotels/the-connaught/about/getting-here",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Heathrow",
+      "value": "45 minutes by car",
+      "sourceUrl": "https://www.maybourne.com/en/hotels/the-connaught/about/getting-here",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Bond Street station",
+      "value": "5-minute walk, Central and Jubilee lines",
+      "sourceUrl": "https://www.maybourne.com/en/hotels/the-connaught/about/getting-here",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "History",
+      "value": "At the hub of Mayfair Village since the early part of the 19th century",
+      "sourceUrl": "https://www.maybourne.com/en/hotels/the-connaught/about",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Michelin",
+      "value": "Hélène Darroze at The Connaught, three stars",
+      "sourceUrl": "https://www.maybourne.com/en/hotels/the-connaught/restaurants-bars",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Aman Spa",
+      "value": "The first Aman Spa built outside Aman resorts",
+      "sourceUrl": "https://www.maybourne.com/en/hotels/the-connaught/about/getting-here",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/the-connaught/1.jpg",
+      "srcSmall": "/photos/the-connaught/1-640.jpg",
+      "srcMid": "/photos/the-connaught/1-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1100,
+      "credit": "The Connaught, Maybourne Hotel Collection",
+      "creditUrl": "https://www.maybourne.com/en/hotels/the-connaught",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://library.maybourne.com/transform/655a262e-3794-4df5-b600-dc44e5b0c388/CON-EXTERIOR-08",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-connaught/2.jpg",
+      "srcSmall": "/photos/the-connaught/2-640.jpg",
+      "srcMid": "/photos/the-connaught/2-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "The Connaught, Maybourne Hotel Collection",
+      "creditUrl": "https://www.maybourne.com/en/hotels/the-connaught",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://library.maybourne.com/transform/e3053454-e537-4b4f-963a-fa3bd8f0f8be/CON-INTERIOR-LOBBY-03",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-connaught/3.jpg",
+      "srcSmall": "/photos/the-connaught/3-640.jpg",
+      "srcMid": "/photos/the-connaught/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "The Connaught, Maybourne Hotel Collection",
+      "creditUrl": "https://www.maybourne.com/en/hotels/the-connaught",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://library.maybourne.com/transform/43cce20a-a584-4275-b62d-f18fc5ddea43/CON-TERRACE-SUITE-01-jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-connaught/4.jpg",
+      "srcSmall": "/photos/the-connaught/4-640.jpg",
+      "srcMid": "/photos/the-connaught/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1066,
+      "credit": "The Connaught, Maybourne Hotel Collection",
+      "creditUrl": "https://www.maybourne.com/en/hotels/the-connaught",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://library.maybourne.com/transform/1bb6a854-dba4-42c1-bb8d-172a688ce85d/CON-AMAN-SPA-POOL-01",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-connaught/5.jpg",
+      "srcSmall": "/photos/the-connaught/5-640.jpg",
+      "srcMid": "/photos/the-connaught/5-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "The Connaught, Maybourne Hotel Collection",
+      "creditUrl": "https://www.maybourne.com/en/hotels/the-connaught",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://library.maybourne.com/transform/ab0099e8-c28d-42ad-8ebf-8ec43a907141/CON-CONNAUGHT-BAR-01",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-connaught/6.jpg",
+      "srcSmall": "/photos/the-connaught/6-640.jpg",
+      "srcMid": "/photos/the-connaught/6-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "The Connaught, Maybourne Hotel Collection",
+      "creditUrl": "https://www.maybourne.com/en/hotels/the-connaught",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://library.maybourne.com/transform/17d9a9e4-6462-48fc-b7d8-254049fbc80f/CON-JEAN-GEORGES-01",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-connaught/7.jpg",
+      "srcSmall": "/photos/the-connaught/7-640.jpg",
+      "srcMid": "/photos/the-connaught/7-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "The Connaught, Maybourne Hotel Collection",
+      "creditUrl": "https://www.maybourne.com/en/hotels/the-connaught",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://library.maybourne.com/transform/0496adb0-fe8d-4b1e-b0bb-74e85c1e9b89/CON-RED-ROOM-01",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/the-connaught/8.jpg",
+      "srcSmall": "/photos/the-connaught/8-640.jpg",
+      "srcMid": "/photos/the-connaught/8-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "The Connaught, Maybourne Hotel Collection",
+      "creditUrl": "https://www.maybourne.com/en/hotels/the-connaught",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://library.maybourne.com/transform/2d2c8d91-5468-4d3f-8d32-c4eb6ac04da7/CON-TWO-BEDROOM-GROSVENOR-SUITE-118-01",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": "39676206",
+  "rating": {
+    "score": 9.7,
+    "reviews": 186,
+    "source": "booking",
+    "date": "2026-11-08"
+  },
+  "price": {
+    "from": 1470,
+    "date": "2026-11-08"
+  },
+  "booking": {
+    "supplier": "booking"
+  },
+  "lastVerified": "2026-11-08"
+}

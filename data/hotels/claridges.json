@@ -1,0 +1,248 @@
+{
+  "slug": "claridges",
+  "name": "Claridge's",
+  "operator": "Maybourne Hotel Collection",
+  "brand": "Maybourne",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "city": "London",
+  "area": "Mayfair",
+  "type": "city",
+  "themes": [
+    "palace"
+  ],
+  "adultsOnly": false,
+  "address": "Brook Street, Mayfair, London W1K 4HR, United Kingdom",
+  "lat": 51.51252,
+  "lng": -0.14753,
+  "officialSite": "https://www.maybourne.com/en/hotels/claridges",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": {
+    "code": "LHR",
+    "minutes": 50
+  },
+  "tagline": "An art deco Mayfair landmark with a rooftop Penthouse and a spa pool.",
+  "description": "Claridge's is a Mayfair hotel on the corner of Brook Street and Davies Street, in London, run by Maybourne. It is known for its art deco interiors, a spa with a heated pool and a rooftop Penthouse with its own pool terrace.\n\nThe hotel began life in the 1850s, soon attracted royal notice, and became an English institution in the 1920s as an art deco landmark loved by film stars and statesmen. Its design blends Victorian grandeur with pure art deco, and a Chihuly chandelier hangs in the lobby. Hyde Park and Bond Street's shopping are within easy reach.\n\nRooms and suites run from Victorian opulence to art deco glamour and contemporary elegance. The Royal Suite pays tribute to the hotel's royal connections, with handcrafted details above the red-brick rooftops of Mayfair. Several terrace suites have a private terrace overlooking the rooftops, and the Penthouse has a rooftop terrace with its own pool and views across London.\n\nDining centres on the Foyer and Reading Room, where afternoon tea has been served as a ritual, in an art deco setting. Dante, the New York aperitivo bar founded in Greenwich Village in 1915, has opened a permanent address in the hotel. The Fumoir has served cocktails since 1929, Claridge's Bar serves rare champagnes and spirits, Art Café by Thibault Hauchard serves coffee and crêpes above the Perrotin gallery, and Claridge's Bakery sells British baking throughout the day. A chef's table sits within the kitchens.\n\nThe spa has a heated swimming pool beneath a multi-vaulted ceiling with stone columns and private cabanas, a steam room, saunas, a pink onyx hammam bed and a gym with NOHrD, PENT and Peloton equipment. Expert residencies bring a rotating programme of treatments.\n\nIt suits travellers who want the classic London grand hotel in Mayfair, with afternoon tea and a cocktail bar below. Heathrow is 50 minutes by car, and Bond Street station is a five-minute walk.",
+  "highlights": [
+    {
+      "label": "Afternoon tea",
+      "value": "Served in the Foyer and Reading Room.",
+      "sourceUrl": "https://www.maybourne.com/en/hotels/claridges/restaurants-bars",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Bar",
+      "value": "The Fumoir has served cocktails since 1929.",
+      "sourceUrl": "https://www.maybourne.com/en/hotels/claridges/restaurants-bars",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Royal Suite",
+      "value": "A tribute to the hotel's royal connections, above the Mayfair rooftops.",
+      "sourceUrl": "https://www.maybourne.com/en/hotels/claridges/suites-rooms",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Terrace suites",
+      "value": "Several suites have a private terrace overlooking Mayfair.",
+      "sourceUrl": "https://www.maybourne.com/en/hotels/claridges/suites-rooms",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa",
+      "value": "A heated pool under a multi-vaulted ceiling, private cabanas, a steam room and a pink onyx hammam bed.",
+      "sourceUrl": "https://www.maybourne.com/en/hotels/claridges/claridges-spa/facilities",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Dante",
+      "value": "The New York aperitivo bar founded in 1915 now has a permanent address in the hotel.",
+      "sourceUrl": "https://www.maybourne.com/en/hotels/claridges",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Address",
+      "value": "Brook Street, Mayfair, London W1K 4HR; corner of Brook Street and Davies Street",
+      "sourceUrl": "https://www.maybourne.com/en/hotels/claridges/about",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Heathrow",
+      "value": "50 minutes by car; 1 hour 15 minutes by London Underground",
+      "sourceUrl": "https://www.maybourne.com/en/hotels/claridges/about/getting-here",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Bond Street station",
+      "value": "5-minute walk, Central and Jubilee lines",
+      "sourceUrl": "https://www.maybourne.com/en/hotels/claridges/about/getting-here",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "History",
+      "value": "The hotel began life in 1856 and became an art deco landmark in the 1920s",
+      "sourceUrl": "https://www.maybourne.com/en/hotels/claridges/about",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "The Fumoir",
+      "value": "Open since 1929",
+      "sourceUrl": "https://www.maybourne.com/en/hotels/claridges/restaurants-bars",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "label": "Spa gym",
+      "value": "Equipment from NOHrD, PENT and Peloton",
+      "sourceUrl": "https://www.maybourne.com/en/hotels/claridges/claridges-spa/facilities",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/claridges/1.jpg",
+      "srcSmall": "/photos/claridges/1-640.jpg",
+      "srcMid": "/photos/claridges/1-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1115,
+      "credit": "Claridge's, Maybourne Hotel Collection",
+      "creditUrl": "https://www.maybourne.com/en/hotels/claridges",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://library.maybourne.com/transform/445fa452-4fc4-4cf6-8fa5-fcd7dbca4914/CLA-EXTERIOR-01-jpeg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/claridges/2.jpg",
+      "srcSmall": "/photos/claridges/2-640.jpg",
+      "srcMid": "/photos/claridges/2-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Claridge's, Maybourne Hotel Collection",
+      "creditUrl": "https://www.maybourne.com/en/hotels/claridges",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://library.maybourne.com/transform/48aa3dd3-c613-4ef6-9887-19bd3cad3919/CLA-FOYER-AND-READING-ROOM-01-jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/claridges/3.jpg",
+      "srcSmall": "/photos/claridges/3-640.jpg",
+      "srcMid": "/photos/claridges/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Claridge's, Maybourne Hotel Collection",
+      "creditUrl": "https://www.maybourne.com/en/hotels/claridges",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://library.maybourne.com/transform/9b1b8572-4da3-4e63-b336-3ddb9efbd2db/CLA-ROYAL-SUITE-01-jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/claridges/4.jpg",
+      "srcSmall": "/photos/claridges/4-640.jpg",
+      "srcMid": "/photos/claridges/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Claridge's, Maybourne Hotel Collection",
+      "creditUrl": "https://www.maybourne.com/en/hotels/claridges",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://library.maybourne.com/transform/f8f44228-066c-4cbd-a32e-d7a47e09537d/CLA-THE-PENTHOUSE-24-jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/claridges/5.jpg",
+      "srcSmall": "/photos/claridges/5-640.jpg",
+      "srcMid": "/photos/claridges/5-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Claridge's, Maybourne Hotel Collection",
+      "creditUrl": "https://www.maybourne.com/en/hotels/claridges",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://library.maybourne.com/transform/3607eeab-1e8d-4b32-bfde-d60645244d1f/CLA-CLARIDGES-SPA-SWIMMING-POOL-05-jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/claridges/6.jpg",
+      "srcSmall": "/photos/claridges/6-640.jpg",
+      "srcMid": "/photos/claridges/6-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Claridge's, Maybourne Hotel Collection",
+      "creditUrl": "https://www.maybourne.com/en/hotels/claridges",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://library.maybourne.com/transform/5d1e03a5-490a-4ae6-9f34-1137799726c0/CLA-MAYFAIR-TERRACE-SUITE-415-05",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    },
+    {
+      "src": "/photos/claridges/7.jpg",
+      "srcSmall": "/photos/claridges/7-640.jpg",
+      "srcMid": "/photos/claridges/7-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Claridge's, Maybourne Hotel Collection",
+      "creditUrl": "https://www.maybourne.com/en/hotels/claridges",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://library.maybourne.com/transform/75505de5-6335-4d4d-bd48-c4ad1eaeed8a/CLA-THE-PENTHOUSE-18-jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-08"
+    }
+  ],
+  "stay22Id": "16367942",
+  "rating": {
+    "score": 9.2,
+    "reviews": 506,
+    "source": "booking",
+    "date": "2026-11-08"
+  },
+  "price": {
+    "from": 1661,
+    "date": "2026-11-08"
+  },
+  "booking": {
+    "supplier": "booking"
+  },
+  "lastVerified": "2026-11-08"
+}
