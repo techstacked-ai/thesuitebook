@@ -1,6 +1,6 @@
 # The Suite Book, project notes
 
-The goal (owner, 8 Nov 2026): the hundred most luxurious hotels in the world, one quiet, photograph-first page each, every fact from the hotel's own pages, and a booking button through Stay22. "This one really needs to look the part. Elegant." Domain thesuitebook.com. Separate brand and repo from the Roam network, The New Grand and The All-In Guide (whose engine this one is adapted from). The look: planning/design-brief.md. The hundred: planning/candidates.json (pick=true) and planning/picks.md.
+The goal (owner, 8 Nov 2026): the most luxurious hotels in the world (100 to start, more over time; owner, 8 Nov 2026: "it's not supposed to actually only be a hundred"), one quiet, photograph-first page each, every fact from the hotel's own pages, and a booking button through Stay22. "This one really needs to look the part. Elegant." Domain thesuitebook.com. Separate brand and repo from the Roam network, The New Grand and The All-In Guide (whose engine this one is adapted from). The look: planning/design-brief.md. The hundred: planning/candidates.json (pick=true) and planning/picks.md.
 
 ## Rules
 - Facts from the hotel's or its operator's own pages only (hotel site, brand site, press room, fact sheet), each with sourceUrl and lastVerified. Never OTAs, review sites, aggregators, blogs or other directories or "best hotels" lists. Missing means empty, never guessed. Schema: docs/data-model.md. Voice: docs/voice.md. Research agents follow docs/research-brief.md.

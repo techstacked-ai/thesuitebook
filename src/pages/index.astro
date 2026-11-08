@@ -1,7 +1,7 @@
 ---
 import Base from '../layouts/Base.astro';
 import { hotels, REGIONS, regionPath, hotelPath, placeLine, leadOf, srcset } from '../lib/hotels';
-const line = 'The hundred most extraordinary hotels in the world';
+const line = 'The most extraordinary hotels in the world';
 const open = hotels.length > 0;
 const groups = REGIONS.map((r) => ({ region: r, list: hotels.filter((h) => h.region === r) })).filter((g) => g.list.length);
 /* The lead photograph of every hotel; one is chosen at random on each visit, the first is the no-JS default. */
@@ -10,10 +10,10 @@ const first = heroes[0];
 const pick = `(function () { var l = ${JSON.stringify(heroes)}; if (l.length < 2) return; var h = l[Math.floor(Math.random() * l.length)];
   var i = document.getElementById('hero-img'), c = document.getElementById('hero-cap');
   i.srcset = h.set; i.src = h.src; c.href = h.href; c.firstChild.textContent = h.name; c.lastChild.textContent = h.place; })();`;
-const title = open ? 'The Suite Book: the hundred most luxurious hotels in the world' : 'The Suite Book';
+const title = open ? 'The Suite Book: the most luxurious hotels in the world' : 'The Suite Book';
 const description = open
-  ? `The hundred most extraordinary hotels in the world, from the palaces of Paris to private islands and safari lodges: ${hotels.length} hotels, each with its own photographs, rooms, restaurants and the facts that matter.`
-  : 'The hundred most extraordinary hotels in the world. Opening soon.';
+  ? `The most extraordinary hotels in the world, from the palaces of Paris to private islands and safari lodges: ${hotels.length} hotels, each with its own photographs, rooms, restaurants and the facts that matter.`
+  : 'The most extraordinary hotels in the world. Opening soon.';
 ---
 <Base title={title} description={description} overlay={open} home image={first?.src}>
   {open ? (
@@ -29,7 +29,7 @@ const description = open
         <script is:inline set:html={pick} />
       </section>
       <section class="index wrap" aria-labelledby="index-h">
-        <h2 id="index-h" class="sr">The hundred, by region</h2>
+        <h2 id="index-h" class="sr">The hotels, by region</h2>
         {groups.map((g) => (
           <div class="region">
             <h3><a href={regionPath(g.region)}>{g.region}</a></h3>
@@ -46,7 +46,7 @@ const description = open
             </ol>
           </div>
         ))}
-        <p class="all"><a class="quiet-link" href="/hotels/">Browse the hundred by region, type and price</a></p>
+        <p class="all"><a class="quiet-link" href="/hotels/">Browse every hotel by region, type and price</a></p>
       </section>
     </>
   ) : (

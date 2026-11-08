@@ -4,7 +4,7 @@ import { hotels, REGIONS, regionPath, places, THEMES, themeHotels } from '../../
 const regions = REGIONS.map((r) => ({ r, n: hotels.filter((h) => h.region === r).length, sub: places().filter((p) => p.list[0].region === r) })).filter((x) => x.n);
 const themes = THEMES.map((t) => ({ t, n: themeHotels(t).length })).filter((x) => x.n >= 3);
 ---
-<Base title="Destinations: the most luxurious hotels by region | The Suite Book" description="The hundred most extraordinary hotels in the world by region, country and city, and by kind: private islands, safari lodges, palaces, overwater villas and mountain hotels.">
+<Base title="Destinations: the most luxurious hotels by region | The Suite Book" description="The most extraordinary hotels in the world by region, country and city, and by kind: private islands, safari lodges, palaces, overwater villas and mountain hotels.">
   <header class="head measure"><h1>Destinations</h1></header>
   {regions.length ? (
     <div class="wrap cols">

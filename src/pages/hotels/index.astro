@@ -11,12 +11,12 @@ const toggles = [
   { id: 'adults', label: 'Adults only', test: (h: any) => !!h.adultsOnly },
 ].filter((t) => hotels.some(t.test));
 const flags = (h: any) => toggles.filter((t) => t.test(h)).map((t) => t.id).join(' ');
-const ld = [{ '@context': 'https://schema.org', '@type': 'CollectionPage', name: 'The hundred', url: `${SITE}/hotels/`, isPartOf: { '@id': `${SITE}/#site` },
+const ld = [{ '@context': 'https://schema.org', '@type': 'CollectionPage', name: 'The hotels', url: `${SITE}/hotels/`, isPartOf: { '@id': `${SITE}/#site` },
   mainEntity: { '@type': 'ItemList', numberOfItems: hotels.length, itemListElement: hotels.map((h, i) => ({ '@type': 'ListItem', position: i + 1, url: new URL(hotelPath(h), SITE).href, name: h.name })) } }];
 ---
 <Base title="The most luxurious hotels in the world, by region and type | The Suite Book" description={`All ${hotels.length || 'hundred'} hotels in The Suite Book, by region, country, type and price: city palaces, private islands, safari lodges and mountain hotels.`} ld={ld}>
   <header class="head wrap">
-    <h1>The hundred</h1>
+    <h1>The hotels</h1>
     <p class="label"><span id="count">{hotels.length}</span> <span id="noun">{hotels.length === 1 ? 'hotel' : 'hotels'}</span></p>
   </header>
 

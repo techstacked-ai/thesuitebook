@@ -8,7 +8,7 @@ const year = new Date().getFullYear();
   <div class="wrap grid">
     <div class="id">
       <a class="mark" href="/">The Suite Book</a>
-      <p>The hundred most extraordinary hotels in the world.</p>
+      <p>The most extraordinary hotels in the world.</p>
     </div>
     {regions.length ? (
       <nav aria-label="Regions"><p class="h">Regions</p>{regions.map((r) => <a href={regionPath(r)}>{r}</a>)}</nav>
@@ -16,7 +16,7 @@ const year = new Date().getFullYear();
     {themes.length ? (
       <nav aria-label="Themes"><p class="h">Themes</p>{themes.map((t) => <a href={t.path}>{t.short}</a>)}</nav>
     ) : null}
-    <nav aria-label="Site"><p class="h">The book</p><a href="/hotels/">The hundred</a><a href="/destinations/">Destinations</a><a href="/about/">About</a><a href="/about/#chosen">How the hundred are chosen</a></nav>
+    <nav aria-label="Site"><p class="h">The book</p><a href="/hotels/">The hotels</a><a href="/destinations/">Destinations</a><a href="/about/">About</a><a href="/about/#chosen">How the hundred are chosen</a></nav>
   </div>
   <div class="wrap small">
     <p>Booking links go through Stay22 to Booking.com or Expedia, which may pay a commission at no cost to the guest. No hotel pays to be listed.</p>

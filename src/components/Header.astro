@@ -2,7 +2,7 @@
 interface Props { overlay?: boolean; home?: boolean }
 const { overlay = false, home = false } = Astro.props;
 const path = Astro.url.pathname;
-const links = [{ href: '/hotels/', label: 'The hundred' }, { href: '/destinations/', label: 'Destinations' }, { href: '/about/', label: 'About' }];
+const links = [{ href: '/hotels/', label: 'The hotels' }, { href: '/destinations/', label: 'Destinations' }, { href: '/about/', label: 'About' }];
 ---
 <header class:list={['top', { overlay }]}>
   <div class="bar">

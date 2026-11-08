@@ -5,15 +5,15 @@ const abs = (p: string) => `${SITE}${p}`;
 export function llms(full: boolean): string {
   const out = [
     '# The Suite Book', '',
-    `> The Suite Book (thesuitebook.com) is a list of the hundred most extraordinary hotels in the world: city palaces, private islands, safari lodges, wilderness and mountain hotels. ${hotels.length} are published. Each hotel page carries its own photographs, rooms and suites, restaurants, the nearest airport, a booking link and the sources of every fact.`, '',
+    `> The Suite Book (thesuitebook.com) is a guide to the most extraordinary hotels in the world: city palaces, private islands, safari lodges, wilderness and mountain hotels. ${hotels.length} are published. Each hotel page carries its own photographs, rooms and suites, restaurants, the nearest airport, a booking link and the sources of every fact.`, '',
     '## How the data is sourced', '',
     "- Hotel facts come from the hotel's or its operator's own website, press room or fact sheet. Each fact carries its source URL and the date it was read, listed on the hotel page.",
     '- Prices, where shown, are the lowest nightly rate for two adults on Booking.com through Stay22, with the sample date.',
     '- Photographs are the hotels\' own, credited. No hotel pays to be listed. Booking sites, review sites and other directories are never a source.', '',
     '## Key pages', '',
-    `- [The hundred](${abs('/hotels/')}): every hotel, filterable by region, country, type and price (search with ?q=)`,
+    `- [The hotels](${abs('/hotels/')}): every hotel, filterable by region, country, type and price (search with ?q=)`,
     `- [Destinations](${abs('/destinations/')}): by region, country, city and kind`,
-    `- [About](${abs('/about/')}): how the hundred are chosen, and the sources`,
+    `- [About](${abs('/about/')}): how the hotels are chosen, and the sources`,
   ];
   const regions = REGIONS.filter((r) => hotels.some((h) => h.region === r));
   if (regions.length) out.push('', '## Regions', '', ...regions.map((r) => `- [The most luxurious hotels in ${r}](${abs(regionPath(r))})`));
