@@ -1,0 +1,6299 @@
+[
+ {
+  "id": "fr-crillon",
+  "name": "Hôtel de Crillon, A Rosewood Hotel",
+  "operator": "Rosewood",
+  "region": "Europe",
+  "country": "France",
+  "area": "Paris",
+  "type": "city",
+  "website": "https://www.rosewoodhotels.com/en/hotel-de-crillon",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 48.86762,
+  "lng": 2.32137,
+  "coordsSource": "OpenStreetMap Nominatim: Hôtel de Crillon (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 3,
+  "why": "Place de la Concorde palace, Rosewood flagship in Europe",
+  "pick": true
+ },
+ {
+  "id": "fr-bristol",
+  "name": "Le Bristol Paris",
+  "operator": "Oetker Collection",
+  "region": "Europe",
+  "country": "France",
+  "area": "Paris",
+  "type": "city",
+  "website": "https://www.oetkercollection.com/hotels/le-bristol-paris/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 48.87183,
+  "lng": 2.31501,
+  "coordsSource": "OpenStreetMap Nominatim: Le Bristol (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 3,
+  "why": "Faubourg Saint-Honore palace with rooftop pool and three-Michelin-star dining",
+  "pick": true
+ },
+ {
+  "id": "fr-ritz",
+  "name": "Ritz Paris",
+  "operator": "Ritz Paris",
+  "region": "Europe",
+  "country": "France",
+  "area": "Paris",
+  "type": "city",
+  "website": "https://www.ritzparis.com/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 48.86797,
+  "lng": 2.32884,
+  "coordsSource": "OpenStreetMap Nominatim: Le Ritz (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 3,
+  "why": "The original Ritz, Place Vendome, Palace distinction",
+  "pick": true
+ },
+ {
+  "id": "fr-plaza",
+  "name": "Hôtel Plaza Athénée",
+  "operator": "Dorchester Collection",
+  "region": "Europe",
+  "country": "France",
+  "area": "Paris",
+  "type": "city",
+  "website": "https://www.dorchestercollection.com/en/paris/hotel-plaza-athenee/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 48.86638,
+  "lng": 2.30389,
+  "coordsSource": "OpenStreetMap Nominatim: Plaza Athénée (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 3,
+  "why": "Avenue Montaigne palace with Eiffel Tower views",
+  "pick": true
+ },
+ {
+  "id": "fr-georgev",
+  "name": "Four Seasons Hotel George V",
+  "operator": "Four Seasons",
+  "region": "Europe",
+  "country": "France",
+  "area": "Paris",
+  "type": "city",
+  "website": "https://www.fourseasons.com/paris/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 48.86878,
+  "lng": 2.30068,
+  "coordsSource": "OpenStreetMap Nominatim: Four Seasons Hôtel George V (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 3,
+  "why": "Four Seasons flagship palace near the Champs-Elysees",
+  "pick": true
+ },
+ {
+  "id": "fr-cbparis",
+  "name": "Cheval Blanc Paris",
+  "operator": "LVMH",
+  "region": "Europe",
+  "country": "France",
+  "area": "Paris",
+  "type": "city",
+  "website": "https://www.chevalblanc.com/en/maison/paris/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 48.85886,
+  "lng": 2.34218,
+  "coordsSource": "OpenStreetMap Nominatim: Cheval Blanc (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 3,
+  "why": "LVMH maison on the Seine in the former Samaritaine",
+  "pick": true
+ },
+ {
+  "id": "fr-meurice",
+  "name": "Le Meurice",
+  "operator": "Dorchester Collection",
+  "region": "Europe",
+  "country": "France",
+  "area": "Paris",
+  "type": "city",
+  "website": "https://www.dorchestercollection.com/en/paris/le-meurice/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 48.86528,
+  "lng": 2.32822,
+  "coordsSource": "OpenStreetMap Nominatim: Le Meurice (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Tuileries palace hotel with Philippe Starck and Dali heritage",
+  "pick": false
+ },
+ {
+  "id": "fr-edenroc",
+  "name": "Hotel du Cap-Eden-Roc",
+  "operator": "Oetker Collection",
+  "region": "Europe",
+  "country": "France",
+  "area": "Antibes",
+  "type": "resort",
+  "website": "https://www.oetkercollection.com/hotels/hotel-du-cap-eden-roc/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 43.54845,
+  "lng": 7.12157,
+  "coordsSource": "OpenStreetMap Nominatim: Hôtel du Cap-Eden-Roc (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 3,
+  "why": "The Riviera icon on Cap d'Antibes",
+  "pick": true
+ },
+ {
+  "id": "fr-cbstt",
+  "name": "Cheval Blanc St-Tropez",
+  "operator": "LVMH",
+  "region": "Europe",
+  "country": "France",
+  "area": "Saint-Tropez",
+  "type": "resort",
+  "website": "https://www.chevalblanc.com/en/maison/st-tropez/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 43.26648,
+  "lng": 6.62657,
+  "coordsSource": "OpenStreetMap Nominatim: Cheval Blanc (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Beachfront maison on the Baie des Canebiers",
+  "pick": false
+ },
+ {
+  "id": "fr-cbcourch",
+  "name": "Cheval Blanc Courchevel",
+  "operator": "LVMH",
+  "region": "Europe",
+  "country": "France",
+  "area": "Courchevel",
+  "type": "resort",
+  "website": "https://www.chevalblanc.com/en/maison/courchevel/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 45.4095,
+  "lng": 6.63363,
+  "coordsSource": "OpenStreetMap Nominatim: Cheval Blanc (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 3,
+  "why": "Ski-in palace in Courchevel 1850",
+  "pick": true
+ },
+ {
+  "id": "fr-lareserve",
+  "name": "La Réserve Paris Hotel and Spa",
+  "operator": "La Réserve",
+  "region": "Europe",
+  "country": "France",
+  "area": "Paris",
+  "type": "city",
+  "website": "https://www.lareserve-paris.com/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 48.8697,
+  "lng": 2.31324,
+  "coordsSource": "OpenStreetMap Nominatim: 42 (place/house)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Private-mansion scale, Jacques Garcia interiors",
+  "pick": false
+ },
+ {
+  "id": "it-passalacqua",
+  "name": "Passalacqua",
+  "operator": "Passalacqua",
+  "region": "Europe",
+  "country": "Italy",
+  "area": "Moltrasio, Lake Como",
+  "type": "resort",
+  "website": "https://www.passalacqua.com/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 45.86051,
+  "lng": 9.09918,
+  "coordsSource": "OpenStreetMap Nominatim: Villa Lucini Passalacqua (building/villa)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "41403074.0000",
+   "matchedName": "Passalacqua",
+   "rating": {
+    "value": 10,
+    "hotelStars": 5,
+    "count": 72
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 2411,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 1512,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 1962,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 3,
+  "why": "World's 50 Best Hotels number one, 18th-century villa on Lake Como",
+  "pick": true
+ },
+ {
+  "id": "it-villadeste",
+  "name": "Grand Hotel Villa d'Este",
+  "operator": "Villa d'Este",
+  "region": "Europe",
+  "country": "Italy",
+  "area": "Cernobbio, Lake Como",
+  "type": "resort",
+  "website": "https://www.villadeste.com/",
+  "websiteStatus": "ok",
+  "rooms": 151,
+  "roomsSource": "official page: \"151 rooms\"",
+  "lat": 45.84493,
+  "lng": 9.07982,
+  "coordsSource": "OpenStreetMap Nominatim: Villa d'Este (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 3,
+  "why": "16th-century villa hotel, the Como grande dame",
+  "pick": true
+ },
+ {
+  "id": "it-sereno",
+  "name": "Il Sereno Lago di Como",
+  "operator": "Sereno Hotels",
+  "region": "Europe",
+  "country": "Italy",
+  "area": "Torno, Lake Como",
+  "type": "resort",
+  "website": "https://www.serenohotels.com/lago-di-como/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 45.85908,
+  "lng": 9.11771,
+  "coordsSource": "OpenStreetMap Nominatim: Il Sereno Hotel (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39380191.0000",
+   "matchedName": "Il Sereno Lago Di Como",
+   "rating": {
+    "value": 9.7,
+    "hotelStars": 5,
+    "count": 122
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 464,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 1421,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 942,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Piero Lissoni design, waterfront suites on Como",
+  "pick": false
+ },
+ {
+  "id": "it-splendido",
+  "name": "Belmond Hotel Splendido",
+  "operator": "Belmond",
+  "region": "Europe",
+  "country": "Italy",
+  "area": "Portofino",
+  "type": "resort",
+  "website": "https://www.belmond.com/hotels/europe/italy/portofino/belmond-hotel-splendido/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 44.30644,
+  "lng": 9.21,
+  "coordsSource": "OpenStreetMap Nominatim: Hotel Splendido (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "d40f49223c4d208d0a0a7b50ae0d88b4.0000",
+   "matchedName": "Splendido, A Belmond Hotel, Portofino",
+   "rating": {
+    "value": null,
+    "hotelStars": 5,
+    "count": null
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 956,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 1360,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 1158,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Hillside Portofino icon above the harbour",
+  "pick": false
+ },
+ {
+  "id": "it-cipriani",
+  "name": "Belmond Hotel Cipriani",
+  "operator": "Belmond",
+  "region": "Europe",
+  "country": "Italy",
+  "area": "Venice (Giudecca)",
+  "type": "resort",
+  "website": "https://www.belmond.com/hotels/europe/italy/venice/belmond-hotel-cipriani/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 45.42746,
+  "lng": 12.34054,
+  "coordsSource": "OpenStreetMap Nominatim: Hotel Cipriani (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 3,
+  "why": "Garden and pool hotel on Giudecca",
+  "pick": true
+ },
+ {
+  "id": "it-amanvenice",
+  "name": "Aman Venice",
+  "operator": "Aman",
+  "region": "Europe",
+  "country": "Italy",
+  "area": "Venice",
+  "type": "city",
+  "website": "https://www.aman.com/hotels/aman-venice",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 45.4367,
+  "lng": 12.33196,
+  "coordsSource": "OpenStreetMap Nominatim: Aman Venice (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 3,
+  "why": "Renaissance palazzo on the Grand Canal",
+  "pick": true
+ },
+ {
+  "id": "it-caruso",
+  "name": "Belmond Hotel Caruso",
+  "operator": "Belmond",
+  "region": "Europe",
+  "country": "Italy",
+  "area": "Ravello",
+  "type": "resort",
+  "website": "https://www.belmond.com/hotels/europe/italy/amalfi-coast/belmond-hotel-caruso/",
+  "websiteStatus": "ok",
+  "rooms": 50,
+  "roomsSource": "official page: \"50 rooms and suites\"",
+  "lat": 40.65153,
+  "lng": 14.61307,
+  "coordsSource": "OpenStreetMap Nominatim: Belmond Hotel Caruso (building/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "11th-century palace with infinity pool above the Amalfi coast",
+  "pick": false
+ },
+ {
+  "id": "it-sirenuse",
+  "name": "Le Sirenuse",
+  "operator": "Sersale family",
+  "region": "Europe",
+  "country": "Italy",
+  "area": "Positano",
+  "type": "resort",
+  "website": "https://www.sirenuse.it/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 40.62877,
+  "lng": 14.48763,
+  "coordsSource": "OpenStreetMap Nominatim: Le Sirenuse (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Family-run Positano landmark",
+  "pick": false
+ },
+ {
+  "id": "it-quisisana",
+  "name": "Grand Hotel Quisisana",
+  "operator": "Quisisana",
+  "region": "Europe",
+  "country": "Italy",
+  "area": "Capri",
+  "type": "resort",
+  "website": "https://www.quisisana.com/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 40.54927,
+  "lng": 14.24454,
+  "coordsSource": "OpenStreetMap Nominatim: Grand Hotel Quisisana (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Capri's grand hotel since 1845",
+  "pick": false
+ },
+ {
+  "id": "it-capripalace",
+  "name": "Capri Palace Jumeirah",
+  "operator": "Jumeirah",
+  "region": "Europe",
+  "country": "Italy",
+  "area": "Anacapri",
+  "type": "resort",
+  "website": null,
+  "websiteStatus": "none",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 40.55589,
+  "lng": 14.22213,
+  "coordsSource": "OpenStreetMap Nominatim: Capri Palace Hotel & Spa (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Art-led Anacapri hotel",
+  "pick": false
+ },
+ {
+  "id": "it-pellicano",
+  "name": "Il Pellicano",
+  "operator": "Il Pellicano",
+  "region": "Europe",
+  "country": "Italy",
+  "area": "Porto Ercole, Tuscany",
+  "type": "resort",
+  "website": "https://www.ilpellicano.com/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 42.37378,
+  "lng": 11.18755,
+  "coordsSource": "OpenStreetMap Nominatim: Hotel Il Pellicano (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Cliffside Tuscan coast hideaway",
+  "pick": false
+ },
+ {
+  "id": "it-feltrinelli",
+  "name": "Villa Feltrinelli",
+  "operator": "Villa Feltrinelli",
+  "region": "Europe",
+  "country": "Italy",
+  "area": "Gargnano, Lake Garda",
+  "type": "resort",
+  "website": "https://www.villafeltrinelli.com/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 45.69407,
+  "lng": 10.6707,
+  "coordsSource": "OpenStreetMap Nominatim: Villa Feltrinelli (place/isolated_dwelling)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 3,
+  "why": "Only 21 keys in Mussolini's former residence, Relais & Chateaux",
+  "pick": true
+ },
+ {
+  "id": "it-deRusse",
+  "name": "Hotel de Russie",
+  "operator": "Rocco Forte",
+  "region": "Europe",
+  "country": "Italy",
+  "area": "Rome",
+  "type": "city",
+  "website": "https://www.roccofortehotels.com/hotels-and-resorts/hotel-de-russie/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 41.90991,
+  "lng": 12.47751,
+  "coordsSource": "OpenStreetMap Nominatim: De Russie (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Terraced garden hotel by the Spanish Steps",
+  "pick": false
+ },
+ {
+  "id": "it-eden",
+  "name": "Hotel Eden",
+  "operator": "Dorchester Collection",
+  "region": "Europe",
+  "country": "Italy",
+  "area": "Rome",
+  "type": "city",
+  "website": "https://www.dorchestercollection.com/en/rome/hotel-eden/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 41.90662,
+  "lng": 12.48631,
+  "coordsSource": "OpenStreetMap Nominatim: Hotel Eden (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Rooftop views across Rome from above the Spanish Steps",
+  "pick": false
+ },
+ {
+  "id": "it-timeo",
+  "name": "Belmond Grand Hotel Timeo",
+  "operator": "Belmond",
+  "region": "Europe",
+  "country": "Italy",
+  "area": "Taormina, Sicily",
+  "type": "resort",
+  "website": "https://www.belmond.com/hotels/europe/italy/taormina/belmond-grand-hotel-timeo/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 37.85208,
+  "lng": 15.29126,
+  "coordsSource": "OpenStreetMap Nominatim: Grand Hotel Timeo (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Beside the Greek theatre with Etna views",
+  "pick": false
+ },
+ {
+  "id": "it-bulgarimilan",
+  "name": "Bulgari Hotel Milano",
+  "operator": "Bulgari",
+  "region": "Europe",
+  "country": "Italy",
+  "area": "Milan",
+  "type": "city",
+  "website": "https://www.bulgarihotels.com/en_US/milan",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 45.47009,
+  "lng": 9.1893,
+  "coordsSource": "OpenStreetMap Nominatim: Bulgari Hotel Milano (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Walled garden in central Milan",
+  "pick": false
+ },
+ {
+  "id": "gb-claridges",
+  "name": "Claridge's",
+  "operator": "Maybourne",
+  "region": "Europe",
+  "country": "United Kingdom",
+  "area": "London",
+  "type": "city",
+  "website": "https://www.claridges.co.uk/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 51.51252,
+  "lng": -0.14753,
+  "coordsSource": "OpenStreetMap Nominatim: Claridge's (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "16367942.0000",
+   "matchedName": "Claridge's, Maybourne Hotel Collection",
+   "rating": {
+    "value": 9.2,
+    "hotelStars": 5,
+    "count": 506
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 2164,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 1158,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 1661,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 3,
+  "why": "Mayfair Art Deco institution",
+  "pick": true
+ },
+ {
+  "id": "gb-connaught",
+  "name": "The Connaught",
+  "operator": "Maybourne",
+  "region": "Europe",
+  "country": "United Kingdom",
+  "area": "London",
+  "type": "city",
+  "website": "https://www.the-connaught.co.uk/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 51.51018,
+  "lng": -0.15022,
+  "coordsSource": "OpenStreetMap Nominatim: The Connaught (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39676206.0000",
+   "matchedName": "The Connaught, Maybourne Hotel Collection",
+   "rating": {
+    "value": 9.7,
+    "hotelStars": 5,
+    "count": 186
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 1884,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 1056,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 1470,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 3,
+  "why": "Mayfair townhouse hotel with Hélène Darroze and the Connaught Bar",
+  "pick": true
+ },
+ {
+  "id": "gb-dorchester",
+  "name": "The Dorchester",
+  "operator": "Dorchester Collection",
+  "region": "Europe",
+  "country": "United Kingdom",
+  "area": "London",
+  "type": "city",
+  "website": "https://www.dorchestercollection.com/en/london/the-dorchester/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 51.5073,
+  "lng": -0.15236,
+  "coordsSource": "OpenStreetMap Nominatim: The Dorchester (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 3,
+  "why": "Park Lane flagship of Dorchester Collection",
+  "pick": true
+ },
+ {
+  "id": "gb-savoy",
+  "name": "The Savoy",
+  "operator": "Fairmont",
+  "region": "Europe",
+  "country": "United Kingdom",
+  "area": "London",
+  "type": "city",
+  "website": "https://www.thesavoylondon.com/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 51.51013,
+  "lng": -0.1205,
+  "coordsSource": "OpenStreetMap Nominatim: Savoy Hotel (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Thames-side grande dame since 1889",
+  "pick": false
+ },
+ {
+  "id": "gb-owo",
+  "name": "Raffles London at The OWO",
+  "operator": "Raffles",
+  "region": "Europe",
+  "country": "United Kingdom",
+  "area": "London",
+  "type": "city",
+  "website": "https://www.raffles.com/london/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 51.50566,
+  "lng": -0.12465,
+  "coordsSource": "OpenStreetMap Nominatim: The Old War Office (place/house)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "41613515.0000",
+   "matchedName": "Raffles London At The Owo",
+   "rating": {
+    "value": 9.5,
+    "hotelStars": 5,
+    "count": 234
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 1659,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 1352,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 1506,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 3,
+  "why": "Former Old War Office, Whitehall, opened 2023",
+  "pick": true
+ },
+ {
+  "id": "gb-ritzlondon",
+  "name": "The Ritz London",
+  "operator": "Ritz",
+  "region": "Europe",
+  "country": "United Kingdom",
+  "area": "London",
+  "type": "city",
+  "website": "https://www.theritzlondon.com/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 51.50719,
+  "lng": -0.14142,
+  "coordsSource": "OpenStreetMap Nominatim: The Ritz London (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Piccadilly institution with afternoon tea",
+  "pick": false
+ },
+ {
+  "id": "gb-gleneagles",
+  "name": "Gleneagles",
+  "operator": "Gleneagles",
+  "region": "Europe",
+  "country": "United Kingdom",
+  "area": "Auchterarder, Scotland",
+  "type": "resort",
+  "website": "https://www.gleneagles.com/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 56.28341,
+  "lng": -3.75174,
+  "coordsSource": "OpenStreetMap Nominatim: Gleneagles Hotel (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Scottish estate resort with three golf courses",
+  "pick": false
+ },
+ {
+  "id": "gb-lemanoir",
+  "name": "Belmond Le Manoir aux Quat'Saisons",
+  "operator": "Belmond",
+  "region": "Europe",
+  "country": "United Kingdom",
+  "area": "Great Milton, Oxfordshire",
+  "type": "resort",
+  "website": "https://www.belmond.com/hotels/europe/uk/oxfordshire/belmond-le-manoir-aux-quat-saisons/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 51.71614,
+  "lng": -1.09198,
+  "coordsSource": "OpenStreetMap Nominatim: Le Manoir aux Quat'Saisons (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Raymond Blanc's two-Michelin-star manor",
+  "pick": false
+ },
+ {
+  "id": "ie-ashford",
+  "name": "Ashford Castle",
+  "operator": "Red Carnation",
+  "region": "Europe",
+  "country": "Ireland",
+  "area": "Cong, County Mayo",
+  "type": "resort",
+  "website": "https://www.ashfordcastle.com/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 53.53443,
+  "lng": -9.2846,
+  "coordsSource": "OpenStreetMap Nominatim: Ashford Castle (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "13th-century castle on Lough Corrib",
+  "pick": false
+ },
+ {
+  "id": "ch-badrutts",
+  "name": "Badrutt's Palace Hotel",
+  "operator": "Badrutt",
+  "region": "Europe",
+  "country": "Switzerland",
+  "area": "St. Moritz",
+  "type": "resort",
+  "website": "https://www.badruttspalace.com/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 46.49725,
+  "lng": 9.84076,
+  "coordsSource": "OpenStreetMap Nominatim: Badrutt's Palace (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 3,
+  "why": "The St. Moritz winter-season icon",
+  "pick": true
+ },
+ {
+  "id": "ch-suvretta",
+  "name": "Suvretta House",
+  "operator": "Suvretta",
+  "region": "Europe",
+  "country": "Switzerland",
+  "area": "St. Moritz",
+  "type": "resort",
+  "website": "https://www.suvrettahouse.ch/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 46.48486,
+  "lng": 9.81982,
+  "coordsSource": "OpenStreetMap Nominatim: Suvretta House (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Family-run ski-in grand hotel",
+  "pick": false
+ },
+ {
+  "id": "ch-chedi",
+  "name": "The Chedi Andermatt",
+  "operator": "GHM",
+  "region": "Europe",
+  "country": "Switzerland",
+  "area": "Andermatt",
+  "type": "resort",
+  "website": "https://www.ghmhotels.com/en/andermatt/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 46.6361,
+  "lng": 8.59451,
+  "coordsSource": "OpenStreetMap Nominatim: The Chedi Andermatt (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "15216479.0000",
+   "matchedName": "The Chedi Andermatt",
+   "rating": {
+    "value": 9.1,
+    "hotelStars": 5,
+    "count": 427
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": null,
+     "suppliers": null
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 1064,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 1064,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Alpine chalet-style luxury with Asian influences",
+  "pick": false
+ },
+ {
+  "id": "ch-bauraulac",
+  "name": "Baur au Lac",
+  "operator": "Baur au Lac",
+  "region": "Europe",
+  "country": "Switzerland",
+  "area": "Zurich",
+  "type": "city",
+  "website": "https://www.bauraulac.ch/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 47.36711,
+  "lng": 8.53934,
+  "coordsSource": "OpenStreetMap Nominatim: Hotel Baur au Lac (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "15259686.0000",
+   "matchedName": "Baur Au Lac",
+   "rating": {
+    "value": 9.2,
+    "hotelStars": 5,
+    "count": 402
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 1769,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 1641,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 1705,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Family-owned lakeside grand hotel since 1844",
+  "pick": true
+ },
+ {
+  "id": "ch-brp",
+  "name": "Beau-Rivage Palace",
+  "operator": "Beau-Rivage Palace",
+  "region": "Europe",
+  "country": "Switzerland",
+  "area": "Lausanne",
+  "type": "resort",
+  "website": "https://www.brp.ch/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 46.50793,
+  "lng": 6.6304,
+  "coordsSource": "OpenStreetMap Nominatim: Hôtel Beau-Rivage Palace (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39683037.0000",
+   "matchedName": "Beau-Rivage Palace",
+   "rating": {
+    "value": 9.1,
+    "hotelStars": 5,
+    "count": 487
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 793,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 655,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 724,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Lake Geneva palace with gardens",
+  "pick": false
+ },
+ {
+  "id": "ch-buergenstock",
+  "name": "Bürgenstock Hotels",
+  "operator": "Bürgenstock Selection",
+  "region": "Europe",
+  "country": "Switzerland",
+  "area": "Lake Lucerne",
+  "type": "resort",
+  "website": "https://www.buergenstock.ch/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 46.99618,
+  "lng": 8.38128,
+  "coordsSource": "OpenStreetMap Nominatim: Bürgenstock (place/hamlet)",
+  "coordsApprox": true,
+  "stay22": null,
+  "tier": 2,
+  "why": "Cliff-top resort above Lake Lucerne",
+  "pick": false
+ },
+ {
+  "id": "de-adlon",
+  "name": "Hotel Adlon Kempinski",
+  "operator": "Kempinski",
+  "region": "Europe",
+  "country": "Germany",
+  "area": "Berlin",
+  "type": "city",
+  "website": "https://www.kempinski.com/en/hotel-adlon",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 52.51558,
+  "lng": 13.38007,
+  "coordsSource": "OpenStreetMap Nominatim: Adlon Kempinski (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39657602.0000",
+   "matchedName": "Hotel Adlon Kempinski",
+   "rating": {
+    "value": 9.1,
+    "hotelStars": 5,
+    "count": 3795
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 435,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": null,
+     "suppliers": null
+    }
+   },
+   "typicalPerNightUSD": 435,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Brandenburg Gate grand hotel",
+  "pick": false
+ },
+ {
+  "id": "de-brenners",
+  "name": "Brenners Park-Hotel & Spa",
+  "operator": "Oetker Collection",
+  "region": "Europe",
+  "country": "Germany",
+  "area": "Baden-Baden",
+  "type": "resort",
+  "website": "https://www.oetkercollection.com/hotels/brenners-park-hotel-spa/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 48.75606,
+  "lng": 8.23989,
+  "coordsSource": "OpenStreetMap Nominatim: Brenners Park Hotel & Spa (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39041527.0000",
+   "matchedName": "Brenners Park-Hotel & Spa",
+   "rating": {
+    "value": 9.4,
+    "hotelStars": 5,
+    "count": 276
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 1290,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 614,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 952,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Oetker spa palace in the Black Forest",
+  "pick": false
+ },
+ {
+  "id": "es-ritzmadrid",
+  "name": "Mandarin Oriental Ritz, Madrid",
+  "operator": "Mandarin Oriental",
+  "region": "Europe",
+  "country": "Spain",
+  "area": "Madrid",
+  "type": "city",
+  "website": "https://www.mandarinoriental.com/en/madrid/hotel-ritz",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 40.41555,
+  "lng": -3.69273,
+  "coordsSource": "OpenStreetMap Nominatim: Mandarin Oriental Ritz (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39755803.0000",
+   "matchedName": "Mandarin Oriental Ritz, Madrid",
+   "rating": {
+    "value": 9.3,
+    "hotelStars": 5,
+    "count": 237
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 1486,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 1756,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 1621,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "1910 Belle Epoque palace near the Prado",
+  "pick": true
+ },
+ {
+  "id": "es-caprocat",
+  "name": "Cap Rocat",
+  "operator": "Cap Rocat",
+  "region": "Europe",
+  "country": "Spain",
+  "area": "Mallorca",
+  "type": "resort",
+  "website": "https://www.caprocat.com/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 39.47562,
+  "lng": 2.72471,
+  "coordsSource": "OpenStreetMap Nominatim: Cap Rocat (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Converted coastal fortress",
+  "pick": false
+ },
+ {
+  "id": "es-residencia",
+  "name": "Belmond La Residencia",
+  "operator": "Belmond",
+  "region": "Europe",
+  "country": "Spain",
+  "area": "Deià, Mallorca",
+  "type": "resort",
+  "website": null,
+  "websiteStatus": "none",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 39.74973,
+  "lng": 2.64922,
+  "coordsSource": "OpenStreetMap Nominatim: La Residència (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39108683.0000",
+   "matchedName": "La Residencia, A Belmond Hotel, Mallorca",
+   "rating": {
+    "value": 9.7,
+    "hotelStars": 5,
+    "count": 167
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": null,
+     "suppliers": null
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 1823,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 1823,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Mountain village estate in Deià",
+  "pick": true
+ },
+ {
+  "id": "es-finca",
+  "name": "Finca Cortesin",
+  "operator": "Finca Cortesin",
+  "region": "Europe",
+  "country": "Spain",
+  "area": "Casares, Costa del Sol",
+  "type": "resort",
+  "website": "https://www.fincacortesin.com/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 36.39646,
+  "lng": -5.22386,
+  "coordsSource": "OpenStreetMap Nominatim: Hotel Finca Cortesín Golf and Spa (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Andalusian estate with golf and spa",
+  "pick": false
+ },
+ {
+  "id": "es-marbellaclub",
+  "name": "Marbella Club Hotel",
+  "operator": "Marbella Club",
+  "region": "Europe",
+  "country": "Spain",
+  "area": "Marbella",
+  "type": "resort",
+  "website": "https://www.marbellaclub.com/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 36.50652,
+  "lng": -4.91922,
+  "coordsSource": "OpenStreetMap Nominatim: Marbella Club Hotel (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "38733797.0000",
+   "matchedName": "Marbella Club Hotel Golf Resort & Spa",
+   "rating": {
+    "value": 9.4,
+    "hotelStars": 5,
+    "count": 401
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 946,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 1244,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 1095,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Costa del Sol original, 1954",
+  "pick": false
+ },
+ {
+  "id": "es-mobarcelona",
+  "name": "Mandarin Oriental Barcelona",
+  "operator": "Mandarin Oriental",
+  "region": "Europe",
+  "country": "Spain",
+  "area": "Barcelona",
+  "type": "city",
+  "website": "https://www.mandarinoriental.com/en/barcelona/passeig-de-gracia",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 41.39138,
+  "lng": 2.16691,
+  "coordsSource": "OpenStreetMap Nominatim: Mandarin Oriental (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39613408.0000",
+   "matchedName": "Mandarin Oriental, Barcelona",
+   "rating": {
+    "value": 9.1,
+    "hotelStars": 5,
+    "count": 304
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 1138,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 911,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 1024,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 1,
+  "why": "Passeig de Gracia flagship",
+  "pick": false
+ },
+ {
+  "id": "pt-reids",
+  "name": "Belmond Reid's Palace",
+  "operator": "Belmond",
+  "region": "Europe",
+  "country": "Portugal",
+  "area": "Funchal, Madeira",
+  "type": "resort",
+  "website": "https://www.belmond.com/hotels/europe/portugal/madeira/belmond-reids-palace/",
+  "websiteStatus": "ok",
+  "rooms": 126,
+  "roomsSource": "official page: \"126 rooms and suites\"",
+  "lat": 32.64054,
+  "lng": -16.92379,
+  "coordsSource": "OpenStreetMap Nominatim: Afternoon Tea at Belmond Reid's Palace (amenity/cafe)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39648259.0000",
+   "matchedName": "Reid's Palace, A Belmond Hotel, Madeira",
+   "rating": {
+    "value": 9.5,
+    "hotelStars": 5,
+    "count": 519
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 1554,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 811,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 1182,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Cliff-top Madeira landmark since 1891",
+  "pick": true
+ },
+ {
+  "id": "pt-douro",
+  "name": "Six Senses Douro Valley",
+  "operator": "Six Senses",
+  "region": "Europe",
+  "country": "Portugal",
+  "area": "Douro Valley",
+  "type": "resort",
+  "website": "https://www.sixsenses.com/en/resorts/douro-valley",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 41.14381,
+  "lng": -7.81147,
+  "coordsSource": "OpenStreetMap Nominatim: Six Senses Douro Valley (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39621137.0000",
+   "matchedName": "Six Senses Douro Valley",
+   "rating": {
+    "value": 9.5,
+    "hotelStars": 5,
+    "count": 173
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 1239,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 1422,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 1330,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 1,
+  "why": "Wine-valley manor retreat",
+  "pick": false
+ },
+ {
+  "id": "gr-amanzoe",
+  "name": "Amanzoe",
+  "operator": "Aman",
+  "region": "Europe",
+  "country": "Greece",
+  "area": "Porto Heli, Peloponnese",
+  "type": "resort",
+  "website": "https://www.aman.com/resorts/amanzoe",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": null,
+  "lng": null,
+  "coordsSource": null,
+  "coordsApprox": null,
+  "stay22": null,
+  "tier": 3,
+  "why": "Aman's Greek hilltop pavilions",
+  "pick": true
+ },
+ {
+  "id": "gr-canaves",
+  "name": "Canaves Oia Suites",
+  "operator": "Canaves",
+  "region": "Europe",
+  "country": "Greece",
+  "area": "Oia, Santorini",
+  "type": "resort",
+  "website": "https://www.canaves.com/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 36.46167,
+  "lng": 25.3831,
+  "coordsSource": "OpenStreetMap Nominatim: Canaves Oia Suites (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 1,
+  "why": "Cave suites on the Santorini caldera",
+  "pick": false
+ },
+ {
+  "id": "gr-mystique",
+  "name": "Mystique, a Luxury Collection Hotel, Santorini",
+  "operator": "Marriott",
+  "region": "Europe",
+  "country": "Greece",
+  "area": "Oia, Santorini",
+  "type": "resort",
+  "website": "https://www.marriott.com/en-us/hotels/jtrlc-mystique-a-luxury-collection-hotel-santorini/overview/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": null,
+  "lng": null,
+  "coordsSource": null,
+  "coordsApprox": null,
+  "stay22": null,
+  "tier": 1,
+  "why": "Cliffside suites with caldera views",
+  "pick": false
+ },
+ {
+  "id": "tr-bosphorus",
+  "name": "Four Seasons Hotel Istanbul at the Bosphorus",
+  "operator": "Four Seasons",
+  "region": "Europe",
+  "country": "Turkey",
+  "area": "Istanbul",
+  "type": "city",
+  "website": "https://www.fourseasons.com/bosphorus/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": null,
+  "lng": null,
+  "coordsSource": null,
+  "coordsApprox": null,
+  "stay22": null,
+  "tier": 2,
+  "why": "Former Ottoman palace on the water",
+  "pick": false
+ },
+ {
+  "id": "tr-ciragan",
+  "name": "Çırağan Palace Kempinski",
+  "operator": "Kempinski",
+  "region": "Europe",
+  "country": "Turkey",
+  "area": "Istanbul",
+  "type": "city",
+  "website": "https://www.kempinski.com/en/ciragan-palace",
+  "websiteStatus": "ok",
+  "rooms": 317,
+  "roomsSource": "official page: \"317 rooms\"",
+  "lat": 41.04444,
+  "lng": 29.01663,
+  "coordsSource": "OpenStreetMap Nominatim: Çırağan Sarayı Kempinski (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "19th-century sultan's palace on the Bosphorus",
+  "pick": false
+ },
+ {
+  "id": "tr-bodrum",
+  "name": "Mandarin Oriental Bodrum",
+  "operator": "Mandarin Oriental",
+  "region": "Europe",
+  "country": "Turkey",
+  "area": "Bodrum",
+  "type": "resort",
+  "website": "https://www.mandarinoriental.com/en/bodrum",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 37.12523,
+  "lng": 27.41262,
+  "coordsSource": "OpenStreetMap Nominatim: Mandarin Oriental (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39615821.0000",
+   "matchedName": "Mandarin Oriental, Bodrum",
+   "rating": {
+    "value": 9.2,
+    "hotelStars": 5,
+    "count": 111
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": null,
+     "suppliers": null
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 3405,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 3405,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 1,
+  "why": "Aegean cove resort",
+  "pick": false
+ },
+ {
+  "id": "tr-amanruya",
+  "name": "Amanruya",
+  "operator": "Aman",
+  "region": "Europe",
+  "country": "Turkey",
+  "area": "Bodrum Peninsula",
+  "type": "resort",
+  "website": "https://www.aman.com/resorts/amanruya",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": null,
+  "lng": null,
+  "coordsSource": null,
+  "coordsApprox": null,
+  "stay22": null,
+  "tier": 1,
+  "why": "Pine-wooded Aegean pavilions",
+  "pick": false
+ },
+ {
+  "id": "mc-hdp",
+  "name": "Hôtel de Paris Monte-Carlo",
+  "operator": "SBM",
+  "region": "Europe",
+  "country": "Monaco",
+  "area": "Monte-Carlo",
+  "type": "city",
+  "website": "https://www.montecarlosbm.com/en/hotel-monaco/hotel-paris-monte-carlo",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 43.73901,
+  "lng": 7.42747,
+  "coordsSource": "OpenStreetMap Nominatim: Hôtel de Paris (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 3,
+  "why": "Casino Square palace since 1864",
+  "pick": true
+ },
+ {
+  "id": "is-retreat",
+  "name": "The Retreat at Blue Lagoon Iceland",
+  "operator": "Blue Lagoon",
+  "region": "Europe",
+  "country": "Iceland",
+  "area": "Grindavik",
+  "type": "resort",
+  "website": "https://www.bluelagoon.com/retreat",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 63.87944,
+  "lng": -22.44996,
+  "coordsSource": "OpenStreetMap Nominatim: The Retreat at Blue Lagoon Iceland (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "16037026.0000",
+   "matchedName": "The Retreat At Blue Lagoon Iceland",
+   "rating": {
+    "value": 9.4,
+    "hotelStars": 5,
+    "count": 98
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": null,
+     "suppliers": null
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 1956,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 1956,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Lava-field spa hotel, 62 suites",
+  "pick": true
+ },
+ {
+  "id": "nl-amstel",
+  "name": "Amstel Hotel",
+  "operator": "InterContinental",
+  "region": "Europe",
+  "country": "Netherlands",
+  "area": "Amsterdam",
+  "type": "city",
+  "website": "https://amsterdam.intercontinental.com/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 52.36005,
+  "lng": 4.90522,
+  "coordsSource": "OpenStreetMap Nominatim: Amstel Hotel (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "32542972.0000",
+   "matchedName": "Intercontinental Amstel Amsterdam, An Ihg Hotel",
+   "rating": {
+    "value": 8.7,
+    "hotelStars": 5,
+    "count": 307
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 634,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 1315,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 974,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 1,
+  "why": "Amsterdam's riverside grande dame",
+  "pick": false
+ },
+ {
+  "id": "us-amannyc",
+  "name": "Aman New York",
+  "operator": "Aman",
+  "region": "North America",
+  "country": "United States",
+  "area": "New York",
+  "type": "city",
+  "website": "https://www.aman.com/hotels/aman-new-york",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": null,
+  "lng": null,
+  "coordsSource": null,
+  "coordsApprox": null,
+  "stay22": null,
+  "tier": 3,
+  "why": "Crown Building Fifth Avenue",
+  "pick": true
+ },
+ {
+  "id": "us-carlyle",
+  "name": "The Carlyle, A Rosewood Hotel",
+  "operator": "Rosewood",
+  "region": "North America",
+  "country": "United States",
+  "area": "New York",
+  "type": "city",
+  "website": "https://www.rosewoodhotels.com/en/the-carlyle-new-york",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 40.77438,
+  "lng": -73.96299,
+  "coordsSource": "OpenStreetMap Nominatim: The Carlyle (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "38952961.0000",
+   "matchedName": "The Carlyle, A Rosewood Hotel",
+   "rating": {
+    "value": 7.2,
+    "hotelStars": 5,
+    "count": 27
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 1571,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 1954,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 1762,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Upper East Side classic with Bemelmans Bar",
+  "pick": true
+ },
+ {
+  "id": "us-pierre",
+  "name": "The Pierre, A Taj Hotel",
+  "operator": "Taj",
+  "region": "North America",
+  "country": "United States",
+  "area": "New York",
+  "type": "city",
+  "website": "https://www.tajhotels.com/en-in/taj/the-pierre-new-york/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 40.76506,
+  "lng": -73.97162,
+  "coordsSource": "OpenStreetMap Nominatim: The Pierre (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39705025.0000",
+   "matchedName": "The Pierre, A Taj Hotel, New York",
+   "rating": {
+    "value": 8.5,
+    "hotelStars": 5,
+    "count": 842
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 1245,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 1135,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 1190,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Fifth Avenue facing Central Park",
+  "pick": true
+ },
+ {
+  "id": "us-bhh",
+  "name": "The Beverly Hills Hotel",
+  "operator": "Dorchester Collection",
+  "region": "North America",
+  "country": "United States",
+  "area": "Beverly Hills",
+  "type": "city",
+  "website": "https://www.dorchestercollection.com/en/los-angeles/the-beverly-hills-hotel/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 34.08171,
+  "lng": -118.4138,
+  "coordsSource": "OpenStreetMap Nominatim: The Beverly Hills Hotel (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39600805.0000",
+   "matchedName": "The Beverly Hills Hotel",
+   "rating": {
+    "value": 9.3,
+    "hotelStars": 5,
+    "count": 173
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 1284,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 1508,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 1396,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "The Pink Palace on Sunset",
+  "pick": true
+ },
+ {
+  "id": "us-belair",
+  "name": "Hotel Bel-Air",
+  "operator": "Dorchester Collection",
+  "region": "North America",
+  "country": "United States",
+  "area": "Los Angeles",
+  "type": "city",
+  "website": "https://www.dorchestercollection.com/en/los-angeles/hotel-bel-air/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 34.0865,
+  "lng": -118.44642,
+  "coordsSource": "OpenStreetMap Nominatim: Hotel Bel-Air (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39713990.0000",
+   "matchedName": "Hotel Bel-Air - Dorchester Collection",
+   "rating": {
+    "value": 9.6,
+    "hotelStars": 5,
+    "count": 57
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 1512,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 1530,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 1521,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Garden hideaway in Bel-Air",
+  "pick": true
+ },
+ {
+  "id": "us-amangiri",
+  "name": "Amangiri",
+  "operator": "Aman",
+  "region": "North America",
+  "country": "United States",
+  "area": "Canyon Point, Utah",
+  "type": "resort",
+  "website": "https://www.aman.com/resorts/amangiri",
+  "websiteStatus": "ok",
+  "rooms": 34,
+  "roomsSource": "official page: \"34 suites\"",
+  "lat": 37.01462,
+  "lng": -111.61114,
+  "coordsSource": "OpenStreetMap Nominatim: Amangiri (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 3,
+  "why": "Desert canyon icon",
+  "pick": true
+ },
+ {
+  "id": "us-amangani",
+  "name": "Amangani",
+  "operator": "Aman",
+  "region": "North America",
+  "country": "United States",
+  "area": "Jackson, Wyoming",
+  "type": "resort",
+  "website": "https://www.aman.com/resorts/amangani",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 43.50404,
+  "lng": -110.77431,
+  "coordsSource": "OpenStreetMap Nominatim: Amangani (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 1,
+  "why": "Grand Teton views",
+  "pick": false
+ },
+ {
+  "id": "us-postranch",
+  "name": "Post Ranch Inn",
+  "operator": "Post Ranch Inn",
+  "region": "North America",
+  "country": "United States",
+  "area": "Big Sur, California",
+  "type": "resort",
+  "website": "https://www.postranchinn.com/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 36.23025,
+  "lng": -121.77166,
+  "coordsSource": "OpenStreetMap Nominatim: 47900 (place/house)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Cliff-edge Big Sur cabins",
+  "pick": true
+ },
+ {
+  "id": "us-auberge",
+  "name": "Auberge du Soleil",
+  "operator": "Auberge Resorts",
+  "region": "North America",
+  "country": "United States",
+  "area": "Rutherford, Napa Valley",
+  "type": "resort",
+  "website": "https://aubergeresorts.com/aubergedusoleil/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 38.49351,
+  "lng": -122.40607,
+  "coordsSource": "OpenStreetMap Nominatim: Auberge du Soleil (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Napa Valley hillside inn",
+  "pick": false
+ },
+ {
+  "id": "us-blackberry",
+  "name": "Blackberry Farm",
+  "operator": "Blackberry Farm",
+  "region": "North America",
+  "country": "United States",
+  "area": "Walland, Tennessee",
+  "type": "resort",
+  "website": "https://www.blackberryfarm.com/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": null,
+  "lng": null,
+  "coordsSource": null,
+  "coordsApprox": null,
+  "stay22": null,
+  "tier": 2,
+  "why": "Smoky Mountains estate, all-inclusive",
+  "pick": false
+ },
+ {
+  "id": "us-breakers",
+  "name": "The Breakers Palm Beach",
+  "operator": "Flagler",
+  "region": "North America",
+  "country": "United States",
+  "area": "Palm Beach, Florida",
+  "type": "resort",
+  "website": "https://www.thebreakers.com/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 26.71493,
+  "lng": -80.03353,
+  "coordsSource": "OpenStreetMap Nominatim: The Breakers Palm Beach (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 1,
+  "why": "Gilded Age oceanfront palace",
+  "pick": false
+ },
+ {
+  "id": "us-twinfarms",
+  "name": "Twin Farms",
+  "operator": "Twin Farms",
+  "region": "North America",
+  "country": "United States",
+  "area": "Barnard, Vermont",
+  "type": "resort",
+  "website": "https://www.twinfarms.com/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 43.72485,
+  "lng": -72.58922,
+  "coordsSource": "OpenStreetMap Nominatim: Twin Farms (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "All-inclusive Vermont estate",
+  "pick": false
+ },
+ {
+  "id": "us-rockcreek",
+  "name": "The Ranch at Rock Creek",
+  "operator": "Ranch at Rock Creek",
+  "region": "North America",
+  "country": "United States",
+  "area": "Philipsburg, Montana",
+  "type": "resort",
+  "website": "https://www.theranchatrockcreek.com/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 46.25639,
+  "lng": -113.52244,
+  "coordsSource": "OpenStreetMap Nominatim: The Ranch at Rock Creek (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Montana luxury ranch",
+  "pick": false
+ },
+ {
+  "id": "us-dunton",
+  "name": "Dunton Hot Springs",
+  "operator": "Dunton",
+  "region": "North America",
+  "country": "United States",
+  "area": "Dolores, Colorado",
+  "type": "resort",
+  "website": "https://www.duntonhotsprings.com/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 37.7731,
+  "lng": -108.0942,
+  "coordsSource": "OpenStreetMap Nominatim: 52068 (place/house)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 1,
+  "why": "Ghost-town cabins with hot springs",
+  "pick": false
+ },
+ {
+  "id": "us-lanai",
+  "name": "Four Seasons Resort Lanai",
+  "operator": "Four Seasons",
+  "region": "North America",
+  "country": "United States",
+  "area": "Lanai, Hawaii",
+  "type": "island",
+  "website": "https://www.fourseasons.com/lanai/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 20.74157,
+  "lng": -156.89642,
+  "coordsSource": "OpenStreetMap Nominatim: Four Seasons Resort Lanai (leisure/resort)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "38982889.0000",
+   "matchedName": "Four Seasons Resort Lanai",
+   "rating": {
+    "value": 10,
+    "hotelStars": 5,
+    "count": 24
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": null,
+     "suppliers": null
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 1848,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 1848,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Hawaii's most private island resort",
+  "pick": true
+ },
+ {
+  "id": "us-kona",
+  "name": "Kona Village, A Rosewood Resort",
+  "operator": "Rosewood",
+  "region": "North America",
+  "country": "United States",
+  "area": "Kailua-Kona, Hawaii",
+  "type": "resort",
+  "website": "https://www.rosewoodhotels.com/en/kona-village",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 19.83214,
+  "lng": -155.98538,
+  "coordsSource": "OpenStreetMap Nominatim: Kona Village (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "41614359.0000",
+   "matchedName": "Kona Village A Rosewood Resort",
+   "rating": {
+    "value": 9.5,
+    "hotelStars": null,
+    "count": 25
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 5247,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 2481,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 3864,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Reimagined hale bungalows on the Big Island",
+  "pick": true
+ },
+ {
+  "id": "ca-clayoquot",
+  "name": "Clayoquot Wilderness Resort",
+  "operator": "Clayoquot",
+  "region": "North America",
+  "country": "Canada",
+  "area": "Tofino, British Columbia",
+  "type": "safari/wilderness",
+  "website": "https://www.wildretreat.com/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 49.36512,
+  "lng": -125.77811,
+  "coordsSource": "OpenStreetMap Nominatim: Clayoquat Wilderness Lodge (tourism/alpine_hut)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Tented wilderness retreat on Vancouver Island",
+  "pick": true
+ },
+ {
+  "id": "ca-wickaninnish",
+  "name": "Wickaninnish Inn",
+  "operator": "Wickaninnish",
+  "region": "North America",
+  "country": "Canada",
+  "area": "Tofino, British Columbia",
+  "type": "resort",
+  "website": "https://www.wickinn.com/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 49.12309,
+  "lng": -125.9014,
+  "coordsSource": "OpenStreetMap Nominatim: The Wickaninnish Inn (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 1,
+  "why": "Storm-watching cliff inn",
+  "pick": false
+ },
+ {
+  "id": "mx-ventanas",
+  "name": "Rosewood Las Ventanas al Paraíso",
+  "operator": "Rosewood",
+  "region": "Caribbean & Latin America",
+  "country": "Mexico",
+  "area": "Los Cabos",
+  "type": "resort",
+  "website": "https://www.rosewoodhotels.com/en/las-ventanas-al-paraiso",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 22.97753,
+  "lng": -109.76926,
+  "coordsSource": "OpenStreetMap Nominatim: Las Ventanas al Paraíso (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 3,
+  "why": "Los Cabos desert-sea icon",
+  "pick": true
+ },
+ {
+  "id": "mx-palmilla",
+  "name": "One&Only Palmilla",
+  "operator": "One&Only",
+  "region": "Caribbean & Latin America",
+  "country": "Mexico",
+  "area": "Los Cabos",
+  "type": "resort",
+  "website": "https://www.oneandonlyresorts.com/palmilla",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 23.00668,
+  "lng": -109.71403,
+  "coordsSource": "OpenStreetMap Nominatim: One & Only Palmilla Resort (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39647291.0000",
+   "matchedName": "One&Only Palmilla",
+   "rating": {
+    "value": 9.3,
+    "hotelStars": 5,
+    "count": 83
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 2898,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 2571,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 2734,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Original Los Cabos luxury resort",
+  "pick": true
+ },
+ {
+  "id": "mx-esperanza",
+  "name": "Esperanza, Auberge Resorts Collection",
+  "operator": "Auberge Resorts",
+  "region": "Caribbean & Latin America",
+  "country": "Mexico",
+  "area": "Cabo San Lucas",
+  "type": "resort",
+  "website": "https://aubergeresorts.com/esperanza/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 22.90208,
+  "lng": -109.85313,
+  "coordsSource": "OpenStreetMap Nominatim: Esperanza (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39710228.0000",
+   "matchedName": "Esperanza, Auberge Resorts Collection",
+   "rating": {
+    "value": null,
+    "hotelStars": 5,
+    "count": null
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 3139,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 2673,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 2906,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Cliff-top casitas above two coves",
+  "pick": true
+ },
+ {
+  "id": "mx-mayakoba",
+  "name": "Rosewood Mayakoba",
+  "operator": "Rosewood",
+  "region": "Caribbean & Latin America",
+  "country": "Mexico",
+  "area": "Playa del Carmen",
+  "type": "resort",
+  "website": "https://www.rosewoodhotels.com/en/mayakoba",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 20.69362,
+  "lng": -87.0264,
+  "coordsSource": "OpenStreetMap Nominatim: Rosewood Mayakoba (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Lagoon villas on the Riviera Maya",
+  "pick": false
+ },
+ {
+  "id": "mx-chable",
+  "name": "Chablé Resort & Spa",
+  "operator": "Chablé",
+  "region": "Caribbean & Latin America",
+  "country": "Mexico",
+  "area": "Chocholá, Yucatán",
+  "type": "resort",
+  "website": null,
+  "websiteStatus": "none",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 20.75642,
+  "lng": -89.86696,
+  "coordsSource": "OpenStreetMap Nominatim: Chablé Yucatán (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Converted hacienda in the Yucatan jungle",
+  "pick": false
+ },
+ {
+  "id": "mx-puntamita",
+  "name": "Four Seasons Resort Punta Mita",
+  "operator": "Four Seasons",
+  "region": "Caribbean & Latin America",
+  "country": "Mexico",
+  "area": "Punta Mita",
+  "type": "resort",
+  "website": "https://www.fourseasons.com/puntamita/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 20.78076,
+  "lng": -105.52916,
+  "coordsSource": "OpenStreetMap Nominatim: Four Seasons Resort Punta Mita (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "15436287.0000",
+   "matchedName": "Four Seasons Resort Punta Mita",
+   "rating": {
+    "value": 9.6,
+    "hotelStars": 5,
+    "count": 40
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 3218,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 1596,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 2407,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 1,
+  "why": "Pacific coast beach resort",
+  "pick": false
+ },
+ {
+  "id": "tc-amanyara",
+  "name": "Amanyara",
+  "operator": "Aman",
+  "region": "Caribbean & Latin America",
+  "country": "Turks and Caicos",
+  "area": "Providenciales",
+  "type": "resort",
+  "website": "https://www.aman.com/resorts/amanyara",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": null,
+  "lng": null,
+  "coordsSource": null,
+  "coordsApprox": null,
+  "stay22": null,
+  "tier": 2,
+  "why": "Marine park pavilions",
+  "pick": true
+ },
+ {
+  "id": "bl-cbstbarth",
+  "name": "Cheval Blanc St-Barth Isle de France",
+  "operator": "LVMH",
+  "region": "Caribbean & Latin America",
+  "country": "Saint Barthélemy",
+  "area": "Flamands",
+  "type": "resort",
+  "website": "https://www.chevalblanc.com/en/maison/st-barth/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 17.91914,
+  "lng": -62.85449,
+  "coordsSource": "OpenStreetMap Nominatim: Cheval Blanc St-Barth (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 3,
+  "why": "LVMH island maison on Flamands Beach",
+  "pick": true
+ },
+ {
+  "id": "bl-edenrock",
+  "name": "Eden Rock - St Barths",
+  "operator": "Oetker Collection",
+  "region": "Caribbean & Latin America",
+  "country": "Saint Barthélemy",
+  "area": "St Jean",
+  "type": "resort",
+  "website": "https://www.oetkercollection.com/hotels/eden-rock-st-barths/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 17.90329,
+  "lng": -62.83605,
+  "coordsSource": "OpenStreetMap Nominatim: Eden Rock (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Rock-top Oetker Collection icon",
+  "pick": false
+ },
+ {
+  "id": "bl-toiny",
+  "name": "Le Toiny",
+  "operator": "Le Toiny",
+  "region": "Caribbean & Latin America",
+  "country": "Saint Barthélemy",
+  "area": "Anse de Toiny",
+  "type": "resort",
+  "website": "https://www.letoiny.com/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 17.8997,
+  "lng": -62.79782,
+  "coordsSource": "OpenStreetMap Nominatim: Hôtel Le Toiny (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39649447.0000",
+   "matchedName": "Hotel Le Toiny",
+   "rating": {
+    "value": 9.7,
+    "hotelStars": 5,
+    "count": 21
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 3784,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 2330,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 3057,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Private-pool villas on the wild coast",
+  "pick": true
+ },
+ {
+  "id": "lc-jade",
+  "name": "Jade Mountain",
+  "operator": "Jade Mountain",
+  "region": "Caribbean & Latin America",
+  "country": "Saint Lucia",
+  "area": "Soufrière",
+  "type": "resort",
+  "website": "https://www.jademountain.com/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 13.86449,
+  "lng": -61.07562,
+  "coordsSource": "OpenStreetMap Nominatim: Jade Mountain Resort (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "38747430.0000",
+   "matchedName": "Jade Mountain Resort",
+   "rating": {
+    "value": 10,
+    "hotelStars": 5,
+    "count": 11
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 4650,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 2646,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 3648,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Open-wall sanctuaries facing the Pitons",
+  "pick": true
+ },
+ {
+  "id": "bb-sandylane",
+  "name": "Sandy Lane",
+  "operator": "Sandy Lane",
+  "region": "Caribbean & Latin America",
+  "country": "Barbados",
+  "area": "St. James",
+  "type": "resort",
+  "website": "https://www.sandylane.com/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 13.16947,
+  "lng": -59.63767,
+  "coordsSource": "OpenStreetMap Nominatim: Sandy Lane Hotel (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 3,
+  "why": "Barbados' platinum coast icon",
+  "pick": true
+ },
+ {
+  "id": "vg-littledix",
+  "name": "Rosewood Little Dix Bay",
+  "operator": "Rosewood",
+  "region": "Caribbean & Latin America",
+  "country": "British Virgin Islands",
+  "area": "Virgin Gorda",
+  "type": "resort",
+  "website": "https://www.rosewoodhotels.com/en/little-dix-bay",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 18.45933,
+  "lng": -64.43318,
+  "coordsSource": "OpenStreetMap Nominatim: Little Dix Bay Resort (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "15442481.0000",
+   "matchedName": "Rosewood Little Dix Bay",
+   "rating": {
+    "value": 8.4,
+    "hotelStars": 5,
+    "count": 5
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": null,
+     "suppliers": null
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 3664,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 3664,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Rockefeller-era crescent beach resort",
+  "pick": true
+ },
+ {
+  "id": "vg-necker",
+  "name": "Necker Island",
+  "operator": "Virgin Limited Edition",
+  "region": "Caribbean & Latin America",
+  "country": "British Virgin Islands",
+  "area": "Necker Island",
+  "type": "island",
+  "website": "https://www.virginlimitedition.com/en/necker-island",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 18.5266,
+  "lng": -64.35836,
+  "coordsSource": "OpenStreetMap Nominatim: Necker Island (place/island)",
+  "coordsApprox": true,
+  "stay22": null,
+  "tier": 2,
+  "why": "Branson's private island",
+  "pick": true
+ },
+ {
+  "id": "tc-parrotcay",
+  "name": "COMO Parrot Cay",
+  "operator": "COMO",
+  "region": "Caribbean & Latin America",
+  "country": "Turks and Caicos",
+  "area": "Parrot Cay",
+  "type": "island",
+  "website": "https://www.comohotels.com/parrotcay",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 21.92067,
+  "lng": -72.06104,
+  "coordsSource": "OpenStreetMap Nominatim: Parrot Cay (place/island)",
+  "coordsApprox": true,
+  "stay22": null,
+  "tier": 2,
+  "why": "Private-island resort and spa",
+  "pick": false
+ },
+ {
+  "id": "jm-goldeneye",
+  "name": "GoldenEye",
+  "operator": "Island Outpost",
+  "region": "Caribbean & Latin America",
+  "country": "Jamaica",
+  "area": "Oracabessa",
+  "type": "resort",
+  "website": "https://www.goldeneye.com/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 18.41068,
+  "lng": -76.94446,
+  "coordsSource": "OpenStreetMap Nominatim: Goldeneye Hotel (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39658335.0000",
+   "matchedName": "Goldeneye",
+   "rating": {
+    "value": 8.4,
+    "hotelStars": 5,
+    "count": 61
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": null,
+     "suppliers": null
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 928,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 928,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 1,
+  "why": "Ian Fleming's estate turned retreat",
+  "pick": false
+ },
+ {
+  "id": "br-tangara",
+  "name": "Palácio Tangará",
+  "operator": "Oetker Collection",
+  "region": "Caribbean & Latin America",
+  "country": "Brazil",
+  "area": "São Paulo",
+  "type": "city",
+  "website": "https://www.oetkercollection.com/hotels/palacio-tangara/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": -23.63181,
+  "lng": -46.72257,
+  "coordsSource": "OpenStreetMap Nominatim: Palácio Tangará (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39592648.0000",
+   "matchedName": "Palácio Tangará - An Oetker Collection Hotel",
+   "rating": {
+    "value": 9.5,
+    "hotelStars": 5,
+    "count": 607
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": null,
+     "suppliers": null
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 763,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 763,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Oetker palace inside Burle Marx park",
+  "pick": false
+ },
+ {
+  "id": "pe-sanctuary",
+  "name": "Belmond Sanctuary Lodge",
+  "operator": "Belmond",
+  "region": "Caribbean & Latin America",
+  "country": "Peru",
+  "area": "Machu Picchu",
+  "type": "resort",
+  "website": "https://www.belmond.com/hotels/south-america/peru/machu-picchu/belmond-sanctuary-lodge/",
+  "websiteStatus": "ok",
+  "rooms": 31,
+  "roomsSource": "official page: \"31 rooms and suites\"",
+  "lat": -13.16609,
+  "lng": -72.54295,
+  "coordsSource": "OpenStreetMap Nominatim: Belmond Sanctuary Lodge (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "38860591.0000",
+   "matchedName": "Sanctuary Lodge, A Belmond Hotel, Machu Picchu",
+   "rating": {
+    "value": 9.3,
+    "hotelStars": 5,
+    "count": 113
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": null,
+     "suppliers": null
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 2389,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 2389,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "The only hotel at the Machu Picchu gate",
+  "pick": true
+ },
+ {
+  "id": "cl-awasi",
+  "name": "Awasi Patagonia",
+  "operator": "Awasi",
+  "region": "Caribbean & Latin America",
+  "country": "Chile",
+  "area": "Torres del Paine",
+  "type": "safari/wilderness",
+  "website": "https://www.awasi.com/patagonia",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": -50.91131,
+  "lng": -72.63894,
+  "coordsSource": "OpenStreetMap Nominatim: Awasi Patagonia (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "21214270.0000",
+   "matchedName": "Awasi Patagonia",
+   "rating": {
+    "value": null,
+    "hotelStars": 5,
+    "count": null
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": null,
+     "suppliers": null
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 3950,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 3950,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Private-guide lodge in Torres del Paine",
+  "pick": true
+ },
+ {
+  "id": "ar-alvear",
+  "name": "Alvear Palace Hotel",
+  "operator": "Alvear",
+  "region": "Caribbean & Latin America",
+  "country": "Argentina",
+  "area": "Buenos Aires",
+  "type": "city",
+  "website": "https://www.alvearpalace.com/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": -34.58775,
+  "lng": -58.38874,
+  "coordsSource": "OpenStreetMap Nominatim: Alvear Palace Hotel (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39661087.0000",
+   "matchedName": "Alvear Palace Hotel - Leading Hotels of the World",
+   "rating": {
+    "value": 9.2,
+    "hotelStars": 5,
+    "count": 903
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 853,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 507,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 680,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 1,
+  "why": "Recoleta grand hotel since 1932",
+  "pick": false
+ },
+ {
+  "id": "ae-burj",
+  "name": "Burj Al Arab Jumeirah",
+  "operator": "Jumeirah",
+  "region": "Middle East",
+  "country": "United Arab Emirates",
+  "area": "Dubai",
+  "type": "city",
+  "website": "https://www.jumeirah.com/en/stay/dubai/burj-al-arab-jumeirah",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 25.14133,
+  "lng": 55.1854,
+  "coordsSource": "OpenStreetMap Nominatim: برج العرب جميرا (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 3,
+  "why": "The world's most recognisable hotel",
+  "pick": true
+ },
+ {
+  "id": "ae-emiratespalace",
+  "name": "Emirates Palace Mandarin Oriental",
+  "operator": "Mandarin Oriental",
+  "region": "Middle East",
+  "country": "United Arab Emirates",
+  "area": "Abu Dhabi",
+  "type": "city",
+  "website": "https://www.mandarinoriental.com/en/abu-dhabi/emirates-palace",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 24.46239,
+  "lng": 54.31747,
+  "coordsSource": "OpenStreetMap Nominatim: قصر الإمارات (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "40011704.0000",
+   "matchedName": "Emirates Palace Mandarin Oriental, Abu Dhabi",
+   "rating": {
+    "value": 9,
+    "hotelStars": 5,
+    "count": 1152
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 889,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 1077,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 983,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Palace-scale beachfront landmark",
+  "pick": false
+ },
+ {
+  "id": "ae-bulgaridubai",
+  "name": "Bulgari Resort Dubai",
+  "operator": "Bulgari",
+  "region": "Middle East",
+  "country": "United Arab Emirates",
+  "area": "Jumeira Bay, Dubai",
+  "type": "resort",
+  "website": "https://www.bulgarihotels.com/en_US/dubai",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 25.21104,
+  "lng": 55.23467,
+  "coordsSource": "OpenStreetMap Nominatim: Bulgari Hotel Dubai (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39639947.0000",
+   "matchedName": "Bulgari Resort Dubai",
+   "rating": {
+    "value": 9.5,
+    "hotelStars": 5,
+    "count": 399
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 2407,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 1506,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 1956,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Seahorse-shaped island resort",
+  "pick": true
+ },
+ {
+  "id": "ae-almaha",
+  "name": "Al Maha, a Luxury Collection Desert Resort & Spa",
+  "operator": "Marriott",
+  "region": "Middle East",
+  "country": "United Arab Emirates",
+  "area": "Dubai Desert Conservation Reserve",
+  "type": "safari/wilderness",
+  "website": "https://www.marriott.com/en-us/hotels/dxbal-al-maha-a-luxury-collection-desert-resort-and-spa-dubai/overview/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": null,
+  "lng": null,
+  "coordsSource": null,
+  "coordsApprox": null,
+  "stay22": null,
+  "tier": 2,
+  "why": "Private-pool desert tents in a conservation reserve",
+  "pick": true
+ },
+ {
+  "id": "ae-atlantisroyal",
+  "name": "Atlantis The Royal",
+  "operator": "Kerzner",
+  "region": "Middle East",
+  "country": "United Arab Emirates",
+  "area": "Palm Jumeirah, Dubai",
+  "type": "resort",
+  "website": "https://www.atlantis.com/dubai/atlantis-the-royal",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 25.13784,
+  "lng": 55.12734,
+  "coordsSource": "OpenStreetMap Nominatim: Atlantis The Royal (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39967109.0000",
+   "matchedName": "Atlantis The Royal",
+   "rating": {
+    "value": 9.2,
+    "hotelStars": 5,
+    "count": 5631
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 1395,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 1385,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 1390,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Opened 2023, sky pools and celebrity-chef dining Cut 8 Nov 2026: big and showy rather than quiet luxury.",
+  "pick": false
+ },
+ {
+  "id": "ae-qasr",
+  "name": "Qasr Al Sarab Desert Resort by Anantara",
+  "operator": "Anantara",
+  "region": "Middle East",
+  "country": "United Arab Emirates",
+  "area": "Liwa Desert",
+  "type": "safari/wilderness",
+  "website": "https://www.anantara.com/en/qasr-al-sarab-abu-dhabi",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 22.90035,
+  "lng": 54.33633,
+  "coordsSource": "OpenStreetMap Nominatim: Qasr Al Sarab (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "b65570aa93199aa7ef8011af07af3ccf.0000",
+   "matchedName": "Anantara Qasr al Sarab Desert Resort",
+   "rating": {
+    "value": 9.6,
+    "hotelStars": 5,
+    "count": 490
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 850,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 695,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 772,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 1,
+  "why": "Fort-style resort in the Empty Quarter",
+  "pick": false
+ },
+ {
+  "id": "om-zighy",
+  "name": "Six Senses Zighy Bay",
+  "operator": "Six Senses",
+  "region": "Middle East",
+  "country": "Oman",
+  "area": "Musandam",
+  "type": "resort",
+  "website": "https://www.sixsenses.com/en/resorts/zighy-bay",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 25.71002,
+  "lng": 56.27265,
+  "coordsSource": "OpenStreetMap Nominatim: Six Senses Zighy Bay (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Private-pool villas on a remote Omani cove",
+  "pick": true
+ },
+ {
+  "id": "il-kingdavid",
+  "name": "King David Jerusalem",
+  "operator": "Dan Hotels",
+  "region": "Middle East",
+  "country": "Israel",
+  "area": "Jerusalem",
+  "type": "city",
+  "website": null,
+  "websiteStatus": "none",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 31.77435,
+  "lng": 35.22252,
+  "coordsSource": "OpenStreetMap Nominatim: מלון המלך דוד (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39764083.0000",
+   "matchedName": "King David Jerusalem",
+   "rating": {
+    "value": 8.9,
+    "hotelStars": 5,
+    "count": 240
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 744,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 767,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 756,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 1,
+  "why": "Historic Jerusalem hotel since 1931",
+  "pick": false
+ },
+ {
+  "id": "qa-mo-doha",
+  "name": "Mandarin Oriental, Doha",
+  "operator": "Mandarin Oriental",
+  "region": "Middle East",
+  "country": "Qatar",
+  "area": "Doha",
+  "type": "city",
+  "website": "https://www.mandarinoriental.com/en/doha",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 25.28621,
+  "lng": 51.52583,
+  "coordsSource": "OpenStreetMap Nominatim: Mandarin Oriental (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "15579053.0000",
+   "matchedName": "Mandarin Oriental, Doha",
+   "rating": {
+    "value": 9.3,
+    "hotelStars": 5,
+    "count": 1598
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 294,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 263,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 278,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 1,
+  "why": "Msheireb downtown flagship",
+  "pick": false
+ },
+ {
+  "id": "ma-mamounia",
+  "name": "La Mamounia",
+  "operator": "Mamounia",
+  "region": "Africa",
+  "country": "Morocco",
+  "area": "Marrakech",
+  "type": "city",
+  "website": "https://www.mamounia.com/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 31.62138,
+  "lng": -7.99744,
+  "coordsSource": "OpenStreetMap Nominatim: La Mamounia (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 3,
+  "why": "Marrakech palace in a 1923 Art Deco setting",
+  "pick": true
+ },
+ {
+  "id": "ma-royalmansour",
+  "name": "Royal Mansour Marrakech",
+  "operator": "Royal Mansour",
+  "region": "Africa",
+  "country": "Morocco",
+  "area": "Marrakech",
+  "type": "city",
+  "website": "https://www.royalmansour.com/",
+  "websiteStatus": "ok",
+  "rooms": 55,
+  "roomsSource": "official page: \"55 villas and suites\"",
+  "lat": 31.62527,
+  "lng": -7.9983,
+  "coordsSource": "OpenStreetMap Nominatim: Royal Mansour Marrakech (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39665375.0000",
+   "matchedName": "Royal Mansour Marrakech",
+   "rating": {
+    "value": 9.4,
+    "hotelStars": 5,
+    "count": 79
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 3085,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 3126,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 3106,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 3,
+  "why": "Royal-commissioned riads with private staff",
+  "pick": true
+ },
+ {
+  "id": "ma-amanjena",
+  "name": "Amanjena",
+  "operator": "Aman",
+  "region": "Africa",
+  "country": "Morocco",
+  "area": "Marrakech",
+  "type": "resort",
+  "website": "https://www.aman.com/resorts/amanjena",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 31.60912,
+  "lng": -7.93295,
+  "coordsSource": "OpenStreetMap Nominatim: Amanjena (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39774693.0000",
+   "matchedName": "Amanjena Resort",
+   "rating": {
+    "value": 9.7,
+    "hotelStars": 5,
+    "count": 43
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 2285,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 2307,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 2296,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Pavilions in a Moroccan palm grove",
+  "pick": true
+ },
+ {
+  "id": "tz-sasakwa",
+  "name": "Singita Sasakwa Lodge",
+  "operator": "Singita",
+  "region": "Africa",
+  "country": "Tanzania",
+  "area": "Grumeti Reserve",
+  "type": "safari/wilderness",
+  "website": "https://singita.com/lodge/singita-sasakwa-lodge/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": null,
+  "lng": null,
+  "coordsSource": null,
+  "coordsApprox": null,
+  "stay22": null,
+  "tier": 3,
+  "why": "Edwardian-style lodge in Serengeti's Grumeti Reserve",
+  "pick": true
+ },
+ {
+  "id": "tz-sabora",
+  "name": "Singita Sabora Tented Camp",
+  "operator": "Singita",
+  "region": "Africa",
+  "country": "Tanzania",
+  "area": "Grumeti Reserve",
+  "type": "safari/wilderness",
+  "website": "https://singita.com/lodge/singita-sabora-tented-camp/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": null,
+  "lng": null,
+  "coordsSource": null,
+  "coordsApprox": null,
+  "stay22": null,
+  "tier": 2,
+  "why": "Safari tents on the Great Migration route",
+  "pick": true
+ },
+ {
+  "id": "za-ebony",
+  "name": "Singita Ebony Lodge",
+  "operator": "Singita",
+  "region": "Africa",
+  "country": "South Africa",
+  "area": "Sabi Sand Reserve",
+  "type": "safari/wilderness",
+  "website": "https://singita.com/lodge/singita-ebony-lodge/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": null,
+  "lng": null,
+  "coordsSource": null,
+  "coordsApprox": null,
+  "stay22": null,
+  "tier": 3,
+  "why": "Kruger-adjacent leopard country",
+  "pick": true
+ },
+ {
+  "id": "za-lebombo",
+  "name": "Singita Lebombo Lodge",
+  "operator": "Singita",
+  "region": "Africa",
+  "country": "South Africa",
+  "area": "Kruger National Park",
+  "type": "safari/wilderness",
+  "website": "https://singita.com/lodge/singita-lebombo-lodge/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": null,
+  "lng": null,
+  "coordsSource": null,
+  "coordsApprox": null,
+  "stay22": null,
+  "tier": 2,
+  "why": "Glass and steel cantilevered over the Nwanetsi River",
+  "pick": true
+ },
+ {
+  "id": "za-londolozi",
+  "name": "Londolozi Private Game Reserve",
+  "operator": "Londolozi",
+  "region": "Africa",
+  "country": "South Africa",
+  "area": "Sabi Sand Reserve",
+  "type": "safari/wilderness",
+  "website": "https://www.londolozi.com/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": null,
+  "lng": null,
+  "coordsSource": null,
+  "coordsApprox": null,
+  "stay22": null,
+  "tier": 3,
+  "why": "Fourth-generation Varty family leopard-viewing reserve",
+  "pick": true
+ },
+ {
+  "id": "za-malewane",
+  "name": "Royal Malewane",
+  "operator": "Royal Portfolio",
+  "region": "Africa",
+  "country": "South Africa",
+  "area": "Thornybush Reserve",
+  "type": "safari/wilderness",
+  "website": "https://www.royalmalewane.com/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": -24.51784,
+  "lng": 31.16424,
+  "coordsSource": "OpenStreetMap Nominatim: Royal Malewane (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "16138316.0000",
+   "matchedName": "Royal Malewane",
+   "rating": {
+    "value": 10,
+    "hotelStars": null,
+    "count": 4
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 8420,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 7276,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 7848,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Colonial-style lodge with a private pool per suite",
+  "pick": true
+ },
+ {
+  "id": "za-ulusaba",
+  "name": "Ulusaba Private Game Reserve",
+  "operator": "Virgin Limited Edition",
+  "region": "Africa",
+  "country": "South Africa",
+  "area": "Sabi Sand Reserve",
+  "type": "safari/wilderness",
+  "website": "https://www.virginlimitedition.com/en/ulusaba",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": -24.79601,
+  "lng": 31.34643,
+  "coordsSource": "OpenStreetMap Nominatim: Ulusaba Rock Lodge (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 1,
+  "why": "Rock Lodge on a granite koppie",
+  "pick": false
+ },
+ {
+  "id": "za-phinda",
+  "name": "&Beyond Phinda Private Game Reserve",
+  "operator": "&Beyond",
+  "region": "Africa",
+  "country": "South Africa",
+  "area": "KwaZulu-Natal",
+  "type": "safari/wilderness",
+  "website": "https://www.andbeyond.com/our-lodges/africa/south-africa/kwazulu-natal/andbeyond-phinda-mountain-lodge/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": -27.88357,
+  "lng": 32.28302,
+  "coordsSource": "OpenStreetMap Nominatim: Mountain Lodge - Phinda (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Seven distinct habitats and Big Five tracking",
+  "pick": true
+ },
+ {
+  "id": "za-ellerman",
+  "name": "Ellerman House",
+  "operator": "Ellerman",
+  "region": "Africa",
+  "country": "South Africa",
+  "area": "Cape Town",
+  "type": "city",
+  "website": "https://www.ellerman.co.za/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": -33.92907,
+  "lng": 18.37746,
+  "coordsSource": "OpenStreetMap Nominatim: 180 (building/yes)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39662694.0000",
+   "matchedName": "Ellerman House",
+   "rating": {
+    "value": 9.7,
+    "hotelStars": 5,
+    "count": 35
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 15418,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": null,
+     "suppliers": null
+    }
+   },
+   "typicalPerNightUSD": 15418,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027",
+   "flag": "15,418 USD/night looks like a whole-property or top-suite rate in the d45 sample; re-check before publishing"
+  },
+  "tier": 2,
+  "why": "Bantry Bay villa with a major private art collection",
+  "pick": true
+ },
+ {
+  "id": "za-mountnelson",
+  "name": "Belmond Mount Nelson Hotel",
+  "operator": "Belmond",
+  "region": "Africa",
+  "country": "South Africa",
+  "area": "Cape Town",
+  "type": "city",
+  "website": "https://www.belmond.com/hotels/africa/south-africa/cape-town/belmond-mount-nelson-hotel/",
+  "websiteStatus": "ok",
+  "rooms": 196,
+  "roomsSource": "official page: \"196 rooms and suites\"",
+  "lat": -33.93182,
+  "lng": 18.41139,
+  "coordsSource": "OpenStreetMap Nominatim: Mount Nelson Hotel (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "38396272.0000",
+   "matchedName": "Mount Nelson, A Belmond Hotel, Cape Town",
+   "rating": {
+    "value": 9.7,
+    "hotelStars": 5,
+    "count": 185
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 2702,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 1410,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 2056,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 1,
+  "why": "The Pink Lady since 1899",
+  "pick": false
+ },
+ {
+  "id": "za-silo",
+  "name": "The Silo Hotel",
+  "operator": "Royal Portfolio",
+  "region": "Africa",
+  "country": "South Africa",
+  "area": "Cape Town",
+  "type": "city",
+  "website": "https://www.theroyalportfolio.com/the-silo-hotel/",
+  "websiteStatus": "ok",
+  "rooms": 28,
+  "roomsSource": "official page: \"28 rooms and suites\"",
+  "lat": -33.90825,
+  "lng": 18.42226,
+  "coordsSource": "OpenStreetMap Nominatim: Table Mountain Yellow Frame (Silo District) (tourism/attraction)",
+  "coordsApprox": true,
+  "stay22": {
+   "stay22Id": "15286808.0000",
+   "matchedName": "The Silo Hotel",
+   "rating": {
+    "value": 8.8,
+    "hotelStars": 5,
+    "count": 78
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": null,
+     "suppliers": null
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 2244,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 2244,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Grain silo conversion above the Zeitz MOCAA",
+  "pick": true
+ },
+ {
+  "id": "bw-sandibe",
+  "name": "&Beyond Sandibe Okavango Safari Lodge",
+  "operator": "&Beyond",
+  "region": "Africa",
+  "country": "Botswana",
+  "area": "Okavango Delta",
+  "type": "safari/wilderness",
+  "website": "https://www.andbeyond.com/our-lodges/africa/botswana/okavango-delta/andbeyond-sandibe-okavango-safari-lodge/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": -19.45257,
+  "lng": 23.30249,
+  "coordsSource": "OpenStreetMap Nominatim: Sandibe (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Delta suites with plunge pools",
+  "pick": true
+ },
+ {
+  "id": "bw-mombo",
+  "name": "Mombo Camp",
+  "operator": "Wilderness",
+  "region": "Africa",
+  "country": "Botswana",
+  "area": "Moremi Game Reserve",
+  "type": "safari/wilderness",
+  "website": "https://www.wildernessdestinations.com/africa/botswana/okavango-delta/mombo-camp",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": -19.22222,
+  "lng": 22.77769,
+  "coordsSource": "OpenStreetMap Nominatim: Mombo Camp (tourism/Luxury Lodge)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 3,
+  "why": "Predator-rich Chief's Island, Africa's most famed camp",
+  "pick": true
+ },
+ {
+  "id": "ke-giraffe",
+  "name": "Giraffe Manor",
+  "operator": "The Safari Collection",
+  "region": "Africa",
+  "country": "Kenya",
+  "area": "Nairobi",
+  "type": "resort",
+  "website": "https://www.thesafaricollection.com/giraffe-manor",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": -1.37539,
+  "lng": 36.74452,
+  "coordsSource": "OpenStreetMap Nominatim: Giraffe Manor (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Breakfast with Rothschild giraffes",
+  "pick": false
+ },
+ {
+  "id": "ke-segera",
+  "name": "Segera Retreat",
+  "operator": "Segera",
+  "region": "Africa",
+  "country": "Kenya",
+  "area": "Laikipia",
+  "type": "safari/wilderness",
+  "website": "https://www.segera.com/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 0.24948,
+  "lng": 36.80929,
+  "coordsSource": "OpenStreetMap Nominatim: Segera Retreat (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Art-filled villas on a 50,000-acre conservancy",
+  "pick": false
+ },
+ {
+  "id": "ke-cottars",
+  "name": "Cottar's 1920s Safari Camp",
+  "operator": "Cottar family",
+  "region": "Africa",
+  "country": "Kenya",
+  "area": "Masai Mara",
+  "type": "safari/wilderness",
+  "website": "https://www.cottars.com/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": null,
+  "lng": null,
+  "coordsSource": null,
+  "coordsApprox": null,
+  "stay22": null,
+  "tier": 2,
+  "why": "Fifth-generation family camp with vintage tents",
+  "pick": false
+ },
+ {
+  "id": "ke-olDonyo",
+  "name": "Ol Donyo Lodge",
+  "operator": "Great Plains",
+  "region": "Africa",
+  "country": "Kenya",
+  "area": "Chyulu Hills",
+  "type": "safari/wilderness",
+  "website": "https://www.greatplains.com/ol-donyo-lodge",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": -2.50213,
+  "lng": 37.75358,
+  "coordsSource": "OpenStreetMap Nominatim: Ol Donyo Lodge (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Elephant and Kilimanjaro views with star beds",
+  "pick": false
+ },
+ {
+  "id": "rw-gorillas",
+  "name": "One&Only Gorilla's Nest",
+  "operator": "One&Only",
+  "region": "Africa",
+  "country": "Rwanda",
+  "area": "Volcanoes National Park",
+  "type": "safari/wilderness",
+  "website": "https://www.oneandonlyresorts.com/gorillas-nest",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": null,
+  "lng": null,
+  "coordsSource": null,
+  "coordsApprox": null,
+  "stay22": null,
+  "tier": 2,
+  "why": "Gorilla trekking base with private villas",
+  "pick": false
+ },
+ {
+  "id": "rw-bisate",
+  "name": "Bisate Lodge",
+  "operator": "Wilderness",
+  "region": "Africa",
+  "country": "Rwanda",
+  "area": "Volcanoes National Park",
+  "type": "safari/wilderness",
+  "website": "https://www.wildernessdestinations.com/africa/rwanda/volcanoes-national-park/bisate-lodge",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": -1.4441,
+  "lng": 29.52579,
+  "coordsSource": "OpenStreetMap Nominatim: Wilderness Bisate (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Woven thatch domes under the volcanoes",
+  "pick": false
+ },
+ {
+  "id": "na-sossusvlei",
+  "name": "&Beyond Sossusvlei Desert Lodge",
+  "operator": "&Beyond",
+  "region": "Africa",
+  "country": "Namibia",
+  "area": "Namib Desert",
+  "type": "safari/wilderness",
+  "website": "https://www.andbeyond.com/our-lodges/africa/namibia/namib-desert/andbeyond-sossusvlei-desert-lodge/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": -24.77954,
+  "lng": 15.88854,
+  "coordsSource": "OpenStreetMap Nominatim: AndBeyond Sossusvlei Desert Lodge (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 1,
+  "why": "Dune-edge suites with a telescope",
+  "pick": false
+ },
+ {
+  "id": "mu-saintgeran",
+  "name": "One&Only Le Saint Géran",
+  "operator": "One&Only",
+  "region": "Indian Ocean",
+  "country": "Mauritius",
+  "area": "Belle Mare",
+  "type": "resort",
+  "website": "https://www.oneandonlyresorts.com/le-saint-geran",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": -20.16089,
+  "lng": 57.75742,
+  "coordsSource": "OpenStreetMap Nominatim: Saint Geran (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39660409.0000",
+   "matchedName": "One&Only Le Saint Géran, Mauritius",
+   "rating": {
+    "value": 9.2,
+    "hotelStars": 5,
+    "count": 374
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": null,
+     "suppliers": null
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 1768,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 1768,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Mauritius' original luxury resort, 1975",
+  "pick": false
+ },
+ {
+  "id": "mu-royalpalm",
+  "name": "Royal Palm Beachcomber Luxury",
+  "operator": "Beachcomber",
+  "region": "Indian Ocean",
+  "country": "Mauritius",
+  "area": "Grand Baie",
+  "type": "resort",
+  "website": "https://www.beachcomber-hotels.com/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": -20.00639,
+  "lng": 57.5791,
+  "coordsSource": "OpenStreetMap Nominatim: Hotel Royal Palm (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39751335.0000",
+   "matchedName": "Royal Palm Beachcomber Luxury",
+   "rating": {
+    "value": 9.7,
+    "hotelStars": 5,
+    "count": 180
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 2329,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 1407,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 1868,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 1,
+  "why": "Mauritius' grande dame",
+  "pick": false
+ },
+ {
+  "id": "mv-sonevafushi",
+  "name": "Soneva Fushi",
+  "operator": "Soneva",
+  "region": "Indian Ocean",
+  "country": "Maldives",
+  "area": "Baa Atoll",
+  "type": "island",
+  "website": "https://soneva.com/soneva-fushi/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 5.11259,
+  "lng": 73.07714,
+  "coordsSource": "OpenStreetMap Nominatim: Kunfunadhoo (place/islet)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39690737.0000",
+   "matchedName": "Soneva Fushi",
+   "rating": {
+    "value": 9.8,
+    "hotelStars": 5,
+    "count": 4
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": null,
+     "suppliers": null
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 3375,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 3375,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 3,
+  "why": "Barefoot-luxury pioneer on a UNESCO biosphere atoll",
+  "pick": true
+ },
+ {
+  "id": "mv-sonevajani",
+  "name": "Soneva Jani",
+  "operator": "Soneva",
+  "region": "Indian Ocean",
+  "country": "Maldives",
+  "area": "Noonu Atoll",
+  "type": "island",
+  "website": "https://soneva.com/soneva-jani/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 5.7216,
+  "lng": 73.41469,
+  "coordsSource": "OpenStreetMap Nominatim: Soneva Jani (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "15797860.0000",
+   "matchedName": "Soneva Jani",
+   "rating": {
+    "value": 8.4,
+    "hotelStars": 5,
+    "count": 15
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": null,
+     "suppliers": null
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 3136,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 3136,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 3,
+  "why": "Overwater villas with retractable roofs and slides",
+  "pick": true
+ },
+ {
+  "id": "mv-randheli",
+  "name": "Cheval Blanc Randheli",
+  "operator": "LVMH",
+  "region": "Indian Ocean",
+  "country": "Maldives",
+  "area": "Noonu Atoll",
+  "type": "island",
+  "website": "https://www.chevalblanc.com/en/maison/randheli/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 5.69196,
+  "lng": 73.34099,
+  "coordsSource": "OpenStreetMap Nominatim: Randheli (place/islet)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "15362359.0000",
+   "matchedName": "Cheval Blanc Randheli, Maldives",
+   "rating": {
+    "value": 7.8,
+    "hotelStars": 5,
+    "count": 4
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": null,
+     "suppliers": null
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 7598,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 7598,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 3,
+  "why": "LVMH private-island maison",
+  "pick": true
+ },
+ {
+  "id": "mv-reethirah",
+  "name": "One&Only Reethi Rah",
+  "operator": "One&Only",
+  "region": "Indian Ocean",
+  "country": "Maldives",
+  "area": "North Malé Atoll",
+  "type": "island",
+  "website": "https://www.oneandonlyresorts.com/reethi-rah",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 4.51451,
+  "lng": 73.3703,
+  "coordsSource": "OpenStreetMap Nominatim: Reethi Rah (place/island)",
+  "coordsApprox": true,
+  "stay22": {
+   "stay22Id": "39683976.0000",
+   "matchedName": "One&Only Reethi Rah",
+   "rating": {
+    "value": 9.5,
+    "hotelStars": 5,
+    "count": 75
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": null,
+     "suppliers": null
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 4310,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 4310,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Large-villa island with 12 beaches",
+  "pick": true
+ },
+ {
+  "id": "mv-velaa",
+  "name": "Velaa Private Island",
+  "operator": "Velaa",
+  "region": "Indian Ocean",
+  "country": "Maldives",
+  "area": "Noonu Atoll",
+  "type": "island",
+  "website": "https://www.velaaprivateisland.com/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 5.83114,
+  "lng": 73.2094,
+  "coordsSource": "OpenStreetMap Nominatim: Fushivelavaru (place/islet)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 3,
+  "why": "Private island with golf academy and Michelin chefs",
+  "pick": true
+ },
+ {
+  "id": "mv-waldorf",
+  "name": "Waldorf Astoria Maldives Ithaafushi",
+  "operator": "Hilton",
+  "region": "Indian Ocean",
+  "country": "Maldives",
+  "area": "South Malé Atoll",
+  "type": "island",
+  "website": "https://www.hilton.com/en/hotels/mleiwwa-waldorf-astoria-maldives-ithaafushi/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 4.01486,
+  "lng": 73.38376,
+  "coordsSource": "OpenStreetMap Nominatim: Waldorf Astoria Maldives Ithaafushi (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "15544191.0000",
+   "matchedName": "Waldorf Astoria Maldives Ithaafushi",
+   "rating": {
+    "value": 9.5,
+    "hotelStars": 5,
+    "count": 42
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 8840,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 4207,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 6524,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Two-island resort with a mirrored overwater villa",
+  "pick": true
+ },
+ {
+  "id": "mv-gili",
+  "name": "Gili Lankanfushi",
+  "operator": "Gili",
+  "region": "Indian Ocean",
+  "country": "Maldives",
+  "area": "North Malé Atoll",
+  "type": "island",
+  "website": "https://www.gili-lankanfushi.com/",
+  "websiteStatus": "ok",
+  "rooms": 45,
+  "roomsSource": "official page: \"45 villas and residences\"",
+  "lat": 4.29517,
+  "lng": 73.55839,
+  "coordsSource": "OpenStreetMap Nominatim: Lankanfushi (place/islet)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39757491.0000",
+   "matchedName": "Gili Lankanfushi Maldives",
+   "rating": {
+    "value": 9.6,
+    "hotelStars": 5,
+    "count": 85
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 4045,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 2537,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 3291,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Crusoe-style overwater villas with butlers",
+  "pick": true
+ },
+ {
+  "id": "mv-landaa",
+  "name": "Four Seasons Resort Maldives at Landaa Giraavaru",
+  "operator": "Four Seasons",
+  "region": "Indian Ocean",
+  "country": "Maldives",
+  "area": "Baa Atoll",
+  "type": "island",
+  "website": "https://www.fourseasons.com/maldives/landaa_giraavaru/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 5.28636,
+  "lng": 73.11208,
+  "coordsSource": "OpenStreetMap Nominatim: Landaa Giraavaru (place/islet)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "38852446.0000",
+   "matchedName": "Four Seasons Maldives At Landaa Giraavaru",
+   "rating": {
+    "value": 9.2,
+    "hotelStars": 5,
+    "count": 38
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 6573,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 3334,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 4954,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Baa Atoll biosphere reserve resort",
+  "pick": true
+ },
+ {
+  "id": "sc-north",
+  "name": "North Island",
+  "operator": "North Island",
+  "region": "Indian Ocean",
+  "country": "Seychelles",
+  "area": "North Island",
+  "type": "island",
+  "website": "https://www.north-island.com/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": -4.39208,
+  "lng": 55.24396,
+  "coordsSource": "OpenStreetMap Nominatim: Île du Nord (place/island)",
+  "coordsApprox": true,
+  "stay22": null,
+  "tier": 3,
+  "why": "Eleven villas on a private island, the Royals' honeymoon pick",
+  "pick": true
+ },
+ {
+  "id": "sc-fregate",
+  "name": "Fregate Island Private",
+  "operator": "Fregate",
+  "region": "Indian Ocean",
+  "country": "Seychelles",
+  "area": "Fregate Island",
+  "type": "island",
+  "website": "https://www.fregate.com/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": -4.5859,
+  "lng": 55.94023,
+  "coordsSource": "OpenStreetMap Nominatim: Île Frégate (place/island)",
+  "coordsApprox": true,
+  "stay22": null,
+  "tier": 3,
+  "why": "Sixteen villas on a private granite island",
+  "pick": true
+ },
+ {
+  "id": "tz-mnemba",
+  "name": "&Beyond Mnemba Island",
+  "operator": "&Beyond",
+  "region": "Indian Ocean",
+  "country": "Tanzania",
+  "area": "Zanzibar",
+  "type": "island",
+  "website": "https://www.andbeyond.com/our-lodges/africa/zanzibar/andbeyond-mnemba-island/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": -5.81961,
+  "lng": 39.38372,
+  "coordsSource": "OpenStreetMap Nominatim: Mnemba (place/island)",
+  "coordsApprox": true,
+  "stay22": null,
+  "tier": 3,
+  "why": "Ten-banda private island off Zanzibar",
+  "pick": true
+ },
+ {
+  "id": "jp-amantokyo",
+  "name": "Aman Tokyo",
+  "operator": "Aman",
+  "region": "Asia",
+  "country": "Japan",
+  "area": "Tokyo",
+  "type": "city",
+  "website": "https://www.aman.com/hotels/aman-tokyo",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 35.68559,
+  "lng": 139.76539,
+  "coordsSource": "OpenStreetMap Nominatim: アマン東京 (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 3,
+  "why": "Top floors of Otemachi Tower",
+  "pick": true
+ },
+ {
+  "id": "jp-palace",
+  "name": "Palace Hotel Tokyo",
+  "operator": "Palace Hotel",
+  "region": "Asia",
+  "country": "Japan",
+  "area": "Tokyo",
+  "type": "city",
+  "website": "https://www.palacehoteltokyo.com/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 35.6845,
+  "lng": 139.76124,
+  "coordsSource": "OpenStreetMap Nominatim: パレスホテル東京 (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "15279575.0000",
+   "matchedName": "Palace Hotel Tokyo",
+   "rating": {
+    "value": 9.7,
+    "hotelStars": 5,
+    "count": 291
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 2180,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 1487,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 1834,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Imperial Palace garden views",
+  "pick": true
+ },
+ {
+  "id": "jp-amankyoto",
+  "name": "Aman Kyoto",
+  "operator": "Aman",
+  "region": "Asia",
+  "country": "Japan",
+  "area": "Kyoto",
+  "type": "resort",
+  "website": "https://www.aman.com/resorts/aman-kyoto",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 35.05035,
+  "lng": 135.73123,
+  "coordsSource": "OpenStreetMap Nominatim: Aman Kyoto (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 3,
+  "why": "Hidden forest garden by Kinkaku-ji",
+  "pick": true
+ },
+ {
+  "id": "jp-ritzkyoto",
+  "name": "The Ritz-Carlton, Kyoto",
+  "operator": "Marriott",
+  "region": "Asia",
+  "country": "Japan",
+  "area": "Kyoto",
+  "type": "city",
+  "website": "https://www.ritzcarlton.com/en/hotels/ukyrz-the-ritz-carlton-kyoto/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": 134,
+  "roomsSource": "official page: \"134 guest rooms and suites\"",
+  "lat": 35.01378,
+  "lng": 135.77085,
+  "coordsSource": "OpenStreetMap Nominatim: ザ・リッツ・カールトン京都 (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39042142.0000",
+   "matchedName": "The Ritz-Carlton, Kyoto",
+   "rating": {
+    "value": 8.6,
+    "hotelStars": 5,
+    "count": 49
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 2389,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 4131,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 3260,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Kamogawa riverside",
+  "pick": true
+ },
+ {
+  "id": "jp-tawaraya",
+  "name": "Tawaraya Ryokan",
+  "operator": "Tawaraya",
+  "region": "Asia",
+  "country": "Japan",
+  "area": "Kyoto",
+  "type": "city",
+  "website": "https://www.kyoto-tawaraya.jp/en/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 35.01018,
+  "lng": 135.76591,
+  "coordsSource": "OpenStreetMap Nominatim: 俵屋旅館 (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 3,
+  "why": "Kyoto's 300-year-old ryokan, pinnacle of the form",
+  "pick": true
+ },
+ {
+  "id": "jp-amanemu",
+  "name": "Amanemu",
+  "operator": "Aman",
+  "region": "Asia",
+  "country": "Japan",
+  "area": "Ise-Shima",
+  "type": "resort",
+  "website": "https://www.aman.com/resorts/amanemu",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": null,
+  "lng": null,
+  "coordsSource": null,
+  "coordsApprox": null,
+  "stay22": null,
+  "tier": 2,
+  "why": "Onsen-fed villas in Ise-Shima",
+  "pick": false
+ },
+ {
+  "id": "hk-peninsula",
+  "name": "The Peninsula Hong Kong",
+  "operator": "The Peninsula",
+  "region": "Asia",
+  "country": "Hong Kong",
+  "area": "Tsim Sha Tsui",
+  "type": "city",
+  "website": "https://www.peninsula.com/en/hong-kong/5-star-luxury-hotel-tsim-sha-tsui",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 22.29507,
+  "lng": 114.17179,
+  "coordsSource": "OpenStreetMap Nominatim: 香港半島酒店 The Peninsula Hong Kong (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 3,
+  "why": "Flagship of the Peninsula group, 1928",
+  "pick": true
+ },
+ {
+  "id": "hk-mo",
+  "name": "Mandarin Oriental, Hong Kong",
+  "operator": "Mandarin Oriental",
+  "region": "Asia",
+  "country": "Hong Kong",
+  "area": "Central",
+  "type": "city",
+  "website": "https://www.mandarinoriental.com/en/hong-kong/victoria-harbour",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 22.28189,
+  "lng": 114.1594,
+  "coordsSource": "OpenStreetMap Nominatim: 香港文華東方酒店 Mandarin Oriental (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "0e2226fcdb7866971737859a3cb14a22.0000",
+   "matchedName": "Mandarin Oriental, Hong Kong",
+   "rating": {
+    "value": 9.5,
+    "hotelStars": 5,
+    "count": 458
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 778,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 796,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 787,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "The flagship, Central waterfront",
+  "pick": false
+ },
+ {
+  "id": "hk-rosewood",
+  "name": "Rosewood Hong Kong",
+  "operator": "Rosewood",
+  "region": "Asia",
+  "country": "Hong Kong",
+  "area": "Victoria Dockside",
+  "type": "city",
+  "website": "https://www.rosewoodhotels.com/en/hong-kong",
+  "websiteStatus": "ok",
+  "rooms": 91,
+  "roomsSource": "official page: \"91 suites\"",
+  "lat": 22.2947,
+  "lng": 114.17581,
+  "coordsSource": "OpenStreetMap Nominatim: 香港瑰麗酒店 Rosewood Hong Kong (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "16312873.0000",
+   "matchedName": "Rosewood Hong Kong",
+   "rating": {
+    "value": 9.2,
+    "hotelStars": 5,
+    "count": 169
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 1845,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 1326,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 1586,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Harbourfront, Tsim Sha Tsui",
+  "pick": false
+ },
+ {
+  "id": "cn-amanyangyun",
+  "name": "Amanyangyun",
+  "operator": "Aman",
+  "region": "Asia",
+  "country": "China",
+  "area": "Shanghai",
+  "type": "resort",
+  "website": "https://www.aman.com/resorts/amanyangyun",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": null,
+  "lng": null,
+  "coordsSource": null,
+  "coordsApprox": null,
+  "stay22": null,
+  "tier": 2,
+  "why": "Relocated Ming-era village",
+  "pick": false
+ },
+ {
+  "id": "cn-summerpalace",
+  "name": "Aman Summer Palace",
+  "operator": "Aman",
+  "region": "Asia",
+  "country": "China",
+  "area": "Beijing",
+  "type": "resort",
+  "website": "https://www.aman.com/hotels/aman-at-summer-palace",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 39.99805,
+  "lng": 116.27603,
+  "coordsSource": "OpenStreetMap Nominatim: 颐和安缦 (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Courtyards at the Summer Palace gate",
+  "pick": false
+ },
+ {
+  "id": "sg-capella",
+  "name": "Capella Singapore",
+  "operator": "Capella",
+  "region": "Asia",
+  "country": "Singapore",
+  "area": "Sentosa",
+  "type": "resort",
+  "website": "https://www.capellahotels.com/en/capella-singapore",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 1.2497,
+  "lng": 103.82443,
+  "coordsSource": "OpenStreetMap Nominatim: Capella Singapore (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39626995.0000",
+   "matchedName": "Capella Singapore",
+   "rating": {
+    "value": 9.6,
+    "hotelStars": 5,
+    "count": 110
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 1838,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 1577,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 1708,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Colonial buildings on a Sentosa hill",
+  "pick": true
+ },
+ {
+  "id": "sg-raffles",
+  "name": "Raffles Singapore",
+  "operator": "Raffles",
+  "region": "Asia",
+  "country": "Singapore",
+  "area": "Singapore",
+  "type": "city",
+  "website": "https://www.raffles.com/singapore/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": 115,
+  "roomsSource": "official page: \"115 suites\"",
+  "lat": 1.29468,
+  "lng": 103.85464,
+  "coordsSource": "OpenStreetMap Nominatim: Raffles Hotel (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39652879.0000",
+   "matchedName": "Raffles Singapore",
+   "rating": {
+    "value": 9.7,
+    "hotelStars": 5,
+    "count": 389
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 2110,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 1277,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 1694,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "The 1887 Singapore Sling hotel",
+  "pick": true
+ },
+ {
+  "id": "th-mobangkok",
+  "name": "Mandarin Oriental, Bangkok",
+  "operator": "Mandarin Oriental",
+  "region": "Asia",
+  "country": "Thailand",
+  "area": "Bangkok",
+  "type": "city",
+  "website": "https://www.mandarinoriental.com/en/bangkok",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 13.72389,
+  "lng": 100.51415,
+  "coordsSource": "OpenStreetMap Nominatim: Mandarin Oriental Hotel (leisure/resort)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39745931.0000",
+   "matchedName": "Mandarin Oriental, Bangkok",
+   "rating": {
+    "value": 9.6,
+    "hotelStars": 5,
+    "count": 505
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 1193,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 646,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 920,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "River institution since 1876",
+  "pick": false
+ },
+ {
+  "id": "th-tentedcamp",
+  "name": "Four Seasons Tented Camp Golden Triangle",
+  "operator": "Four Seasons",
+  "region": "Asia",
+  "country": "Thailand",
+  "area": "Chiang Saen",
+  "type": "safari/wilderness",
+  "website": "https://www.fourseasons.com/goldentriangle/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 20.37304,
+  "lng": 100.07711,
+  "coordsSource": "OpenStreetMap Nominatim: Four Seasons Tented Camp Golden Triangle (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39590303.0000",
+   "matchedName": "Four Seasons Tented Camp Golden Triangle",
+   "rating": {
+    "value": 9.4,
+    "hotelStars": 5,
+    "count": 8
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": null,
+     "suppliers": null
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 3325,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 3325,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Elephant-camp tented suites in the Golden Triangle",
+  "pick": true
+ },
+ {
+  "id": "th-amanpuri",
+  "name": "Amanpuri",
+  "operator": "Aman",
+  "region": "Asia",
+  "country": "Thailand",
+  "area": "Phuket",
+  "type": "resort",
+  "website": "https://www.aman.com/resorts/amanpuri",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": null,
+  "lng": null,
+  "coordsSource": null,
+  "coordsApprox": null,
+  "stay22": null,
+  "tier": 3,
+  "why": "The original Aman, opened 1988",
+  "pick": true
+ },
+ {
+  "id": "th-sonevakiri",
+  "name": "Soneva Kiri",
+  "operator": "Soneva",
+  "region": "Asia",
+  "country": "Thailand",
+  "area": "Koh Kood",
+  "type": "island",
+  "website": "https://soneva.com/soneva-kiri/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 11.69865,
+  "lng": 102.53112,
+  "coordsSource": "OpenStreetMap Nominatim: Soneva Kiri (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Remote island with treehouse dining",
+  "pick": false
+ },
+ {
+  "id": "id-amandari",
+  "name": "Amandari",
+  "operator": "Aman",
+  "region": "Asia",
+  "country": "Indonesia",
+  "area": "Ubud, Bali",
+  "type": "resort",
+  "website": "https://www.aman.com/resorts/amandari",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": -8.48868,
+  "lng": 115.24475,
+  "coordsSource": "OpenStreetMap Nominatim: Amandari (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Terraced Ayung gorge walls",
+  "pick": false
+ },
+ {
+  "id": "id-bulgaribali",
+  "name": "Bulgari Resort Bali",
+  "operator": "Bulgari",
+  "region": "Asia",
+  "country": "Indonesia",
+  "area": "Uluwatu, Bali",
+  "type": "resort",
+  "website": "https://www.bulgarihotels.com/en_US/bali",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": -8.84385,
+  "lng": 115.12066,
+  "coordsSource": "OpenStreetMap Nominatim: Bulgari Resort Bali (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Clifftop Uluwatu villas",
+  "pick": false
+ },
+ {
+  "id": "id-nihi",
+  "name": "Nihi Sumba",
+  "operator": "Nihi",
+  "region": "Asia",
+  "country": "Indonesia",
+  "area": "Sumba",
+  "type": "island",
+  "website": "https://www.nihi.com/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": -9.77796,
+  "lng": 119.37628,
+  "coordsSource": "OpenStreetMap Nominatim: NIHI Sumba - Edge of Wildness™ (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39618489.0000",
+   "matchedName": "Nihi Sumba - Member Leading Hotels Of The World",
+   "rating": {
+    "value": 9.7,
+    "hotelStars": 5,
+    "count": 35
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 3247,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 1791,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 2519,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Frequent Best Hotel in the World contender",
+  "pick": true
+ },
+ {
+  "id": "id-capellaubud",
+  "name": "Capella Ubud",
+  "operator": "Capella",
+  "region": "Asia",
+  "country": "Indonesia",
+  "area": "Ubud, Bali",
+  "type": "safari/wilderness",
+  "website": "https://www.capellahotels.com/en/capella-ubud",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": -8.44842,
+  "lng": 115.26819,
+  "coordsSource": "OpenStreetMap Nominatim: Api Jiwa at Capella Ubud (amenity/restaurant)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "6fbe814947a9f84c854bb95150637cfe.0000",
+   "matchedName": "Capella Ubud, Bali",
+   "rating": {
+    "value": 9.6,
+    "hotelStars": 5,
+    "count": 35
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 1799,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": null,
+     "suppliers": null
+    }
+   },
+   "typicalPerNightUSD": 1799,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 1,
+  "why": "Tented jungle camp above the Wos River",
+  "pick": false
+ },
+ {
+  "id": "in-lakepalace",
+  "name": "Taj Lake Palace",
+  "operator": "Taj",
+  "region": "Asia",
+  "country": "India",
+  "area": "Udaipur",
+  "type": "resort",
+  "website": "https://www.tajhotels.com/en-in/taj/taj-lake-palace-udaipur/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 24.57544,
+  "lng": 73.68012,
+  "coordsSource": "OpenStreetMap Nominatim: Taj Lake Palace (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 3,
+  "why": "White marble palace floating on Lake Pichola",
+  "pick": true
+ },
+ {
+  "id": "in-udaivilas",
+  "name": "The Oberoi Udaivilas",
+  "operator": "Oberoi",
+  "region": "Asia",
+  "country": "India",
+  "area": "Udaipur",
+  "type": "resort",
+  "website": "https://www.oberoihotels.com/hotels-in-udaipur-udaivilas/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 24.57718,
+  "lng": 73.67253,
+  "coordsSource": "OpenStreetMap Nominatim: The Oberoi Udaivilas (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39646293.0000",
+   "matchedName": "The Oberoi Udaivilas, Udaipur",
+   "rating": {
+    "value": 9.6,
+    "hotelStars": 5,
+    "count": 187
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 4398,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": null,
+     "suppliers": null
+    }
+   },
+   "typicalPerNightUSD": 4398,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 3,
+  "why": "Palace-scale lakefront Oberoi flagship",
+  "pick": true
+ },
+ {
+  "id": "in-umaid",
+  "name": "Umaid Bhawan Palace",
+  "operator": "Taj",
+  "region": "Asia",
+  "country": "India",
+  "area": "Jodhpur",
+  "type": "resort",
+  "website": "https://www.tajhotels.com/en-in/umaid-bhawan-palace-jodhpur/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 26.28072,
+  "lng": 73.0477,
+  "coordsSource": "OpenStreetMap Nominatim: Umaid Bhawan Palace (tourism/museum)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 3,
+  "why": "Working royal residence, among the world's largest private homes",
+  "pick": true
+ },
+ {
+  "id": "in-rambagh",
+  "name": "Rambagh Palace",
+  "operator": "Taj",
+  "region": "Asia",
+  "country": "India",
+  "area": "Jaipur",
+  "type": "city",
+  "website": "https://www.tajhotels.com/en-in/taj/taj-rambagh-palace-jaipur/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 26.89729,
+  "lng": 75.80758,
+  "coordsSource": "OpenStreetMap Nominatim: Taj Rambagh Palace (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39616193.0000",
+   "matchedName": "Rambagh Palace",
+   "rating": {
+    "value": 9.2,
+    "hotelStars": 5,
+    "count": 133
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 5742,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 1156,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 3449,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Former Maharaja's residence",
+  "pick": true
+ },
+ {
+  "id": "in-amanbagh",
+  "name": "Amanbagh",
+  "operator": "Aman",
+  "region": "Asia",
+  "country": "India",
+  "area": "Alwar, Rajasthan",
+  "type": "resort",
+  "website": "https://www.aman.com/resorts/amanbagh",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 27.16946,
+  "lng": 76.29443,
+  "coordsSource": "OpenStreetMap Nominatim: Amanbagh (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Mughal-inspired haveli",
+  "pick": false
+ },
+ {
+  "id": "in-rajvilas",
+  "name": "The Oberoi Rajvilas",
+  "operator": "Oberoi",
+  "region": "Asia",
+  "country": "India",
+  "area": "Jaipur",
+  "type": "resort",
+  "website": null,
+  "websiteStatus": "none",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 26.87634,
+  "lng": 75.88381,
+  "coordsSource": "OpenStreetMap Nominatim: The Oberoi  Rajvilas (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39723426.0000",
+   "matchedName": "The Oberoi Rajvilas",
+   "rating": {
+    "value": 9.8,
+    "hotelStars": 5,
+    "count": 147
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": null,
+     "suppliers": null
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 1068,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 1068,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Fort-style estate with tented villas",
+  "pick": false
+ },
+ {
+  "id": "lk-amangalla",
+  "name": "Amangalla",
+  "operator": "Aman",
+  "region": "Asia",
+  "country": "Sri Lanka",
+  "area": "Galle",
+  "type": "resort",
+  "website": "https://www.aman.com/resorts/amangalla",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 6.02861,
+  "lng": 80.217,
+  "coordsSource": "OpenStreetMap Nominatim: Amangalla (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Dutch colonial mansion in Galle Fort",
+  "pick": false
+ },
+ {
+  "id": "bt-amankora",
+  "name": "Amankora",
+  "operator": "Aman",
+  "region": "Asia",
+  "country": "Bhutan",
+  "area": "Paro, Thimphu, Punakha, Gangtey, Bumthang",
+  "type": "resort",
+  "website": "https://www.aman.com/resorts/amankora",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 27.47847,
+  "lng": 89.61262,
+  "coordsSource": "OpenStreetMap Nominatim: Amankora (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 3,
+  "why": "Five lodges across Bhutan",
+  "pick": true
+ },
+ {
+  "id": "vn-amanoi",
+  "name": "Amanoi",
+  "operator": "Aman",
+  "region": "Asia",
+  "country": "Vietnam",
+  "area": "Ninh Thuan",
+  "type": "resort",
+  "website": "https://www.aman.com/resorts/amanoi",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": null,
+  "lng": null,
+  "coordsSource": null,
+  "coordsApprox": null,
+  "stay22": null,
+  "tier": 2,
+  "why": "National park cliffside pavilions",
+  "pick": false
+ },
+ {
+  "id": "vn-intercon",
+  "name": "InterContinental Danang Sun Peninsula Resort",
+  "operator": "IHG",
+  "region": "Asia",
+  "country": "Vietnam",
+  "area": "Da Nang",
+  "type": "resort",
+  "website": "https://danang.intercontinental.com/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 16.12109,
+  "lng": 108.30614,
+  "coordsSource": "OpenStreetMap Nominatim: InterContinental Danang Sun Peninsula Resort (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39615977.0000",
+   "matchedName": "Intercontinental Danang Sun Peninsula Resort, An Ihg Hotel",
+   "rating": {
+    "value": 9.4,
+    "hotelStars": 5,
+    "count": 419
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 908,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 729,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 818,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 1,
+  "why": "Bill Bensley-designed hillside",
+  "pick": false
+ },
+ {
+  "id": "kh-amansara",
+  "name": "Amansara",
+  "operator": "Aman",
+  "region": "Asia",
+  "country": "Cambodia",
+  "area": "Siem Reap",
+  "type": "resort",
+  "website": "https://www.aman.com/resorts/amansara",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 13.36501,
+  "lng": 103.86101,
+  "coordsSource": "OpenStreetMap Nominatim: Amansara (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Former royal guesthouse near Angkor",
+  "pick": false
+ },
+ {
+  "id": "la-amantaka",
+  "name": "Amantaka",
+  "operator": "Aman",
+  "region": "Asia",
+  "country": "Laos",
+  "area": "Luang Prabang",
+  "type": "resort",
+  "website": "https://www.aman.com/resorts/amantaka",
+  "websiteStatus": "ok",
+  "rooms": 24,
+  "roomsSource": "official page: \"24 suites\"",
+  "lat": 19.88569,
+  "lng": 102.13454,
+  "coordsSource": "OpenStreetMap Nominatim: Amantaka (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 1,
+  "why": "French colonial hospital turned resort",
+  "pick": false
+ },
+ {
+  "id": "ph-amanpulo",
+  "name": "Amanpulo",
+  "operator": "Aman",
+  "region": "Asia",
+  "country": "Philippines",
+  "area": "Pamalican Island",
+  "type": "island",
+  "website": "https://www.aman.com/resorts/amanpulo",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 11.35406,
+  "lng": 120.73083,
+  "coordsSource": "OpenStreetMap Nominatim: Amanpulo (leisure/resort)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Private island with its own airstrip",
+  "pick": false
+ },
+ {
+  "id": "my-datai",
+  "name": "The Datai Langkawi",
+  "operator": "Datai",
+  "region": "Asia",
+  "country": "Malaysia",
+  "area": "Langkawi",
+  "type": "resort",
+  "website": "https://www.thedatai.com/",
+  "websiteStatus": "ok",
+  "rooms": 121,
+  "roomsSource": "official page: \"121 rooms, suites and villas\"",
+  "lat": 6.42257,
+  "lng": 99.67051,
+  "coordsSource": "OpenStreetMap Nominatim: The Datai (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39397919.0000",
+   "matchedName": "The Datai Langkawi",
+   "rating": {
+    "value": 9.7,
+    "hotelStars": 5,
+    "count": 255
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": null,
+     "suppliers": null
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 1032,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 1032,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 1,
+  "why": "Rainforest and beach resort",
+  "pick": false
+ },
+ {
+  "id": "kr-signiel",
+  "name": "Signiel Seoul",
+  "operator": "Lotte",
+  "region": "Asia",
+  "country": "South Korea",
+  "area": "Seoul",
+  "type": "city",
+  "website": "https://www.lottehotel.com/seoul-signiel/en",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": 37.51257,
+  "lng": 127.10282,
+  "coordsSource": "OpenStreetMap Nominatim: 시그니엘 서울 (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "15611480.0000",
+   "matchedName": "Signiel Seoul",
+   "rating": {
+    "value": 9.3,
+    "hotelStars": 5,
+    "count": 772
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 1052,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 762,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 907,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 1,
+  "why": "Floors 76 to 101 of Lotte World Tower",
+  "pick": false
+ },
+ {
+  "id": "fj-laucala",
+  "name": "Laucala Island",
+  "operator": "Laucala",
+  "region": "Oceania",
+  "country": "Fiji",
+  "area": "Laucala Island",
+  "type": "island",
+  "website": "https://www.laucala.com/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": -18.14191,
+  "lng": 178.51633,
+  "coordsSource": "OpenStreetMap Nominatim: Laucala Island (place/island)",
+  "coordsApprox": true,
+  "stay22": null,
+  "tier": 3,
+  "why": "Red Bull founder's private island, 25 villas",
+  "pick": true
+ },
+ {
+  "id": "fj-kokomo",
+  "name": "Kokomo Private Island Fiji",
+  "operator": "Kokomo",
+  "region": "Oceania",
+  "country": "Fiji",
+  "area": "Yaukuve Levu",
+  "type": "island",
+  "website": "https://www.kokomoisland.com/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": -18.79925,
+  "lng": 178.52775,
+  "coordsSource": "OpenStreetMap Nominatim: Kokomo Private Island (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Private island with a yacht fleet",
+  "pick": true
+ },
+ {
+  "id": "fj-turtle",
+  "name": "Turtle Island Fiji",
+  "operator": "Turtle Island",
+  "region": "Oceania",
+  "country": "Fiji",
+  "area": "Yasawa Islands",
+  "type": "island",
+  "website": "https://www.turtlefiji.com/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": null,
+  "lng": null,
+  "coordsSource": null,
+  "coordsApprox": null,
+  "stay22": null,
+  "tier": 1,
+  "why": "All-inclusive island with 14 beaches",
+  "pick": false
+ },
+ {
+  "id": "pf-brando",
+  "name": "The Brando",
+  "operator": "The Brando",
+  "region": "Oceania",
+  "country": "French Polynesia",
+  "area": "Tetiaroa",
+  "type": "island",
+  "website": "https://thebrando.com/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": -17.02279,
+  "lng": -149.59616,
+  "coordsSource": "OpenStreetMap Nominatim: The Brando (building/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 3,
+  "why": "Marlon Brando's atoll, 35 villas",
+  "pick": true
+ },
+ {
+  "id": "pf-fsbora",
+  "name": "Four Seasons Resort Bora Bora",
+  "operator": "Four Seasons",
+  "region": "Oceania",
+  "country": "French Polynesia",
+  "area": "Bora Bora",
+  "type": "island",
+  "website": "https://www.fourseasons.com/borabora/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": -16.4726,
+  "lng": -151.70731,
+  "coordsSource": "OpenStreetMap Nominatim: Four Seasons Resort Bora Bora (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39659496.0000",
+   "matchedName": "Four Seasons Resort Bora Bora",
+   "rating": {
+    "value": 9.2,
+    "hotelStars": 5,
+    "count": 125
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 4404,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 2791,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 3598,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Overwater bungalows on Motu Tehotu",
+  "pick": true
+ },
+ {
+  "id": "au-qualia",
+  "name": "qualia",
+  "operator": "Hamilton Island",
+  "region": "Oceania",
+  "country": "Australia",
+  "area": "Hamilton Island, Queensland",
+  "type": "island",
+  "website": "https://www.qualia.com.au/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": -20.33286,
+  "lng": 148.94937,
+  "coordsSource": "OpenStreetMap Nominatim: qualia (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Great Barrier Reef pavilions",
+  "pick": true
+ },
+ {
+  "id": "au-longitude",
+  "name": "Longitude 131°",
+  "operator": "Baillie Lodges",
+  "region": "Oceania",
+  "country": "Australia",
+  "area": "Uluru, Northern Territory",
+  "type": "safari/wilderness",
+  "website": "https://www.longitude131.com.au/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": -25.24999,
+  "lng": 131.0083,
+  "coordsSource": "OpenStreetMap Nominatim: Longitude 131º (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Tented pavilions facing Uluru",
+  "pick": true
+ },
+ {
+  "id": "au-soloedge",
+  "name": "Southern Ocean Lodge",
+  "operator": "Baillie Lodges",
+  "region": "Oceania",
+  "country": "Australia",
+  "area": "Kangaroo Island",
+  "type": "resort",
+  "website": "https://southernoceanlodge.com.au/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": -36.0178,
+  "lng": 136.83302,
+  "coordsSource": "OpenStreetMap Nominatim: Southern Ocean Lodge (building/yes)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Limestone cliff-top lodge",
+  "pick": false
+ },
+ {
+  "id": "au-lizard",
+  "name": "Lizard Island",
+  "operator": "Delaware North",
+  "region": "Oceania",
+  "country": "Australia",
+  "area": "Lizard Island, Queensland",
+  "type": "island",
+  "website": "https://www.lizardisland.com.au/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": -14.66832,
+  "lng": 145.46092,
+  "coordsSource": "OpenStreetMap Nominatim: Lizard Island (place/island)",
+  "coordsApprox": true,
+  "stay22": null,
+  "tier": 2,
+  "why": "Great Barrier Reef island with 24 beaches",
+  "pick": true
+ },
+ {
+  "id": "au-saffire",
+  "name": "Saffire Freycinet",
+  "operator": "Saffire",
+  "region": "Oceania",
+  "country": "Australia",
+  "area": "Coles Bay, Tasmania",
+  "type": "resort",
+  "website": "https://www.saffire-freycinet.com.au/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": -42.10998,
+  "lng": 148.26592,
+  "coordsSource": "OpenStreetMap Nominatim: Saffire Freycinet (building/hotel)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 2,
+  "why": "Curved glass lodge facing the Hazards",
+  "pick": false
+ },
+ {
+  "id": "au-parkhyatt",
+  "name": "Park Hyatt Sydney",
+  "operator": "Hyatt",
+  "region": "Oceania",
+  "country": "Australia",
+  "area": "Sydney",
+  "type": "city",
+  "website": "https://www.hyatt.com/park-hyatt/en-US/sydph-park-hyatt-sydney",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": -33.85599,
+  "lng": 151.2089,
+  "coordsSource": "OpenStreetMap Nominatim: Park Hyatt Sydney (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "39620106.0000",
+   "matchedName": "Park Hyatt Sydney",
+   "rating": {
+    "value": 9.3,
+    "hotelStars": 5,
+    "count": 346
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 1787,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 1099,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 1443,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 2,
+  "why": "Opera House waterfront Cut 8 Nov 2026: big and showy rather than quiet luxury.",
+  "pick": false
+ },
+ {
+  "id": "au-capellalodge",
+  "name": "Capella Lodge",
+  "operator": "Baillie Lodges",
+  "region": "Oceania",
+  "country": "Australia",
+  "area": "Lord Howe Island",
+  "type": "island",
+  "website": "https://www.capellalodge.com.au/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": -31.55007,
+  "lng": 159.07608,
+  "coordsSource": "OpenStreetMap Nominatim: Capella Lodge (tourism/guest_house)",
+  "coordsApprox": false,
+  "stay22": null,
+  "tier": 1,
+  "why": "Lord Howe Island lodge",
+  "pick": false
+ },
+ {
+  "id": "nz-huka",
+  "name": "Huka Lodge",
+  "operator": "Huka Lodge",
+  "region": "Oceania",
+  "country": "New Zealand",
+  "area": "Taupō",
+  "type": "resort",
+  "website": "https://www.hukalodge.com/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": -38.65469,
+  "lng": 176.08686,
+  "coordsSource": "OpenStreetMap Nominatim: Huka Lodge (tourism/chalet)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "15231208.0000",
+   "matchedName": "Huka Lodge",
+   "rating": {
+    "value": 9.6,
+    "hotelStars": 5,
+    "count": 25
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 328,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 2797,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 1562,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 3,
+  "why": "Waikato River lodge, NZ's long-standing benchmark",
+  "pick": true
+ },
+ {
+  "id": "nz-eaglesnest",
+  "name": "Eagles Nest",
+  "operator": "Eagles Nest",
+  "region": "Oceania",
+  "country": "New Zealand",
+  "area": "Russell, Bay of Islands",
+  "type": "resort",
+  "website": "https://www.eaglesnest.co.nz/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": null,
+  "lng": null,
+  "coordsSource": null,
+  "coordsApprox": null,
+  "stay22": null,
+  "tier": 2,
+  "why": "Five villas on a Bay of Islands ridge",
+  "pick": false
+ },
+ {
+  "id": "nz-matakauri",
+  "name": "Matakauri Lodge",
+  "operator": "Robertson Lodges",
+  "region": "Oceania",
+  "country": "New Zealand",
+  "area": "Queenstown",
+  "type": "resort",
+  "website": "https://www.matakaurilodge.com/",
+  "websiteStatus": "blocked-or-unreachable",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": null,
+  "lng": null,
+  "coordsSource": null,
+  "coordsApprox": null,
+  "stay22": null,
+  "tier": 2,
+  "why": "Lake Wakatipu lodge",
+  "pick": false
+ },
+ {
+  "id": "nz-farm",
+  "name": "The Farm at Cape Kidnappers",
+  "operator": "Robertson Lodges",
+  "region": "Oceania",
+  "country": "New Zealand",
+  "area": "Hawke's Bay",
+  "type": "resort",
+  "website": null,
+  "websiteStatus": "none",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": null,
+  "lng": null,
+  "coordsSource": null,
+  "coordsApprox": null,
+  "stay22": null,
+  "tier": 2,
+  "why": "Cliff-top golf lodge",
+  "pick": false
+ },
+ {
+  "id": "nz-blanketbay",
+  "name": "Blanket Bay",
+  "operator": "Blanket Bay",
+  "region": "Oceania",
+  "country": "New Zealand",
+  "area": "Glenorchy",
+  "type": "resort",
+  "website": "https://www.blanketbay.com/",
+  "websiteStatus": "ok",
+  "rooms": null,
+  "roomsSource": null,
+  "lat": -44.8669,
+  "lng": 168.39432,
+  "coordsSource": "OpenStreetMap Nominatim: Blanket Bay (tourism/hotel)",
+  "coordsApprox": false,
+  "stay22": {
+   "stay22Id": "32551496.0000",
+   "matchedName": "Blanket Bay",
+   "rating": {
+    "value": 9.8,
+    "hotelStars": 5,
+    "count": 10
+   },
+   "samples": {
+    "d45": {
+     "checkin": "2026-12-23",
+     "checkout": "2026-12-26",
+     "perNightUSD": 3163,
+     "suppliers": [
+      "booking"
+     ]
+    },
+    "d150": {
+     "checkin": "2027-04-07",
+     "checkout": "2027-04-10",
+     "perNightUSD": 2775,
+     "suppliers": [
+      "booking"
+     ]
+    }
+   },
+   "typicalPerNightUSD": 2969,
+   "note": "cheapest bookable room, 2 adults, 3 nights, USD; d45 = 23-26 Dec 2026 (holiday peak), d150 = 6-9 Apr 2027"
+  },
+  "tier": 1,
+  "why": "Lakefront lodge with Southern Alps views",
+  "pick": false
+ }
+]

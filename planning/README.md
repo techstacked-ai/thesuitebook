@@ -1,0 +1,8 @@
+# The Suite Book (thesuitebook.com), parked here until its own repo exists
+
+Owner, 8 Nov 2026: a site for the 100 most luxurious hotels in the world, "super expensive, really amazing quality", and "this one really needs to look the part. Elegant." Domain registered 8 Nov 2026 (docs/decisions.md). Waiting on the owner: create techstacked-ai/thesuitebook and add CLOUDFLARE_API_TOKEN and CLOUDFLARE_ACCOUNT_ID; confirm the 100 (suggested swaps: Atlantis The Royal and Park Hyatt Sydney out, two of Amanyara, Raffles Singapore, Southern Ocean Lodge, Eden Rock, Le Sirenuse, Segera in).
+
+- candidates.json: 198 candidates, `pick` marks the 100, with official site, coordinates, Stay22 match and prices where found. Unverified fields are flagged; Ellerman House's price looks like a whole-property rate.
+- picks.md: the 100 by region. design-brief.md: the look (Bodoni Moda, white, ink, midnight, photography first).
+- Booking links, tested 8 Nov 2026: Stay22 Allez also routes to Expedia, Hotels.com, Agoda and VRBO with aid=roamcitymaps (https://www.stay22.com/allez/<supplier>?address=...&checkin&checkout&adults&aid=roamcitymaps). Order per hotel: exact Booking.com listing (stay22Id) > Expedia by the hotel's address > the hotel's own site (no commission). /allez/trip drops the destination (lands on trip.com's home page). The Stay22 API itself returns Booking.com only.
+- Next: redo Booking.com matching with name search and more pages; research agents per region (facts from the hotel's own pages, 5+ press photos each); build from The All-In Guide's engine with the design brief; move the domain to Cloudflare. Move this folder into the new repo and delete it here.
