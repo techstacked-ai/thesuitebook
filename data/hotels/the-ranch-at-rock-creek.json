@@ -1,0 +1,324 @@
+{
+  "slug": "the-ranch-at-rock-creek",
+  "name": "The Ranch at Rock Creek",
+  "operator": "The Ranch at Rock Creek",
+  "brand": "The Ranch at Rock Creek",
+  "country": "United States",
+  "region": "North America",
+  "city": "Philipsburg",
+  "area": "Granite County",
+  "type": "resort",
+  "themes": [
+    "mountain"
+  ],
+  "adultsOnly": false,
+  "address": "79 Carriage House Lane, Philipsburg, MT 59858, United States",
+  "lat": 46.256434,
+  "lng": -113.52213,
+  "officialSite": "https://theranchatrockcreek.com/",
+  "rooms": null,
+  "suites": 9,
+  "villas": null,
+  "opened": 2007,
+  "airport": {
+    "code": "MSO",
+    "minutes": 90
+  },
+  "tagline": "An all-inclusive cattle ranch of 6,600 acres in the Montana mountains.",
+  "description": "The Ranch at Rock Creek is a guest ranch 20 miles outside Philipsburg, in Granite County, Montana, at 5,200 feet. It covers 6,600 acres, which the ranch equates to 10 square miles, with four miles of Rock Creek, a Blue Ribbon fishery that flows into the Clark Fork. The land sits at the base of the John Long Mountains, with the Sapphire range to the north and the Pintler peaks to the south, near Beaverhead-Deerlodge National Forest and the Anaconda-Pintler Wilderness. The ranch prints its position as latitude 46.256434 and longitude 113.52213 west. Packages can be sent to 79 Carriage House Lane, Philipsburg, MT 59858.\n\nThe homestead follows the Homestead Act of 1862 and was taken up by W. W. Shaffer and P. W. White. A nineteenth-century barn remains, and the land has stayed a working cattle ranch. In 2007, after a 20-year search, owner Jim Manley turned the homestead into the guest ranch. Capacity is 125 guests across 31 accommodation units: nine suites in the Granite Lodge, ten canvas cabins, nine luxury homes and three Historic Barn accommodations. The accommodations page also refers to five ranch peaks.\n\nThe rate is all-inclusive: meals, unlimited premium beer, wine and spirits, activities, gear and airport transfers. A 25 percent Ranch Fee is added and covers lodging tax, gratuities, phone calls, Wi-Fi and in-room snacks. Spa treatments, the Mercantile, reserve-list wine, float trips and fishing licences are charged apart. Dining runs from 7:30 am to 10:00 pm in shared rooms. There is no in-room dining. Venues include the Granite Lodge dining room, the Flagstone, a pastoral picnic, the Buckle Barn and the Blue Canteen. The Buckle Barn covers 5,500 square feet and has a wood-fired grill faced with repurposed John Deere tractor parts. A children's menu is served. The Silver Dollar Saloon has billiards, poker, shuffleboard, karaoke, table tennis, a private movie theater, four bowling lanes and outdoor s'mores.\n\nThe Rod and Gun Club arranges 45 activities through the year, from 9:00 am to 5:00 pm, with two a day suggested. They include horseback riding, fly fishing, hiking, mountain biking, archery, a ropes course and zip line, sapphire mining, and, in winter, cross-country skiing and snowmobiling. Flint's Forest Rangers is for children aged 4 to 12. The fitness centre in the Carriage House is open from 6:00 am to 10:00 pm, and there is a pool and a hot tub.\n\nMissoula International Airport, MSO, is a 1.5-hour drive, and the transfer is included, as are transfers from Helena, Bozeman, Butte and Anaconda. Up to two pets may stay in a Luxury Home, the Historic Barn, the Trapper Cabin or the Sweetgrass Cabin for 100 dollars a night. Dogs stay on a leash, and pets are not taken in Granite Lodge rooms or in the dining rooms. Forbes Travel Guide lists the ranch at Five Stars, which the ranch presents as the first such rating for a ranch. It is also a member of Leading Hotels of the World and of Relais and Chateaux.",
+  "highlights": [
+    {
+      "label": "Land",
+      "value": "6,600 acres, with four miles of Rock Creek, at 5,200 feet.",
+      "sourceUrl": "https://theranchatrockcreek.com/faq/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "All-inclusive",
+      "value": "Meals, premium drinks, activities, gear and airport transfers are in the rate.",
+      "sourceUrl": "https://theranchatrockcreek.com/all-inclusive-experience/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Keys",
+      "value": "31 units for 125 guests, including nine Granite Lodge suites.",
+      "sourceUrl": "https://theranchatrockcreek.com/faq/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Activities",
+      "value": "45 activities from the Rod and Gun Club, two a day from 9:00 am to 5:00 pm.",
+      "sourceUrl": "https://theranchatrockcreek.com/activities/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Buckle Barn",
+      "value": "A 5,500 square foot dining barn with a wood-fired grill.",
+      "sourceUrl": "https://theranchatrockcreek.com/dining/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Airport",
+      "value": "Missoula International is a 1.5-hour drive, with transfers included.",
+      "sourceUrl": "https://theranchatrockcreek.com/faq/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Location",
+      "value": "20 miles outside Philipsburg, Granite County, Montana; elevation 5,200 feet",
+      "sourceUrl": "https://theranchatrockcreek.com/faq/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Coordinates",
+      "value": "Lat 46.256434, Lon 113.52213, also printed as 46 degrees N, 113 W",
+      "sourceUrl": "https://theranchatrockcreek.com/faq/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Shipping address",
+      "value": "79 Carriage House Lane, Philipsburg, MT 59858",
+      "sourceUrl": "https://theranchatrockcreek.com/faq/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Land",
+      "value": "6,600 acres, or 10 square miles; four miles of Rock Creek, a Blue Ribbon fishery into the Clark Fork",
+      "sourceUrl": "https://theranchatrockcreek.com/faq/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Mountains",
+      "value": "Base of the John Long Mountains; Sapphire range to the north; Pintler peaks to the south; five ranch peaks named on the accommodations page",
+      "sourceUrl": "https://theranchatrockcreek.com/faq/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Nearby public land",
+      "value": "Beaverhead-Deerlodge National Forest and the Anaconda-Pintler Wilderness",
+      "sourceUrl": "https://theranchatrockcreek.com/faq/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "History",
+      "value": "Homestead Act of 1862; W. W. Shaffer and P. W. White; nineteenth-century barn; working cattle ranch; Jim Manley opened the guest ranch in 2007 after a 20-year search",
+      "sourceUrl": "https://theranchatrockcreek.com/our-story/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Capacity",
+      "value": "Maximum 125 guests; 31 units: nine Granite Lodge suites, ten luxury canvas cabins, nine luxury homes, three Historic Barn accommodations",
+      "sourceUrl": "https://theranchatrockcreek.com/faq/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "All-inclusive",
+      "value": "Meals, unlimited premium beer, wine and spirits, activities, gear, airport transfers",
+      "sourceUrl": "https://theranchatrockcreek.com/all-inclusive-experience/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Ranch Fee",
+      "value": "25 percent of the reservation, covering Montana lodging tax, gratuities, phone calls, Wi-Fi, and in-room snacks",
+      "sourceUrl": "https://theranchatrockcreek.com/all-inclusive-experience/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Charged separately",
+      "value": "Spa treatments, Mercantile goods, reserve-list wine and spirits, float trips, Montana fishing licences",
+      "sourceUrl": "https://theranchatrockcreek.com/all-inclusive-experience/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Dining hours",
+      "value": "7:30 am to 10:00 pm; no in-room dining",
+      "sourceUrl": "https://theranchatrockcreek.com/all-inclusive-experience/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Dining venues",
+      "value": "Granite Lodge dining room, the Flagstone, pastoral picnic, Buckle Barn, Blue Canteen; children's menu",
+      "sourceUrl": "https://theranchatrockcreek.com/dining/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Buckle Barn",
+      "value": "5,500 square feet; wood-fired grill faced with repurposed John Deere tractor parts",
+      "sourceUrl": "https://theranchatrockcreek.com/all-inclusive-experience/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Silver Dollar Saloon",
+      "value": "Billiards, poker, shuffleboard, karaoke, table tennis, private movie theater, four bowling lanes, outdoor s'mores",
+      "sourceUrl": "https://theranchatrockcreek.com/all-inclusive-experience/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Activities",
+      "value": "45 activities, 9:00 am to 5:00 pm, two a day suggested, arranged at the Rod and Gun Club",
+      "sourceUrl": "https://theranchatrockcreek.com/activities/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Children",
+      "value": "Flint's Forest Rangers, ages 4 to 12; no age restriction on the ranch",
+      "sourceUrl": "https://theranchatrockcreek.com/faq/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Fitness",
+      "value": "Carriage House fitness centre, 6:00 am to 10:00 pm; pool and hot tub",
+      "sourceUrl": "https://theranchatrockcreek.com/all-inclusive-experience/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Airport",
+      "value": "Missoula International (MSO), a 1.5-hour drive; transfers included from Missoula, Helena, Bozeman, Butte and Anaconda",
+      "sourceUrl": "https://theranchatrockcreek.com/faq/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Other airfields",
+      "value": "Butte Bert Mooney (BTM) 1.25 hours; Helena (HLN) 2 hours; Bozeman (BZN) 2.5 hours; Bowman Field, Anaconda (3U3) 45 minutes; Riddick Field, Philipsburg (U05) 25 minutes",
+      "sourceUrl": "https://theranchatrockcreek.com/faq/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Hospital",
+      "value": "Granite County Medical Center, Philipsburg, 25 minutes",
+      "sourceUrl": "https://theranchatrockcreek.com/faq/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Pets",
+      "value": "100 dollars a night for up to two pets in Luxury Homes, the Historic Barn, Trapper Cabin or Sweetgrass Cabin; not in Granite Lodge rooms, Classic or Family Canvas Cabins, or dining venues; dogs on a leash",
+      "sourceUrl": "https://theranchatrockcreek.com/faq/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Recognition",
+      "value": "Forbes Travel Guide Five-Star, presented by the ranch as the first such ranch; Leading Hotels of the World; Relais and Chateaux; National Geographic Unique Lodges of the World, founding member in 2015",
+      "sourceUrl": "https://theranchatrockcreek.com/faq/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/the-ranch-at-rock-creek/1.jpg",
+      "srcSmall": "/photos/the-ranch-at-rock-creek/1-640.jpg",
+      "srcMid": "/photos/the-ranch-at-rock-creek/1-1000.jpg",
+      "srcHero": "/photos/the-ranch-at-rock-creek/1-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "The Ranch at Rock Creek",
+      "creditUrl": "https://theranchatrockcreek.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "",
+      "localCopy": true,
+      "caption": "Barn and meadow",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/the-ranch-at-rock-creek/2.jpg",
+      "srcSmall": "/photos/the-ranch-at-rock-creek/2-640.jpg",
+      "srcMid": "/photos/the-ranch-at-rock-creek/2-1000.jpg",
+      "srcHero": "/photos/the-ranch-at-rock-creek/2-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "The Ranch at Rock Creek",
+      "creditUrl": "https://theranchatrockcreek.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "",
+      "localCopy": true,
+      "caption": "Log building in winter",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/the-ranch-at-rock-creek/3.jpg",
+      "srcSmall": "/photos/the-ranch-at-rock-creek/3-640.jpg",
+      "srcMid": "/photos/the-ranch-at-rock-creek/3-1000.jpg",
+      "srcHero": "/photos/the-ranch-at-rock-creek/3-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "The Ranch at Rock Creek",
+      "creditUrl": "https://theranchatrockcreek.com/accommodations/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "",
+      "localCopy": true,
+      "caption": "Granite Lodge great room",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/the-ranch-at-rock-creek/4.jpg",
+      "srcSmall": "/photos/the-ranch-at-rock-creek/4-640.jpg",
+      "srcMid": "/photos/the-ranch-at-rock-creek/4-1000.jpg",
+      "srcHero": "/photos/the-ranch-at-rock-creek/4-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "The Ranch at Rock Creek",
+      "creditUrl": "https://theranchatrockcreek.com/dining/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "",
+      "localCopy": true,
+      "caption": "Dining room",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/the-ranch-at-rock-creek/5.jpg",
+      "srcSmall": "/photos/the-ranch-at-rock-creek/5-640.jpg",
+      "srcMid": "/photos/the-ranch-at-rock-creek/5-1000.jpg",
+      "srcHero": "/photos/the-ranch-at-rock-creek/5-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "The Ranch at Rock Creek",
+      "creditUrl": "https://theranchatrockcreek.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "",
+      "localCopy": true,
+      "caption": "Interior with a wood stove",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/the-ranch-at-rock-creek/6.jpg",
+      "srcSmall": "/photos/the-ranch-at-rock-creek/6-640.jpg",
+      "srcMid": "/photos/the-ranch-at-rock-creek/6-1000.jpg",
+      "srcHero": "/photos/the-ranch-at-rock-creek/6-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "The Ranch at Rock Creek",
+      "creditUrl": "https://theranchatrockcreek.com/dining/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://theranchatrockcreek.com/wp-content/uploads/2026/10/10-IMGL2454-scaled.jpg",
+      "localCopy": true,
+      "caption": "Long dining table",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-09"
+}

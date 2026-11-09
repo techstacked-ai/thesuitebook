@@ -1,0 +1,329 @@
+{
+  "slug": "rosewood-mayakoba",
+  "name": "Rosewood Mayakoba",
+  "operator": "Rosewood Hotel Group",
+  "brand": "Rosewood",
+  "country": "Mexico",
+  "region": "Caribbean & Latin America",
+  "city": "Solidaridad",
+  "area": "Riviera Maya",
+  "type": "resort",
+  "themes": [
+    "overwater"
+  ],
+  "adultsOnly": false,
+  "address": "Ctra. Federal Cancun-Playa del Carmen KM 298, Solidaridad, Quintana Roo, CP 77710, Mexico",
+  "lat": null,
+  "lng": null,
+  "officialSite": "https://www.rosewoodhotels.com/en/mayakoba-riviera-maya",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": {
+    "code": "CAN"
+  },
+  "tagline": "Suites and villas between lagoon and Caribbean beach in Mayakoba.",
+  "description": "Rosewood Mayakoba stands between a Caribbean beach and the lagoons of Mayakoba, on the Riviera Maya. Guests arrive by boat, and the press sheet describes the grounds as car-free, with trails through mangroves, lagoons and jungle. That sheet counts 129 suites and villas together, 11 event spaces, and 7 restaurants and bars. One suite, the Deluxe Overwater Lagoon Suite, is built over the lagoon. The address is Carretera Federal Cancun-Playa del Carmen, kilometre 298, in Solidaridad, Quintana Roo.\n\nThe Founder's Villa is a beachfront estate of 16,300 square feet with a 92-foot infinity pool. Suites and villas come with 24-hour butler service and 24-hour in-room dining. Check-in begins at 3:00 pm and check-out is at 12:00 pm. Accommodations, dining, spa treatments, cultural experiences and excursions are booked separately.\n\nRooms named on the guest pages include Agave Azul, for Baja seafood with Asian influences; Zapote Bar, for cocktails and live-fire cooking from the Yucatan; Aquí Me Quedo, for guests 18 and older, with Caribbean street food on the beach; Casa del Lago, for Mexican breakfast and Italian dinner beside the lagoon; Punta Bonita, for lunch from Mexico's southern Pacific coast; La Fondita; Pan Dulce; and La Ceiba Garden and Kitchen, a communal table under a ceiba tree. A weekly Chef's Garden Dinner is served in that setting. The largest outdoor spaces hold 550 guests standing or 500 for a seated dinner dance. The Palma Real ballroom complex holds 140 for a reception or 120 for a banquet.\n\nSense, A Rosewood Spa, sits on its own island in the resort and is open every day from 8:00 am to 8:00 pm. It has 12 treatment rooms, hydrotherapy circuits, a heated pool, a sauna, a steam room, a plunge pool, a yoga pavilion and a gym, plus 8 overnight Wellness Suites. A shaman-led temazcal and the Kuxtal sensory garden ritual are on the programme. Family pools are at Punta Bonita and Casa del Lago. Adults-only water includes Aquí Me Quedo, the Spa Serenity Pool and Tha Lap Pool. Golf lessons run through the Jim McLean golf school.\n\nCancun International Airport, code CAN, is 28 miles away. The resort places the drive at about 30 to 40 minutes.",
+  "highlights": [
+    {
+      "label": "Arrival",
+      "value": "Guests reach the resort by boat, through the Mayakoba waterways.",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/mayakoba-riviera-maya",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Overwater suite",
+      "value": "A Deluxe Overwater Lagoon Suite stands over the lagoon.",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/mayakoba-riviera-maya/gallery",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Founder's Villa",
+      "value": "A beachfront estate of 16,300 square feet with a 92-foot infinity pool.",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/mayakoba-riviera-maya/accommodation",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Sense spa",
+      "value": "Twelve treatment rooms on an island within the resort, open 8:00 am to 8:00 pm.",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/mayakoba-riviera-maya/wellness/spa",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Gatherings",
+      "value": "Outdoor space for 550 standing, or 500 for a seated dinner dance.",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/mayakoba-riviera-maya/faq",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Airport",
+      "value": "Cancun International is 28 miles away, about 30 to 40 minutes by car.",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/mayakoba-riviera-maya/overview",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Address",
+      "value": "Ctra. Federal Cancun-Playa del Carmen KM 298, Solidaridad, Quintana Roo, CP 77710, Mexico",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/mayakoba-riviera-maya",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Arrival",
+      "value": "By boat through the Mayakoba waterways",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/mayakoba-riviera-maya",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Press counts",
+      "value": "129 suites and villas; 11 event spaces; 7 restaurants and bars",
+      "sourceUrl": "https://www.rosewoodhotels.com/content/dam/rosewoodhotels/property/mayakoba-riviera-maya/en/documents/press-kit/RWMYK-Fact-Sheet.pdf",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Landscape",
+      "value": "Car-free grounds; trails through mangroves, lagoons and jungle",
+      "sourceUrl": "https://www.rosewoodhotels.com/content/dam/rosewoodhotels/property/mayakoba-riviera-maya/en/documents/press-kit/RWMYK-Fact-Sheet.pdf",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Founder's Villa",
+      "value": "16,300 square feet; 92-foot infinity pool",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/mayakoba-riviera-maya/accommodation",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Service",
+      "value": "24-hour butler service and 24-hour in-room dining",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/mayakoba-riviera-maya/faq",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Check-in and check-out",
+      "value": "Check-in from 3:00 pm; check-out at 12:00 pm",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/mayakoba-riviera-maya/faq",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "How the stay is booked",
+      "value": "Accommodations, dining, spa treatments, cultural experiences and excursions are booked separately",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/mayakoba-riviera-maya/faq",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Dining rooms named",
+      "value": "Agave Azul, Zapote Bar, Aquí Me Quedo, Casa del Lago, Punta Bonita, La Fondita, Pan Dulce, La Ceiba Garden and Kitchen",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/mayakoba-riviera-maya/faq",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Aquí Me Quedo",
+      "value": "Adults only, 18 and older; Caribbean street food on the beach",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/mayakoba-riviera-maya/faq",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "La Ceiba",
+      "value": "Communal table under a ceiba tree; weekly Chef's Garden Dinner",
+      "sourceUrl": "https://www.rosewoodhotels.com/content/dam/rosewoodhotels/property/mayakoba-riviera-maya/en/documents/press-kit/RWMYK-Fact-Sheet.pdf",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Events",
+      "value": "Largest outdoor spaces: 550 standing or 500 seated dinner dance; Palma Real ballroom: 140 reception or 120 banquet",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/mayakoba-riviera-maya/faq",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Sense, A Rosewood Spa",
+      "value": "On its own island; open 8:00 am to 8:00 pm; 12 treatment rooms; hydrotherapy; heated pool, sauna, steam, plunge pool; yoga pavilion; gym; 8 overnight Wellness Suites",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/mayakoba-riviera-maya/wellness/spa",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Rituals",
+      "value": "Shaman-led temazcal; Kuxtal sensory garden ritual",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/mayakoba-riviera-maya/wellness/spa",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Pools",
+      "value": "Family: Punta Bonita and Casa del Lago. Adults only: Aquí Me Quedo, Spa Serenity Pool, Tha Lap Pool",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/mayakoba-riviera-maya/faq",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Golf",
+      "value": "Lessons through the Jim McLean golf school",
+      "sourceUrl": "https://www.rosewoodhotels.com/content/dam/rosewoodhotels/property/mayakoba-riviera-maya/en/documents/press-kit/RWMYK-Fact-Sheet.pdf",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Overwater suite",
+      "value": "Deluxe Overwater Lagoon Suite",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/mayakoba-riviera-maya/gallery",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Airport",
+      "value": "Cancun International Airport (CAN), 28 miles, about 30 to 40 minutes by car",
+      "sourceUrl": "https://www.rosewoodhotels.com/en/mayakoba-riviera-maya/overview",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/rosewood-mayakoba/1.jpg",
+      "srcSmall": "/photos/rosewood-mayakoba/1-640.jpg",
+      "srcMid": "/photos/rosewood-mayakoba/1-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1232,
+      "credit": "Rosewood",
+      "creditUrl": "https://www.rosewoodhotels.com/en/mayakoba-riviera-maya/accommodation",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://picasso.rosewoodhotelgroup.com/transform/53819d1b-5ede-4646-b45e-5a3ad4c619c7/RWMYK_3-0_Brand-com_Assets_The_Founders_Villa_Daytime-3",
+      "localCopy": true,
+      "caption": "The Founder's Villa",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/rosewood-mayakoba/2.jpg",
+      "srcSmall": "/photos/rosewood-mayakoba/2-640.jpg",
+      "srcMid": "/photos/rosewood-mayakoba/2-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1068,
+      "credit": "Rosewood",
+      "creditUrl": "https://www.rosewoodhotels.com/en/mayakoba-riviera-maya",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://picasso.rosewoodhotelgroup.com/transform/e9d58840-1492-4ae7-9235-9e0b14dfea31/RWMYK_3-0_Brand-com_Assets_Lagoon-Presidential_Suite_Outsite",
+      "localCopy": true,
+      "caption": "Lagoon presidential suite exterior",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/rosewood-mayakoba/3.jpg",
+      "srcSmall": "/photos/rosewood-mayakoba/3-640.jpg",
+      "srcMid": "/photos/rosewood-mayakoba/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Rosewood",
+      "creditUrl": "https://www.rosewoodhotels.com/en/mayakoba-riviera-maya",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://picasso.rosewoodhotelgroup.com/transform/e55488e9-4c3f-4b94-9bf3-94b01ad0e5ca/RWMYK_Manglar-Three-Bedroom-Villa_Exterior-Day-jpg",
+      "localCopy": true,
+      "caption": "Manglar villa on the lagoon",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/rosewood-mayakoba/4.jpg",
+      "srcSmall": "/photos/rosewood-mayakoba/4-640.jpg",
+      "srcMid": "/photos/rosewood-mayakoba/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1068,
+      "credit": "Rosewood",
+      "creditUrl": "https://www.rosewoodhotels.com/en/mayakoba-riviera-maya",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://picasso.rosewoodhotelgroup.com/transform/317304bf-a54a-47b9-ae3f-9acae4e166de/RWMYK_3-0_Brand-com_Assets_Cenote-Two_Bedroom-Villa_Pool_and_Deck",
+      "localCopy": true,
+      "caption": "Pool deck beside the lagoon",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/rosewood-mayakoba/5.jpg",
+      "srcSmall": "/photos/rosewood-mayakoba/5-640.jpg",
+      "srcMid": "/photos/rosewood-mayakoba/5-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1068,
+      "credit": "Rosewood",
+      "creditUrl": "https://www.rosewoodhotels.com/en/mayakoba-riviera-maya",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://picasso.rosewoodhotelgroup.com/transform/c927633a-2a2b-4104-ac7f-09c5a076cf84/RWMYK_3-0_Brand-com_Assets_Paraiso-Four-Bedroom-Villa_Exterior-Day",
+      "localCopy": true,
+      "caption": "Paraiso villa exterior",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/rosewood-mayakoba/6.jpg",
+      "srcSmall": "/photos/rosewood-mayakoba/6-640.jpg",
+      "srcMid": "/photos/rosewood-mayakoba/6-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1086,
+      "credit": "Rosewood",
+      "creditUrl": "https://www.rosewoodhotels.com/en/mayakoba-riviera-maya/dining",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://picasso.rosewoodhotelgroup.com/transform/100b2481-d326-4703-a1ae-185634e4b8de/RWMYK_3-0_Brand-com_Assets_La-Ceiba-23",
+      "localCopy": true,
+      "caption": "La Ceiba",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/rosewood-mayakoba/7.jpg",
+      "srcSmall": "/photos/rosewood-mayakoba/7-640.jpg",
+      "srcMid": "/photos/rosewood-mayakoba/7-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1068,
+      "credit": "Rosewood",
+      "creditUrl": "https://www.rosewoodhotels.com/en/mayakoba-riviera-maya",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://picasso.rosewoodhotelgroup.com/transform/05e9e093-854f-4b61-8dd6-8c52a263d87f/RWMYK_Deluxe-Overwater_Lagoon-Suite_Dining-Room",
+      "localCopy": true,
+      "caption": "Deluxe Overwater Lagoon Suite",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/rosewood-mayakoba/8.jpg",
+      "srcSmall": "/photos/rosewood-mayakoba/8-640.jpg",
+      "srcMid": "/photos/rosewood-mayakoba/8-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1006,
+      "credit": "Rosewood",
+      "creditUrl": "https://www.rosewoodhotels.com/en/mayakoba-riviera-maya/wellness/spa",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://picasso.rosewoodhotelgroup.com/transform/01f8921b-94ab-4742-ba1d-f3238dbe0e31/RWMYK_3-0_Brand-com_Assets_Wellness-Suite_Living_Area",
+      "localCopy": true,
+      "caption": "Wellness suite living area",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-09"
+}

@@ -1,0 +1,346 @@
+{
+  "slug": "four-seasons-punta-mita",
+  "name": "Four Seasons Resort Punta Mita",
+  "operator": "Four Seasons",
+  "brand": "Four Seasons",
+  "country": "Mexico",
+  "region": "Caribbean & Latin America",
+  "city": "Punta Mita",
+  "area": "Riviera Nayarit",
+  "type": "resort",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "Punta Mita, Bahía de Banderas, Nayarit 63734, Mexico",
+  "lat": null,
+  "lng": null,
+  "officialSite": "https://www.fourseasons.com/puntamita/",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": {
+    "code": "PVR",
+    "minutes": 45
+  },
+  "tagline": "Casitas, suites and villas on a gated peninsula in Bahía de Banderas.",
+  "description": "Four Seasons Resort Punta Mita occupies a private, gated peninsula on Bahía de Banderas, in Riviera Nayarit, inside a double-gated community. The resort describes that setting as a 52-acre private peninsula and, on its directions page, as sitting on a 400-acre nature reserve. Beaches run for 2 kilometres, about 1.25 miles. The printed address is Punta Mita, Bahía de Banderas, Nayarit 63734.\n\nAn Oceanfront Plunge Pool Casita measures 60 square metres, or 645 square feet, of indoor and outdoor space, for 3 adults or 2 adults and 2 children. A two-bedroom Ocean Plunge Pool Suite measures 211 square metres, or 2,270 square feet, for 5 adults or 3 adults and 3 children. Casa Tesoro has seven bedrooms, five with king beds and two with queen beds, covers 5,000 square metres, or 53,819 square feet, and holds 14 guests, including up to 7 children. Cielo is a five-bedroom oceanfront villa of 1,200 square metres, or 12,900 square feet. Marea is a four-bedroom beach house of 669 square metres, or 7,200 square feet, listed from 8 adults. Coral Beach House, five bedrooms, measures 1,900 square metres, or 20,451 square feet, listed from 10 adults. Arena Beach House, also five bedrooms, measures 1,740 square metres, or 18,729 square feet, listed from 10 adults.\n\nThree pools shape the grounds: the infinity-edge Nuna, the adults-only Tamai, and a lazy river with the Drift swim-up bar. Cuevas Beach sits between the rocks. Apuane Spa has 13 treatment rooms, hot and cold pools, ice fountains, eucalyptus steam rooms and saunas. Spa facilities run from 7:00 am to 7:00 pm, the fitness centre is open 24 hours, and the salon runs from 9:00 am to 6:00 pm. The Punta Mita Tequila Stone massage uses tequila and sage oil.\n\nThe resort counts five restaurants and fourteen bars. Dos Catrinas serves Mexican cooking. Bahia is a beach restaurant for grilled meat, seafood and vegetables. Tamai, beside the spa, serves plant-based bowls, sushi and sashimi. The Salad Shack is on Manzanillas beach. Mez works with more than 70 varieties of mezcal. Golf is two Jack Nicklaus courses, Pacifico and Bahia, at Punta Mita Golf Club. Tail of the Whale is a natural island green played only at low tide.\n\nHakari Cultural Center runs programmes for children and adults. Up to two dogs or cats may stay in a guest room at no extra charge. Puerto Vallarta International Airport, PVR, is 20 kilometres, or 12.5 miles, and a 45-minute drive.",
+  "highlights": [
+    {
+      "label": "Peninsula",
+      "value": "A 52-acre private peninsula, described elsewhere as a 400-acre nature reserve.",
+      "sourceUrl": "https://www.fourseasons.com/puntamita/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Casa Tesoro",
+      "value": "Seven bedrooms and 5,000 square metres, for 14 guests.",
+      "sourceUrl": "https://www.fourseasons.com/puntamita/accommodations/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Pools",
+      "value": "Infinity-edge Nuna, adults-only Tamai, and a lazy river with Drift Bar.",
+      "sourceUrl": "https://www.fourseasons.com/puntamita/services-and-amenities/pools-and-beach/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Apuane Spa",
+      "value": "Thirteen treatment rooms, open 7:00 am to 7:00 pm.",
+      "sourceUrl": "https://www.fourseasons.com/puntamita/spa/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Golf",
+      "value": "Jack Nicklaus courses Pacifico and Bahia, with the Tail of the Whale island green.",
+      "sourceUrl": "https://www.fourseasons.com/puntamita/golf/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Airport",
+      "value": "Puerto Vallarta is 45 minutes by car, 20 kilometres away.",
+      "sourceUrl": "https://www.fourseasons.com/puntamita/getting-here/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Address",
+      "value": "Punta Mita, Bahía de Banderas, Nayarit 63734, Mexico",
+      "sourceUrl": "https://www.fourseasons.com/puntamita/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Peninsula",
+      "value": "52-acre private peninsula in a double-gated community, Riviera Nayarit",
+      "sourceUrl": "https://www.fourseasons.com/puntamita/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Nature reserve",
+      "value": "Directions page: sits on a 400-acre nature reserve within a private gated peninsula",
+      "sourceUrl": "https://www.fourseasons.com/puntamita/getting-here/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Beaches",
+      "value": "2 kilometres (about 1.25 miles)",
+      "sourceUrl": "https://www.fourseasons.com/puntamita/services-and-amenities/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Oceanfront Plunge Pool Casita",
+      "value": "60 square metres (645 square feet); 3 adults, or 2 adults and 2 children",
+      "sourceUrl": "https://www.fourseasons.com/puntamita/accommodations/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Ocean Plunge Pool Suite, two bedroom",
+      "value": "211 square metres (2,270 square feet); 5 adults, or 3 adults and 3 children",
+      "sourceUrl": "https://www.fourseasons.com/puntamita/accommodations/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Casa Tesoro",
+      "value": "Seven bedrooms (five king, two queen); 5,000 square metres (53,819 square feet); 14 guests, including up to 7 children",
+      "sourceUrl": "https://www.fourseasons.com/puntamita/accommodations/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Cielo",
+      "value": "Five-bedroom oceanfront villa; 1,200 square metres (12,900 square feet)",
+      "sourceUrl": "https://www.fourseasons.com/puntamita/accommodations/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Marea",
+      "value": "Four-bedroom beach house; 669 square metres (7,200 square feet); listed from 8 adults",
+      "sourceUrl": "https://www.fourseasons.com/puntamita/accommodations/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Coral Beach House",
+      "value": "Five bedrooms; 1,900 square metres (20,451 square feet); listed from 10 adults",
+      "sourceUrl": "https://www.fourseasons.com/puntamita/accommodations/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Arena Beach House",
+      "value": "Five bedrooms; 1,740 square metres (18,729 square feet); listed from 10 adults",
+      "sourceUrl": "https://www.fourseasons.com/puntamita/accommodations/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Pools",
+      "value": "Infinity-edge Nuna; adults-only Tamai; lazy river with Drift swim-up bar; Cuevas Beach",
+      "sourceUrl": "https://www.fourseasons.com/puntamita/services-and-amenities/pools-and-beach/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Apuane Spa",
+      "value": "13 treatment rooms; hot and cold pools; ice fountains; eucalyptus steam; saunas",
+      "sourceUrl": "https://www.fourseasons.com/puntamita/spa/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Hours",
+      "value": "Spa facilities 7:00 am to 7:00 pm; fitness 24 hours; salon 9:00 am to 6:00 pm",
+      "sourceUrl": "https://www.fourseasons.com/puntamita/spa/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Punta Mita Tequila Stone",
+      "value": "Signature massage using tequila and sage oil",
+      "sourceUrl": "https://www.fourseasons.com/puntamita/spa/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Dining count",
+      "value": "Five restaurants and fourteen bars",
+      "sourceUrl": "https://www.fourseasons.com/puntamita/services-and-amenities/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Named dining",
+      "value": "Dos Catrinas; Bahia beach restaurant; Tamai beside the spa; Salad Shack on Manzanillas beach; Mez, with more than 70 varieties of mezcal; Drift Bar",
+      "sourceUrl": "https://www.fourseasons.com/puntamita/dining/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Golf",
+      "value": "Two Jack Nicklaus courses, Pacifico and Bahia; Tail of the Whale natural island green, played only at low tide",
+      "sourceUrl": "https://www.fourseasons.com/puntamita/golf/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Hakari",
+      "value": "Cultural centre programmes for children and adults",
+      "sourceUrl": "https://www.fourseasons.com/puntamita/services-and-amenities/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Pets",
+      "value": "Up to two dogs or cats per guest room, no additional charge",
+      "sourceUrl": "https://www.fourseasons.com/puntamita/services-and-amenities/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Airport",
+      "value": "Puerto Vallarta International Airport (PVR), 45 minutes by car, 20 km / 12.5 miles",
+      "sourceUrl": "https://www.fourseasons.com/puntamita/getting-here/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/four-seasons-punta-mita/1.jpg",
+      "srcSmall": "/photos/four-seasons-punta-mita/1-640.jpg",
+      "srcMid": "/photos/four-seasons-punta-mita/1-1000.jpg",
+      "srcHero": "/photos/four-seasons-punta-mita/1-2400.jpg",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Four Seasons",
+      "creditUrl": "https://www.fourseasons.com/puntamita/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/content/dam/fourseasons/images/web/PUN/PUN_1662_original.jpg",
+      "localCopy": true,
+      "caption": "Coast and resort from above",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/four-seasons-punta-mita/2.jpg",
+      "srcSmall": "/photos/four-seasons-punta-mita/2-640.jpg",
+      "srcMid": "/photos/four-seasons-punta-mita/2-1000.jpg",
+      "srcHero": "/photos/four-seasons-punta-mita/2-2400.jpg",
+      "width": 1600,
+      "height": 900,
+      "credit": "Four Seasons",
+      "creditUrl": "https://www.fourseasons.com/puntamita/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/content/dam/fourseasons/images/web/PUN/PUN_2458_original.jpg",
+      "localCopy": true,
+      "caption": "Lazy river from above",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/four-seasons-punta-mita/3.jpg",
+      "srcSmall": "/photos/four-seasons-punta-mita/3-640.jpg",
+      "srcMid": "/photos/four-seasons-punta-mita/3-1000.jpg",
+      "srcHero": "/photos/four-seasons-punta-mita/3-2400.jpg",
+      "width": 1600,
+      "height": 1200,
+      "credit": "Four Seasons",
+      "creditUrl": "https://www.fourseasons.com/puntamita/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/content/dam/fourseasons/images/web/PUN/PUN_2536_original.jpg",
+      "localCopy": true,
+      "caption": "Beach and palms from above",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/four-seasons-punta-mita/4.jpg",
+      "srcSmall": "/photos/four-seasons-punta-mita/4-640.jpg",
+      "srcMid": "/photos/four-seasons-punta-mita/4-1000.jpg",
+      "srcHero": "/photos/four-seasons-punta-mita/4-2400.jpg",
+      "width": 1600,
+      "height": 857,
+      "credit": "Four Seasons",
+      "creditUrl": "https://www.fourseasons.com/puntamita/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/content/dam/fourseasons/images/web/PUN/PUN_1049_original.jpg",
+      "localCopy": true,
+      "caption": "Infinity pool above the rocks",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/four-seasons-punta-mita/5.jpg",
+      "srcSmall": "/photos/four-seasons-punta-mita/5-640.jpg",
+      "srcMid": "/photos/four-seasons-punta-mita/5-1000.jpg",
+      "srcHero": "/photos/four-seasons-punta-mita/5-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Four Seasons",
+      "creditUrl": "https://www.fourseasons.com/puntamita/dining/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/content/dam/fourseasons/images/web/PUN/PUN_1650_original.jpg",
+      "localCopy": true,
+      "caption": "Open-air dining toward the beach",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/four-seasons-punta-mita/6.jpg",
+      "srcSmall": "/photos/four-seasons-punta-mita/6-640.jpg",
+      "srcMid": "/photos/four-seasons-punta-mita/6-1000.jpg",
+      "srcHero": "/photos/four-seasons-punta-mita/6-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Four Seasons",
+      "creditUrl": "https://www.fourseasons.com/puntamita/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/content/dam/fourseasons/images/web/PUN/PUN_1730_original.jpg",
+      "localCopy": true,
+      "caption": "Terrace looking over the Pacific",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/four-seasons-punta-mita/7.jpg",
+      "srcSmall": "/photos/four-seasons-punta-mita/7-640.jpg",
+      "srcMid": "/photos/four-seasons-punta-mita/7-1000.jpg",
+      "srcHero": "/photos/four-seasons-punta-mita/7-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Four Seasons",
+      "creditUrl": "https://www.fourseasons.com/puntamita/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/content/dam/fourseasons/images/web/PUN/PUN_2188_original.jpg",
+      "localCopy": true,
+      "caption": "Pool and beach at sunset",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/four-seasons-punta-mita/8.jpg",
+      "srcSmall": "/photos/four-seasons-punta-mita/8-640.jpg",
+      "srcMid": "/photos/four-seasons-punta-mita/8-1000.jpg",
+      "srcHero": "/photos/four-seasons-punta-mita/8-2400.jpg",
+      "width": 1600,
+      "height": 1200,
+      "credit": "Four Seasons",
+      "creditUrl": "https://www.fourseasons.com/puntamita/services-and-amenities/pools-and-beach/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/content/dam/fourseasons/images/web/PUN/PUN_2350_original.jpg",
+      "localCopy": true,
+      "caption": "Cabanas on the sand",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-09"
+}

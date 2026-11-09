@@ -1,0 +1,237 @@
+{
+  "slug": "joali-maldives",
+  "name": "JOALI Maldives",
+  "operator": "JOALI",
+  "brand": "JOALI",
+  "country": "Maldives",
+  "region": "Indian Ocean",
+  "city": "",
+  "area": "Muravandhoo, Raa Atoll",
+  "type": "island",
+  "themes": [
+    "overwater"
+  ],
+  "adultsOnly": false,
+  "address": "Muravandhoo Island, Raa Atoll, Maldives",
+  "lat": 5.60849,
+  "lng": 72.95275,
+  "officialSite": "https://www.joali.com/joali-maldives/",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": null,
+  "tagline": "Seventy-three villas on Muravandhoo, a 45-minute seaplane from Velana.",
+  "description": "JOALI Maldives occupies Muravandhoo Island in Raa Atoll, in the north of the Maldives. Seventy-three villas and residences, beach and overwater, are spread across the island. The seaplane from Velana International Airport takes about 45 minutes and flies in daylight. Guests whose international flights land between 6:00 am and 3:30 pm are met for the JOALI lounge and that onward flight.\n\nThe stay is not all inclusive. Meal plans are bed and breakfast or half board, and the restaurants also serve a la carte. Every villa has a private pool and a Jadugar, the resident butler. There are 10 one-bedroom water villas with pools. The Luxury Sunset Villa has a 35 square metre infinity pool. The three-bedroom ocean residence has two infinity pools. Beach residences run to three and four bedrooms. The four-bedroom beach residence is a duplex, with a pool, a room for the Jadugar, and a buggy with a driver.\n\nSaoke, the Japanese restaurant, stands over the water. Noriyoshi Muramatsu designed it, and the kitchen serves sake, sushi and teppanyaki. Vandhoo takes breakfast and dinner, with Southeast Asian, Chinese and Indian cooking. Bellinis is the Italian dining room. La Joie sells chocolate and ice cream through the day.\n\nJOALI BEING Cure is the wellness centre, built around the four pillars used at JOALI BEING. Overwater treatment rooms include a private steam room and a sauna. There is a hammam, a fitness studio and an outdoor gym. Muramas Kids Club is for children from 1 to 12, open daily from 9:00 am to 7:00 pm. Tennis, padel, a marine centre and diving are on the island, and a day trip to JOALI BEING can be requested.\n\nJOALI suits families and couples who want a pool villa on the beach or over the water, and who would rather choose a meal plan than an all-inclusive rate.",
+  "highlights": [
+    {
+      "label": "Villas and residences",
+      "value": "73 beach villas, overwater villas and residences, each with a pool and a Jadugar.",
+      "sourceUrl": "https://www.joali.com/joali-maldives/villas-and-residences/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Seaplane",
+      "value": "About 45 minutes from Velana International Airport, in daylight.",
+      "sourceUrl": "https://www.joali.com/joali-maldives/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Saoke",
+      "value": "An overwater Japanese restaurant by Noriyoshi Muramatsu, with sushi and teppanyaki.",
+      "sourceUrl": "https://www.joali.com/joali-maldives/restaurants/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Meal plans",
+      "value": "Bed and breakfast or half board, with a la carte in the restaurants.",
+      "sourceUrl": "https://www.joali.com/joali-maldives/restaurants/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "JOALI BEING Cure",
+      "value": "Overwater treatment rooms with a private steam room and sauna, plus a hammam.",
+      "sourceUrl": "https://www.joali.com/joali-maldives/spa-and-wellness/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Muramas",
+      "value": "The kids club takes children from 1 to 12, daily from 9:00 am to 7:00 pm.",
+      "sourceUrl": "https://www.joali.com/joali-maldives/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Accommodations",
+      "value": "73 villas and residences",
+      "sourceUrl": "https://www.joali.com/joali-maldives/villas-and-residences/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Water villas",
+      "value": "10 one-bedroom water villas with pool",
+      "sourceUrl": "https://www.joali.com/joali-maldives/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Larger residences",
+      "value": "Three-bedroom ocean residence with two pools; four-bedroom beach residence",
+      "sourceUrl": "https://www.joali.com/joali-maldives/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Sunset villa pool",
+      "value": "35 square metre infinity pool",
+      "sourceUrl": "https://www.joali.com/joali-maldives/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Seaplane",
+      "value": "About 45 minutes from Velana International Airport; transfers for arrivals 6:00 am to 3:30 pm",
+      "sourceUrl": "https://www.joali.com/joali-maldives/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Meal plans",
+      "value": "Bed and breakfast or half board; not all inclusive",
+      "sourceUrl": "https://www.joali.com/joali-maldives/restaurants/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Kids club",
+      "value": "Muramas, ages 1 to 12, 9:00 am to 7:00 pm",
+      "sourceUrl": "https://www.joali.com/joali-maldives/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Coordinates",
+      "value": "latitude 5.60849, longitude 72.95275",
+      "sourceUrl": "https://www.joali.com/joali-maldives/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Address",
+      "value": "Muravandhoo Island, Raa Atoll, Maldives",
+      "sourceUrl": "https://www.joali.com/joali-maldives/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/joali-maldives/1.jpg",
+      "srcSmall": "/photos/joali-maldives/1-640.jpg",
+      "srcMid": "/photos/joali-maldives/1-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 901,
+      "credit": "JOALI",
+      "creditUrl": "https://www.joali.com/joali-maldives/villas-and-residences/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.joali.com/media/d4bnlfsz/joali_watervilla_2000.jpg",
+      "localCopy": true,
+      "caption": "An overwater villa and its pool",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/joali-maldives/2.jpg",
+      "srcSmall": "/photos/joali-maldives/2-640.jpg",
+      "srcMid": "/photos/joali-maldives/2-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 901,
+      "credit": "JOALI",
+      "creditUrl": "https://www.joali.com/joali-maldives/villas-and-residences/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.joali.com/media/lctjc5li/villas_2000.jpg",
+      "localCopy": true,
+      "caption": "A beach residence at dusk",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/joali-maldives/3.jpg",
+      "srcSmall": "/photos/joali-maldives/3-640.jpg",
+      "srcMid": "/photos/joali-maldives/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 901,
+      "credit": "JOALI",
+      "creditUrl": "https://www.joali.com/joali-maldives/villas-and-residences/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.joali.com/media/cl3dksnx/joali_watervilla_2_2000.jpg",
+      "localCopy": true,
+      "caption": "The deck of a water villa",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/joali-maldives/4.jpg",
+      "srcSmall": "/photos/joali-maldives/4-640.jpg",
+      "srcMid": "/photos/joali-maldives/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 901,
+      "credit": "JOALI",
+      "creditUrl": "https://www.joali.com/joali-maldives/villas-and-residences/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.joali.com/media/2undzmnx/joali_watervilla_6_2000.jpg",
+      "localCopy": true,
+      "caption": "A water villa bedroom",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/joali-maldives/5.jpg",
+      "srcSmall": "/photos/joali-maldives/5-640.jpg",
+      "srcMid": "/photos/joali-maldives/5-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 901,
+      "credit": "JOALI",
+      "creditUrl": "https://www.joali.com/joali-maldives/villas-and-residences/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.joali.com/media/stacywdk/joali_watervilla_8_2000.jpg",
+      "localCopy": true,
+      "caption": "A water villa sitting room",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/joali-maldives/6.jpg",
+      "srcSmall": "/photos/joali-maldives/6-640.jpg",
+      "srcMid": "/photos/joali-maldives/6-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 901,
+      "credit": "JOALI",
+      "creditUrl": "https://www.joali.com/joali-maldives/villas-and-residences/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.joali.com/media/a1qkwduf/joali_threebedroomsocean_10_2000.jpg",
+      "localCopy": true,
+      "caption": "A bathroom open to the deck",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-09"
+}

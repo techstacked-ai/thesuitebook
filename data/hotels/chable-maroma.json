@@ -1,0 +1,262 @@
+{
+  "slug": "chable-maroma",
+  "name": "Chablé Maroma",
+  "operator": "Chablé Hotels",
+  "brand": "Chablé",
+  "country": "Mexico",
+  "region": "Caribbean & Latin America",
+  "city": "Maroma Beach",
+  "area": "Riviera Maya",
+  "type": "resort",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "Maroma Beach, Riviera Maya, Mexico",
+  "lat": null,
+  "lng": null,
+  "officialSite": "https://maroma.chablehotels.com/",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": {
+    "code": "CUN",
+    "minutes": 40
+  },
+  "tagline": "Pool villas above the jungle and the sand at Maroma Beach.",
+  "description": "Chablé Maroma is a beachfront resort on Maroma Beach, in the Riviera Maya, with the Caribbean immediately in front of the property. The stay is arranged as pool villas. Designer Paulina Morán worked on the interiors, which use floor-to-ceiling windows, indoor-outdoor showers and a private terrace and pool at each villa.\n\nA Treetop Pool Villa and a Treetop Double Pool Villa each measure 1,152 square feet, or 107 square metres, with one king bed or two queen beds, for up to 3 adults or 2 adults and 2 children. Both sit on the second floor and have a plunge pool. A Jungle Pool Villa measures the same 1,152 square feet, with one king bed, for up to 2 adults and 1 child under 12, a walk-in bathroom and a moon shower. A Serenity Pool Villa measures 1,206 square feet, or 112 square metres, with one king bed, for up to 2 guests, and a heated plunge pool on a private terrace.\n\nOn its own page, the Presidential Villa of three bedrooms measures 4,912.54 square feet, or 456.39 square metres, for 4 to 6 guests. The ground floor holds the living area, dining room and a principal bedroom with a handcrafted bathtub, a double sink, two walk-in rain showers and a moon shower, opening to a private heated pool. The second floor has two further rooms, one with a king bed and one with two queen beds, each with a balcony and a plunge pool. The stay overview prints another size for this villa, 5,813 square feet, or 540 square metres, for up to 8 guests, or 6 adults and 2 children.\n\nJorge Vallejo leads the restaurants of Chablé Hotels. His Mexico City restaurant, Quintonil, holds two Michelin stars, and The World's 50 Best Restaurants 2025 places it first in North America and third worldwide. At Maroma, Bu'ul cooks from corn, beans and chilies, ingredients the Michelin Guide notes on the menu, and it opens at 6:00 pm every day except Monday. Raw Bar is a partnership with Rayo Cocktail Bar, ranked fifth on North America's 50 Best Bars in 2024. Kaban is the third dining room.\n\nExperiences include cenote diving, catamaran sailing, and cooking and cocktail classes. Yoga is held on the beach, and a water ceremony is part of the wellness programme. Cancun International Airport, CUN, is about 40 minutes by car, and private transfers can be arranged.",
+  "highlights": [
+    {
+      "label": "Villas",
+      "value": "Treetop, jungle and serenity pool villas, each with a private pool.",
+      "sourceUrl": "https://maroma.chablehotels.com/stay/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Presidential Villa",
+      "value": "Three bedrooms and 4,912.54 square feet, for 4 to 6 guests.",
+      "sourceUrl": "https://maroma.chablehotels.com/stay/presidential-villa-3-bdr/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Bu'ul",
+      "value": "Dinner from 6:00 pm, closed Mondays, with Jorge Vallejo leading the kitchens.",
+      "sourceUrl": "https://maroma.chablehotels.com/cuisine/buul/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Raw Bar",
+      "value": "A partnership with Rayo, fifth on North America's 50 Best Bars in 2024.",
+      "sourceUrl": "https://maroma.chablehotels.com/cuisine/buul/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Beach",
+      "value": "The resort sits directly on Maroma Beach.",
+      "sourceUrl": "https://maroma.chablehotels.com/faqs/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Airport",
+      "value": "Cancun International is about 40 minutes by car.",
+      "sourceUrl": "https://maroma.chablehotels.com/faqs/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Maroma Beach, Riviera Maya, Mexico, directly on the beach",
+      "sourceUrl": "https://maroma.chablehotels.com/faqs/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Designer",
+      "value": "Paulina Morán",
+      "sourceUrl": "https://maroma.chablehotels.com/stay/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Treetop Pool Villa and Treetop Double Pool Villa",
+      "value": "1,152 square feet (107 square metres); one king or two queens; up to 3 adults, or 2 adults and 2 children; second floor; plunge pool",
+      "sourceUrl": "https://maroma.chablehotels.com/stay/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Jungle Pool Villa",
+      "value": "1,152 square feet (107 square metres); one king; up to 2 adults and 1 child under 12; moon shower; plunge pool",
+      "sourceUrl": "https://maroma.chablehotels.com/stay/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Serenity Pool Villa",
+      "value": "1,206 square feet (112 square metres); one king; up to 2 guests; heated plunge pool",
+      "sourceUrl": "https://maroma.chablehotels.com/stay/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Presidential Villa, dedicated page",
+      "value": "4,912.54 square feet (456.39 square metres); 4 to 6 guests; handcrafted bathtub; heated pool; two further rooms upstairs, one king and two queens",
+      "sourceUrl": "https://maroma.chablehotels.com/stay/presidential-villa-3-bdr/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Presidential Villa, stay overview",
+      "value": "A different figure is printed on the stay overview: 5,813 square feet (540 square metres), up to 8 guests or 6 adults and 2 children",
+      "sourceUrl": "https://maroma.chablehotels.com/stay/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Jorge Vallejo",
+      "value": "Leads Chablé Hotels restaurants; Quintonil holds two Michelin stars and is ranked first in North America and third worldwide on The World's 50 Best Restaurants 2025",
+      "sourceUrl": "https://maroma.chablehotels.com/cuisine/buul/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Bu'ul",
+      "value": "Michelin Guide notes dishes of corn, beans and chilies; open from 6:00 pm daily except Monday",
+      "sourceUrl": "https://maroma.chablehotels.com/cuisine/buul/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Raw Bar",
+      "value": "Partnership with Rayo Cocktail Bar, ranked fifth on North America's 50 Best Bars 2024",
+      "sourceUrl": "https://maroma.chablehotels.com/cuisine/buul/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Kaban",
+      "value": "A dining room at the resort",
+      "sourceUrl": "https://maroma.chablehotels.com/cuisine/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Experiences",
+      "value": "Cenote diving, catamaran sailing, cooking classes, cocktail classes, beach yoga, water ceremony",
+      "sourceUrl": "https://maroma.chablehotels.com/experiences/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Airport",
+      "value": "Cancun International Airport (CUN), about 40 minutes by car; private transfers can be arranged",
+      "sourceUrl": "https://maroma.chablehotels.com/faqs/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/chable-maroma/1.jpg",
+      "srcSmall": "/photos/chable-maroma/1-640.jpg",
+      "srcMid": "/photos/chable-maroma/1-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 900,
+      "credit": "Chablé Maroma",
+      "creditUrl": "https://maroma.chablehotels.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "",
+      "localCopy": true,
+      "caption": "Beach and palms at Maroma",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/chable-maroma/2.jpg",
+      "srcSmall": "/photos/chable-maroma/2-640.jpg",
+      "srcMid": "/photos/chable-maroma/2-1000.jpg",
+      "srcHero": "/photos/chable-maroma/2-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Chablé Maroma",
+      "creditUrl": "https://maroma.chablehotels.com/stay/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "",
+      "localCopy": true,
+      "caption": "Jungle pool villa",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/chable-maroma/3.jpg",
+      "srcSmall": "/photos/chable-maroma/3-640.jpg",
+      "srcMid": "/photos/chable-maroma/3-1000.jpg",
+      "srcHero": "/photos/chable-maroma/3-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Chablé Maroma",
+      "creditUrl": "https://maroma.chablehotels.com/stay/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "",
+      "localCopy": true,
+      "caption": "Serenity pool villa",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/chable-maroma/4.jpg",
+      "srcSmall": "/photos/chable-maroma/4-640.jpg",
+      "srcMid": "/photos/chable-maroma/4-1000.jpg",
+      "srcHero": "/photos/chable-maroma/4-2400.jpg",
+      "width": 1600,
+      "height": 1068,
+      "credit": "Chablé Maroma",
+      "creditUrl": "https://maroma.chablehotels.com/stay/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "",
+      "localCopy": true,
+      "caption": "Treetop pool villa",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/chable-maroma/5.jpg",
+      "srcSmall": "/photos/chable-maroma/5-640.jpg",
+      "srcMid": "/photos/chable-maroma/5-1000.jpg",
+      "srcHero": "/photos/chable-maroma/5-2400.jpg",
+      "width": 1600,
+      "height": 841,
+      "credit": "Chablé Maroma",
+      "creditUrl": "https://maroma.chablehotels.com/stay/presidential-villa-3-bdr/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "",
+      "localCopy": true,
+      "caption": "Presidential villa pool",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/chable-maroma/6.jpg",
+      "srcSmall": "/photos/chable-maroma/6-640.jpg",
+      "srcMid": "/photos/chable-maroma/6-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Chablé Maroma",
+      "creditUrl": "https://maroma.chablehotels.com/wellness/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "",
+      "localCopy": true,
+      "caption": "Treatment cabin",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-09"
+}

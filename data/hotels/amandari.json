@@ -1,0 +1,250 @@
+{
+  "operator": "Aman",
+  "brand": "Aman",
+  "country": "Indonesia",
+  "region": "Asia",
+  "city": "Ubud",
+  "area": "Kedewatan",
+  "type": "resort",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "Amandari, Kedewatan, Ubud, Bali, Indonesia",
+  "lat": -8.488825,
+  "lng": 115.246446,
+  "officialSite": "https://www.aman.com/resorts/amandari",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": 1989,
+  "airport": {
+    "code": "DPS",
+    "minutes": 90
+  },
+  "tagline": "A Balinese village above the Ayung gorge, opened by Aman in 1989.",
+  "description": "Amandari stands in the village of Kedewatan, on the lip of the Ayung River gorge above Ubud. Aman opened it in 1989, a year after Amanpuri. The architect Peter Muller had held the idea of a Balinese village resort since 1970, and he completed the drawings for this site in eight days. Alang-alang thatch, coconut, teak, bamboo and stone gateways follow that plan. A sacred stone tiger stands at the approach.\n\nNgurah Rai International Airport, which the resort also prints as Bali International Airport (DPS), is about one and a half hours to the south. Round-trip transfers are included with every stay. The 28-metre pool follows the curve of the rice terraces below, and the resort's own history calls it the first infinity pool in Bali. One hard tennis court sits next to the spa. A gym overlooks a lotus pond, and a beauty room, a sauna and a steam room complete the wellness rooms. Two open-air treatment bales stand among the lotus. Bagjo Indrijanto is the resident spiritual healer.\n\nPavilions and villas are free-standing and reached by paths. Valley Pavilions and Garden Pavilions are each 250 square metres. Garden Pool Pavilions and Ayung Pool Villas are each 265 square metres. Duplex Pavilions are 280 square metres. The Asmara Pool Villa is 352 square metres, an Ayung Pool Duplex is 420 square metres, and a One-Bedroom Villa is 450 square metres. Duplex Pool Villas are 465 square metres. The Three-Bedroom Villa is 688 square metres. The Two-Bedroom Villa is 700 square metres and has an infinity pool.\n\nThe Restaurant is open to the air above the valley and serves Indonesian and international cooking. The Terrace Bar, beside the pool, serves light meals through the day, with cigars and cocktails in the evening. A private dining bale on the gorge seats up to four. A private Ngejot feast, with a Penyembrama dance, can be arranged on 24 hours' notice. In the evening the Megibung feast, inspired by the last King of Karangasem, is served with live dance. Sundowners are laid on the hill.\n\nDaily breakfast, traditional afternoon tea, and in-room refreshments and non-alcoholic drinks are included, together with a drop-off and pick-up at Museum Puri Lukisan, 30 minutes of steam and sauna each day when reserved ahead, and a daily Balinese dance and rindik class with children from Kedewatan. A dawn Melukat at Tirta Empul can be arranged with a storyteller from Manukaya Let.\n\nAmandari suits a quiet stay in Ubud for a couple or a family who want the long pool, Balinese ritual, and a pavilion or villa above the gorge.",
+  "highlights": [
+    {
+      "label": "The pool",
+      "value": "A 28-metre pool follows the rice terraces, and the resort calls it the first infinity pool in Bali.",
+      "sourceUrl": "https://www.aman.com/resorts/amandari/story",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Villas",
+      "value": "The Two-Bedroom Villa is 700 square metres with an infinity pool, and the Three-Bedroom Villa is 688 square metres.",
+      "sourceUrl": "https://www.aman.com/resorts/amandari/accommodation",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "The Restaurant",
+      "value": "Open-air dining above the Ayung valley, with Indonesian and international cooking.",
+      "sourceUrl": "https://www.aman.com/resorts/amandari/dining",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Megibung",
+      "value": "An evening feast inspired by the last King of Karangasem, served with live dance.",
+      "sourceUrl": "https://www.aman.com/resorts/amandari/dining",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Spa",
+      "value": "Two open-air treatment bales sit by the lotus pond, with a sauna, a steam room and a hard tennis court.",
+      "sourceUrl": "https://www.aman.com/resorts/amandari/wellness",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Included",
+      "value": "Breakfast, afternoon tea, airport transfers, and a daily dance and rindik class with children from Kedewatan.",
+      "sourceUrl": "https://www.aman.com/resorts/amandari/accommodation",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Opened",
+      "value": "1989, a year after Amanpuri (1988). Peter Muller completed the design in eight days; the idea dates from 1970.",
+      "sourceUrl": "https://www.aman.com/resorts/amandari/story",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Pool",
+      "value": "28-metre swimming pool; described as the first infinity pool in Bali.",
+      "sourceUrl": "https://www.aman.com/resorts/amandari/wellness",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Airport",
+      "value": "About one and a half hours from Ngurah Rai / Bali International Airport (DPS). Round-trip transfers included.",
+      "sourceUrl": "https://www.aman.com/resorts/amandari/accommodation",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Pavilion and villa sizes",
+      "value": "Valley Pavilion and Garden Pavilion 250 square metres; Garden Pool Pavilion and Ayung Pool Villa 265; Duplex Pavilion 280; Asmara Pool Villa 352; Ayung Pool Duplex 420; One-Bedroom Villa 450; Duplex Pool Villa 465; Three-Bedroom Villa 688; Two-Bedroom Villa 700.",
+      "sourceUrl": "https://www.aman.com/resorts/amandari/accommodation",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Private dining",
+      "value": "Dining bale for up to four. Private Ngejot with Penyembrama dance on 24 hours' notice. Megibung feast with live dance.",
+      "sourceUrl": "https://www.aman.com/resorts/amandari/dining",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Inclusions",
+      "value": "Daily breakfast, traditional afternoon tea, in-room refreshments and non-alcoholic drinks, Museum Puri Lukisan transfers, steam and sauna (30 minutes, by reservation), daily Balinese dance and rindik class.",
+      "sourceUrl": "https://www.aman.com/resorts/amandari/accommodation",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Address and map",
+      "value": "Amandari, Kedewatan, Ubud, Bali. Map centre used for coordinates.",
+      "sourceUrl": "https://www.aman.com/resorts/amandari",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Telephone",
+      "value": "+62 361 975 333. Reservations +62 361 84 68585. amandari@aman.com.",
+      "sourceUrl": "https://www.aman.com/resorts/amandari",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/amandari/1.jpg",
+      "srcSmall": "/photos/amandari/1-640.jpg",
+      "srcMid": "/photos/amandari/1-1000.jpg",
+      "srcHero": "/photos/amandari/1-2400.jpg",
+      "width": 1600,
+      "height": 987,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amandari/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2026-06/Amandari--Ubud--Bali--Indonesia---Infinity-Swimming-Pool.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/amandari/2.jpg",
+      "srcSmall": "/photos/amandari/2-640.jpg",
+      "srcMid": "/photos/amandari/2-1000.jpg",
+      "srcHero": "/photos/amandari/2-2400.jpg",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amandari/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2022-03/Amandari_Sundowner_Picnic.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/amandari/3.jpg",
+      "srcSmall": "/photos/amandari/3-640.jpg",
+      "srcMid": "/photos/amandari/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amandari/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2021-02/210204_AmanHero_Landscape_Amandari.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/amandari/4.jpg",
+      "srcSmall": "/photos/amandari/4-640.jpg",
+      "srcMid": "/photos/amandari/4-1000.jpg",
+      "srcHero": "/photos/amandari/4-2400.jpg",
+      "width": 1600,
+      "height": 987,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amandari/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2026-06/Amandari--Ubud--Bali--Indonesia---Tennis-Court.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/amandari/5.jpg",
+      "srcSmall": "/photos/amandari/5-640.jpg",
+      "srcMid": "/photos/amandari/5-1000.jpg",
+      "srcHero": "/photos/amandari/5-2400.jpg",
+      "width": 1600,
+      "height": 987,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amandari/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2026-06/Amandari--Ubud--Bali--Indonesia---Ubud-Valley-Trails.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/amandari/6.jpg",
+      "srcSmall": "/photos/amandari/6-640.jpg",
+      "srcMid": "/photos/amandari/6-1000.jpg",
+      "srcHero": "/photos/amandari/6-2400.jpg",
+      "width": 1600,
+      "height": 987,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amandari/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2026-06/Amandari--Ubud--Bali--Indonesia---Lotus-Pond.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/amandari/7.jpg",
+      "srcSmall": "/photos/amandari/7-640.jpg",
+      "srcMid": "/photos/amandari/7-1000.jpg",
+      "srcHero": "/photos/amandari/7-2400.jpg",
+      "width": 1600,
+      "height": 2105,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amandari/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2026-06/Amandari--Ubud--Bali--Indonesia---Village.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-09",
+  "slug": "amandari",
+  "name": "Amandari"
+}

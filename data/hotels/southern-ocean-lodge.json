@@ -1,0 +1,238 @@
+{
+  "operator": "Beckons",
+  "brand": "Beckons",
+  "country": "Australia",
+  "region": "Oceania",
+  "city": "Kangaroo Island",
+  "area": "Hanson Bay",
+  "type": "resort",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "Hanson Bay, Kangaroo Island, South Australia",
+  "lat": null,
+  "lng": null,
+  "officialSite": "https://southernoceanlodge.com.au/",
+  "rooms": null,
+  "suites": 25,
+  "villas": null,
+  "opened": 2023,
+  "airport": {
+    "code": "KGC",
+    "minutes": 50
+  },
+  "tagline": "Twenty-five cliff suites at Hanson Bay, reopened in 2023.",
+  "description": "Southern Ocean Lodge stands at Hanson Bay on the southwest coast of Kangaroo Island, South Australia. James and Hayley Baillie, founders of what is now Beckons, commissioned the Kangaroo Island-born architect Max Pritchard. The lodge opened in 2008, was destroyed in the 2020 bushfires, and reopened in 2023 as the present building. Twenty-five suites follow the limestone cliffs, each looking over the Southern Ocean. Children of ten years and over are welcomed. Kangaroo Island Airport (KGC) is a 50-minute drive, and the flight from Adelaide takes 40 minutes. Return transfers that meet scheduled flights are included. The island sits 15 kilometres from the mainland and measures 155 kilometres by 55.\n\nThe Great Room is the centre of the lodge, with an open bar and a wet-edge pool on the terrace. Check-in is at 2pm and check-out is at 10.30am. The tariff includes breakfast, lunch and dinner, an open bar of premium wines and spirits, an in-suite bar, signature island experiences and the airport transfers. A cellarmaster's list is extra. Sunset drinks are served in the Great Room. Executive Chef Gianni Hendrickx, who worked in Michelin-starred kitchens in Bruges, writes the daily menu.\n\nThe Baillie Pavilion sits beside the main lodge and joins an east wing and a west wing as one residence: four king bedrooms, two living rooms, two heated plunge pools, and 625 square metres indoors and out, for up to eight guests. It includes sunset drinks in the suite, private airport transfers, private touring and a dedicated host. Guests staying three nights or more may take in-suite dining with a private chef on the last night.\n\nThe Southern Spa is reached by a glass-walled bridge. It has three treatment rooms, a chill lounge, a gym, a sauna and hot and cold plunge pools. Treatments use the alkeme range by Aphra Skye Heron and Kangaroo Island botanicals, including Ligurian honey from the island's hives, described as the only pure strain of that bee.\n\nSouthern Ocean Lodge suits travellers who want a cliff stay on Kangaroo Island with meals and drives included, and a separate pavilion when a group needs four bedrooms.",
+  "highlights": [
+    {
+      "label": "The suites",
+      "value": "Twenty-five suites along the limestone cliffs above the Southern Ocean.",
+      "sourceUrl": "https://southernoceanlodge.com.au/stay/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Rebuilt",
+      "value": "Opened in 2008, lost in the 2020 bushfires, and reopened in 2023.",
+      "sourceUrl": "https://southernoceanlodge.com.au/lodge/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Included",
+      "value": "Breakfast, lunch, dinner, an open bar, signature experiences and return airport transfers.",
+      "sourceUrl": "https://southernoceanlodge.com.au/faq/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Baillie Pavilion",
+      "value": "Four king bedrooms and 625 square metres, with two heated plunge pools, for up to eight guests.",
+      "sourceUrl": "https://southernoceanlodge.com.au/stay/baillie-pavilion/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Southern Spa",
+      "value": "Three treatment rooms, a sauna, and hot and cold plunge pools.",
+      "sourceUrl": "https://southernoceanlodge.com.au/spa/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "The kitchen",
+      "value": "Executive Chef Gianni Hendrickx, from Michelin-starred kitchens in Bruges.",
+      "sourceUrl": "https://southernoceanlodge.com.au/lodge/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "facts": [
+    {
+      "label": "History",
+      "value": "Designed by Max Pritchard for James and Hayley Baillie. Opened 2008. Destroyed in the 2020 bushfires. Reopened 2023.",
+      "sourceUrl": "https://southernoceanlodge.com.au/lodge/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Suites",
+      "value": "Twenty-five suites. Children aged ten and over.",
+      "sourceUrl": "https://southernoceanlodge.com.au/stay/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Baillie Pavilion",
+      "value": "Four king bedrooms, two living areas, two heated plunge pools, 625 square metres, up to eight guests.",
+      "sourceUrl": "https://southernoceanlodge.com.au/stay/baillie-pavilion/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Tariff",
+      "value": "All-inclusive of breakfast, lunch and dinner, open bar, in-suite bar, signature experiences and return Kangaroo Island Airport transfers. Cellarmaster list extra.",
+      "sourceUrl": "https://southernoceanlodge.com.au/faq/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Arrival",
+      "value": "50-minute drive from Kangaroo Island Airport (KGC). Flights from Adelaide (ADL) take 40 minutes.",
+      "sourceUrl": "https://southernoceanlodge.com.au/destination/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Island",
+      "value": "15 kilometres from the mainland. 155 kilometres by 55 kilometres.",
+      "sourceUrl": "https://southernoceanlodge.com.au/destination/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Spa",
+      "value": "Three treatment rooms, chill lounge, gym, sauna, hot and cold plunges. alkeme products by Aphra Skye Heron. Ligurian honey.",
+      "sourceUrl": "https://southernoceanlodge.com.au/spa/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Reservations",
+      "value": "+61 2 9918 4355. reserve@beckons.com.",
+      "sourceUrl": "https://southernoceanlodge.com.au/contact-us/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Check-in",
+      "value": "2pm. Check-out 10.30am.",
+      "sourceUrl": "https://southernoceanlodge.com.au/faq/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/southern-ocean-lodge/1.jpg",
+      "srcSmall": "/photos/southern-ocean-lodge/1-640.jpg",
+      "srcMid": "/photos/southern-ocean-lodge/1-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 987,
+      "credit": "Southern Ocean Lodge",
+      "creditUrl": "https://southernoceanlodge.com.au/lodge/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/southern-ocean-lodge/2.jpg",
+      "srcSmall": "/photos/southern-ocean-lodge/2-640.jpg",
+      "srcMid": "/photos/southern-ocean-lodge/2-1000.jpg",
+      "srcHero": "/photos/southern-ocean-lodge/2-2400.jpg",
+      "width": 1600,
+      "height": 903,
+      "credit": "Southern Ocean Lodge",
+      "creditUrl": "https://southernoceanlodge.com.au/lodge/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/southern-ocean-lodge/3.jpg",
+      "srcSmall": "/photos/southern-ocean-lodge/3-640.jpg",
+      "srcMid": "/photos/southern-ocean-lodge/3-1000.jpg",
+      "srcHero": "/photos/southern-ocean-lodge/3-2400.jpg",
+      "width": 1600,
+      "height": 903,
+      "credit": "Southern Ocean Lodge",
+      "creditUrl": "https://southernoceanlodge.com.au/lodge/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/southern-ocean-lodge/4.jpg",
+      "srcSmall": "/photos/southern-ocean-lodge/4-640.jpg",
+      "srcMid": "/photos/southern-ocean-lodge/4-1000.jpg",
+      "srcHero": "/photos/southern-ocean-lodge/4-2400.jpg",
+      "width": 1600,
+      "height": 903,
+      "credit": "Southern Ocean Lodge",
+      "creditUrl": "https://southernoceanlodge.com.au/lodge/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/southern-ocean-lodge/5.jpg",
+      "srcSmall": "/photos/southern-ocean-lodge/5-640.jpg",
+      "srcMid": "/photos/southern-ocean-lodge/5-1000.jpg",
+      "srcHero": "",
+      "width": 1220,
+      "height": 850,
+      "credit": "Southern Ocean Lodge",
+      "creditUrl": "https://southernoceanlodge.com.au/lodge/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/southern-ocean-lodge/6.jpg",
+      "srcSmall": "/photos/southern-ocean-lodge/6-640.jpg",
+      "srcMid": "/photos/southern-ocean-lodge/6-1000.jpg",
+      "srcHero": "",
+      "width": 1010,
+      "height": 700,
+      "credit": "Southern Ocean Lodge",
+      "creditUrl": "https://southernoceanlodge.com.au/stay/baillie-pavilion/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-09",
+  "slug": "southern-ocean-lodge",
+  "name": "Southern Ocean Lodge"
+}

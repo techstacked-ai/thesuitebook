@@ -1,0 +1,313 @@
+{
+  "slug": "goldeneye",
+  "name": "GoldenEye",
+  "operator": "Island Outpost",
+  "brand": "GoldenEye",
+  "country": "Jamaica",
+  "region": "Caribbean & Latin America",
+  "city": "Oracabessa",
+  "area": "St. Mary",
+  "type": "resort",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "Oracabessa Bay, St. Mary, Jamaica",
+  "lat": null,
+  "lng": null,
+  "officialSite": "https://www.goldeneye.com/",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": null,
+  "tagline": "Beach villas, lagoon cottages and huts on Oracabessa Bay.",
+  "description": "GoldenEye is a collection of villas, cottages and beach huts on Oracabessa Bay, in the parish of St. Mary, Jamaica, and it belongs to Island Outpost. In 1946 Ian Fleming bought 15 acres in Oracabessa, a former donkey racetrack, and named the house GoldenEye. He created the James Bond character while there. Chris Blackwell, founder of Island Records, acquired the property in the 1970s and added huts, cottages and villas.\n\nFive one-bedroom beach villas and four two-bedroom beach villas open onto Low Cay Beach, 500 feet of sand in a croissant shape. A three-bedroom beach villa adds a detached third bedroom and a stone deck onto the lagoon. Lagoon cottages face Santa Maria Island, a small uninhabited island in a four-acre lagoon, and each has a private dock and a kayak. Villa Vesper is a five-bedroom house on that lagoon, with king bedrooms, an open-plan kitchen and verandas. Strangways is a three-bedroom compound on a bluff, with a butler, a master structure, two further bedroom structures and a separate kitchen, and stone steps down to the lagoon. Spanish Elm is a one-bedroom lagoon hut from the first buildings, with a kitchenette and a terrace. Some beach huts are raised ten feet, with the bedroom above and an open-air lounge below, between the gardens of Snorkeler's Cove and Button Beach. Architect Ann Hodges designed the villas, with hardwood floors, outdoor showers and full kitchens.\n\nBizot Bar sits on the western arm of Low Cay Beach beside the freshwater pool and serves breakfast and lunch, including Jamaican dishes. Button Beach Bar and Grill cooks jerk and fish from local boats. Shabeen, by the beach huts, serves cocktails and has a rooftop lounge. Meals can also be taken in the room or on a veranda.\n\nThe spa is a cottage on the edge of the lagoon, with treatment rooms open to the air. Botanicals are drawn from Pantrepant, an Island Outpost farm. On the water, Low Cay is the main beach and Button Beach has a bar shack. Kayaks and paddleboards are part of the day, and a visit can be arranged to Firefly, the house Noel Coward built.\n\nIan Fleming International Airport at Boscobel is 2.7 miles away, less than a 10-minute drive. Sangster International in Montego Bay is 73 miles, about 1 hour and 45 minutes. Norman Manley in Kingston is 57 miles, less than 2 hours. Ocho Rios is about 20 minutes away.",
+  "highlights": [
+    {
+      "label": "Low Cay Beach",
+      "value": "Five one-bedroom and four two-bedroom villas on 500 feet of sand.",
+      "sourceUrl": "https://www.goldeneye.com/stay/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Lagoon",
+      "value": "Cottages face uninhabited Santa Maria Island in a four-acre lagoon.",
+      "sourceUrl": "https://www.goldeneye.com/stay/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Villa Vesper",
+      "value": "A five-bedroom house directly on the lagoon.",
+      "sourceUrl": "https://www.goldeneye.com/stay/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Dining",
+      "value": "Bizot Bar by the pool, Button Beach for jerk, and Shabeen for cocktails.",
+      "sourceUrl": "https://www.goldeneye.com/eat/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "History",
+      "value": "Ian Fleming named the house in 1946; Chris Blackwell added the later buildings.",
+      "sourceUrl": "https://www.goldeneye.com/the-story-of-goldeneye/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Airports",
+      "value": "Ian Fleming International is 2.7 miles away; Montego Bay is 73 miles.",
+      "sourceUrl": "https://www.goldeneye.com/faq-for-guests/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Address",
+      "value": "Oracabessa Bay, St. Mary, Jamaica, about 20 minutes from Ocho Rios",
+      "sourceUrl": "https://www.goldeneye.com/faq-for-guests/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Operator",
+      "value": "Island Outpost",
+      "sourceUrl": "https://www.goldeneye.com/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "1946",
+      "value": "Ian Fleming bought 15 acres, formerly a donkey racetrack, and named the house GoldenEye",
+      "sourceUrl": "https://www.goldeneye.com/the-story-of-goldeneye/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "James Bond",
+      "value": "Fleming created the character while at GoldenEye",
+      "sourceUrl": "https://www.goldeneye.com/stay/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "1970s",
+      "value": "Chris Blackwell, founder of Island Records, acquired the property and added huts, cottages and villas",
+      "sourceUrl": "https://www.goldeneye.com/stay/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "One-bedroom beach villas",
+      "value": "Five, opening onto Low Cay Beach, each with a full kitchen",
+      "sourceUrl": "https://www.goldeneye.com/stay/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Two-bedroom beach villas",
+      "value": "Four, opening onto Low Cay Beach",
+      "sourceUrl": "https://www.goldeneye.com/stay/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Three-bedroom beach villa",
+      "value": "Detached third bedroom and a stone deck with lagoon access",
+      "sourceUrl": "https://www.goldeneye.com/stay/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Low Cay Beach",
+      "value": "500 feet of sand, croissant-shaped",
+      "sourceUrl": "https://www.goldeneye.com/play/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Lagoon",
+      "value": "Four acres; Santa Maria Island, small and uninhabited, at the centre; each cottage has a private dock and a kayak",
+      "sourceUrl": "https://www.goldeneye.com/stay/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Villa Vesper",
+      "value": "Five bedrooms on the lagoon; king bedrooms; open-plan kitchen; verandas",
+      "sourceUrl": "https://www.goldeneye.com/stay/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Strangways",
+      "value": "Three-bedroom compound on a bluff; butler; separate kitchen building; steps to the lagoon",
+      "sourceUrl": "https://www.goldeneye.com/stay/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Spanish Elm",
+      "value": "One-bedroom lagoon hut from the first buildings; kitchenette and terrace",
+      "sourceUrl": "https://www.goldeneye.com/stay/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Beach huts",
+      "value": "Some raised ten feet, bedroom above and open-air lounge below",
+      "sourceUrl": "https://www.goldeneye.com/stay/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Architect",
+      "value": "Ann Hodges; hardwood floors, outdoor showers, full kitchens",
+      "sourceUrl": "https://www.goldeneye.com/stay/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Bizot Bar",
+      "value": "Western arm of Low Cay Beach, beside the freshwater pool; breakfast and lunch",
+      "sourceUrl": "https://www.goldeneye.com/eat/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Button Beach and Shabeen",
+      "value": "Jerk and fish at Button Beach Bar and Grill; cocktails at Shabeen",
+      "sourceUrl": "https://www.goldeneye.com/eat/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Spa",
+      "value": "Cottage on the lagoon; open-air treatment rooms; botanicals from Pantrepant farm",
+      "sourceUrl": "https://www.goldeneye.com/thespa/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Firefly",
+      "value": "A visit to Noel Coward's house can be arranged",
+      "sourceUrl": "https://www.goldeneye.com/play/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Ian Fleming International",
+      "value": "Boscobel, 2.7 miles, less than a 10-minute drive",
+      "sourceUrl": "https://www.goldeneye.com/faq-for-guests/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Montego Bay",
+      "value": "Sangster International, 73 miles, about 1 hour and 45 minutes",
+      "sourceUrl": "https://www.goldeneye.com/faq-for-guests/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Kingston",
+      "value": "Norman Manley International, 57 miles, less than 2 hours",
+      "sourceUrl": "https://www.goldeneye.com/faq-for-guests/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/goldeneye/1.jpg",
+      "srcSmall": "/photos/goldeneye/1-640.jpg",
+      "srcMid": "/photos/goldeneye/1-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 698,
+      "credit": "GoldenEye",
+      "creditUrl": "https://www.goldeneye.com/stay/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "",
+      "localCopy": true,
+      "caption": "Lagoon cottage",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/goldeneye/2.jpg",
+      "srcSmall": "/photos/goldeneye/2-640.jpg",
+      "srcMid": "/photos/goldeneye/2-1000.jpg",
+      "srcHero": "",
+      "width": 1299,
+      "height": 1527,
+      "credit": "GoldenEye",
+      "creditUrl": "https://www.goldeneye.com/stay/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.goldeneye.com/wp-content/uploads/2017/11/3-beach-huts.jpg",
+      "localCopy": true,
+      "caption": "Beach hut in the garden",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/goldeneye/3.jpg",
+      "srcSmall": "/photos/goldeneye/3-640.jpg",
+      "srcMid": "/photos/goldeneye/3-1000.jpg",
+      "srcHero": "/photos/goldeneye/3-2400.jpg",
+      "width": 1600,
+      "height": 2159,
+      "credit": "GoldenEye",
+      "creditUrl": "https://www.goldeneye.com/stay/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "",
+      "localCopy": true,
+      "caption": "Open hut looking to the sea",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/goldeneye/4.jpg",
+      "srcSmall": "/photos/goldeneye/4-640.jpg",
+      "srcMid": "/photos/goldeneye/4-1000.jpg",
+      "srcHero": "",
+      "width": 1080,
+      "height": 1270,
+      "credit": "GoldenEye",
+      "creditUrl": "https://www.goldeneye.com/stay/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "",
+      "localCopy": true,
+      "caption": "Gazebo seating",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/goldeneye/5.jpg",
+      "srcSmall": "/photos/goldeneye/5-640.jpg",
+      "srcMid": "/photos/goldeneye/5-1000.jpg",
+      "srcHero": "/photos/goldeneye/5-2400.jpg",
+      "width": 1600,
+      "height": 2196,
+      "credit": "GoldenEye",
+      "creditUrl": "https://www.goldeneye.com/stay/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.goldeneye.com/wp-content/uploads/2016/10/spanish-elm-scaled.jpg",
+      "localCopy": true,
+      "caption": "Spanish Elm porch",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/goldeneye/6.jpg",
+      "srcSmall": "/photos/goldeneye/6-640.jpg",
+      "srcMid": "/photos/goldeneye/6-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 2400,
+      "credit": "GoldenEye",
+      "creditUrl": "https://www.goldeneye.com/stay/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.goldeneye.com/wp-content/uploads/2021/07/06280088.jpeg",
+      "localCopy": true,
+      "caption": "Outdoor shower",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-09"
+}
