@@ -1,0 +1,265 @@
+{
+  "slug": "le-sirenuse",
+  "name": "Le Sirenuse",
+  "operator": "Le Sirenuse",
+  "brand": "Le Sirenuse",
+  "country": "Italy",
+  "city": "Positano",
+  "area": "Amalfi Coast",
+  "address": "Via Cristoforo Colombo 30, 84017 Positano (SA), Italy",
+  "officialSite": "https://sirenuse.it/en/",
+  "phone": "+39 089 875066",
+  "email": "info@sirenuse.it",
+  "tagline": "Fifty-eight rooms above Positano, with La Sponda and a spa.",
+  "description": "Le Sirenuse is a hotel in Positano, at Via Cristoforo Colombo 30, 84017 Positano. The house counts 58 rooms, from courtyard rooms to sea-view suites, and breakfast is included. Children up to six years old are not allowed, because of the stairs and balconies, and pets are not allowed. Check-in is at 15:00 and check-out at 12:00. The hotel is not an adults-only house. It simply does not take children under six.\n\nFranco Sersale's antiques and ceramics from Salerno run through the rooms, and the bathroom line Eau d'Italie was born at the hotel. The Two Bedroom Suite Sea View measures about 110 square metres, with a terrace from 27 square metres, a sea-facing bath and a second bedroom. The house looks over Positano, the sea and the Li Galli islands.\n\nDinner is at La Sponda, open seven nights, with executive chef Gennaro Russo. The room is set with candles, and the musicians Franco and Andrea play. The pool sits among lemon trees and bougainvillea, with white loungers and a pool bar. The bar will do a spritz, a club sandwich or pasta al pomodoro made with tomatoes from the slopes of Mount Vesuvius. The gym has TechnoGym machines and two Megaformers. A coach also takes hikes on the old paths behind the town, and the hotel runs a Dolce Vitality fitness retreat twice a year.\n\nThe spa, designed by Gae Aulenti, has a sauna, a granite steam bath and an ice room with a ground ice cascade and backlit onyx. A Spa Suite is kept for couples. Treatments use Augustinus Bader, Aveda and Margy's Monte Carlo. Franco Sersale's photographs from his travels in the East hang in the spa.\n\nPositano is 55 km south of Naples. The hotel gives the drive from Naples Capodichino Airport as typically 75 to 90 minutes. The telephone is +39 089 875066 and the email is info@sirenuse.it. The house suits a stay in the town itself, with dinner at La Sponda and the pool a few steps from the room.",
+  "highlights": [
+    {
+      "label": "Rooms",
+      "value": "58 rooms, from courtyard rooms to sea-view suites, with breakfast included.",
+      "sourceUrl": "https://sirenuse.it/en/rooms-suites/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "La Sponda",
+      "value": "Dinner seven nights, executive chef Gennaro Russo, with candles and live music.",
+      "sourceUrl": "https://sirenuse.it/en/dining/la-sponda/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Pool",
+      "value": "A pool among lemon trees and bougainvillea, with a pool bar.",
+      "sourceUrl": "https://sirenuse.it/en/wellness-at-le-sirenuse/gym-and-pool-positano/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Spa",
+      "value": "Designed by Gae Aulenti, with a sauna, a granite steam bath, an ice room and a couples suite.",
+      "sourceUrl": "https://sirenuse.it/en/wellness-at-le-sirenuse/spa-positano/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Gym",
+      "value": "TechnoGym equipment and two Megaformers, plus hikes on the paths behind Positano.",
+      "sourceUrl": "https://sirenuse.it/en/wellness-at-le-sirenuse/gym-and-pool-positano/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "House rules",
+      "value": "Children up to six are not allowed, and pets are not allowed.",
+      "sourceUrl": "https://sirenuse.it/en/rooms-suites/two-bedroom-suite-sea-view/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Address",
+      "value": "Via Cristoforo Colombo 30, 84017 Positano (SA), Italy",
+      "sourceUrl": "https://sirenuse.it/en/contacts/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Telephone",
+      "value": "+39 089 875066",
+      "sourceUrl": "https://sirenuse.it/en/contacts/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Email",
+      "value": "info@sirenuse.it",
+      "sourceUrl": "https://sirenuse.it/en/contacts/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Rooms",
+      "value": "58 rooms",
+      "sourceUrl": "https://sirenuse.it/en/rooms-suites/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Breakfast",
+      "value": "Daily breakfast included",
+      "sourceUrl": "https://sirenuse.it/en/rooms-suites/two-bedroom-suite-sea-view/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Children",
+      "value": "Children up to 6 years old are not allowed",
+      "sourceUrl": "https://sirenuse.it/en/rooms-suites/two-bedroom-suite-sea-view/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Pets",
+      "value": "Pets are not allowed",
+      "sourceUrl": "https://sirenuse.it/en/rooms-suites/two-bedroom-suite-sea-view/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Two Bedroom Suite Sea View",
+      "value": "About 110 square metres, terrace from 27 square metres",
+      "sourceUrl": "https://sirenuse.it/en/rooms-suites/two-bedroom-suite-sea-view/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "La Sponda",
+      "value": "Dinner seven nights, executive chef Gennaro Russo, musicians Franco and Andrea",
+      "sourceUrl": "https://sirenuse.it/en/dining/la-sponda/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Pool and gym",
+      "value": "Pool among lemon trees and bougainvillea, pool bar, TechnoGym, two Megaformers",
+      "sourceUrl": "https://sirenuse.it/en/wellness-at-le-sirenuse/gym-and-pool-positano/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Spa",
+      "value": "Gae Aulenti. Sauna, granite steam bath, ice room, couples Spa Suite",
+      "sourceUrl": "https://sirenuse.it/en/wellness-at-le-sirenuse/spa-positano/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Naples",
+      "value": "Positano is 55 km south of Naples. Capodichino is typically 75 to 90 minutes",
+      "sourceUrl": "https://sirenuse.it/en/contacts/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Check-in and check-out",
+      "value": "Check-in 15:00, check-out 12:00",
+      "sourceUrl": "https://sirenuse.it/en/rooms-suites/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Eau d'Italie",
+      "value": "The bathroom line was born at the hotel",
+      "sourceUrl": "https://sirenuse.it/en/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "region": "Europe",
+  "type": "resort",
+  "themes": [],
+  "adultsOnly": false,
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": null,
+  "photos": [
+    {
+      "src": "/photos/le-sirenuse/1.jpg",
+      "srcSmall": "/photos/le-sirenuse/1-640.jpg",
+      "srcMid": "/photos/le-sirenuse/1-1000.jpg",
+      "srcHero": "/photos/le-sirenuse/1-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Le Sirenuse",
+      "creditUrl": "https://sirenuse.it/en/dining/la-sponda/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://sirenuse.it/media/ik3htrpf/le_sirenuse_terrace-0055-copy.jpg?width=2400",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/le-sirenuse/2.jpg",
+      "srcSmall": "/photos/le-sirenuse/2-640.jpg",
+      "srcMid": "/photos/le-sirenuse/2-1000.jpg",
+      "srcHero": "/photos/le-sirenuse/2-2400.jpg",
+      "width": 1600,
+      "height": 2399,
+      "credit": "Le Sirenuse",
+      "creditUrl": "https://sirenuse.it/en/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://sirenuse.it/media/qxdob5yf/le-sirenuse-hotel-positano_views_9997.jpg?width=2400",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/le-sirenuse/3.jpg",
+      "srcSmall": "/photos/le-sirenuse/3-640.jpg",
+      "srcMid": "/photos/le-sirenuse/3-1000.jpg",
+      "srcHero": "/photos/le-sirenuse/3-2400.jpg",
+      "width": 1600,
+      "height": 1050,
+      "credit": "Le Sirenuse",
+      "creditUrl": "https://sirenuse.it/en/rooms-suites/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://sirenuse.it/media/odvdm5sq/le-sirenuse_room_deluxe-superior-a1q_0089-2.jpg?width=2400",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/le-sirenuse/4.jpg",
+      "srcSmall": "/photos/le-sirenuse/4-640.jpg",
+      "srcMid": "/photos/le-sirenuse/4-1000.jpg",
+      "srcHero": "/photos/le-sirenuse/4-2400.jpg",
+      "width": 1600,
+      "height": 1259,
+      "credit": "Le Sirenuse",
+      "creditUrl": "https://sirenuse.it/en/rooms-suites/two-bedroom-suite-sea-view/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://sirenuse.it/media/tduahkbb/le_sirenuse_room_73_74_75-junior-suite-superior-9.jpg?width=2400",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/le-sirenuse/5.jpg",
+      "srcSmall": "/photos/le-sirenuse/5-640.jpg",
+      "srcMid": "/photos/le-sirenuse/5-1000.jpg",
+      "srcHero": "/photos/le-sirenuse/5-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Le Sirenuse",
+      "creditUrl": "https://sirenuse.it/en/wellness-at-le-sirenuse/spa-positano/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://sirenuse.it/media/smtffbzr/le-sirenuse_spa_0578.jpg?width=2400",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/le-sirenuse/6.jpg",
+      "srcSmall": "/photos/le-sirenuse/6-640.jpg",
+      "srcMid": "/photos/le-sirenuse/6-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 2405,
+      "credit": "Le Sirenuse",
+      "creditUrl": "https://sirenuse.it/en/wellness-at-le-sirenuse/gym-and-pool-positano/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://sirenuse.it/media/fw0jkkxm/le-sirenuse_gym_9947.jpg?width=2000",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-09"
+}

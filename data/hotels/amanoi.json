@@ -1,0 +1,232 @@
+{
+  "operator": "Aman",
+  "brand": "Aman",
+  "country": "Vietnam",
+  "region": "Asia",
+  "city": "Khanh Hoa",
+  "area": "Vinh Hy",
+  "type": "resort",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "Vinh Hy Village, Vinh Hai Commune, Khanh Hoa Province, Vietnam",
+  "lat": 11.719871,
+  "lng": 109.195875,
+  "officialSite": "https://www.aman.com/resorts/amanoi",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": {
+    "code": "CXR",
+    "minutes": 75
+  },
+  "tagline": "Pavilions above Vinh Hy Bay, inside Nui Chua National Park.",
+  "description": "Amanoi sits above Vinh Hy Bay in Khanh Hoa province, Vietnam, inside Nui Chua National Park and a UNESCO Biosphere Reserve. The address is Vinh Hy Village, Vinh Hai Commune. Pavilions and villas have timber decks, and many have pools. Cam Ranh Airport (CXR) is a 75-minute drive. By air, Cam Ranh is 65 minutes from Ho Chi Minh City, 75 minutes from Da Nang and 105 minutes from Hanoi. Return transfers from Cam Ranh are included, and a stay of four nights or more includes a complimentary night.\n\nThe Ocean Pool Family Villa covers 310 square metres and looks over Vinh Hy Bay and the East Sea. Further villas and pavilions look over the bay, the mountains or the lake. Residences run to several bedrooms, with infinity pools and separate living and dining pavilions. Two Wellness Pool Villas extend the spa: one with a hammam and one with a banya, where steam or dry heat and birch venik are part of the treatment.\n\nThree dining rooms share the cliff and the shore. The main restaurant, in the Central Pavilion, has a 180-degree view of the bay and serves Vietnamese and international dishes. The Beach Club serves lunch, grilled seafood and poolside drinks. From Monday to Friday, Chef Nat from Amanpuri cooks Japanese food there in the evening, and Saturday is a beach barbecue. The bar takes its cue from Vietnamese teahouses and has live music five nights a week. Private tables can be set on the beach, beside the clifftop pool, in a pavilion on the lotus lake, at the boulder-wrapped Rock Studio, or in a residence. Executive Chef Reynaldo Deluna cooks a Spanish menu. A cooking class at the Rock Studio covers Vietnamese dishes.\n\nThe spa has two lake-view hydrotherapy suites, each with a heated stone table, steam, a jacuzzi, a plunge pool and a terrace. A yoga pavilion stands on the lotus lake. The movement rooms include a Pilates studio and a gym. Trails lead to Bai Da or Goga Peak. A catamaran cruises Vinh Hy Bay by day or for night fishing. Snorkelling is offered among more than 350 varieties of coral, and glass-bottom kayaks cross the bay. A Cham tour visits the Cham Museum and the Po Klong Garai towers, built in the 12th and 13th centuries.\n\nAmanoi suits travellers who want a quiet coastal stay with a long drive from the airport, time on the water, and Vietnamese cooking beside the bay.",
+  "highlights": [
+    {
+      "label": "Vinh Hy Bay",
+      "value": "The main restaurant has a 180-degree view of the bay from the Central Pavilion.",
+      "sourceUrl": "https://www.aman.com/resorts/amanoi/dining",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Family villa",
+      "value": "The Ocean Pool Family Villa covers 310 square metres above the bay.",
+      "sourceUrl": "https://www.aman.com/resorts/amanoi/accommodation/pavilions-villas",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Beach Club",
+      "value": "Lunch and grilled seafood by day; Chef Nat from Amanpuri cooks Japanese food on weekday evenings.",
+      "sourceUrl": "https://www.aman.com/resorts/amanoi/dining",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Spa",
+      "value": "Two lake-view hydrotherapy suites, plus Wellness Pool Villas with a hammam and a banya.",
+      "sourceUrl": "https://www.aman.com/resorts/amanoi/wellness",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Water",
+      "value": "A catamaran on the bay, snorkelling among more than 350 coral varieties, and glass-bottom kayaks.",
+      "sourceUrl": "https://www.aman.com/resorts/amanoi/experiences",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Arrival",
+      "value": "A 75-minute drive from Cam Ranh Airport (CXR), with return transfers included.",
+      "sourceUrl": "https://www.aman.com/resorts/amanoi",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Airport",
+      "value": "75-minute drive from Cam Ranh Airport (CXR). Cam Ranh is 65 minutes from Ho Chi Minh City, 75 from Da Nang, 105 from Hanoi. Return transfers included.",
+      "sourceUrl": "https://www.aman.com/resorts/amanoi",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Stay offer",
+      "value": "A complimentary night with stays of four nights or more, with daily breakfast.",
+      "sourceUrl": "https://www.aman.com/resorts/amanoi",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Ocean Pool Family Villa",
+      "value": "310 square metres.",
+      "sourceUrl": "https://www.aman.com/resorts/amanoi/accommodation/pavilions-villas",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Dining",
+      "value": "Three venues: Main Restaurant, Beach Club, Bar. Live music five nights a week. Saturday beach barbecue. Chef Nat, Monday to Friday evenings. Executive Chef Reynaldo Deluna.",
+      "sourceUrl": "https://www.aman.com/resorts/amanoi/dining",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Spa",
+      "value": "Two lake-view hydrotherapy suites. Two Wellness Pool Villas with hammam or banya. Yoga pavilion on the lotus lake.",
+      "sourceUrl": "https://www.aman.com/resorts/amanoi/wellness",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Coral",
+      "value": "More than 350 varieties of coral on snorkelling tours. Trails to Bai Da or Goga Peak. Po Klong Garai towers, 12th to 13th century.",
+      "sourceUrl": "https://www.aman.com/resorts/amanoi/experiences",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Address",
+      "value": "Vinh Hy Village, Vinh Hai Commune, Khanh Hoa Province, Vietnam. Map centre used for coordinates.",
+      "sourceUrl": "https://www.aman.com/resorts/amanoi",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Telephone",
+      "value": "+84 259 377 0777. Reservations +84 259 353 5777.",
+      "sourceUrl": "https://www.aman.com/resorts/amanoi",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/amanoi/1.jpg",
+      "srcSmall": "/photos/amanoi/1-640.jpg",
+      "srcMid": "/photos/amanoi/1-1000.jpg",
+      "srcHero": "/photos/amanoi/1-2400.jpg",
+      "width": 1600,
+      "height": 987,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanoi/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/amanoi/2.jpg",
+      "srcSmall": "/photos/amanoi/2-640.jpg",
+      "srcMid": "/photos/amanoi/2-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanoi/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/amanoi/3.jpg",
+      "srcSmall": "/photos/amanoi/3-640.jpg",
+      "srcMid": "/photos/amanoi/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanoi/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/amanoi/4.jpg",
+      "srcSmall": "/photos/amanoi/4-640.jpg",
+      "srcMid": "/photos/amanoi/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanoi/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2021-03/Amanoi_Gallery_5.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/amanoi/5.jpg",
+      "srcSmall": "/photos/amanoi/5-640.jpg",
+      "srcMid": "/photos/amanoi/5-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanoi/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/amanoi/6.jpg",
+      "srcSmall": "/photos/amanoi/6-640.jpg",
+      "srcMid": "/photos/amanoi/6-1000.jpg",
+      "srcHero": "/photos/amanoi/6-2400.jpg",
+      "width": 1600,
+      "height": 987,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanoi/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-09",
+  "slug": "amanoi",
+  "name": "Amanoi"
+}

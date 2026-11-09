@@ -1,0 +1,280 @@
+{
+  "slug": "four-seasons-naviva",
+  "name": "Naviva, A Four Seasons Resort",
+  "operator": "Four Seasons",
+  "brand": "Four Seasons",
+  "country": "Mexico",
+  "region": "Caribbean & Latin America",
+  "city": "Punta de Mita",
+  "area": "Bahía de Banderas",
+  "type": "resort",
+  "themes": [],
+  "adultsOnly": true,
+  "address": "Lote H-2, Carretera Federal 200, Km 19.5, 63734 Punta de Mita, Nayarit, Mexico",
+  "lat": null,
+  "lng": null,
+  "officialSite": "https://www.fourseasons.com/naviva/",
+  "rooms": 15,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": {
+    "code": "PVR",
+    "minutes": 45
+  },
+  "tagline": "Fifteen tented bungalows for adults on a forested Pacific shore.",
+  "description": "Naviva, a Four Seasons Resort, is an adults-only resort of 15 tented bungalows on the Pacific coast of Mexico. The bungalows stand on 48 forested acres, about 19.5 hectares, between jungle and the shoreline at the northern tip of Bahía de Banderas. A stretch of beach 175 metres long, about 191 yards, is reserved for guests. The resort shares its private peninsula with Four Seasons Resort Punta Mita. The address is Lote H-2, Carretera Federal 200, kilometre 19.5, 63734 Punta de Mita, Nayarit.\n\nThe nightly rate includes all dining and beverages, a 90-minute spa journey and select experiences. Meals at the neighbouring Four Seasons Resort Punta Mita are included as well. In-bungalow dining is available around the clock.\n\nAn Ocean-View Bungalow measures 116 square metres, or 1,259 square feet, of indoor-outdoor space, with one king bed, a private plunge pool, and room for 2 adults. An Ocean-View Grand Bungalow measures 149 to 160 square metres, or 1,604 to 1,722 square feet, also for 2 adults, with a plunge pool and an extended deck with a firepit. Naviva Unplugged performances are limited to an audience of never more than 30 in-house guests.\n\nCocina Copal cooks over an open fire, using the sea catch and seasonal produce. Selva Pool serves light food and drinks in the forest. Garden Grotto looks toward the Pacific, and a picnic can be set on a quiet beach. The spa works from two pods, one toward sunrise and one toward sunset, and from a House of Heat temazcal. The journey included in the rate lasts 90 minutes. Temazcal sessions last 150 minutes, as do several of the rituals. Yoga is held on the cliff at Risco Terrace, and an outdoor gym uses trees and boulders. Self-guided hiking and running trails cross the property.\n\nThe Road to Raicilla leaves by boat across the bay for Cabo Corrientes, or by land for San Sebastián del Oeste, for tastings at local raicilla tabernas. Puerto Vallarta International Airport, PVR, is 20 kilometres, or 12.5 miles, and a 45-minute drive.",
+  "highlights": [
+    {
+      "label": "Bungalows",
+      "value": "Fifteen tented bungalows on 48 forested acres, for adults only.",
+      "sourceUrl": "https://www.fourseasons.com/naviva/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Rate",
+      "value": "Dining, beverages, a 90-minute spa journey and select experiences are in the nightly rate.",
+      "sourceUrl": "https://www.fourseasons.com/naviva/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Beach",
+      "value": "A 175-metre stretch of Pacific beach reserved for guests.",
+      "sourceUrl": "https://www.fourseasons.com/naviva/getting-here/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Cocina Copal",
+      "value": "Open-fire cooking from the catch and seasonal produce.",
+      "sourceUrl": "https://www.fourseasons.com/naviva/dining/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Temazcal",
+      "value": "House of Heat sessions of 150 minutes, beside two spa pods.",
+      "sourceUrl": "https://www.fourseasons.com/naviva/spa/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Airport",
+      "value": "Puerto Vallarta is 45 minutes by car.",
+      "sourceUrl": "https://www.fourseasons.com/naviva/getting-here/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Address",
+      "value": "Lote H-2, Carretera Federal 200, Km 19.5, 63734 Punta de Mita, Nayarit, Mexico",
+      "sourceUrl": "https://www.fourseasons.com/naviva/getting-here/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Adults only",
+      "value": "Adults-only resort",
+      "sourceUrl": "https://www.fourseasons.com/naviva/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Bungalows",
+      "value": "15 tented bungalows",
+      "sourceUrl": "https://www.fourseasons.com/naviva/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Land and beach",
+      "value": "48 forested acres (about 19.5 hectares); 175-metre (191-yard) beach for guests",
+      "sourceUrl": "https://www.fourseasons.com/naviva/getting-here/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Setting",
+      "value": "Northern tip of Bahía de Banderas, on the same private peninsula as Four Seasons Resort Punta Mita",
+      "sourceUrl": "https://www.fourseasons.com/naviva/getting-here/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Rate",
+      "value": "Nightly rate includes all dining and beverages, a 90-minute spa journey and select experiences",
+      "sourceUrl": "https://www.fourseasons.com/naviva/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Neighbouring resort",
+      "value": "Meals at Four Seasons Resort Punta Mita are included",
+      "sourceUrl": "https://www.fourseasons.com/naviva/dining/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Ocean-View Bungalow",
+      "value": "116 square metres (1,259 square feet); one king bed; private plunge pool; 2 adults; 24-hour in-bungalow dining",
+      "sourceUrl": "https://www.fourseasons.com/naviva/accommodations/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Ocean-View Grand Bungalow",
+      "value": "149 to 160 square metres (1,604 to 1,722 square feet); 2 adults; plunge pool and extended deck with firepit",
+      "sourceUrl": "https://www.fourseasons.com/naviva/accommodations/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Naviva Unplugged",
+      "value": "Performances limited to never more than 30 in-house guests",
+      "sourceUrl": "https://www.fourseasons.com/naviva/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Cocina Copal",
+      "value": "Open-fire cooking from the sea catch and seasonal produce",
+      "sourceUrl": "https://www.fourseasons.com/naviva/dining/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Other dining",
+      "value": "Selva Pool in the forest; Garden Grotto; secret beach picnic",
+      "sourceUrl": "https://www.fourseasons.com/naviva/dining/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Spa",
+      "value": "Two pods, sunrise and sunset; House of Heat temazcal; included journey 90 minutes; temazcal sessions 150 minutes",
+      "sourceUrl": "https://www.fourseasons.com/naviva/spa/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Movement",
+      "value": "Cliffside yoga at Risco Terrace; outdoor gym using trees and boulders; self-guided hiking and running trails",
+      "sourceUrl": "https://www.fourseasons.com/naviva/spa/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Road to Raicilla",
+      "value": "By boat to Cabo Corrientes, or by land to San Sebastián del Oeste",
+      "sourceUrl": "https://www.fourseasons.com/naviva/getting-here/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Airport",
+      "value": "Puerto Vallarta International Airport (PVR), 45 minutes by car, 20 km / 12.5 miles",
+      "sourceUrl": "https://www.fourseasons.com/naviva/getting-here/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/four-seasons-naviva/1.jpg",
+      "srcSmall": "/photos/four-seasons-naviva/1-640.jpg",
+      "srcMid": "/photos/four-seasons-naviva/1-1000.jpg",
+      "srcHero": "/photos/four-seasons-naviva/1-2400.jpg",
+      "width": 1600,
+      "height": 1198,
+      "credit": "Four Seasons",
+      "creditUrl": "https://www.fourseasons.com/naviva/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/content/dam/fourseasons/images/web/NAV/NAV_178_original.jpg",
+      "localCopy": true,
+      "caption": "Tented bungalow in the coastal forest",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/four-seasons-naviva/2.jpg",
+      "srcSmall": "/photos/four-seasons-naviva/2-640.jpg",
+      "srcMid": "/photos/four-seasons-naviva/2-1000.jpg",
+      "srcHero": "/photos/four-seasons-naviva/2-2400.jpg",
+      "width": 1600,
+      "height": 1003,
+      "credit": "Four Seasons",
+      "creditUrl": "https://www.fourseasons.com/naviva/accommodations/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/content/dam/fourseasons/images/web/NAV/NAV_143_original.jpg",
+      "localCopy": true,
+      "caption": "Bungalow bedroom opening to the deck",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/four-seasons-naviva/3.jpg",
+      "srcSmall": "/photos/four-seasons-naviva/3-640.jpg",
+      "srcMid": "/photos/four-seasons-naviva/3-1000.jpg",
+      "srcHero": "/photos/four-seasons-naviva/3-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Four Seasons",
+      "creditUrl": "https://www.fourseasons.com/naviva/dining/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/content/dam/fourseasons/images/web/NAV/NAV_507_original.jpg",
+      "localCopy": true,
+      "caption": "Open dining pavilion",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/four-seasons-naviva/4.jpg",
+      "srcSmall": "/photos/four-seasons-naviva/4-640.jpg",
+      "srcMid": "/photos/four-seasons-naviva/4-1000.jpg",
+      "srcHero": "/photos/four-seasons-naviva/4-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Four Seasons",
+      "creditUrl": "https://www.fourseasons.com/naviva/dining/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/content/dam/fourseasons/images/web/NAV/NAV_739_original.jpg",
+      "localCopy": true,
+      "caption": "Dining tables toward the Pacific",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/four-seasons-naviva/5.jpg",
+      "srcSmall": "/photos/four-seasons-naviva/5-640.jpg",
+      "srcMid": "/photos/four-seasons-naviva/5-1000.jpg",
+      "srcHero": "/photos/four-seasons-naviva/5-2400.jpg",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Four Seasons",
+      "creditUrl": "https://www.fourseasons.com/naviva/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/content/dam/fourseasons/images/web/NAV/NAV_732_original.jpg",
+      "localCopy": true,
+      "caption": "Piano room opening to the coast",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/four-seasons-naviva/6.jpg",
+      "srcSmall": "/photos/four-seasons-naviva/6-640.jpg",
+      "srcMid": "/photos/four-seasons-naviva/6-1000.jpg",
+      "srcHero": "/photos/four-seasons-naviva/6-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Four Seasons",
+      "creditUrl": "https://www.fourseasons.com/naviva/dining/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.fourseasons.com/content/dam/fourseasons/images/web/NAV/NAV_231_original.jpg",
+      "localCopy": true,
+      "caption": "Breakfast table on a deck",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-09"
+}

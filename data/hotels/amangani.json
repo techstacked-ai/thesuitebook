@@ -1,0 +1,349 @@
+{
+  "slug": "amangani",
+  "name": "Amangani",
+  "operator": "Aman",
+  "brand": "Aman",
+  "country": "United States",
+  "region": "North America",
+  "city": "Jackson",
+  "area": "Jackson Hole",
+  "type": "resort",
+  "themes": [
+    "mountain"
+  ],
+  "adultsOnly": false,
+  "address": "1535 North East Butte Road, Jackson, WY 83001, United States",
+  "lat": null,
+  "lng": null,
+  "officialSite": "https://www.aman.com/resorts/amangani",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": {
+    "code": "JAC",
+    "minutes": 25
+  },
+  "closedUntil": "Closed for an extensive refurbishment, with reopening described as coming soon and no date given (checked 9 Nov 2026)",
+  "tagline": "Suites and hillside homes on East Gros Ventre Butte, above Jackson Hole.",
+  "description": "Amangani stands on East Gros Ventre Butte, in the foothills of the Tetons, above Jackson Hole. Redwood and sandstone form the buildings, which look across the peaks and plains of the Snake River Valley. The resort is closed for an extensive refurbishment, with reopening described as coming soon and no date given.\n\nSuites are finished in wood and stone, each with a balcony or terrace. A Deluxe Suite measures 45.3 square metres, or 488 square feet, and combines a king bedroom and living area with a gas fireplace and a window-side daybed. The Grand Teton Suite measures 58 square metres, or 625 square feet, with a separate living room, a king bedroom and a wraparound balcony. The Gros Ventre Suite is the same size and looks over the valley from large balconies. Spring Gulch measures 62 square metres, or 676 square feet, with a wraparound balcony above the pool and the valley. Sena measures 72 square metres, or 780 square feet, toward the Snake River Valley. The Amangani Suite is listed at the same 72 square metres and 780 square feet, with a guest bathroom, and it can connect to a Superior Suite.\n\nThree homes sit on the hillside: East Tatanka, West Tatanka and Wapiti. East Tatanka is a four-bedroom house of 583 square metres, or 6,275 square feet, for groups of up to ten. Three bedrooms have king beds and the fourth has four twin beds. The house has a dining table for ten, a full kitchen, a hot tub, a fitness studio and a private office.\n\nThe Grill is open for breakfast, lunch and dinner. Redwood panelling and floor-to-ceiling windows face the Teton Range, with an outdoor Grand Terrace. Executive Chef Manuel Fernandez writes the menu, which has included caribou sausages, elk T-bone, bison short rib, lobster, trout, halibut, Idaho potatoes and Utah honeycomb. A five-course tasting menu can be served outdoors or on a suite terrace. Zinc Bar, with sandstone columns and redwood panelling, pours locally brewed beer and spirits distilled nearby, including a huckleberry martini and a spicy hibiscus margarita.\n\nThe wellness centre has four redwood-panelled treatment rooms, movement and fitness studios and two steam rooms, plus a fitness centre open through the night. A heated outdoor pool runs 35 metres beside a hot tub. In winter a ski lounge in Teton Village is a 20-minute drive, steps from the Bridger Gondola and the Aerial Tram. Heli-skiing is arranged over 305,000 acres, with descents of 12,000 to 15,000 feet. Summer brings horse riding, kayaking and cycling. Grand Teton National Park is close, and Yellowstone holds more than two million acres, including Old Faithful. A buy-out is offered for 50 to 75 guests. Jackson Hole Airport, inside Grand Teton National Park, is a 25-minute drive, and the town of Jackson is about 10 minutes by car.",
+  "highlights": [
+    {
+      "label": "Setting",
+      "value": "Redwood and sandstone on East Gros Ventre Butte, above the Snake River Valley.",
+      "sourceUrl": "https://www.aman.com/resorts/amangani",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "East Tatanka",
+      "value": "A four-bedroom hillside home of 583 square metres for up to ten guests.",
+      "sourceUrl": "https://www.aman.com/resorts/amangani/accommodation/home/east-tatanka-home",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "The Grill",
+      "value": "Breakfast, lunch and dinner, with a five-course tasting menu.",
+      "sourceUrl": "https://www.aman.com/resorts/amangani/dining",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Pool",
+      "value": "A heated outdoor pool of 35 metres, with a hot tub.",
+      "sourceUrl": "https://www.aman.com/resorts/amangani/wellness",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Winter",
+      "value": "A ski lounge in Teton Village, a 20-minute drive from the butte.",
+      "sourceUrl": "https://www.aman.com/resorts/amangani/experiences/amangani-winter-adventures",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Closure",
+      "value": "Closed for an extensive refurbishment, reopening described as coming soon.",
+      "sourceUrl": "https://www.aman.com/resorts/amangani",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Address",
+      "value": "1535 North East Butte Road, Jackson, WY 83001, United States",
+      "sourceUrl": "https://www.aman.com/resorts/amangani",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Setting",
+      "value": "Foothills of the Tetons; redwood and sandstone; views across the Snake River Valley",
+      "sourceUrl": "https://www.aman.com/resorts/amangani",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Closure",
+      "value": "Currently closed for an extensive refurbishment; reopening described as coming soon, no date",
+      "sourceUrl": "https://www.aman.com/resorts/amangani",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Deluxe Suite",
+      "value": "45.3 square metres (488 square feet); king bedroom and living area; gas fireplace; window-side daybed",
+      "sourceUrl": "https://www.aman.com/resorts/amangani/accommodation/suites/deluxe-suite",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Grand Teton Suite",
+      "value": "58 square metres (625 square feet); separate living area; wraparound balcony",
+      "sourceUrl": "https://www.aman.com/resorts/amangani/accommodation/suites/grand-teton-suite",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Gros Ventre Suite",
+      "value": "58 square metres (625 square feet); large balconies over the valley",
+      "sourceUrl": "https://www.aman.com/resorts/amangani/accommodation/suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Spring Gulch Suite",
+      "value": "62 square metres (676 square feet); wraparound balcony over the pool and valley",
+      "sourceUrl": "https://www.aman.com/resorts/amangani/accommodation/suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Sena Suite",
+      "value": "72 square metres (780 square feet); views of the Snake River Valley",
+      "sourceUrl": "https://www.aman.com/resorts/amangani/accommodation/suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Amangani Suite",
+      "value": "72 square metres (780 square feet) on the suites list; guest bathroom; can connect to a Superior Suite",
+      "sourceUrl": "https://www.aman.com/resorts/amangani/accommodation/suites",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Homes",
+      "value": "East Tatanka, West Tatanka and Wapiti, on the hillside of East Gros Ventre Butte",
+      "sourceUrl": "https://www.aman.com/resorts/amangani/accommodation/homes-amangani",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "East Tatanka",
+      "value": "583 square metres (6,275 square feet); four bedrooms; groups of up to ten; three king rooms and one room with four twin beds; dining for ten; hot tub; fitness studio",
+      "sourceUrl": "https://www.aman.com/resorts/amangani/accommodation/home/east-tatanka-home",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "The Grill",
+      "value": "Open for breakfast, lunch and dinner; redwood panelling; floor-to-ceiling windows; Executive Chef Manuel Fernandez",
+      "sourceUrl": "https://www.aman.com/resorts/amangani/dining/the-grill",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Grill menu examples",
+      "value": "Caribou sausages, elk T-bone, bison short rib, lobster, trout, halibut, Idaho potatoes, Utah honeycomb",
+      "sourceUrl": "https://www.aman.com/resorts/amangani/dining/the-grill",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Tasting menu",
+      "value": "Five courses, outdoors or on a suite terrace",
+      "sourceUrl": "https://www.aman.com/resorts/amangani/dining",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Zinc Bar",
+      "value": "Sandstone columns and redwood panelling; local beer and spirits; huckleberry martini; spicy hibiscus margarita",
+      "sourceUrl": "https://www.aman.com/resorts/amangani/dining",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Wellness",
+      "value": "Four redwood-panelled treatment rooms; movement and fitness studios; two steam rooms; fitness centre open 24 hours",
+      "sourceUrl": "https://www.aman.com/resorts/amangani/wellness",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Pool",
+      "value": "Heated outdoor pool, 35 metres, and a hot tub",
+      "sourceUrl": "https://www.aman.com/resorts/amangani/wellness",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Ski lounge",
+      "value": "In Teton Village, a 20-minute drive; steps from the Bridger Gondola and Aerial Tram",
+      "sourceUrl": "https://www.aman.com/resorts/amangani/experiences/amangani-winter-adventures",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Heli-skiing",
+      "value": "Arranged over 305,000 acres, with descents of 12,000 to 15,000 feet",
+      "sourceUrl": "https://www.aman.com/resorts/amangani/experiences/amangani-winter-adventures",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Summer",
+      "value": "Horse riding, kayaking and cycling",
+      "sourceUrl": "https://www.aman.com/resorts/amangani/experiences/amangani-summer-adventures",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Yellowstone",
+      "value": "More than two million acres, including Old Faithful",
+      "sourceUrl": "https://www.aman.com/resorts/amangani/experiences/amangani-summer-adventures",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Town of Jackson",
+      "value": "About a 10-minute drive",
+      "sourceUrl": "https://www.aman.com/resorts/amangani/experiences",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Buy-out",
+      "value": "50 to 75 guests",
+      "sourceUrl": "https://www.aman.com/resorts/amangani/celebrations-events",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Airport",
+      "value": "Jackson Hole Airport (JAC), inside Grand Teton National Park, about 25 minutes by car",
+      "sourceUrl": "https://www.aman.com/resorts/amangani/getting-here-amangani",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/amangani/1.jpg",
+      "srcSmall": "/photos/amangani/1-640.jpg",
+      "srcMid": "/photos/amangani/1-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amangani",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2023-08/amangani_jackson_hole_-_summer_resort_exterior.jpg",
+      "localCopy": true,
+      "caption": "Summer exterior on East Gros Ventre Butte",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/amangani/2.jpg",
+      "srcSmall": "/photos/amangani/2-640.jpg",
+      "srcMid": "/photos/amangani/2-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amangani/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/styles/full_size_browser@2x/public/2022-10/AlexMoling_Amangani_Pool-2.jpg",
+      "localCopy": true,
+      "caption": "Heated pool with the Tetons beyond",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/amangani/3.jpg",
+      "srcSmall": "/photos/amangani/3-640.jpg",
+      "srcMid": "/photos/amangani/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amangani/dining/the-grill",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/styles/full_size_browser@2x/public/2024-04/amangani_usa_-_fb_restaurant.jpg",
+      "localCopy": true,
+      "caption": "The Grill, with floor-to-ceiling windows",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/amangani/4.jpg",
+      "srcSmall": "/photos/amangani/4-640.jpg",
+      "srcMid": "/photos/amangani/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amangani/wellness",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/styles/full_size_browser@2x/public/2024-04/amangani_usa_-_spa_wellness_reception.jpg",
+      "localCopy": true,
+      "caption": "Wellness reception",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/amangani/5.jpg",
+      "srcSmall": "/photos/amangani/5-640.jpg",
+      "srcMid": "/photos/amangani/5-1000.jpg",
+      "srcHero": "",
+      "width": 1067,
+      "height": 1067,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amangani/accommodation/suites",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/styles/full_size_browser@2x/public/2024-01/amangani-room.jpg",
+      "localCopy": true,
+      "caption": "Suite bedroom",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/amangani/6.jpg",
+      "srcSmall": "/photos/amangani/6-640.jpg",
+      "srcMid": "/photos/amangani/6-1000.jpg",
+      "srcHero": "",
+      "width": 1067,
+      "height": 1067,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amangani",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2024-04/amangani_usa_-_exterior.jpg",
+      "localCopy": true,
+      "caption": "Winter exterior",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/amangani/7.jpg",
+      "srcSmall": "/photos/amangani/7-640.jpg",
+      "srcMid": "/photos/amangani/7-1000.jpg",
+      "srcHero": "",
+      "width": 1067,
+      "height": 1067,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amangani/wellness",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/styles/full_size_browser@2x/public/2024-02/amangani_usa_-_wyoming_infinity_pool.jpg",
+      "localCopy": true,
+      "caption": "Pool edge above the valley",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-09"
+}

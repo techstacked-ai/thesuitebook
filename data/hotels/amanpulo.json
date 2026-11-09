@@ -1,0 +1,246 @@
+{
+  "slug": "amanpulo",
+  "name": "Amanpulo",
+  "operator": "Aman",
+  "brand": "Aman",
+  "country": "Philippines",
+  "region": "Asia",
+  "city": "Cuyo",
+  "area": "Pamalican Island",
+  "type": "island",
+  "themes": [
+    "private-island"
+  ],
+  "adultsOnly": false,
+  "address": "Pamalican Island, Cuyo, Palawan, Philippines",
+  "lat": null,
+  "lng": null,
+  "officialSite": "https://www.aman.com/resorts/amanpulo",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": {
+    "code": "CRK",
+    "minutes": 90
+  },
+  "tagline": "Casitas and pool villas on Pamalican Island, a 90-minute flight from Clark.",
+  "description": "Amanpulo stands on Pamalican Island, in the Cuyo archipelago of northern Palawan. Scheduled flights of about 90 minutes leave the Amanpulo lounge at Clark International Airport (CRK) and land on the island's own airstrip. Each flight takes up to 12 guests. Clark sits about 116 kilometres, roughly two hours by road, from Manila.\n\nSand follows the whole shoreline. The Beach Club is on the western beach and the Lagoon Club on the eastern coast, and both open in season. The Clubhouse is at the centre, with tables indoors and beside the pool, and a Lobby Bar. Casitas take the beach, the hillside or the trees. Villas occupy separate plots along the shore, each built around a swimming pool.\n\nA private chef and a butler staff every villa, and a club car comes with each bedroom. Two-bedroom villas have 215 square metres of air-conditioned living space and a large central pool. Four-bedroom Lagoon Villas, on the eastern shore, and four-bedroom Palawan Villas, facing west, each contain 351 square metres of interior space. One-bedroom and three-bedroom villas line the beach as well. Casitas run from the Beach Casita and the Beach Pool Casita to Treetop, Hillside and Grand Beach Pool Casitas, the last of them on the eastern edge.\n\nBreakfast, afternoon tea at the Clubhouse and in-room refreshments are included, along with a daily wellness class, a morning snorkel from the beach when places remain, and the yoga pavilion, Pilates studio, steam room, cold plunge and fitness centre. Selected non-motorised watersports are included too.\n\nThe Clubhouse serves all day, with wood columns, Filipino furnishings and a guitar in the evening. The Beach Club cooks Mediterranean dishes and seafood on the sand, and pours Farm Gin made with botanicals from the island farm. The Lagoon Club serves Japanese food on the east coast, including sushi, sashimi and Wagyu. The Aman Spa occupies the northern hillside, the highest ground on the island, with six treatment suites, hydrotherapy suites, a fitness centre and an outdoor jungle-trail course. Green and hawksbill turtles nest here from June to October.\n\nAmanpulo suits guests who want the run of one island, in a casita for two or a villa with a chef when the party is larger.",
+  "highlights": [
+    {
+      "label": "Island flight",
+      "value": "Scheduled flights of about 90 minutes from Clark take up to 12 guests and land on the island airstrip.",
+      "sourceUrl": "https://www.aman.com/resorts/amanpulo/getting-here-amanpulo",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Villas",
+      "value": "Every villa has a pool, a private chef and a butler, and a club car for each bedroom.",
+      "sourceUrl": "https://www.aman.com/resorts/amanpulo/accommodation/villas",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Four-bedroom villas",
+      "value": "Lagoon and Palawan four-bedroom villas each have 351 square metres of interior space.",
+      "sourceUrl": "https://www.aman.com/resorts/amanpulo/accommodation/villas",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Beach Club",
+      "value": "The seasonal Beach Club, on the western sand, serves Mediterranean food, seafood and the island Farm Gin.",
+      "sourceUrl": "https://www.aman.com/resorts/amanpulo/dining/beach-club",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Lagoon Club",
+      "value": "The seasonal Lagoon Club, on the east coast, serves Japanese dishes, including sushi and Wagyu.",
+      "sourceUrl": "https://www.aman.com/resorts/amanpulo/dining/lagoon-club",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Aman Spa",
+      "value": "Six treatment suites sit on the northern hillside, with hydrotherapy, a gym and a jungle-trail course.",
+      "sourceUrl": "https://www.aman.com/resorts/amanpulo/wellness",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Flight time",
+      "value": "About 90 minutes from Clark International Airport (CRK) to the island airstrip, up to 12 guests",
+      "sourceUrl": "https://www.aman.com/resorts/amanpulo/getting-here-amanpulo",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Clark and Manila",
+      "value": "Clark is 116 km, about two hours by road, from Manila",
+      "sourceUrl": "https://www.aman.com/resorts/amanpulo/getting-here-amanpulo",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Two-bedroom villa",
+      "value": "215 square metres of air-conditioned living space",
+      "sourceUrl": "https://www.aman.com/resorts/amanpulo/accommodation/villas",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Four-bedroom villas",
+      "value": "351 square metres of interior space for Lagoon and Palawan villas",
+      "sourceUrl": "https://www.aman.com/resorts/amanpulo/accommodation/villas",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Treatment suites",
+      "value": "Six",
+      "sourceUrl": "https://www.aman.com/resorts/amanpulo/wellness",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Turtle nesting",
+      "value": "Green and hawksbill turtles, June to October",
+      "sourceUrl": "https://www.aman.com/resorts/amanpulo/experiences",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Address",
+      "value": "Pamalican Island, Cuyo, Palawan, Philippines",
+      "sourceUrl": "https://www.aman.com/resorts/amanpulo",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/amanpulo/1.jpg",
+      "srcSmall": "/photos/amanpulo/1-640.jpg",
+      "srcMid": "/photos/amanpulo/1-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1005,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanpulo/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2021-03/Amanpulo-Gallery-17.jpg",
+      "localCopy": true,
+      "caption": "Pamalican Island from the air",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/amanpulo/2.jpg",
+      "srcSmall": "/photos/amanpulo/2-640.jpg",
+      "srcMid": "/photos/amanpulo/2-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1005,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanpulo/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2021-03/Amanpulo-Gallery-13.jpg",
+      "localCopy": true,
+      "caption": "Sand and sea on Pamalican",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/amanpulo/3.jpg",
+      "srcSmall": "/photos/amanpulo/3-640.jpg",
+      "srcMid": "/photos/amanpulo/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1005,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanpulo/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2021-03/Amanpulo-Gallery-15.jpg",
+      "localCopy": true,
+      "caption": "A platform off the beach",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/amanpulo/4.jpg",
+      "srcSmall": "/photos/amanpulo/4-640.jpg",
+      "srcMid": "/photos/amanpulo/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1005,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanpulo/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2021-03/Amanpulo-Gallery-18.jpg",
+      "localCopy": true,
+      "caption": "The island airstrip",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/amanpulo/5.jpg",
+      "srcSmall": "/photos/amanpulo/5-640.jpg",
+      "srcMid": "/photos/amanpulo/5-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1005,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanpulo/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2021-03/Amanpulo-Gallery-28.jpg",
+      "localCopy": true,
+      "caption": "A villa pool toward the reef",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/amanpulo/6.jpg",
+      "srcSmall": "/photos/amanpulo/6-640.jpg",
+      "srcMid": "/photos/amanpulo/6-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 988,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanpulo/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2021-02/Amanpulo_Gallery_5.jpg",
+      "localCopy": true,
+      "caption": "The Clubhouse pool",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/amanpulo/7.jpg",
+      "srcSmall": "/photos/amanpulo/7-640.jpg",
+      "srcMid": "/photos/amanpulo/7-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1005,
+      "credit": "Aman",
+      "creditUrl": "https://www.aman.com/resorts/amanpulo/gallery",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.aman.com/sites/default/files/2021-03/Amanpulo-Gallery-53.jpg",
+      "localCopy": true,
+      "caption": "A table at the Clubhouse",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-09"
+}

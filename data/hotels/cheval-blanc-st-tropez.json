@@ -1,0 +1,286 @@
+{
+  "slug": "cheval-blanc-st-tropez",
+  "name": "Cheval Blanc St-Tropez",
+  "operator": "Cheval Blanc",
+  "brand": "Cheval Blanc",
+  "country": "France",
+  "city": "Saint-Tropez",
+  "area": "Bay of Saint-Tropez",
+  "address": "Plage de la Bouillabaisse, 83990 Saint-Tropez, France",
+  "lat": 43.2665016,
+  "lng": 6.6267183,
+  "officialSite": "https://www.chevalblanc.com/en/maison/st-tropez/",
+  "phone": "+33 4 94 55 91 00",
+  "email": "info.sttropez@chevalblanc.com",
+  "villas": 1,
+  "closedUntil": "Opens for the season on 6 May 2027.",
+  "tagline": "Thirty-two rooms and a villa on the beach of Bouillabaisse.",
+  "description": "Cheval Blanc St-Tropez stands on the beach of Bouillabaisse, at the entrance to Saint-Tropez and a few minutes from the village centre. The address is Plage de la Bouillabaisse, 83990 Saint-Tropez. The house has 32 rooms and suites and the Villa Riviera, a private beach, the Cheval Blanc Spa by Guerlain, and La Vague d'Or, the restaurant of chef Arnaud Donckele. The next season opens on 6 May 2027. Each summer the house opens again on the bay.\n\nJean-Michel Wilmotte shaped the interiors. Furnishings by Roger Capron and porcelain by Bernardaud sit with pieces made for the house. The Villa Riviera, also staged by Wilmotte, covers 400 square metres over three floors in a Provencal garden by the landscape designer Jean Mus. It has four bedrooms, each with a bathroom, and a heated infinity pool facing the bay. The house keeps a private car park and offers valet parking.\n\nThe 32 rooms and suites run from quieter rooms to rooms and suites that look over the sea. La Vague d'Or has held three Michelin stars, five toques and a 19/20 from Gault & Millau for more than a decade. Donckele cooks with the season and works the sauces. La Terrasse serves a Mediterranean lunch facing the sea, under the century-old pines. Le Bar sits by the water, and the house also holds its Riviera evenings.\n\nThe spa is the Cheval Blanc Spa by Guerlain, with rituals drawn for this house, yoga on the beach and a hair studio, the Studio Coiffure. A Riva can be taken out for a picnic in a cove. Trails run along the coast for a walk as the day ends. By car the house is 115 km from Nice Cote d'Azur Airport, 60 km from Toulon Hyeres Airport and 17 km from La Mole Airport. Helicopter connections are possible from those three airports.\n\nThe stay suits a summer built around the beach, lunch under the pines and a long dinner, with Saint-Tropez a few minutes away. The season is the point of the house: it opens on 6 May 2027 and, as in other years, for the summer months that follow.",
+  "highlights": [
+    {
+      "label": "Season",
+      "value": "The house opens for the season on 6 May 2027, on the beach of Bouillabaisse.",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-tropez/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Rooms",
+      "value": "32 rooms and suites, plus the Villa Riviera, designed with Jean-Michel Wilmotte.",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-tropez/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Villa Riviera",
+      "value": "A 400 square metre, four-bedroom villa with a heated infinity pool facing the bay.",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-tropez/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "La Vague d'Or",
+      "value": "Arnaud Donckele's restaurant has held three Michelin stars, five toques and 19/20 from Gault & Millau for more than a decade.",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-tropez/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "La Terrasse",
+      "value": "Lunch with a Mediterranean menu, under the century-old pines and facing the sea.",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-tropez/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "By air",
+      "value": "115 km from Nice Cote d'Azur Airport, 60 km from Toulon Hyeres and 17 km from La Mole.",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-tropez/contact/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Address",
+      "value": "Plage de la Bouillabaisse, 83990 Saint-Tropez, France, at the entrance to Saint-Tropez, a few minutes from the village centre",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-tropez/contact/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Telephone",
+      "value": "+33 4 94 55 91 00",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-tropez/contact/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Email",
+      "value": "info.sttropez@chevalblanc.com",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-tropez/contact/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Season",
+      "value": "Opening on 6 May 2027. Each summer the house opens.",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-tropez/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Rooms and suites",
+      "value": "32 rooms, suites and the Villa Riviera",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-tropez/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Design",
+      "value": "Jean-Michel Wilmotte, furnishings by Roger Capron, Bernardaud porcelain",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-tropez/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Villa Riviera",
+      "value": "400 square metres over three floors, four bedrooms, heated infinity pool, garden by Jean Mus",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-tropez/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "La Vague d'Or",
+      "value": "Three Michelin stars, five toques and 19/20 Gault & Millau for more than a decade, chef Arnaud Donckele",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-tropez/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "La Terrasse",
+      "value": "Mediterranean lunch facing the sea, under century-old pines",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-tropez/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Spa",
+      "value": "Cheval Blanc Spa by Guerlain, yoga on the beach, Studio Coiffure",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-tropez/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Riva",
+      "value": "A Riva picnic in a cove",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-tropez/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Airports",
+      "value": "115 km from Nice Cote d'Azur Airport, 60 km from Toulon Hyeres Airport, 17 km from La Mole Airport",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-tropez/contact/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Parking",
+      "value": "Private parking and valet parking",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-tropez/contact/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Coordinates",
+      "value": "43.2665016, 6.6267183, from the contact page map",
+      "sourceUrl": "https://www.chevalblanc.com/en/maison/st-tropez/contact/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "region": "Europe",
+  "type": "resort",
+  "themes": [],
+  "adultsOnly": false,
+  "rooms": null,
+  "suites": null,
+  "opened": null,
+  "airport": null,
+  "photos": [
+    {
+      "src": "/photos/cheval-blanc-st-tropez/1.jpg",
+      "srcSmall": "/photos/cheval-blanc-st-tropez/1-640.jpg",
+      "srcMid": "/photos/cheval-blanc-st-tropez/1-1000.jpg",
+      "srcHero": "/photos/cheval-blanc-st-tropez/1-2400.jpg",
+      "width": 1600,
+      "height": 1068,
+      "credit": "Cheval Blanc",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/st-tropez/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/Z74-l57c43Q3gOoI_news-st-tropez-ouverture-2020-main-image?auto=format,compress&fit=max&w=2400",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/cheval-blanc-st-tropez/2.jpg",
+      "srcSmall": "/photos/cheval-blanc-st-tropez/2-640.jpg",
+      "srcMid": "/photos/cheval-blanc-st-tropez/2-1000.jpg",
+      "srcHero": "/photos/cheval-blanc-st-tropez/2-2400.jpg",
+      "width": 1600,
+      "height": 1068,
+      "credit": "Cheval Blanc",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/st-tropez/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/Z3-zsZbqstJ99Oe4_ChevalBlancSt-Tropez-DeluxeSeaRoomEntrance-Mr.Tripper-2020.jpg?auto=format,compress",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/cheval-blanc-st-tropez/3.jpg",
+      "srcSmall": "/photos/cheval-blanc-st-tropez/3-640.jpg",
+      "srcMid": "/photos/cheval-blanc-st-tropez/3-1000.jpg",
+      "srcHero": "/photos/cheval-blanc-st-tropez/3-2400.jpg",
+      "width": 1600,
+      "height": 1068,
+      "credit": "Cheval Blanc",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/st-tropez/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/aLB4FGGNHVfTOaWE_Light-ChevalBlancSt-Tropez-HeureBleueSuite-Mr.Tripper-2020.jpg?auto=format,compress",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/cheval-blanc-st-tropez/4.jpg",
+      "srcSmall": "/photos/cheval-blanc-st-tropez/4-640.jpg",
+      "srcMid": "/photos/cheval-blanc-st-tropez/4-1000.jpg",
+      "srcHero": "/photos/cheval-blanc-st-tropez/4-2400.jpg",
+      "width": 1600,
+      "height": 1068,
+      "credit": "Cheval Blanc",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/st-tropez/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/Z9k62DiBA97GilW3_WebRGB-ChevalBlancSt-Tropez-SeaSuiteTerraceView-VMati-2019.jpg?auto=format,compress",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/cheval-blanc-st-tropez/5.jpg",
+      "srcSmall": "/photos/cheval-blanc-st-tropez/5-640.jpg",
+      "srcMid": "/photos/cheval-blanc-st-tropez/5-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1068,
+      "credit": "Cheval Blanc",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/st-tropez/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/aLB1jWGNHVfTOaSs_Light-ChevalBlancSt-Tropez-TwoBedroomSuite-Mr.Tripper-2022.jpg?auto=format,compress",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/cheval-blanc-st-tropez/6.jpg",
+      "srcSmall": "/photos/cheval-blanc-st-tropez/6-640.jpg",
+      "srcMid": "/photos/cheval-blanc-st-tropez/6-1000.jpg",
+      "srcHero": "/photos/cheval-blanc-st-tropez/6-2400.jpg",
+      "width": 1600,
+      "height": 2133,
+      "credit": "Cheval Blanc",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/st-tropez/wellness/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/Z-FtoXdAxsiBv0El_WebRGB-ChevalBlancSt-Tropez-Spa-SalonOrchidee-OliverFly2024-1.jpg?auto=format,compress",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/cheval-blanc-st-tropez/7.jpg",
+      "srcSmall": "/photos/cheval-blanc-st-tropez/7-640.jpg",
+      "srcMid": "/photos/cheval-blanc-st-tropez/7-1000.jpg",
+      "srcHero": "/photos/cheval-blanc-st-tropez/7-2400.jpg",
+      "width": 1600,
+      "height": 2000,
+      "credit": "Cheval Blanc",
+      "creditUrl": "https://www.chevalblanc.com/en/maison/st-tropez/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://images.prismic.io/lvmh-chevalblanc/jY0uvw9WMmHXsihP_ChevalBlancSt-Tropez-Maison-facade-NicolasLey-2026.jpg?auto=format,compress",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-09"
+}

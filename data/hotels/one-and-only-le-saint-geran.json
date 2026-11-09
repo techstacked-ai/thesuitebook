@@ -1,0 +1,229 @@
+{
+  "slug": "one-and-only-le-saint-geran",
+  "name": "One&Only Le Saint Géran",
+  "operator": "Kerzner International",
+  "brand": "One&Only",
+  "country": "Mauritius",
+  "region": "Indian Ocean",
+  "city": "Poste de Flacq",
+  "area": "Pointe de Flacq",
+  "type": "resort",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "Pointe de Flacq, Poste de Flacq 41518, Mauritius",
+  "lat": 20.16014,
+  "lng": 57.757,
+  "officialSite": "https://www.oneandonlyresorts.com/le-saint-geran",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": null,
+  "tagline": "Rooms and suites on a peninsula between the lagoon and the Indian Ocean.",
+  "description": "One&Only Le Saint Géran stands on a private peninsula at Pointe de Flacq, in Poste de Flacq, Mauritius, between the Indian Ocean and a lagoon. Rooms, suites and villas are set along the shore, with terraces for time outside. Check-in is at 2:00 pm and check-out at noon. A helipad on the resort is the start of helicopter tours over the sugarcane hills and the coast.\n\nBeachfront rooms, ocean rooms and sunset rooms are 60 to 65 square metres and sleep four. The Beachfront Junior Suite is 130 square metres. Beachfront Suites and Ocean Suites are 150 square metres, the Ocean Suite with separate living and sleeping rooms and either a ground-floor terrace or a first-floor balcony.\n\nTapasake is the overwater restaurant, cooking Japanese food with Mediterranean influences, sushi among it. Riva is the beach and pool club, with antipasti, pasta and grilled seafood in an Italian register. Prime is the grill, for steak, local catch and wine, with a terrace and a chef's table. Le Badamier, under the badamier tree, serves Mauritian lunch and, toward sunset, snacks on the deck. A picnic can go out onto the peninsula, and a candlelit dinner can be set on the jetty or inside a beach tent. The same team will also lay dinner in the room, the suite or a villa.\n\nThe Guerlain Spa is the only Guerlain spa in Mauritius. Treatments run from 10:00 am to 8:00 pm, and the spa itself from 8:00 am to 8:00 pm. Club One adds fitness, tennis and padel, with yoga and Pilates in groups or in private. The Boat House sends guests to the reef for snorkelling and diving, and out for fishing. Kayaks and paddleboards go through the mangroves, which the resort calls its water jungle. Weddings and other gatherings are held on the beach and beside the water.\n\nOne&Only Le Saint Géran suits travellers who want a peninsula resort with an overwater restaurant, a Guerlain spa and a lagoon at the door of the room.",
+  "highlights": [
+    {
+      "label": "The peninsula",
+      "value": "Rooms, suites and villas sit between the Indian Ocean and the lagoon at Pointe de Flacq.",
+      "sourceUrl": "https://www.oneandonlyresorts.com/le-saint-geran",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Room sizes",
+      "value": "Beachfront rooms are 60 to 65 square metres; suites run from 130 to 150.",
+      "sourceUrl": "https://www.oneandonlyresorts.com/le-saint-geran/accommodation",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Tapasake",
+      "value": "An overwater restaurant for Japanese cooking with Mediterranean influences.",
+      "sourceUrl": "https://www.oneandonlyresorts.com/le-saint-geran/dining",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Guerlain Spa",
+      "value": "The only Guerlain spa in Mauritius, with treatments from 10:00 am to 8:00 pm.",
+      "sourceUrl": "https://www.oneandonlyresorts.com/le-saint-geran/wellness",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Helipad",
+      "value": "Helicopter tours leave from the resort helipad.",
+      "sourceUrl": "https://www.oneandonlyresorts.com/le-saint-geran",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Boat House",
+      "value": "Snorkelling, diving and fishing leave from the Boat House, with kayaks in the mangroves.",
+      "sourceUrl": "https://www.oneandonlyresorts.com/le-saint-geran",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Address",
+      "value": "Pointe de Flacq, Poste de Flacq, postal code 41518, Mauritius",
+      "sourceUrl": "https://www.oneandonlyresorts.com/le-saint-geran",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Coordinates",
+      "value": "latitude 20.16014, longitude 57.757",
+      "sourceUrl": "https://www.oneandonlyresorts.com/le-saint-geran",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Hours",
+      "value": "Check-in 14:00, check-out 12:00",
+      "sourceUrl": "https://www.oneandonlyresorts.com/le-saint-geran",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Beachfront, ocean and sunset rooms",
+      "value": "60 to 65 square metres, up to 4 guests",
+      "sourceUrl": "https://www.oneandonlyresorts.com/le-saint-geran/accommodation",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Junior suite",
+      "value": "Beachfront Junior Suite, 130 square metres",
+      "sourceUrl": "https://www.oneandonlyresorts.com/le-saint-geran/accommodation",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Suites",
+      "value": "Beachfront Suite and Ocean Suite, 150 square metres",
+      "sourceUrl": "https://www.oneandonlyresorts.com/le-saint-geran/accommodation",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Spa hours",
+      "value": "Spa 8:00 am to 8:00 pm; treatments 10:00 am to 8:00 pm",
+      "sourceUrl": "https://www.oneandonlyresorts.com/le-saint-geran/wellness",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Helipad",
+      "value": "On the resort",
+      "sourceUrl": "https://www.oneandonlyresorts.com/le-saint-geran",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/one-and-only-le-saint-geran/1.jpg",
+      "srcSmall": "/photos/one-and-only-le-saint-geran/1-640.jpg",
+      "srcMid": "/photos/one-and-only-le-saint-geran/1-1000.jpg",
+      "srcHero": "/photos/one-and-only-le-saint-geran/1-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "One&Only",
+      "creditUrl": "https://www.oneandonlyresorts.com/le-saint-geran",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "",
+      "localCopy": true,
+      "caption": "The beach and palms at dusk",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/one-and-only-le-saint-geran/2.jpg",
+      "srcSmall": "/photos/one-and-only-le-saint-geran/2-640.jpg",
+      "srcMid": "/photos/one-and-only-le-saint-geran/2-1000.jpg",
+      "srcHero": "/photos/one-and-only-le-saint-geran/2-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "One&Only",
+      "creditUrl": "https://www.oneandonlyresorts.com/le-saint-geran",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "",
+      "localCopy": true,
+      "caption": "The beach from above",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/one-and-only-le-saint-geran/3.jpg",
+      "srcSmall": "/photos/one-and-only-le-saint-geran/3-640.jpg",
+      "srcMid": "/photos/one-and-only-le-saint-geran/3-1000.jpg",
+      "srcHero": "/photos/one-and-only-le-saint-geran/3-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "One&Only",
+      "creditUrl": "https://www.oneandonlyresorts.com/le-saint-geran",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "",
+      "localCopy": true,
+      "caption": "Daybeds beside the pool at sunset",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/one-and-only-le-saint-geran/4.jpg",
+      "srcSmall": "/photos/one-and-only-le-saint-geran/4-640.jpg",
+      "srcMid": "/photos/one-and-only-le-saint-geran/4-1000.jpg",
+      "srcHero": "/photos/one-and-only-le-saint-geran/4-2400.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "One&Only",
+      "creditUrl": "https://www.oneandonlyresorts.com/le-saint-geran/accommodation",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "",
+      "localCopy": true,
+      "caption": "A beachfront room",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/one-and-only-le-saint-geran/5.jpg",
+      "srcSmall": "/photos/one-and-only-le-saint-geran/5-640.jpg",
+      "srcMid": "/photos/one-and-only-le-saint-geran/5-1000.jpg",
+      "srcHero": "/photos/one-and-only-le-saint-geran/5-2400.jpg",
+      "width": 1600,
+      "height": 963,
+      "credit": "One&Only",
+      "creditUrl": "https://www.oneandonlyresorts.com/le-saint-geran/accommodation",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "",
+      "localCopy": true,
+      "caption": "A suite opening to the garden",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/one-and-only-le-saint-geran/6.jpg",
+      "srcSmall": "/photos/one-and-only-le-saint-geran/6-640.jpg",
+      "srcMid": "/photos/one-and-only-le-saint-geran/6-1000.jpg",
+      "srcHero": "/photos/one-and-only-le-saint-geran/6-2400.jpg",
+      "width": 1600,
+      "height": 900,
+      "credit": "One&Only",
+      "creditUrl": "https://www.oneandonlyresorts.com/le-saint-geran",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "",
+      "localCopy": true,
+      "caption": "The pool and a thatched bar",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-09"
+}

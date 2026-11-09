@@ -1,0 +1,283 @@
+{
+  "slug": "finca-cortesin",
+  "name": "Finca Cortesin",
+  "operator": "Finca Cortesin",
+  "brand": "Finca Cortesin",
+  "country": "Spain",
+  "city": "Casares",
+  "area": "Costa del Sol",
+  "address": "Carretera de Casares s/n, 29690 Casares, Malaga, Spain",
+  "officialSite": "https://fincacortesin.com/",
+  "phone": "+34 952 937 800",
+  "email": "reservas@hotelcortesin.com",
+  "tagline": "An estate at Casares, with an 18-hole course and a beach club.",
+  "description": "Finca Cortesin is a resort at Carretera de Casares, s/n, 29690 Casares, Malaga, on the Costa del Sol, about a mile from the coast. The telephone is +34 952 937 800. Reservations use reservas@hotelcortesin.com and the concierge uses concierge@hotelcortesin.com. The hotel does not print a single number of rooms.\n\nThe buildings are white, with courtyards and gardens, planned around Andalusian patios. The golf course has 18 holes and was designed by Cabell B. Robinson. The hotel describes wide fairways, bunkers and greens, with olive trees and a view toward the coast. A round here is the long appointment of the day, and the course is on the estate rather than down the road.\n\nDining named on the site runs from El Jardin de Lutz to Don Giovanni, with Mediterranean, Japanese and Spanish cooking. The spa covers more than 2,200 square metres and includes thermal baths, a saltwater pool and open-air yoga. A fitness and racket club has gyms, studios and tennis courts, and the hotel also lists paddle, horseback riding, hiking and cycling.\n\nThe Beach Club is a short drive from the hotel. It has a 35-metre infinity pool, loungers and a Mediterranean menu by the shore. Days on the estate can also include a trip to Malaga, Seville or Granada, which the hotel names among its excursions. The resort takes families. It lists activities for younger guests as well as meetings and weddings.\n\nThe stay suits golf, the spa and a day at the beach club, with Casares and the coast close by. The hotel does not publish a key count, so the size of the house is the estate: the course, the spa of more than 2,200 square metres, and the beach club with its 35-metre pool, rather than a number of doors.\n\nCasares is the town on the address, and Malaga is the province. The mile to the coast is the hotel's own measure, and the beach club is the place at the end of that short drive.",
+  "highlights": [
+    {
+      "label": "The course",
+      "value": "18 holes designed by Cabell B. Robinson, on the estate.",
+      "sourceUrl": "https://fincacortesin.com/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "The spa",
+      "value": "More than 2,200 square metres, with thermal baths, a saltwater pool and open-air yoga.",
+      "sourceUrl": "https://fincacortesin.com/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Beach Club",
+      "value": "A short drive away, with a 35-metre infinity pool.",
+      "sourceUrl": "https://fincacortesin.com/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Dining",
+      "value": "El Jardin de Lutz and Don Giovanni, among the restaurants.",
+      "sourceUrl": "https://fincacortesin.com/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "The coast",
+      "value": "The hotel places itself about a mile from the Mediterranean.",
+      "sourceUrl": "https://fincacortesin.com/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Address",
+      "value": "Carretera de Casares s/n, 29690 Casares, Malaga.",
+      "sourceUrl": "https://fincacortesin.com/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Address",
+      "value": "Carretera de Casares s/n, 29690 Casares, Malaga, Spain",
+      "sourceUrl": "https://fincacortesin.com/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Telephone",
+      "value": "+34 952 937 800",
+      "sourceUrl": "https://fincacortesin.com/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Email",
+      "value": "reservas@hotelcortesin.com",
+      "sourceUrl": "https://fincacortesin.com/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Concierge",
+      "value": "concierge@hotelcortesin.com",
+      "sourceUrl": "https://fincacortesin.com/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Coast",
+      "value": "About a mile from the Mediterranean",
+      "sourceUrl": "https://fincacortesin.com/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Golf",
+      "value": "18 holes designed by Cabell B. Robinson",
+      "sourceUrl": "https://fincacortesin.com/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Dining",
+      "value": "El Jardin de Lutz and Don Giovanni",
+      "sourceUrl": "https://fincacortesin.com/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Spa",
+      "value": "More than 2,200 square metres, thermal baths, saltwater pool, open-air yoga",
+      "sourceUrl": "https://fincacortesin.com/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Beach Club",
+      "value": "A short drive from the hotel, 35-metre infinity pool",
+      "sourceUrl": "https://fincacortesin.com/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Activity",
+      "value": "Tennis, paddle, gyms, horseback riding, hiking and cycling",
+      "sourceUrl": "https://fincacortesin.com/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Excursions",
+      "value": "Malaga, Seville and Granada named by the hotel",
+      "sourceUrl": "https://fincacortesin.com/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "region": "Europe",
+  "type": "resort",
+  "themes": [],
+  "adultsOnly": false,
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": null,
+  "photos": [
+    {
+      "src": "/photos/finca-cortesin/1.jpg",
+      "srcSmall": "/photos/finca-cortesin/1-640.jpg",
+      "srcMid": "/photos/finca-cortesin/1-1000.jpg",
+      "srcHero": "",
+      "width": 1250,
+      "height": 938,
+      "credit": "Finca Cortesin",
+      "creditUrl": "https://fincacortesin.com/hotel-gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://fincacortesin.com/wp-content/uploads/sites/2/2026/05/W_0581.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/finca-cortesin/2.jpg",
+      "srcSmall": "/photos/finca-cortesin/2-640.jpg",
+      "srcMid": "/photos/finca-cortesin/2-1000.jpg",
+      "srcHero": "",
+      "width": 1250,
+      "height": 938,
+      "credit": "Finca Cortesin",
+      "creditUrl": "https://fincacortesin.com/hotel-gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://fincacortesin.com/wp-content/uploads/sites/2/2026/05/W_FC.9.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/finca-cortesin/3.jpg",
+      "srcSmall": "/photos/finca-cortesin/3-640.jpg",
+      "srcMid": "/photos/finca-cortesin/3-1000.jpg",
+      "srcHero": "",
+      "width": 1250,
+      "height": 938,
+      "credit": "Finca Cortesin",
+      "creditUrl": "https://fincacortesin.com/hotel-gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://fincacortesin.com/wp-content/uploads/sites/2/2026/05/455ok.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/finca-cortesin/4.jpg",
+      "srcSmall": "/photos/finca-cortesin/4-640.jpg",
+      "srcMid": "/photos/finca-cortesin/4-1000.jpg",
+      "srcHero": "",
+      "width": 1250,
+      "height": 938,
+      "credit": "Finca Cortesin",
+      "creditUrl": "https://fincacortesin.com/hotel-gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://fincacortesin.com/wp-content/uploads/sites/2/2026/05/63-2.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/finca-cortesin/5.jpg",
+      "srcSmall": "/photos/finca-cortesin/5-640.jpg",
+      "srcMid": "/photos/finca-cortesin/5-1000.jpg",
+      "srcHero": "",
+      "width": 1250,
+      "height": 938,
+      "credit": "Finca Cortesin",
+      "creditUrl": "https://fincacortesin.com/hotel-gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://fincacortesin.com/wp-content/uploads/sites/2/2026/05/07_0369-HDR.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/finca-cortesin/6.jpg",
+      "srcSmall": "/photos/finca-cortesin/6-640.jpg",
+      "srcMid": "/photos/finca-cortesin/6-1000.jpg",
+      "srcHero": "",
+      "width": 1250,
+      "height": 938,
+      "credit": "Finca Cortesin",
+      "creditUrl": "https://fincacortesin.com/hotel-gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://fincacortesin.com/wp-content/uploads/sites/2/2026/05/fincacortesin20_MB.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/finca-cortesin/7.jpg",
+      "srcSmall": "/photos/finca-cortesin/7-640.jpg",
+      "srcMid": "/photos/finca-cortesin/7-1000.jpg",
+      "srcHero": "",
+      "width": 1250,
+      "height": 938,
+      "credit": "Finca Cortesin",
+      "creditUrl": "https://fincacortesin.com/hotel-gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://fincacortesin.com/wp-content/uploads/sites/2/2026/05/ZR4V7071r.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/finca-cortesin/8.jpg",
+      "srcSmall": "/photos/finca-cortesin/8-640.jpg",
+      "srcMid": "/photos/finca-cortesin/8-1000.jpg",
+      "srcHero": "",
+      "width": 1250,
+      "height": 938,
+      "credit": "Finca Cortesin",
+      "creditUrl": "https://fincacortesin.com/hotel-gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://fincacortesin.com/wp-content/uploads/sites/2/2026/05/salvalopez_fincacortesin_0526_036.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-09"
+}

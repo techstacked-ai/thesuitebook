@@ -1,0 +1,213 @@
+{
+  "operator": "Segera",
+  "brand": "Segera",
+  "country": "Kenya",
+  "region": "Africa",
+  "city": "Nanyuki",
+  "area": "Laikipia",
+  "type": "safari",
+  "themes": [
+    "safari"
+  ],
+  "adultsOnly": false,
+  "address": "Segera, Rumuruti Road, Nanyuki 10400, Laikipia, Kenya",
+  "lat": null,
+  "lng": null,
+  "officialSite": "https://www.segera.com/",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": null,
+  "airport": null,
+  "tagline": "A family-owned safari on 50,000 acres in Laikipia.",
+  "description": "Segera Retreat is a family-owned safari on 50,000 acres of private land in Laikipia, Kenya. The address is Segera, Rumuruti Road, Nanyuki 10400. The property was a cattle ranch. Fences came down, migration corridors opened, and the land is now managed for wildlife. Reservations are on +254 714 488 579, and the emergency line is +254 786 340 815. Arrivals by air use Mukenya Airstrip, which the retreat prints on its contact page.\n\nSleeping rooms are five garden villas and five private homes. They are solar powered, and the gardens are watered with recycled water. The retreat describes itself as fully solar powered. The houses sit in gardens, with outdoor sitting, and the private homes have their own pools. Meals are served in more than one place on the property rather than in a single named dining room.\n\nTwice-daily game drives cross the estate in private vehicles. The animals named are lion, leopard, cheetah, elephant, buffalo and Eastern black rhino, together with reticulated giraffe, Grevy's zebra, Lelwel's hartebeest, hyena and plains game, and up to 150 bird species. In 2025 a founding group of Eastern black rhino was released into the Segera Rhino Sanctuary, the first rhino on this land in 60 years. Conservation work listed by the retreat includes those relocations, wildlife monitoring, the migration corridors, and an academy for women rangers.\n\nBecause the land is private, a drive does not share the sighting with a queue of other vehicles. Elephant move through the corridors that replaced the old ranch fences. The highlands around Nanyuki are the setting the retreat gives for this, with the Suguroi river named among the maps of the estate.\n\nSegera suits travellers who want a private-land safari in Laikipia, with twice-daily drives, five villas and five houses, and time on an estate that has brought rhino back after sixty years.",
+  "highlights": [
+    {
+      "label": "The estate",
+      "value": "50,000 acres of private land in Laikipia, formerly a cattle ranch.",
+      "sourceUrl": "https://www.segera.com/about",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Game drives",
+      "value": "Twice-daily drives for lion, leopard, cheetah, elephant, buffalo and Eastern black rhino.",
+      "sourceUrl": "https://www.segera.com/about",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Rhino",
+      "value": "In 2025 Eastern black rhino were released here, the first on this land in 60 years.",
+      "sourceUrl": "https://www.segera.com/wildlife",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Houses",
+      "value": "Five garden villas and five private homes, solar powered.",
+      "sourceUrl": "https://www.segera.com/accommodation",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Birds",
+      "value": "Up to 150 bird species, with reticulated giraffe, Grevy's zebra and Lelwel's hartebeest.",
+      "sourceUrl": "https://www.segera.com/about",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Airstrip",
+      "value": "Arrivals use Mukenya Airstrip.",
+      "sourceUrl": "https://www.segera.com/contact",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Land",
+      "value": "50,000 acres, family owned, Laikipia. Twice-daily game drives.",
+      "sourceUrl": "https://www.segera.com/about",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Wildlife",
+      "value": "Lion, leopard, cheetah, elephant, buffalo, Eastern black rhino, reticulated giraffe, Grevy's zebra, Lelwel's hartebeest, hyena. Up to 150 bird species.",
+      "sourceUrl": "https://www.segera.com/about",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Rhino release",
+      "value": "2025. First rhino on this land in 60 years. Segera Rhino Sanctuary.",
+      "sourceUrl": "https://www.segera.com/wildlife",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Accommodation",
+      "value": "5 garden villas and 5 private homes. Solar powered. Gardens use recycled water.",
+      "sourceUrl": "https://www.segera.com/accommodation",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Address",
+      "value": "Segera, Rumuruti Road, Nanyuki 10400, Laikipia, Kenya. Reservations +254 714 488 579. Emergencies +254 786 340 815. Mukenya Airstrip.",
+      "sourceUrl": "https://www.segera.com/contact",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/segera-retreat/1.jpg",
+      "srcSmall": "/photos/segera-retreat/1-640.jpg",
+      "srcMid": "/photos/segera-retreat/1-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Segera",
+      "creditUrl": "https://www.segera.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://static.wixstatic.com/media/6f183d_ae001a1803dd4d24a189130ac2339989~mv2.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/segera-retreat/2.jpg",
+      "srcSmall": "/photos/segera-retreat/2-640.jpg",
+      "srcMid": "/photos/segera-retreat/2-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Segera",
+      "creditUrl": "https://www.segera.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://static.wixstatic.com/media/6f183d_373a199aa2a94d888a192870893777d2~mv2.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/segera-retreat/3.jpg",
+      "srcSmall": "/photos/segera-retreat/3-640.jpg",
+      "srcMid": "/photos/segera-retreat/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Segera",
+      "creditUrl": "https://www.segera.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://static.wixstatic.com/media/6f183d_2121fa76f13941af9ec9d946103f3482~mv2.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/segera-retreat/4.jpg",
+      "srcSmall": "/photos/segera-retreat/4-640.jpg",
+      "srcMid": "/photos/segera-retreat/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Segera",
+      "creditUrl": "https://www.segera.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://static.wixstatic.com/media/6f183d_aac484efc0d24486ad2a5033aadeec78~mv2.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/segera-retreat/5.jpg",
+      "srcSmall": "/photos/segera-retreat/5-640.jpg",
+      "srcMid": "/photos/segera-retreat/5-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Segera",
+      "creditUrl": "https://www.segera.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://static.wixstatic.com/media/6f183d_81365aa2baf04a48bc95012e102de812~mv2.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/segera-retreat/6.jpg",
+      "srcSmall": "/photos/segera-retreat/6-640.jpg",
+      "srcMid": "/photos/segera-retreat/6-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Segera",
+      "creditUrl": "https://www.segera.com/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://static.wixstatic.com/media/6f183d_0427cde00c6e4829b891b9a12e7e7d3a~mv2.jpg",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-09",
+  "slug": "segera-retreat",
+  "name": "Segera Retreat"
+}

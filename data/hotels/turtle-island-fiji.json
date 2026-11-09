@@ -1,0 +1,279 @@
+{
+  "slug": "turtle-island-fiji",
+  "name": "Turtle Island",
+  "operator": "Turtle Island",
+  "brand": "Turtle Island",
+  "country": "Fiji",
+  "region": "Oceania",
+  "city": "",
+  "area": "Nanuya Levu, Yasawa Islands",
+  "type": "island",
+  "themes": [
+    "private-island"
+  ],
+  "adultsOnly": false,
+  "address": "Nanuya Levu, Yasawa Islands, Fiji",
+  "lat": -16.965124,
+  "lng": 177.370896,
+  "officialSite": "https://www.turtlefiji.com/",
+  "rooms": null,
+  "suites": null,
+  "villas": 14,
+  "opened": 1980,
+  "airport": null,
+  "tagline": "Fourteen bures and 12 beaches on a 500-acre island in the Yasawas.",
+  "description": "Turtle Island is a private-island resort on Nanuya Levu, in Fiji's Yasawa Islands, with 14 bures and 12 beaches across 500 acres. Meals, drinks including alcohol, and the activities are in the nightly rate. Airfares and the island transfer are not. Most guests fly in by seaplane, 30 minutes from Nadi. A speedboat takes about two hours, and a catamaran ferry about four.\n\nRichard Evanson bought the island in 1972, when it was called Nanuya Levu and goats had stripped the ground. Villagers planted trees, and he renamed it Turtle Island. The 1949 film The Blue Lagoon and the 1980 remake were both shot on the island. Shooting for the remake began in 1978, and the resort opened to guests in 1980. It is still family owned. Fourteen couples stay at a time. The resort is for adult couples through the year, and families come during the weeks it calls Family Time. A stay is at least five nights. The minimum is two adults to a villa, and solo travellers are not accepted. During Family Time a villa can take up to five children.\n\nThe bures stand apart along the lagoon. Grand Beachfront Villas look over the Blue Lagoon, each with a king bed, a lounge and bar, a walk-in shower, an outdoor rinse and a veranda with a queen daybed. Vonu Point, on its own point, adds an indoor spa to that plan. A smaller Water's Edge villa sits closer to the lagoon, with an outdoor shower. A Bure Mama looks after each villa: unpacking, laundry, picnics and, if asked, a snorkel or an evening at the kava bowl. Ceilings are palm, tied with magi magi, cord made from coconut husk.\n\nBreakfast can be on a beach, lunch a picnic, and dinner a lantern-lit pontoon or a table with the other guests. The kitchen uses fish from nearby villages, including yellowfin, crab and Pacific green lobster, with Australian beef and fruit and vegetables from the island garden. A small saltwater pool sits at the Cliff Point dining place. Horses are on the sand, and the day can be a snorkel, a fish, a dive or a ride. A guest can reserve a whole beach. Wifi is in the boutique and the business lounge, and laundry is included. The whole island can be taken, for at least three nights.\n\nTurtle Island suits couples who want an all-inclusive week with a villa and a beach to themselves, and families in the weeks set aside as Family Time.",
+  "highlights": [
+    {
+      "label": "All inclusive",
+      "value": "Meals, drinks including alcohol, and activities are in the nightly rate.",
+      "sourceUrl": "https://www.turtlefiji.com/frequently-asked-questions/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Fourteen bures",
+      "value": "Fourteen beachfront villas stand on 500 acres, with 12 beaches along the lagoon.",
+      "sourceUrl": "https://www.turtlefiji.com/villas/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Vonu Point",
+      "value": "The most requested villa sits on its own point, with an indoor spa and lagoon views.",
+      "sourceUrl": "https://www.turtlefiji.com/villas/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Bure Mama",
+      "value": "Each villa has a Bure Mama for laundry, picnics and the running of the day.",
+      "sourceUrl": "https://www.turtlefiji.com/villas/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Seaplane",
+      "value": "The usual transfer is a 30-minute seaplane from Nadi, with 23 kg of luggage a person.",
+      "sourceUrl": "https://www.turtlefiji.com/how-to-get-here/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Adults, with family weeks",
+      "value": "The resort takes adult couples through the year, and families during Family Time.",
+      "sourceUrl": "https://www.turtlefiji.com/frequently-asked-questions/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Villas",
+      "value": "14",
+      "sourceUrl": "https://www.turtlefiji.com/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Beaches",
+      "value": "12",
+      "sourceUrl": "https://www.turtlefiji.com/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Land",
+      "value": "500 acres",
+      "sourceUrl": "https://www.turtlefiji.com/villas/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Blue Lagoon films",
+      "value": "The 1949 film and the 1980 remake were both shot on the island",
+      "sourceUrl": "https://www.turtlefiji.com/history-of-turtle-island/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Opened",
+      "value": "1980, after the island was bought in 1972; the 1980 Blue Lagoon remake began shooting in 1978",
+      "sourceUrl": "https://www.turtlefiji.com/history-of-turtle-island/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Seaplane",
+      "value": "30 minutes from Nadi; speedboat about 2 hours; catamaran about 4 hours",
+      "sourceUrl": "https://www.turtlefiji.com/frequently-asked-questions/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Luggage",
+      "value": "23 kg (50 lb) a person on the seaplane",
+      "sourceUrl": "https://www.turtlefiji.com/how-to-get-here/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Stay",
+      "value": "Minimum 5 nights; whole island from 3 nights; check-in 2:00 pm, check-out 10:00 am",
+      "sourceUrl": "https://www.turtlefiji.com/frequently-asked-questions/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Occupancy",
+      "value": "2 adults minimum; up to 5 children a villa in Family Time; up to 14 couples or families",
+      "sourceUrl": "https://www.turtlefiji.com/frequently-asked-questions/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Coordinates",
+      "value": "latitude -16.965124, longitude 177.370896",
+      "sourceUrl": "https://www.turtlefiji.com/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/turtle-island-fiji/1.jpg",
+      "srcSmall": "/photos/turtle-island-fiji/1-640.jpg",
+      "srcMid": "/photos/turtle-island-fiji/1-1000.jpg",
+      "srcHero": "/photos/turtle-island-fiji/1-2400.jpg",
+      "width": 1600,
+      "height": 899,
+      "credit": "Turtle Island",
+      "creditUrl": "https://www.turtlefiji.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.turtlefiji.com/wp-content/uploads/2019/10/TurtleIsland-sunrise-scaled.jpg",
+      "localCopy": true,
+      "caption": "The island at sunrise",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/turtle-island-fiji/2.jpg",
+      "srcSmall": "/photos/turtle-island-fiji/2-640.jpg",
+      "srcMid": "/photos/turtle-island-fiji/2-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1199,
+      "credit": "Turtle Island",
+      "creditUrl": "https://www.turtlefiji.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.turtlefiji.com/wp-content/uploads/2019/10/Turtle-Island-Fiji-private-island.jpg",
+      "localCopy": true,
+      "caption": "Nanuya Levu and the Yasawas",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/turtle-island-fiji/3.jpg",
+      "srcSmall": "/photos/turtle-island-fiji/3-640.jpg",
+      "srcMid": "/photos/turtle-island-fiji/3-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 756,
+      "credit": "Turtle Island",
+      "creditUrl": "https://www.turtlefiji.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "",
+      "localCopy": true,
+      "caption": "A beach on the island",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/turtle-island-fiji/4.jpg",
+      "srcSmall": "/photos/turtle-island-fiji/4-640.jpg",
+      "srcMid": "/photos/turtle-island-fiji/4-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 994,
+      "credit": "Turtle Island",
+      "creditUrl": "https://www.turtlefiji.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.turtlefiji.com/wp-content/uploads/2019/10/TurtleIsland-horses-running-on-beach.jpg",
+      "localCopy": true,
+      "caption": "Horses on the sand",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/turtle-island-fiji/5.jpg",
+      "srcSmall": "/photos/turtle-island-fiji/5-640.jpg",
+      "srcMid": "/photos/turtle-island-fiji/5-1000.jpg",
+      "srcHero": "",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Turtle Island",
+      "creditUrl": "https://www.turtlefiji.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.turtlefiji.com/wp-content/uploads/2019/10/TurtleIsland-sunset-fiji.jpg",
+      "localCopy": true,
+      "caption": "The jetty at dusk",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/turtle-island-fiji/6.jpg",
+      "srcSmall": "/photos/turtle-island-fiji/6-640.jpg",
+      "srcMid": "/photos/turtle-island-fiji/6-1000.jpg",
+      "srcHero": "",
+      "width": 1132,
+      "height": 755,
+      "credit": "Turtle Island",
+      "creditUrl": "https://www.turtlefiji.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "",
+      "localCopy": true,
+      "caption": "A dining bure above the lagoon",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/turtle-island-fiji/7.jpg",
+      "srcSmall": "/photos/turtle-island-fiji/7-640.jpg",
+      "srcMid": "/photos/turtle-island-fiji/7-1000.jpg",
+      "srcHero": "",
+      "width": 1500,
+      "height": 620,
+      "credit": "Turtle Island",
+      "creditUrl": "https://www.turtlefiji.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.turtlefiji.com/wp-content/uploads/2018/01/HEADER-Turt_05_VonuPointVillas_header_1-low.jpg",
+      "localCopy": true,
+      "caption": "Vonu Point",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/turtle-island-fiji/8.jpg",
+      "srcSmall": "/photos/turtle-island-fiji/8-640.jpg",
+      "srcMid": "/photos/turtle-island-fiji/8-1000.jpg",
+      "srcHero": "",
+      "width": 1000,
+      "height": 667,
+      "credit": "Turtle Island",
+      "creditUrl": "https://www.turtlefiji.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "https://www.turtlefiji.com/wp-content/uploads/2019/11/Beachfront-villa-zoho.jpg",
+      "localCopy": true,
+      "caption": "A beachfront bure",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-09"
+}

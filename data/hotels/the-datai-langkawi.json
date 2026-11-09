@@ -1,0 +1,271 @@
+{
+  "operator": "Teluk Datai Resorts Sdn. Bhd.",
+  "brand": "The Datai",
+  "country": "Malaysia",
+  "region": "Asia",
+  "city": "Langkawi",
+  "area": "Datai Bay",
+  "type": "resort",
+  "themes": [],
+  "adultsOnly": false,
+  "address": "Jalan Teluk Datai, 07000 Pulau Langkawi, Kedah Darul Aman, Malaysia",
+  "lat": 6.4235167,
+  "lng": 99.6702667,
+  "officialSite": "https://www.thedatai.com/",
+  "rooms": null,
+  "suites": null,
+  "villas": null,
+  "opened": 1993,
+  "airport": null,
+  "tagline": "Kerry Hill's rainforest resort above Datai Bay, opened in 1993.",
+  "description": "The Datai Langkawi stands on the northwestern tip of Pulau Langkawi, set back from Datai Bay in rainforest. Architect Kerry Hill placed the main building on a ridge 40 metres above sea level and 300 metres back from the beach. The resort opened in 1993. It received the Aga Khan Award for Architecture in 2001. A renovation in 2017 and 2018, the largest since opening, was led by Didier Lefort of DL2A, who had worked with Hill on the original scheme. The resort prints its position as GPS N 06 25.411, E 99 40.216. Langkawi International Airport is a 40-minute drive, and Kuah, the main town, is 20 kilometres to the east.\n\nRooms and villas are grouped in three collections. In the main building, 35 Canopy Deluxe rooms, five Canopy Garden rooms and 14 Canopy Premium rooms are each 63 square metres. Eleven Canopy Suites run from 109 to 125 square metres, and The Datai Suite is 258 square metres. In the forest, a Rainforest Villa and seven Rainforest Premium Villas are 123 square metres on stilts, the premium villas looking onto the Anak Datai River. The Rainforest Pool Villa is 175 square metres with a 7.6-metre pool. The Datai Estate Villa is 3,500 square metres with five bedrooms. On the sand, 13 one-bedroom beach villas of 350 square metres and one two-bedroom beach villa of 750 square metres have private pools and 24-hour butler service.\n\nThe Gulai House, in a Malay kampung house in the forest, serves Malaysian cooking, with floor seating in the bersila manner. The Pavilion stands on 30-metre stilts and serves Thai food at night. The Dining Room, level with the main pool, serves breakfast and lunch, and in fruiting season great hornbills feed on a strangling fig beside it. The Beach Club and Beach Bar serve pizza, the catch of the day and grilled seafood. The Lobby Lounge looks over the Andaman Sea and Tarutao.\n\nThree pools serve the resort. The Adult Pool, for guests aged 16 and over, sits at the main building. The Family Pool, near the beach, includes a toddler pool. The spa has five treatment villas and uses Ramuan, the Malay tradition of plants and herbs, with VOYA skincare and Bastien Gonzalez nail treatments. Opening hours are 10:00 to 21:00. Dusky langurs, tokay geckos and Sunda colugos are the animals the resort names in the forest around Datai Bay.\n\nThe Datai suits travellers who want a rainforest stay a short drive from the airport, with a beach villa or a room in the ridge building, and several kitchens between the trees and the sand.",
+  "highlights": [
+    {
+      "label": "The ridge",
+      "value": "Kerry Hill set the main building 40 metres above the sea and 300 metres back from the beach.",
+      "sourceUrl": "https://www.thedatai.com/about-us/the-datai-langkawi/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Beach villas",
+      "value": "Thirteen one-bedroom beach villas and one two-bedroom beach villa, each with a private pool and a butler.",
+      "sourceUrl": "https://www.thedatai.com/accommodation/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "The Gulai House",
+      "value": "Malaysian cooking in a kampung house in the forest, with bersila floor seating.",
+      "sourceUrl": "https://www.thedatai.com/dining/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "The Pavilion",
+      "value": "Thai food at night, in a room on 30-metre stilts above the canopy.",
+      "sourceUrl": "https://www.thedatai.com/dining/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Pools",
+      "value": "Three pools: an adult pool for guests of 16 and over, and a family pool with a toddler pool.",
+      "sourceUrl": "https://www.thedatai.com/facilities/pools/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "The spa",
+      "value": "Five treatment villas, with Ramuan treatments. Open from 10:00 to 21:00.",
+      "sourceUrl": "https://www.thedatai.com/spa-and-well-being/the-spa/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Opened",
+      "value": "1993. Aga Khan Award for Architecture, 2001. Renovation 2017 to 2018 by Didier Lefort of DL2A.",
+      "sourceUrl": "https://www.thedatai.com/about-us/the-datai-langkawi/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Siting",
+      "value": "Main building on a ridge 40 metres above sea level, 300 metres from the beach.",
+      "sourceUrl": "https://www.thedatai.com/about-us/the-datai-langkawi/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Canopy rooms",
+      "value": "35 Canopy Deluxe, 5 Canopy Garden and 14 Canopy Premium at 63 square metres. 11 Canopy Suites of 109 to 125 square metres. The Datai Suite, 258 square metres.",
+      "sourceUrl": "https://www.thedatai.com/accommodation/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Rainforest and beach",
+      "value": "Rainforest Villa and 7 Rainforest Premium Villas at 123 square metres. Rainforest Pool Villa 175 square metres with a 7.6-metre pool. Estate Villa 3,500 square metres, 5 bedrooms. 13 one-bedroom beach villas at 350 square metres and 1 two-bedroom at 750, with private pools and 24-hour butler service.",
+      "sourceUrl": "https://www.thedatai.com/accommodation/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Dining",
+      "value": "The Gulai House; The Pavilion on 30-metre stilts, Thai at night; The Dining Room for breakfast and lunch; Beach Club and Beach Bar; Lobby Lounge.",
+      "sourceUrl": "https://www.thedatai.com/dining/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Pools and spa",
+      "value": "Three pools. Adult Pool from age 16. Family Pool with a toddler pool. Five spa treatment villas, open 10:00 to 21:00.",
+      "sourceUrl": "https://www.thedatai.com/facilities/pools/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Arrival and GPS",
+      "value": "40-minute drive from Langkawi International Airport. 20 kilometres west of Kuah.",
+      "sourceUrl": "https://www.thedatai.com/about-us/getting-to-the-datai-langkawi/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "Telephone",
+      "value": "+60 4 9500 500. reservations.tdl@dataihotels.com. Operator Teluk Datai Resorts Sdn. Bhd.",
+      "sourceUrl": "https://www.thedatai.com/contact/",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "label": "GPS",
+      "value": "N 06 25.411, E 99 40.216, as printed by the resort.",
+      "sourceUrl": "https://www.thedatai.com/contact/",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "photos": [
+    {
+      "src": "/photos/the-datai-langkawi/1.jpg",
+      "srcSmall": "/photos/the-datai-langkawi/1-640.jpg",
+      "srcMid": "/photos/the-datai-langkawi/1-1000.jpg",
+      "srcHero": "/photos/the-datai-langkawi/1-2400.jpg",
+      "width": 1600,
+      "height": 1068,
+      "credit": "The Datai Langkawi",
+      "creditUrl": "https://www.thedatai.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/the-datai-langkawi/2.jpg",
+      "srcSmall": "/photos/the-datai-langkawi/2-640.jpg",
+      "srcMid": "/photos/the-datai-langkawi/2-1000.jpg",
+      "srcHero": "/photos/the-datai-langkawi/2-2400.jpg",
+      "width": 1600,
+      "height": 934,
+      "credit": "The Datai Langkawi",
+      "creditUrl": "https://www.thedatai.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/the-datai-langkawi/3.jpg",
+      "srcSmall": "/photos/the-datai-langkawi/3-640.jpg",
+      "srcMid": "/photos/the-datai-langkawi/3-1000.jpg",
+      "srcHero": "/photos/the-datai-langkawi/3-2400.jpg",
+      "width": 1600,
+      "height": 934,
+      "credit": "The Datai Langkawi",
+      "creditUrl": "https://www.thedatai.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/the-datai-langkawi/4.jpg",
+      "srcSmall": "/photos/the-datai-langkawi/4-640.jpg",
+      "srcMid": "/photos/the-datai-langkawi/4-1000.jpg",
+      "srcHero": "/photos/the-datai-langkawi/4-2400.jpg",
+      "width": 1600,
+      "height": 934,
+      "credit": "The Datai Langkawi",
+      "creditUrl": "https://www.thedatai.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/the-datai-langkawi/5.jpg",
+      "srcSmall": "/photos/the-datai-langkawi/5-640.jpg",
+      "srcMid": "/photos/the-datai-langkawi/5-1000.jpg",
+      "srcHero": "/photos/the-datai-langkawi/5-2400.jpg",
+      "width": 1600,
+      "height": 1068,
+      "credit": "The Datai Langkawi",
+      "creditUrl": "https://www.thedatai.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/the-datai-langkawi/6.jpg",
+      "srcSmall": "/photos/the-datai-langkawi/6-640.jpg",
+      "srcMid": "/photos/the-datai-langkawi/6-1000.jpg",
+      "srcHero": "/photos/the-datai-langkawi/6-2400.jpg",
+      "width": 1600,
+      "height": 1068,
+      "credit": "The Datai Langkawi",
+      "creditUrl": "https://www.thedatai.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/the-datai-langkawi/7.jpg",
+      "srcSmall": "/photos/the-datai-langkawi/7-640.jpg",
+      "srcMid": "/photos/the-datai-langkawi/7-1000.jpg",
+      "srcHero": "/photos/the-datai-langkawi/7-2400.jpg",
+      "width": 1600,
+      "height": 1065,
+      "credit": "The Datai Langkawi",
+      "creditUrl": "https://www.thedatai.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    },
+    {
+      "src": "/photos/the-datai-langkawi/8.jpg",
+      "srcSmall": "/photos/the-datai-langkawi/8-640.jpg",
+      "srcMid": "/photos/the-datai-langkawi/8-1000.jpg",
+      "srcHero": "/photos/the-datai-langkawi/8-2400.jpg",
+      "width": 1600,
+      "height": 1065,
+      "credit": "The Datai Langkawi",
+      "creditUrl": "https://www.thedatai.com/gallery/",
+      "basis": "press",
+      "license": "",
+      "licenseUrl": "",
+      "author": "",
+      "sourceImageUrl": "",
+      "localCopy": true,
+      "caption": "",
+      "lastVerified": "2026-11-09"
+    }
+  ],
+  "stay22Id": null,
+  "rating": null,
+  "price": null,
+  "booking": {
+    "supplier": "expedia"
+  },
+  "lastVerified": "2026-11-09",
+  "slug": "the-datai-langkawi",
+  "name": "The Datai Langkawi"
+}
