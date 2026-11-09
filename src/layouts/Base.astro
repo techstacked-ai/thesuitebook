@@ -6,8 +6,8 @@ import { SITE, NAME, newest } from '../lib/hotels';
 interface Props { title: string; description: string; image?: string; noindex?: boolean; updated?: string; overlay?: boolean; home?: boolean; ld?: object[] }
 const { title, description, image = '', noindex = false, overlay = false, home = false, ld = [] } = Astro.props;
 const updated = Astro.props.updated || newest();
-const canonical = new URL(Astro.url.pathname, Astro.site || SITE).href;
-const mdHref = `${canonical.replace(/\/?$/, '/')}index.md`;
+const canonical = noindex ? `${SITE}/` : new URL(Astro.url.pathname, Astro.site || SITE).href;
+const mdHref = noindex ? '' : `${canonical.replace(/\/?$/, '/')}index.md`;
 const og = image ? new URL(image, Astro.site || SITE).href : '';
 const orgLd = { '@context': 'https://schema.org', '@graph': [
   { '@type': 'Organization', '@id': `${SITE}/#org`, name: NAME, url: `${SITE}/`, logo: `${SITE}/icon-512.png` },
@@ -33,7 +33,7 @@ const lma = `(function (w, d) {
     <link rel="canonical" href={canonical} />
     <link rel="alternate" hreflang="en" href={canonical} />
     <link rel="alternate" hreflang="x-default" href={canonical} />
-    <link rel="alternate" type="text/markdown" href={mdHref} />
+    {mdHref ? <link rel="alternate" type="text/markdown" href={mdHref} /> : null}
     {updated ? <meta name="last-modified" content={updated} /> : null}
     <meta property="og:site_name" content={NAME} />
     <meta property="og:title" content={title} />
