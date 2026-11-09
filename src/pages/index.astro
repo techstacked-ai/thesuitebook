@@ -29,7 +29,7 @@ const description = open
         <script is:inline set:html={pick} />
       </section>
       <section class="index wrap" aria-labelledby="index-h">
-        <h2 id="index-h" class="sr">The hotels, by region</h2>
+        <h2 id="index-h" class="sr">The Hotels, by region</h2>
         {groups.map((g) => (
           <div class="region">
             <h3><a href={regionPath(g.region)}>{g.region}</a></h3>
